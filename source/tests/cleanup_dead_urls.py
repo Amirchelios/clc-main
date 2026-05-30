@@ -6,7 +6,11 @@ Preserves the section structure (# default, # extra for bypass, etc.)
 
 import os
 import sys
-from curl_cffi import requests
+try:
+    from curl_cffi import requests
+except ImportError:
+    import requests
+
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 # Configuration
