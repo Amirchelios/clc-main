@@ -14,7 +14,8 @@ except ImportError:
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 # Configuration
-URLS_FILE = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'config', 'URLS.txt')
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+URLS_FILE = os.path.join(BASE_DIR, 'config', 'URLS.txt')
 TIMEOUT = 7  # Seconds to wait for each URL
 MAX_WORKERS = 32  # Concurrent URL checks
 DRY_RUN = False  # Set to True to preview changes without modifying file

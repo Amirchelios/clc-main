@@ -38,7 +38,7 @@ def _try_decode_base64_content(content: str) -> Optional[str]:
         
         # Heuristic 1: If content has many newlines, probably not base64
         newline_ratio = content_stripped.count('\n') / len(content_stripped)
-        if newline_ratio > 0.15:  # Slightly more relaxed for long encoded strings
+        if newline_ratio > 0.2:  # Slightly more relaxed for long encoded strings
             return None
         
         # Heuristic 2: If content already has protocol markers, not base64
@@ -778,8 +778,9 @@ def process_all_configs(output_dir: str = "../githubmirror") -> List[Tuple[str, 
 
 # Step 9: Create protocol-specific files
     log("Creating protocol-specific files...")
-    all_protocol_configs = all_configs + extra_bypass_configs  # Include extra bypass configs in protocol splitting
-    protocol_files = create_protocol_split_files(all_protocol_configs, output_dir)
+    # Deduplicate before splitting to save processing time
+    unique_protocol_configs = deduplicate_configs(all_configs + extra_bypass_configs)
+    protocol_files = create_protocol_split_files(unique_protocol_configs, output_dir)
 
     # Step 10: Process Telegram proxies (already collected during download - no re-download needed!)
     log("Processing Telegram proxies (collected during config download)...")
