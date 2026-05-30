@@ -11,7 +11,7 @@ from typing import List, Tuple, Optional
 import math
 
 # Add the source directory to the path for imports
-sys.path.insert(0, os.path.join(os.path.dirname(__file__)))
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 # Pre-compiled base64 pattern for performance
 _BASE64_PATTERN = re.compile(r'^[A-Za-z0-9+/]+=*$')
@@ -380,9 +380,6 @@ def split_configs_to_files(configs: List[str], output_dir: str, filename_prefix:
 def _write_protocol_file(args):
     """Worker function to write a protocol file (must be at module level for pickling)."""
     protocol, configs, output_dir, max_size_mb, is_secure = args
-    import os
-    from utils.file_utils import split_file_by_size
-    from utils.logger import log
     
     if not configs:
         return []
@@ -468,8 +465,6 @@ def create_protocol_split_files(all_configs: List[str], output_dir: str = "../gi
 def _write_numbered_file(args):
     """Worker function to write a numbered file (must be at module level for pickling)."""
     i, configs, source_url, output_dir, total_files = args
-    import os
-    from utils.logger import log
     
     if not configs:
         return (None, None)
