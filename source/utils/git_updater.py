@@ -57,8 +57,11 @@ class GitUpdater:
     def pull(self, branch: Optional[str] = None):
         """Pull latest changes from remote with rebase."""
         if branch is None:
-            result = self._run_git("rev-parse", "--abbrev-ref", "HEAD")
-            branch = result.stdout.strip()
+            # Try to get branch from environment variable (GitHub Actions)
+            branch = os.environ.get("GITHUB_REF_NAME")
+            if not branch:
+                result = self._run_git("rev-parse", "--abbrev-ref", "HEAD")
+                branch = result.stdout.strip()
         
         log(f"Pulling from origin/{branch}...")
         try:
@@ -117,9 +120,15 @@ class GitUpdater:
     def push(self, branch: Optional[str] = None, force: bool = False):
         """Push commits to remote."""
         if branch is None:
-            result = self._run_git("rev-parse", "--abbrev-ref", "HEAD")
-            branch = result.stdout.strip()
+            branch = os.environ.get("GITHUB_REF_NAME")
+            if not branch:
+                result = self._run_git("rev-parse", "--abbrev-ref", "HEAD")
+                branch = result.stdout.strip()
         
+        if branch == "HEAD":
+            # In GitHub Actions, we might be in detached HEAD, push to main/master
+            branch = "main"
+            
         log(f"Pushing to origin/{branch}...")
         
         if force:
