@@ -3,3 +3,4 @@ PyYAML
 beautifulsoup4
 urllib3
 curl_cffi
+PyGithub

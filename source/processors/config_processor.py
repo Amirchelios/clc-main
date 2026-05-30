@@ -38,7 +38,7 @@ def _try_decode_base64_content(content: str) -> Optional[str]:
         
         # Heuristic 1: If content has many newlines, probably not base64
         newline_ratio = content_stripped.count('\n') / len(content_stripped)
-        if newline_ratio > 0.1:  # More than 10% newlines = probably not base64
+        if newline_ratio > 0.15:  # Slightly more relaxed for long encoded strings
             return None
         
         # Heuristic 2: If content already has protocol markers, not base64
