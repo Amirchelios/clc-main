@@ -125,11 +125,11 @@ class GitUpdater:
                 result = self._run_git("rev-parse", "--abbrev-ref", "HEAD")
                 branch = result.stdout.strip()
         
-        if branch == "HEAD":
-            # In GitHub Actions, we might be in detached HEAD, push to main/master
+        if branch == "HEAD" or not branch or "detached" in branch or branch == "main":
+            # Explicitly target 'main' in GitHub Actions
             branch = "main"
             
-        log(f"Pushing to origin/{branch}...")
+        log(f"Pushing to origin {branch}...")
         
         if force:
             self._run_git("push", "-f", "origin", branch)
@@ -156,7 +156,9 @@ class GitUpdater:
             self.stage_files(file_pairs)
             
             if not self.has_changes():
-                log("No changes detected, skipping commit")
+                log("Warning: No changes detected in the local repository to commit.")
+                # Optionally list files to see what's happening
+                self._run_git("status", check=False)
                 return True
             
             # Retry loop for push conflicts
@@ -167,6 +169,8 @@ class GitUpdater:
                         log("Git workflow completed successfully")
                         return True
                     except subprocess.CalledProcessError as e:
+                        log(f"Push failed due to potential conflict. Attempting to pull and rebase...")
+                        self.pull() # Pull before retrying to resolve remote conflicts
                         if attempt < max_retries - 1:
                             wait_time = (attempt + 1) * 5
                             log(f"Push failed (attempt {attempt + 1}/{max_retries}), waiting {wait_time}s...")

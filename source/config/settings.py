@@ -7,7 +7,7 @@ from utils.logger import log
 
 # Repository settings
 GITHUB_TOKEN = os.environ.get("MY_TOKEN")
-REPO_NAME = "whoahaow/rjsxrd"  # Updated repository name
+REPO_NAME = "Amirchelios/clc-main"  # Updated repository name
 
 # Time settings
 ZONE = zoneinfo.ZoneInfo("Europe/Moscow")
