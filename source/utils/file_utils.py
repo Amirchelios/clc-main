@@ -255,7 +255,7 @@ def has_insecure_setting(config_line: str) -> bool:
     # Check for allowInsecure in query parameters (common in vless/trojan)
     if 'allowinsecure=' in config_lower:
         # Check if it's set to true, 1, or yes
-        allow_insecure_match = _ALLOWINSECURE_PATTERN.search(config_lower)
+        allow_insecure_match = re.search(r'allowinsecure=([^&\?#]+)', config_lower)
         if allow_insecure_match:
             value = allow_insecure_match.group(1).strip()
             if value in ['1', 'true', 'yes', 'on']:
