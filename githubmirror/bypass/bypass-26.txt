@@ -1,0 +1,8 @@
+#profile-title: bypass-26/26 @Amirchelios
+#profile-update-interval: 48
+#support-url: https://github.com/Amirchelios/clc-main
+#announce: Amirchelios
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+
+vless://7f50ec42-4673-41e2-94be-ae6253909def@orange.seeck.cn:443?sni=workjoey.freen3.cc.cd&type=ws&host=workjoey.freen3.cc.cd&path=/?ed=2048fp=chrome&security=tls#%E6%9C%AA%E7%9F%A5_0531041172%20clc-main
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@dx.mmhh.eu.cc:443?encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=%2Ffp%3Drandom&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#%E6%9C%AA%E7%9F%A5_053104477%20clc-main

@@ -1,0 +1,7 @@
+#profile-title: all-secure-4/4 @Amirchelios
+#profile-update-interval: 48
+#support-url: https://github.com/Amirchelios/clc-main
+#announce: Amirchelios
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+
+vless://9b73c904-e704-4537-ab1a-6aadfc5c535e@g-api1.maps-yandex.net:10120?mode=gun&security=reality&encryption=none&authority=&pbk=TWTC9ME2USNv_Vug-fJ-jeh0NxiLJ7IN9jjJN_3UylY&fp=ios&allowinsecure=0&type=grpc&serviceName=api&sni=apple.com&sid=0d6151ea50972a17#%F0%9F%87%B8%F0%9F%87%AA%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F+%232%20clc-main

@@ -1,0 +1,18 @@
+#profile-title: 4-4/26 @Amirchelios
+#profile-update-interval: 48
+#support-url: https://github.com/Amirchelios/clc-main
+#announce: Amirchelios
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+
+vmess://eyJhZGQiOiAiODIuMTk4LjI0Ni4zNyIsICJhaWQiOiAwLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMTgwIiwgInBzIjogIlx1ODJmMVx1NTZmZCBWMkNST1NTLkNPTSIsICJzY3kiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=#%20clc-main
+vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.146:443?security=tls&encryption=none&insecure=1&headerType=none&fp=qq&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9A+V2CROSS.COM%20clc-main
+vless://296bbba2-b100-4d91-b8df-3fe03cc863c4@91.225.217.28:443?&security=reality&pbk=CnFVrSvJ1Mhl_6QqKCCvXtEdlaJjN4MXWBkSswJ_gX0&sid=106c&fp=chrome&sni=yahoo.com&type=tcp&headerType=none&host=yahoo.com&path=%2F#%E4%B9%8C%E5%85%8B%E5%85%B0+V2CROSS.COM%20clc-main
+vmess://eyJhZGQiOiAiODIuMTk4LjI0Ni4yNTAiLCAiYWlkIjogMCwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjE4MCIsICJwcyI6ICJcdTgyZjFcdTU2ZmQgVjJDUk9TUy5DT00iLCAic2N5IjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9#%20clc-main
+vless://cca617a2-ede0-4855-a2ef-cc7f218ba75d@long-forest.ru:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=GFKdmtxlB5JubXEfTy6PNIeuqN8ys53SPwV3zat3Fzg&sni=winter-pine.long-forest.ru&sid=3c6a5f13df37ed6e#%E7%BE%8E%E5%9B%BD+V2CROSS.COM%20clc-main
+vless://7625adbb-52f7-4ff4-95f8-677471071a77@132.243.231.122:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=A9jwrodyycJJV-apFQ91_rrh1vfJ_hSzZGNP9GBPGCM&sid=92d0c4089b6c1da3&sni=io.ozone.ru#%E7%BE%8E%E5%9B%BD+V2CROSS.COM%20clc-main
+vless://41f37ced-2021-4111-93a8-82d57ff2eb5b@217.163.76.118:2083?path=/?ed&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=fl0.lizardshop.org#%E8%8B%B1%E5%9B%BD+Level3%E9%80%9A%E4%BF%A1%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%20clc-main
+vless://97ddf9a6-de5b-4229-bc41-4627321eff43@162.159.61.158:80?path=/?ed=2048&security=none&encryption=none&host=potifar.kravend4.workers.dev&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9%20clc-main
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?encryption=none&flow=xtls-rprx-vision&fp=edge&security=tls&sni=r1.mizulina.top&type=tcp#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM%20clc-main
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@80.93.202.40:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=vms.lifetime02.workers.dev&path=/&security=none&type=ws#%E8%8B%B1%E5%9B%BD+V2CROSS.COM%20clc-main
+vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.126.205:443?security=tls&encryption=none&insecure=1&headerType=none&fp=qq&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9A+V2CROSS.COM%20clc-main
+vless://1b43419a-b711-40d4-a0ee-eb5c73e60c92@ger-nnn.prostosetup.org:443?security=reality&encryption=none&pbk=y3ZMu-ium5mBqE_h3xJ66vT0Z6HCIlTDti9emCQjDjw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=bcb6b0217a1206b3#%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9A+V2CROSS.COM%20clc-main
