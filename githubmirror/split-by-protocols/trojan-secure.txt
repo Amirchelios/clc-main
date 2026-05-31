@@ -1,0 +1,8 @@
+#profile-title: trojan-secure.txt t.me/rjsxrd
+#profile-update-interval: 48
+#support-url: https://t.me/rjsxrd
+#announce: t.me/rjsxrd
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+
+trojan://Ilnk4B119RxZ4RNpSAAL-A@62.133.63.21:2083?security=tls&type=ws&sni=h110vpnturkey.outlinekeys.net#%F0%9F%87%B9%F0%9F%87%B7%20%D0%B3%D0%BE%D0%BC%D0%BE%D1%84%D0%BE%D0%B1%D0%B8%D1%8F%E2%80%93%D0%BF%D0%BE%D0%B7%D0%BE%D1%80%20%D1%80%D1%84%20t.me%2Frjsxrd
+trojan://uThbm8eGmXZ7GKqnWy@nl-4.tr202507.com:443?security=tls&allowinsecure=0&type=raw#%F0%9F%87%B3%F0%9F%87%B1+%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%2C+Amsterdam+%7C+%F0%9F%8C%90+%7C+%F0%9F%94%90+%5B%F0%9F%8F%B4BL%5D%20t.me%2Frjsxrd
