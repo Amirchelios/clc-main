@@ -669,11 +669,55 @@ def _verify_config_file(input_path: str, configs: List[str] = None, verbose: boo
         return []
 
 
+def initialize_output_structure(output_dir: str):
+    """Initialize output directory structure and create placeholder files to ensure they are tracked by Git."""
+    log(f"Initializing output directory structure at {output_dir}...")
+    
+    folders = [
+        "default",
+        "bypass",
+        "bypass/raw",
+        "bypass-unsecure",
+        "bypass-unsecure/raw",
+        "split-by-protocols",
+        "tg-proxy"
+    ]
+    
+    for folder in folders:
+        path = os.path.join(output_dir, folder)
+        os.makedirs(path, exist_ok=True)
+        # Create .gitkeep to ensure directory structure is maintained in Git
+        gitkeep_path = os.path.join(path, ".gitkeep")
+        if not os.path.exists(gitkeep_path):
+            with open(gitkeep_path, "w") as f:
+                pass
+    
+    # Create empty placeholders for main subscription files
+    placeholders = [
+        "default/all.txt",
+        "default/all-secure.txt",
+        "bypass/bypass-all.txt",
+        "bypass-unsecure/bypass-unsecure-all.txt",
+        "tg-proxy/mtproto.txt",
+        "tg-proxy/socks5.txt"
+    ]
+    
+    for placeholder in placeholders:
+        full_path = os.path.join(output_dir, placeholder)
+        if not os.path.exists(full_path):
+            os.makedirs(os.path.dirname(full_path), exist_ok=True)
+            with open(full_path, "w", encoding="utf-8") as f:
+                f.write("# Initializing configuration file\n")
+
+
 def process_all_configs(output_dir: str = "../githubmirror") -> List[Tuple[str, str]]:
     """Main processing function that orchestrates the entire config generation process."""
     overall_start = time.time()
     timing = {}
-    
+
+    # Step 0: Initialize directory structure and placeholders
+    initialize_output_structure(output_dir)
+
     # Step 1: Download all configs from all sources AND scan for telegram proxies in single pass
     log("Downloading all configs from all sources (with Telegram proxy scanning)...")
     download_start = time.time()

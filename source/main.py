@@ -152,7 +152,9 @@ def main(dry_run: bool = False, output_dir: str = "../githubmirror", skip_xray: 
         if not dry_run and file_pairs:
             if use_git:
                 from utils.git_updater import GitUpdater
-                updater = GitUpdater()
+                # Dynamically set output prefix based on current output_dir
+                folder_name = os.path.basename(os.path.normpath(output_dir))
+                updater = GitUpdater(output_prefix=folder_name)
                 success = updater.commit_and_push_files(file_pairs)
                 if not success:
                     log("ERROR: Git update failed")

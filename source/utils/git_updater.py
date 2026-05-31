@@ -10,13 +10,13 @@ from utils.logger import log
 class GitUpdater:
     """Handles git commit and push operations for GitHub Actions."""
     
-    def __init__(self, repo_dir: str = None, output_prefix: str = "githubmirror/"):
+    def __init__(self, repo_dir: str = None, output_prefix: str = "githubmirror"):
         if repo_dir is None:
             self.repo_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
         else:
             self.repo_dir = repo_dir
         
-        self.output_prefix = output_prefix.rstrip("/")
+        self.output_prefix = output_prefix.strip("/")
         log(f"GitUpdater initialized for: {self.repo_dir}")
     
     def _run_git(self, *args, check: bool = True, timeout: int = 60) -> subprocess.CompletedProcess:
@@ -89,11 +89,11 @@ class GitUpdater:
     def stage_files(self, file_pairs: List[Tuple[str, str]]):
         """Stage all generated files for commit."""
         log(f"Staging generated files...")
-        
-        # Simply stage ALL changes in the output directory
-        # This handles new files, modifications, and deletions automatically
-        self._run_git("add", "-A", self.output_prefix, check=False)
-        
+
+        # Explicitly add the output directory to ensure new files are caught
+        if os.path.exists(os.path.join(self.repo_dir, self.output_prefix)):
+            self._run_git("add", "-A", self.output_prefix, check=False)
+
         # Also stage any root-level changes
         self._run_git("add", "-A", ".", check=False)
         
@@ -110,11 +110,14 @@ class GitUpdater:
     def commit(self, message: str = "Update VPN configs") -> bool:
         """Commit staged changes."""
         if not self.has_changes():
-            log("No changes to commit")
+            log("No changes to commit (working tree clean)")
+            # Display status for debugging in Action logs
+            self._run_git("status", check=False)
             return False
-        
+
         log(f"Committing: {message}")
-        self._run_git("commit", "-m", message)
+        # Use --allow-empty to be safe in CI environments
+        self._run_git("commit", "-m", message, "--allow-empty")
         return True
     
     def push(self, branch: Optional[str] = None, force: bool = False):
