@@ -2,7 +2,7 @@ name: Update VPN Configs
 
 on:
   schedule:
-    - cron: "0 0 */2 * *"  # Once every 2 days at midnight UTC
+    - cron: "0 0 * * *"  # Once every day at midnight UTC
   workflow_dispatch:
 
 jobs:

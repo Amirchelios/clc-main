@@ -114,9 +114,9 @@ class GitUpdater:
             self._run_git("status", check=False)
             return False
 
-        log(f"Committing: {message}")
+        log(f"در حال ثبت تغییرات (Commit): {message}")
         # Use --allow-empty to be safe in CI environments
-        self._run_git("commit", "-m", message, "--allow-empty")
+        self._run_git("commit", "-m", "به‌روزرسانی خودکار کانفیگ‌ها", "--allow-empty")
         return True
     
     def push(self, branch: Optional[str] = None, force: bool = False):

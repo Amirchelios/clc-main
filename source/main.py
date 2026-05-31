@@ -43,7 +43,7 @@ def main(dry_run: bool = False, output_dir: str = "../githubmirror", skip_xray: 
         proxy_url: Single proxy URL to use
         proxy_chain: Comma-separated proxy chain (proxy1,proxy2)
     """
-    log("Starting VPN config generation...")
+    log("در حال شروع فرآیند تولید کانفیگ‌های VPN...")
     
     # Setup proxy if provided
     proxy_socks_port = None
@@ -166,7 +166,7 @@ def main(dry_run: bool = False, output_dir: str = "../githubmirror", skip_xray: 
                     log(f"ERROR: {failures} upload(s) failed")
                     sys.exit(1)
     except Exception as e:
-        log(f"ERROR: GitHub upload failed: {e}")
+        log(f"خطا در آپلود به گیت‌هاب: {e}")
         sys.exit(1)
     finally:
         # Stop proxy monitor first
@@ -184,7 +184,7 @@ def main(dry_run: bool = False, output_dir: str = "../githubmirror", skip_xray: 
                 log(f"Cleanup warning: {e}")
     
     print_logs()
-    log("VPN config generation completed!")
+    log("فرآیند تولید کانفیگ با موفقیت به پایان رسید!")
 
 
 if __name__ == "__main__":

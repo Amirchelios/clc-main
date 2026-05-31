@@ -300,7 +300,7 @@ def create_secure_configs_file(all_configs: List[str], output_dir: str = "../git
         return []
 
 
-def append_remark_suffix(config: str, suffix: str = "%20t.me%2Frjsxrd") -> str:
+def append_remark_suffix(config: str, suffix: str = "%20clc-main") -> str:
     """Append suffix to config remark. Configs are already URL-encoded."""
     if "#" in config:
         return f"{config}{suffix}"
@@ -311,15 +311,15 @@ def append_remark_suffix(config: str, suffix: str = "%20t.me%2Frjsxrd") -> str:
 def get_subscription_header(filename: str, current_file: int = None, total_files: int = None) -> str:
     """Generate subscription header for a file."""
     if current_file and total_files:
-        title = f"{filename}-{current_file}/{total_files} t.me/rjsxrd"
+        title = f"{filename}-{current_file}/{total_files} @Amirchelios"
     else:
-        title = f"{filename} t.me/rjsxrd"
+        title = f"{filename} @Amirchelios"
     
     return (
         f"#profile-title: {title}\n"
         "#profile-update-interval: 48\n"
-        "#support-url: https://t.me/rjsxrd\n"
-        "#announce: t.me/rjsxrd\n"
+        "#support-url: https://github.com/Amirchelios/clc-main\n"
+        "#announce: Amirchelios\n"
         "#subscription-userinfo: upload=0; download=0; total=0; expire=0\n"
         "\n"
     )

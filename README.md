@@ -1,479 +1,364 @@
-# rjsxrd - Автоматически обновляемые VPN-конфиги
+# clc-main - کانفیگ‌های VPN با به‌روزرسانی خودکار
 
-tgc: [t.me/rjsxrd](https://t.me/rjsxrd)
 
----
+مجموعه‌ای از کانفیگ‌های عمومی VPN (`V2Ray` / `VLESS` / `Trojan` / `VMess` / `Reality` / `Shadowsocks` / `Hysteria2` / `TUIC`) با قابلیت به‌روزرسانی خودکار جهت دور زدن محدودیت‌های اینترنت و فیلترینگ. این کانفیگ‌ها همچنین برای عبور از لیست‌های سفید (White Lists) در اینترنت همراه بهینه‌سازی شده‌اند.
 
-Автоматически обновляемая коллекция публичных VPN-конфигов (`V2Ray` / `VLESS` / `Trojan` / `VMess` / `Reality` / `Shadowsocks` / `Hysteria2` / `TUIC`) для быстрого обхода блокировок. Обход белых списков на мобильном интернете.
+هر کانفیگ در واقع یک لینک اشتراک متنی (TXT) است که می‌توانید آن را در برنامه‌های مدرن و محبوب مانند `v2rayNG`، `NekoRay`، `Throne`، `v2rayN`، `V2Box`، `v2RayTun`، `Hiddify` و غیره وارد کنید.
 
-Каждый конфиг — это TXT-подписка, которую можно импортировать практически в любой современный клиент (`v2rayNG`, `NekoRay`, `Throne`, `v2rayN`, `V2Box`, `v2RayTun`, `Hiddify` и др.).
+این کانفیگ‌ها **به صورت روزانه** توسط GitHub Actions به‌روزرسانی می‌شوند، بنابراین تمام لینک‌ها همیشه فعال و معتبر هستند.
 
-Конфиги обновляются **раз в 2 дня** с помощью GitHub Actions, поэтому все ссылки всегда актуальны.
+## ویژگی‌ها
+- فیلترینگ خودکار و حذف کانفیگ‌های تکراری
+- تقسیم فایل‌های بزرگ برای بهبود عملکرد (حداکثر ۳۰۰ کانفیگ در هر فایل)
+- پشتیبانی از پروتکل‌های مختلف (V2Ray, VLESS, Trojan, VMess, و غیره)
+- پشتیبانی از پردازش اشتراک‌های کدگذاری شده با Base64 همراه با فیلترینگ بر اساس نام دامنه
+- **فیلترینگ پیشرفته امنیتی**: بررسی جامع پارامترهای ناامن (insecure) جهت افزایش امنیت کاربران:
+  - **VMess**: بررسی پارامترهای `insecure`، `allowInsecure`، `security=none` و حالت قدیمی `alterId > 0`
+  - **VLESS**: بررسی پارامترهای `allowInsecure`، `insecure`، `security=none`، `encryption=none`
+  - **Shadowsocks**: بررسی و حذف سایفرهای ضعیف (حالت‌های RC4 و CFB، BF-CFB و غیره)
+  - **ShadowsocksR**: بررسی سایفرهای ضعیف در فرمت SSR
+  - **TUIC**: بررسی پارامتر `skip-cert-verify`
+  - **عمومی**: بررسی پارامترهای `verify=0`، `verify=false`، `insecure=1` و سایر پارامترهای ناامن
+- کانفیگ‌های اختصاصی برای عبور از لیست‌های سفید SNI/CIDR
+- کانفیگ‌های ناامن برای عبور از SNI/CIDR
+- تفکیک و دسته‌بندی کانفیگ‌ها بر اساس نوع پروتکل
+- ایجاد فایل‌های جامع all.txt و all-secure.txt
+- **تست و تایید خودکار کانفیگ‌ها**: تست از طریق Xray-core و مرتب‌سازی بر اساس سرعت (سریع‌ترین‌ها در ابتدا)
+- **سیستم تایید دو مرحله‌ای**:
+  - **فایل‌های Raw**: کانفیگ‌های تست‌نشده در پوشه‌های `/raw/`
+  - **فایل‌های تایید شده**: تست شده با Xray-core و مرتب‌شده بر اساس پینگ (Ping)
+- **پروکسی تلگرام**: جمع‌آوری، تایید و پردازش خودکار پروکسی‌های MTProto و SOCKS5 برای تلگرام با مرتب‌سازی بر اساس پینگ
+- اعتبار‌سنجی بهبودیافته کانفیگ‌ها: اکنون فقط خطوطی که با پروتکل‌های پشتیبانی‌شده آغاز می‌شوند (vless://، vmess://، trojan:// و...) پردازش می‌شوند تا از ورود خطوط نامعتبر به فایل نهایی جلوگیری شود.
+- پشتیبانی از ریپازیتوری‌های روزانه با قابلیت جستجوی خودکار کانفیگ‌ها بر اساس تاریخ
+- پشتیبانی از کانفیگ‌های YAML و تبدیل آن‌ها به فرمت VPN URL
+- **افزودن دستی کانفیگ**: امکان اضافه کردن سرورهای شخصی خودتان از طریق فایل `source/config/servers.txt` که به صورت خودکار فیلتر شده و با سایر منابع ادغام می‌شوند.
+- دانلود موازی منابع جهت افزایش سرعت فرآیند به‌روزرسانی
+- سیستم لاگ‌نویسی ایمن (Thread-safe) با تفکیک پیام‌ها بر اساس فایل
+- معماری بهبودیافته با جداسازی دقیق وظایف میان ماژول‌های مختلف
 
-## Особенности
-- Автоматическая фильтрация и дедупликация конфигов
-- Разделение больших файлов для лучшей производительности (максимум 300 конфигов на файл)
-- Поддержка различных типов протоколов (V2Ray, VLESS, Trojan, VMess, и др.)
-- Поддержка обработки base64-кодированных подписок с фильтрацией по доменным именам
-- **Улучшенная фильтрация безопасности**: комплексная проверка insecure параметров для повышения безопасности
-  - **VMess**: проверка `insecure`, `allowInsecure`, `security=none` и устаревшего режима `alterId > 0`
-  - **VLESS**: проверка `allowInsecure`, `insecure`, `security=none`, `encryption=none`
-  - **Shadowsocks**: проверка слабых шифров (RC4, CFB режимы, BF-CFB и др.)
-  - **ShadowsocksR**: проверка слабых шифров в SSR формате
-  - **TUIC**: проверка `skip-cert-verify` параметра
-  - **Общие**: проверка `verify=0`, `verify=false`, `insecure=1` и других небезопасных параметров
-- Специальные конфиги для обхода SNI/CIDR белых списков
-- Небезопасные конфиги для обхода SNI/CIDR
-- Конфиги, разделенные по протоколам
-- Создание файлов all.txt и all-secure.txt
-- **Автоматическая верификация конфигов**: тестирование через Xray-core с сортировкой по скорости (fastest first)
-- **Двухуровневая система верификации**:
-  - **Raw файлы**: нетестированные конфиги в `/raw/` подпапках
-  - **Верифицированные файлы**: протестированы через Xray-core, отсортированы по пингу
-- **Telegram прокси**: автоматический сбор, верификация и обработка MTProto и SOCKS5 прокси для Telegram с сортировкой по пингу
-- Улучшенная валидация конфигов: теперь учитываются только строки, начинающиеся с поддерживаемого протокола (vless://, vmess://, trojan:// и др.) для предотвращения включения неподходящих строк в итоговые файлы
-- Поддержка ежедневно обновляемых репозиториев с автоматическим поиском конфигов по дате
-- Поддержка YAML-конфигов с конвертацией в формат VPN URL
-- **Ручное добавление конфигов**: возможность добавлять собственные серверы через файл `source/config/servers.txt`, которые будут автоматически фильтроваться и объединяться с другими источниками
-- Параллельные загрузки для ускорения процесса
-- Потокобезопасное логирование с сортировкой сообщений по файлам
-- Улучшенная архитектура с четким разделением ответственности между модулями
+## فهرست مطالب
+- [clc-main - کانفیگ‌های VPN با به‌روزرسانی خودکار](#clc-main---کانفیگ‌های-vpn-با-به‌روزرسانی-خودکار)
+  - [ویژگی‌ها](#ویژگی‌ها)
+  - [فهرست مطالب](#فهرست-مطالب)
+  - [راهنمای شروع سریع](#راهنمای-شروع-سریع)
+  - [راهنمای ویدئویی](#راهنمای-ویدئویی)
+  - [پیکربندی‌ها و لینک‌ها](#پیکربندی‌ها-و-لینک‌ها)
+    - [کانفیگ‌های معمولی (default/)](#کانفیگ‌های-معمولی-default)
+      - [فایل‌های تکمیلی در default/](#فایل‌های-تکمیلی-در-default)
+    - [کانفیگ‌های عبور از لیست سفید SNI/CIDR (bypass/)](#کانفیگ‌های-عبور-از-لیست-سفید-snicidr-bypass)
+    - [کانفیگ‌های ناامن عبور از SNI/CIDR (bypass-unsecure/)](#کانفیگ‌های-ناامن-عبور-از-snicidr-bypass-unsecure)
+    - [کانفیگ‌های تفکیک شده بر اساس پروتکل (split-by-protocols/)](#کانفیگ‌های-تفکیک-شده-بر-اساس-پروتکل-split-by-protocols)
+    - [پروکسی‌های تلگرام (tg-proxy/)](#پروکسی‌های-تلگرام-tg-proxy)
+  - [نصب و نحوه استفاده](#نصب-و-نحوه-استفاده)
+  - [اطلاعات تکمیلی](#اطلاعات-تکمیلی)
+    - [ساختار ریپازیتوری](#ساختار-ریپازیتوری)
+    - [اجرای محلی ژنراتور](#اجرای-محلی-ژنراتور)
+    - [مجوز (License)](#مجوز-license)
+    - [منابع و الهام‌بخش پروژه](#منابع-و-الهام‌بخش-پروژه)
+    - [سلب مسئولیت](#سلب-مسئولیت)
 
-## Содержание
-- [rjsxrd - Автоматически обновляемые VPN-конфиги](#rjsxrd---автоматически-обновляемые-vpn-конфиги)
-  - [Особенности](#особенности)
-  - [Содержание](#содержание)
-  - [Быстрый старт](#быстрый-старт)
-  - [Видео гайд](#видео-гайд)
-  - [Конфигурации](#конфигурации)
-    - [Обычные конфиги (default/)](#обычные-конфиги-default)
-      - [Дополнительные файлы в default/](#дополнительные-файлы-в-default)
-    - [Конфиги для обхода SNI/CIDR белых списков (bypass/)](#конфиги-для-обхода-snicidr-белых-списков-bypass)
-    - [Небезопасные конфиги для обхода SNI/CIDR (bypass-unsecure/)](#небезопасные-конфиги-для-обхода-snicidr-bypass-unsecure)
-    - [Конфиги, разделенные по протоколам (split-by-protocols/)](#конфиги-разделенные-по-протоколам-split-by-protocols)
-   - [Telegram прокси (tg-proxy/)](#telegram-прокси-tg-proxy)
-  - [Установка и использование](#установка-и-использование)
-  - [Дополнительно](#дополнительно)
-    - [Структура репозитория](#структура-репозитория)
-    - [Локальный запуск генератора](#локальный-запуск-генератора)
-    - [Лицензия](#лицензия)
-    - [Источники и вдохновение](#источники-и-вдохновение)
-    - [ДИСКЛЕЙМЕР](#дисклеймер)
+## راهنمای شروع سریع
 
-## Быстрый старт
-
-1. Скопируйте нужную ссылку из раздела [Конфигурации](#конфигурации) (рекомендуем начать с 6.txt, 22.txt, 23.txt, 24.txt или 25.txt из папки default/ или bypass/bypass-all.txt для мобильного интернета)
-2. Импортируйте её в ваш **VPN-клиент**
-3. Выберите сервер с минимальным пингом и подключайтесь
+1. لینک مورد نظر خود را از بخش [پیکربندی‌ها و لینک‌ها](#پیکربندی‌ها-و-لینک‌ها) کپی کنید (پیشنهاد می‌شود با فایل‌های شماره 6، 22، 23، 24 یا 25 از پوشه default یا bypass/bypass-all.txt برای اینترنت همراه شروع کنید).
+2. لینک را در **نرم‌افزار VPN** خود وارد (Import) کنید.
+3. سروری که کمترین پینگ را دارد انتخاب کرده و متصل شوید.
 
 ---
 
-## Видео гайд
+## راهنمای ویدئویی
 
-> **Внимание!** Видео гайд актуален только для Android, Android TV, Windows, Linux, MacOS. Для iOS и iPadOS используйте текстовые инструкции ниже.
+> **توجه!** راهنمای ویدئویی زیر در حال حاضر برای سیستم‌عامل‌های اندروید، اندروید تی‌وی، ویندوز، لینوکس و مک‌او‌اس مناسب است. برای iOS و iPadOS از دستورالعمل‌های متنی پایین استفاده کنید.
 
-[Смотреть на YouTube](https://youtu.be/sagz2YluM70)
+[مشاهده در YouTube](https://youtu.be/sagz2YluM70)
 
-[Смотреть на Dzen](https://dzen.ru/video/watch/680d58f28c6d3504e953bd6d)
+[مشاهده در Dzen](https://dzen.ru/video/watch/680d58f28c6d3504e953bd6d)
 
-[Смотреть на VK Video](https://vk.com/video-200297343_456239303)
+[مشاهده در VK Video](https://vk.com/video-200297343_456239303)
 
-[Смотреть в Telegram](https://t.me/avencoreschat/56595)
-
----
-
-## Конфигурации
-
-### Обычные конфиги (default/)
-Обычные конфиги для обхода стандартных блокировок. Рекомендуемые:
-- **[1](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/default/1.txt)**
-- **[6](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/default/6.txt)**
-- **[22](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/default/22.txt)**
-- **[23](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/default/23.txt)**
-- **[24](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/default/24.txt)**
-- **[25](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/default/25.txt)**
-
-#### Дополнительные файлы в default/
-- **[all.txt](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/default/all.txt)** - все уникальные конфиги из папки default в одном файле
-- **[all-secure.txt](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/default/all-secure.txt)** - все безопасные (без insecure параметров) уникальные конфиги из папки default в одном файле
-
-### Конфиги для обхода SNI/CIDR белых списков (bypass/)
-
-> **Для пользователей мобильных устройств**: при возникновении проблем с производительностью рекомендуется использовать файлы по отдельности, а не bypass-all.txt
-
-**[bypass-all](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass/bypass-all.txt)** - все безопасные конфиги для обхода SNI/CIDR в одном файле
-
-**Файлы разделенные по 300 конфигов**:
-- **[bypass-1](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass/bypass-1.txt)**
-- **[bypass-2](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass/bypass-2.txt)**
-- **[bypass-3](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass/bypass-3.txt)**
-- **[bypass-4](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass/bypass-4.txt)**
-- **[bypass-5](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass/bypass-5.txt)**
-- **[bypass-6](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass/bypass-6.txt)**
-- **[bypass-7](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass/bypass-7.txt)**
-- **[bypass-8](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass/bypass-8.txt)**
-- **[bypass-9](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass/bypass-9.txt)**
-- **[bypass-10](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass/bypass-10.txt)**
-- **[bypass-11](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass/bypass-11.txt)**
-- **[bypass-12](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass/bypass-12.txt)**
-- **[bypass-13](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass/bypass-13.txt)**
-- **[bypass-14](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass/bypass-14.txt)**
-- **[bypass-15](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass/bypass-15.txt)**
-
-### Небезопасные конфиги для обхода SNI/CIDR (bypass-unsecure/)
-
-**[bypass-unsecure-all](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-all.txt)** - все конфиги для обхода SNI/CIDR в одном файле (включая небезопасные)
-
-**Файлы разделенные по 300 конфигов**:
-- **[bypass-unsecure-1](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-1.txt)**
-- **[bypass-unsecure-2](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-2.txt)**
-- **[bypass-unsecure-3](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-3.txt)**
-- **[bypass-unsecure-4](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-4.txt)**
-- **[bypass-unsecure-5](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-5.txt)**
-- **[bypass-unsecure-6](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-6.txt)**
-- **[bypass-unsecure-7](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-7.txt)**
-- **[bypass-unsecure-8](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-8.txt)**
-- **[bypass-unsecure-9](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-9.txt)**
-- **[bypass-unsecure-10](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-10.txt)**
-- **[bypass-unsecure-11](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-11.txt)**
-- **[bypass-unsecure-12](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-12.txt)**
-- **[bypass-unsecure-13](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-13.txt)**
-- **[bypass-unsecure-14](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-14.txt)**
-- **[bypass-unsecure-15](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-15.txt)**
-- **[bypass-unsecure-16](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-16.txt)**
-
-### Конфиги, разделенные по протоколам (split-by-protocols/)
-
-**Безопасные протокол-специфичные файлы**:
-- **[vless-secure.txt](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/split-by-protocols/vless-secure.txt)** - только безопасные VLESS конфиги
-- **[vmess-secure.txt](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/split-by-protocols/vmess-secure.txt)** - только безопасные VMess конфиги
-- **[trojan-secure.txt](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/split-by-protocols/trojan-secure.txt)** - только безопасные Trojan конфиги
-- **[ss-secure.txt](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/split-by-protocols/ss-secure.txt)** - только безопасные Shadowsocks конфиги
-- **[ssr-secure.txt](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/split-by-protocols/ssr-secure.txt)** - только безопасные ShadowsocksR конфиги
-- **[tuic-secure.txt](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/split-by-protocols/tuic-secure.txt)** - только безопасные TUIC конфиги
-- **[hysteria-secure.txt](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/split-by-protocols/hysteria-secure.txt)** - только безопасные Hysteria конфиги
-- **[hysteria2-secure.txt](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/split-by-protocols/hysteria2-secure.txt)** - только безопасные Hysteria2 конфиги
-- **[hy2-secure.txt](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/split-by-protocols/hy2-secure.txt)** - только безопасные Hysteria2 (hy2) конфиги
-
-**Все протокол-специфичные файлы (включая небезопасные)**:
-- **[vless.txt](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/split-by-protocols/vless.txt)** - все VLESS конфиги
-- **[vmess.txt](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/split-by-protocols/vmess.txt)** - все VMess конфиги
-- **[trojan.txt](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/split-by-protocols/trojan.txt)** - все Trojan конфиги
-- **[ss.txt](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/split-by-protocols/ss.txt)** - все Shadowsocks конфиги
-- **[ssr.txt](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/split-by-protocols/ssr.txt)** - все ShadowsocksR конфиги
-- **[tuic.txt](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/split-by-protocols/tuic.txt)** - все TUIC конфиги
-- **[hysteria.txt](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/split-by-protocols/hysteria.txt)** - все Hysteria конфиги
-- **[hysteria2.txt](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/split-by-protocols/hysteria2.txt)** - все Hysteria2 конфиги
-- **[hy2.txt](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/split-by-protocols/hy2.txt)** - все Hysteria2 (hy2) конфиги
-
-### Telegram прокси (tg-proxy/)
-
-**Файлы с Telegram прокси для обхода блокировок мессенджера**:
-- **[all.txt](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/tg-proxy/all.txt)** - все Telegram прокси (MTProto + SOCKS5, отсортированы по пингу)
-- **[MTProto.txt](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/tg-proxy/MTProto.txt)** - только MTProto прокси
-- **[socks.txt](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/tg-proxy/socks.txt)** - только SOCKS5 прокси
-
-[Ссылка на QR-коды вечно актуальных конфигов](https://github.com/whoahaow/rjsxrd/tree/main/qr-codes)
-
+[مشاهده در تلگرام](https://t.me/avencoreschat/56595)
 
 ---
-## Установка и использование
+
+## پیکربندی‌ها و لینک‌ها
+
+### کانفیگ‌های معمولی (default/)
+کانفیگ‌های معمولی برای دور زدن فیلترینگ استاندارد. لینک‌های پیشنهادی:
+- **[کانفیگ 1](https://raw.githubusercontent.com/Amirchelios/clc-main/refs/heads/main/githubmirror/default/1.txt)**
+- **[کانفیگ 6](https://raw.githubusercontent.com/Amirchelios/clc-main/refs/heads/main/githubmirror/default/6.txt)**
+- **[کانفیگ 22](https://raw.githubusercontent.com/Amirchelios/clc-main/refs/heads/main/githubmirror/default/22.txt)**
+- **[کانفیگ 23](https://raw.githubusercontent.com/Amirchelios/clc-main/refs/heads/main/githubmirror/default/23.txt)**
+- **[کانفیگ 24](https://raw.githubusercontent.com/Amirchelios/clc-main/refs/heads/main/githubmirror/default/24.txt)**
+- **[کانفیگ 25](https://raw.githubusercontent.com/Amirchelios/clc-main/refs/heads/main/githubmirror/default/25.txt)**
+
+#### فایل‌های تکمیلی در default/
+- **[all.txt](https://raw.githubusercontent.com/Amirchelios/clc-main/refs/heads/main/githubmirror/default/all.txt)** - تمام کانفیگ‌های یکتا از پوشه default در یک فایل
+- **[all-secure.txt](https://raw.githubusercontent.com/Amirchelios/clc-main/refs/heads/main/githubmirror/default/all-secure.txt)** - تمام کانفیگ‌های امن و یکتا (بدون پارامترهای insecure) از پوشه default در یک فایل
+
+### کانفیگ‌های عبور از لیست سفید SNI/CIDR (bypass/)
+
+> **قابل توجه کاربران موبایل**: در صورت بروز مشکل در سرعت یا عملکرد، توصیه می‌شود از فایل‌ها به صورت جداگانه استفاده کنید و از bypass-all.txt استفاده نکنید.
+
+**[bypass-all](https://raw.githubusercontent.com/Amirchelios/clc-main/refs/heads/main/githubmirror/bypass/bypass-all.txt)** - تمام کانفیگ‌های امن برای عبور از SNI/CIDR در یک فایل شامل ۳۰۰ کانفیگ
+
+**فایل‌های تفکیک شده بر اساس ۳۰۰ کانفیگ در هر فایل**:
+- **[bypass-1](https://raw.githubusercontent.com/Amirchelios/clc-main/refs/heads/main/githubmirror/bypass/bypass-1.txt)**
+- **[bypass-2](https://raw.githubusercontent.com/Amirchelios/clc-main/refs/heads/main/githubmirror/bypass/bypass-2.txt)**
+- **[bypass-3](https://raw.githubusercontent.com/Amirchelios/clc-main/refs/heads/main/githubmirror/bypass/bypass-3.txt)**
+- **[bypass-4](https://raw.githubusercontent.com/Amirchelios/clc-main/refs/heads/main/githubmirror/bypass/bypass-4.txt)**
+- **[bypass-5](https://raw.githubusercontent.com/Amirchelios/clc-main/refs/heads/main/githubmirror/bypass/bypass-5.txt)**
+- **[bypass-6](https://raw.githubusercontent.com/Amirchelios/clc-main/refs/heads/main/githubmirror/bypass/bypass-6.txt)**
+- **[bypass-7](https://raw.githubusercontent.com/Amirchelios/clc-main/refs/heads/main/githubmirror/bypass/bypass-7.txt)**
+- **[bypass-8](https://raw.githubusercontent.com/Amirchelios/clc-main/refs/heads/main/githubmirror/bypass/bypass-8.txt)**
+- **[bypass-9](https://raw.githubusercontent.com/Amirchelios/clc-main/refs/heads/main/githubmirror/bypass/bypass-9.txt)**
+- **[bypass-10](https://raw.githubusercontent.com/Amirchelios/clc-main/refs/heads/main/githubmirror/bypass/bypass-10.txt)**
+- **[bypass-11](https://raw.githubusercontent.com/Amirchelios/clc-main/refs/heads/main/githubmirror/bypass/bypass-11.txt)**
+- **[bypass-12](https://raw.githubusercontent.com/Amirchelios/clc-main/refs/heads/main/githubmirror/bypass/bypass-12.txt)**
+- **[bypass-13](https://raw.githubusercontent.com/Amirchelios/clc-main/refs/heads/main/githubmirror/bypass/bypass-13.txt)**
+- **[bypass-14](https://raw.githubusercontent.com/Amirchelios/clc-main/refs/heads/main/githubmirror/bypass/bypass-14.txt)**
+- **[bypass-15](https://raw.githubusercontent.com/Amirchelios/clc-main/refs/heads/main/githubmirror/bypass/bypass-15.txt)**
+
+### کانفیگ‌های ناامن عبور از SNI/CIDR (bypass-unsecure/)
+
+**[bypass-unsecure-all](https://raw.githubusercontent.com/Amirchelios/clc-main/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-all.txt)** - تمام کانفیگ‌های عبور از SNI/CIDR در یک فایل (شامل کانفیگ‌های ناامن)
+
+**فایل‌های تفکیک شده بر اساس ۳۰۰ کانفیگ**:
+- **[bypass-unsecure-1](https://raw.githubusercontent.com/Amirchelios/clc-main/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-1.txt)**
+- **[bypass-unsecure-2](https://raw.githubusercontent.com/Amirchelios/clc-main/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-2.txt)**
+- **[bypass-unsecure-3](https://raw.githubusercontent.com/Amirchelios/clc-main/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-3.txt)**
+- **[bypass-unsecure-4](https://raw.githubusercontent.com/Amirchelios/clc-main/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-4.txt)**
+- **[bypass-unsecure-5](https://raw.githubusercontent.com/Amirchelios/clc-main/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-5.txt)**
+- **[bypass-unsecure-6](https://raw.githubusercontent.com/Amirchelios/clc-main/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-6.txt)**
+- **[bypass-unsecure-7](https://raw.githubusercontent.com/Amirchelios/clc-main/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-7.txt)**
+- **[bypass-unsecure-8](https://raw.githubusercontent.com/Amirchelios/clc-main/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-8.txt)**
+- **[bypass-unsecure-9](https://raw.githubusercontent.com/Amirchelios/clc-main/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-9.txt)**
+- **[bypass-unsecure-10](https://raw.githubusercontent.com/Amirchelios/clc-main/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-10.txt)**
+- **[bypass-unsecure-11](https://raw.githubusercontent.com/Amirchelios/clc-main/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-11.txt)**
+- **[bypass-unsecure-12](https://raw.githubusercontent.com/Amirchelios/clc-main/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-12.txt)**
+- **[bypass-unsecure-13](https://raw.githubusercontent.com/Amirchelios/clc-main/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-13.txt)**
+- **[bypass-unsecure-14](https://raw.githubusercontent.com/Amirchelios/clc-main/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-14.txt)**
+- **[bypass-unsecure-15](https://raw.githubusercontent.com/Amirchelios/clc-main/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-15.txt)**
+- **[bypass-unsecure-16](https://raw.githubusercontent.com/Amirchelios/clc-main/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-16.txt)**
+
+### کانفیگ‌های تفکیک شده بر اساس پروتکل (split-by-protocols/)
+
+**فایل‌های اختصاصی و امن هر پروتکل**:
+- **[vless-secure.txt](https://raw.githubusercontent.com/Amirchelios/clc-main/refs/heads/main/githubmirror/split-by-protocols/vless-secure.txt)** - فقط کانفیگ‌های امن VLESS
+- **[vmess-secure.txt](https://raw.githubusercontent.com/Amirchelios/clc-main/refs/heads/main/githubmirror/split-by-protocols/vmess-secure.txt)** - فقط کانفیگ‌های امن VMess
+- **[trojan-secure.txt](https://raw.githubusercontent.com/Amirchelios/clc-main/refs/heads/main/githubmirror/split-by-protocols/trojan-secure.txt)** - فقط کانفیگ‌های امن Trojan
+- **[ss-secure.txt](https://raw.githubusercontent.com/Amirchelios/clc-main/refs/heads/main/githubmirror/split-by-protocols/ss-secure.txt)** - فقط کانفیگ‌های امن Shadowsocks
+- **[ssr-secure.txt](https://raw.githubusercontent.com/Amirchelios/clc-main/refs/heads/main/githubmirror/split-by-protocols/ssr-secure.txt)** - فقط کانفیگ‌های امن ShadowsocksR
+- **[tuic-secure.txt](https://raw.githubusercontent.com/Amirchelios/clc-main/refs/heads/main/githubmirror/split-by-protocols/tuic-secure.txt)** - فقط کانفیگ‌های امن TUIC
+- **[hysteria-secure.txt](https://raw.githubusercontent.com/Amirchelios/clc-main/refs/heads/main/githubmirror/split-by-protocols/hysteria-secure.txt)** - فقط کانفیگ‌های امن Hysteria
+- **[hysteria2-secure.txt](https://raw.githubusercontent.com/Amirchelios/clc-main/refs/heads/main/githubmirror/split-by-protocols/hysteria2-secure.txt)** - فقط کانفیگ‌های امن Hysteria2
+- **[hy2-secure.txt](https://raw.githubusercontent.com/Amirchelios/clc-main/refs/heads/main/githubmirror/split-by-protocols/hy2-secure.txt)** - فقط کانفیگ‌های امن Hysteria2 (hy2)
+
+**تمامی فایل‌های هر پروتکل (شامل کانفیگ‌های ناامن)**:
+- **[vless.txt](https://raw.githubusercontent.com/Amirchelios/clc-main/refs/heads/main/githubmirror/split-by-protocols/vless.txt)** - تمام کانفیگ‌های VLESS
+- **[vmess.txt](https://raw.githubusercontent.com/Amirchelios/clc-main/refs/heads/main/githubmirror/split-by-protocols/vmess.txt)** - تمام کانفیگ‌های VMess
+- **[trojan.txt](https://raw.githubusercontent.com/Amirchelios/clc-main/refs/heads/main/githubmirror/split-by-protocols/trojan.txt)** - تمام کانفیگ‌های Trojan
+- **[ss.txt](https://raw.githubusercontent.com/Amirchelios/clc-main/refs/heads/main/githubmirror/split-by-protocols/ss.txt)** - تمام کانفیگ‌های Shadowsocks
+- **[ssr.txt](https://raw.githubusercontent.com/Amirchelios/clc-main/refs/heads/main/githubmirror/split-by-protocols/ssr.txt)** - تمام کانفیگ‌های ShadowsocksR
+- **[tuic.txt](https://raw.githubusercontent.com/Amirchelios/clc-main/refs/heads/main/githubmirror/split-by-protocols/tuic.txt)** - تمام کانفیگ‌های TUIC
+- **[hysteria.txt](https://raw.githubusercontent.com/Amirchelios/clc-main/refs/heads/main/githubmirror/split-by-protocols/hysteria.txt)** - تمام کانفیگ‌های Hysteria
+- **[hysteria2.txt](https://raw.githubusercontent.com/Amirchelios/clc-main/refs/heads/main/githubmirror/split-by-protocols/hysteria2.txt)** - تمام کانفیگ‌های Hysteria2
+- **[hy2.txt](https://raw.githubusercontent.com/Amirchelios/clc-main/refs/heads/main/githubmirror/split-by-protocols/hy2.txt)** - تمام کانفیگ‌های Hysteria2 (hy2)
+
+### پروکسی‌های تلگرام (tg-proxy/)
+
+**فایل‌های حاوی پروکسی تلگرام برای عبور از فیلترینگ پیام‌رسان**:
+- **[all.txt](https://raw.githubusercontent.com/Amirchelios/clc-main/refs/heads/main/githubmirror/tg-proxy/all.txt)** - تمام پروکسی‌های تلگرام (MTProto + SOCKS5، مرتب‌شده بر اساس پینگ)
+- **[MTProto.txt](https://raw.githubusercontent.com/Amirchelios/clc-main/refs/heads/main/githubmirror/tg-proxy/MTProto.txt)** - فقط پروکسی‌های MTProto
+- **[socks.txt](https://raw.githubusercontent.com/Amirchelios/clc-main/refs/heads/main/githubmirror/tg-proxy/socks.txt)** - فقط پروکسی‌های SOCKS5
+
+[لینک به کدهای QR کانفیگ‌های همیشه معتبر](https://github.com/Amirchelios/clc-main/tree/main/qr-codes)
+
+---
+## نصب و نحوه استفاده
 
 <details>
+<summary>راهنمای اندروید (Android)</summary>
 
-<summary>Гайд для Android</summary>
+**۱.** برنامه **«v2rayNG»** نسخه‌ی universal.apk را دانلود کنید - [لینک دانلود](https://github.com/2dust/v2rayNG/releases)
+همچنین می‌توانید از برنامه **«Happ»** استفاده کنید - [لینک گوگل‌پلی](https://play.google.com/store/apps/details?id=com.happproxy&hl=ru)، اما در تنظیمات: Subscriptions -> Sort by ping را فعال کنید.
 
-**1.** Скачиваем **«v2rayNG»** universal.apk - [Ссылка](https://github.com/2dust/v2rayNG/releases)
+**۲.** لینک یکی از کانفیگ‌ها را از بخش [پیکربندی‌ها و لینک‌ها](#پیکربندی‌ها-و-لینک‌ها) کپی کنید.
 
-Можно использовать **«Happ»** - [Ссылка](https://play.google.com/store/apps/details?id=com.happproxy&hl=ru), но в настройках: Подписки -> сортировать по пингу
+**۳.** وارد برنامه **«v2rayNG»** شوید، روی نماد + در بالا سمت راست ضربه بزنید و گزینه‌ی **«Import from clipboard»** را انتخاب کنید.
 
-**2.** Копируем в буфер обмена ссылку на конфиг из раздела [Конфигурации](#конфигурации)
+**۴.** روی منوی سه نقطه در بالا سمت راست کلیک کرده و **«Real delay all configuration»** (تست پینگ سرورها) را بزنید. پس از اتمام تست، در همان منو گزینه **«Sort by test results»** را بزنید تا سرورها بر اساس پینگ مرتب شوند.
 
-**3.** Заходим в приложение **«v2rayNG»** и в правом верхнем углу нажимаем на +, а затем выбираем **«Импорт из буфера обмена»**.
-
-**4.** Нажимаем **«справа сверху на три точки»**, а затем **«Проверка профилей группы»**, после окончания проверки в этом же меню нажмите на **«Сортировка по результатам теста»**.
-
-**5.** Выбираем нужный вам сервер и затем нажимаем на кнопку ▶️ в правом нижнем углу.
+**۵.** سرور مناسب را انتخاب کرده و روی دکمه‌ی اتصال ▶️ در پایین سمت راست ضربه بزنید.
 
 </details>
 
 <details>
+<summary>راهنمای اندروید تی‌و‌ی (Android TV)</summary>
 
-<summary>Гайд для Android TV</summary>
+**۱.** نسخه universal.apk برنامه **«v2rayNG»** را دانلود و نصب کنید - [لینک دانلود](https://github.com/2dust/v2rayNG/releases)
 
-**1.** Скачиваем **«v2rayNG»** universal.apk - [Ссылка](https://github.com/2dust/v2rayNG/releases)
+**۲.** تصاویر **«QR-коды»** مربوط به کانفیگ‌ها را دانلود کنید - [لینک دانلود](https://github.com/Amirchelios/clc-main/tree/main/qr-codes)
 
-**2.** Скачиваем **«QR-коды»** вечно актуальных конфигов - [Ссылка](https://github.com/whoahaow/rjsxrd/tree/main/qr-codes)
+**۳.** وارد برنامه شوید، روی + در بالا سمت راست کلیک کنید و **«Import from QR code»** را انتخاب کنید و تصویر دانلود شده را از گالری باز کنید.
 
-**3**. Заходим в приложение **«v2rayNG»** и в правом верхнем углу нажимаем на +, а затем выбираем **«Импорт из QR-кода»**, выбираем картинку нажав на иконку фото в правом верхнем углу.
+**۴.** سه نقطه بالا سمت راست را بزنید، روی **«Real delay all configuration»** کلیک کنید و پس از اتمام تست، گزینه **«Sort by test results»** را بزنید.
 
-**4.** Нажимаем **«справа сверху на три точки»**, а затем **«Проверка профилей группы»**, после окончания проверки в этом же меню нажмите на **«Сортировка по результатам теста»**.
-
-**5.** Выбираем нужный вам сервер и затем нажимаем на кнопку ▶️ в правом нижнем углу.
+**۵.** سرور مورد نظر را انتخاب و دکمه‌ی اتصال ▶️ در پایین سمت راست را فشار دهید.
 
 </details>
 
 <details>
+<summary>عیب‌یابی و حل مشکلات احتمالی</summary>
 
-<summary>Дополнительные решения проблем</summary>
+**اگر بعد از اتصال اینترنت قطع شد (در v2rayNG)**
+ویدئوی آموزشی حل این مشکل - [لینک ویدئو](https://t.me/avencoreschat/25254)
 
-**Если нету интернета при подключении к VPN в v2rayNG**
+**اگر بعد از اد کردن لینک، کانفیگی اضافه نشد**
+1. منوی همبرگری (سه خط) در بالا سمت چپ را بزنید.
+2. روی گزینه **«Subscription group»** (یا Группы) کلیک کنید.
+3. روی آیکون فلش چرخشی (به‌روزرسانی) در بالا سمت راست کلیک کنید و منتظر بمانید تا آپدیت کامل شود.
 
-Ссылка на видео с демонстрацией фикса - [Ссылка](https://t.me/avencoreschat/25254)
+**رفع ارور "Cбой проверки интернет-соединения: net/http: 12X handshake timeout" یا "Fail to detect internet connection: io: read/write closed pipe"**
+1. روی آیکون برنامه **«v2rayNG»** در صفحه گوشی نگه دارید و وارد **«App info»** (اطلاعات برنامه) شوید.
+2. گزینه **«Force Stop»** (توقف اجباری) را بزنید و برنامه را مجدداً باز کنید.
+3. مجدداً تست پینگ بگیرید، بر اساس پینگ مرتب کنید و متصل شوید.
 
-**Если не появились конфиги при добавлении VPN в v2rayNG**
-
-1. Нажмите на **«три полоски»** в **«левом верхнем углу»**.
-2. Нажимаем на кнопку **«Группы»**.
-3. Нажимаем на **«иконку кружка со стрелкой»** в **«верхнем правом углу»** и дожидаемся окончания обновления.
-
-**Фикс ошибки "Cбой проверки интернет-соединения: net/http: 12X handshake timeout"**
-
-1. На рабочем столе зажимаем на иконке **«v2rayNG»** и нажимаем на пункт **«О приложении»**.
-2. Нажимаем на кнопку **«Остановить»** и заново запускаем **«v2rayNG»**.
-
-**Фикс ошибки "Fail to detect internet connection: io: read/write closed pipe"**
-
-1. На рабочем столе зажимаем на иконке **«v2rayNG»** и нажимаем на пункт **«О приложении»**.
-2. Нажимаем на кнопку **«Остановить»** и заново запускаем **«v2rayNG»**.
-3. Нажимаем **«справа сверху на три точки»**, а затем **«Проверка профилей группы»**, после окончания проверки в этом же меню нажмите на **«Сортировка по результатам теста»**.
-4. Выбираем нужный вам сервер и затем нажимаем на кнопку ▶️ в правом нижнем углу.
-
-**Обновление конфигов в v2rayNG**
-
-1. Нажимаем на **«иконку трех полосок»** в **«левом верхнем углу»**.
-2. Выбираем вкладку **«Группы»**.
-3. Нажимаем на **«иконку кружка со стрелкой»** в **«правом верхнем углу»**.
+**نحوه آپدیت دستی کانفیگ‌ها در v2rayNG**
+1. روی نماد سه خط در بالا سمت چپ کلیک کنید.
+2. تب **«Subscription group»** را انتخاب کنید.
+3. آیکون چرخش فلش در بالا سمت راست را بزنید.
 
 </details>
-
 
 ---
 <details>
+<summary>راهنمای ویندوز و لینوکس (Windows, Linux)</summary>
 
-<summary>Гайд для Windows, Linux</summary>
+**۱.** نرم‌افزار **«Throne»** را دانلود کنید - [لینک دانلود](https://github.com/throneproj/Throne/releases)
+ویندوز 10/11: فایل windows64.zip
+ویندوز 7/8/8.1: فایل windowslegacy64.zip
+لینوکس: فایل linux-amd64.zip
 
-**1.** Скачиваем **«Throne»** - [Ссылка](https://github.com/throneproj/Throne/releases)
+برنامه‌های جایگزین: **«nekoray»** - [لینک دانلود](https://github.com/MatsuriDayo/nekoray/releases) یا **«v2rayN»** - [لینک دانلود](https://github.com/2dust/v2rayN/releases)
 
-Windows 10/11 - windows64.zip
+**۲.** لینک کانفیگ مورد نظر را کپی کنید.
 
-Windows 7/8/8.1 - windowslegacy64.zip
+**۳.** در برنامه روی **«Profiles»** کلیک کرده و گزینه **«Add profile from clipboard»** را بزنید.
 
-Linux - linux-amd64.zip
+**۴.** با فشردن کلیدهای ترکیبی **«Ctrl + A»** تمام کانفیگ‌ها را انتخاب کرده، از منوی بالا روی **«Profiles»** و سپس **«Test latency (ping) of selected profile»** کلیک کنید. منتظر بمانید تا پیام اتمام تست در تب **«Logs»** ظاهر شود.
 
-Можно использовать **«nekoray»** - [Ссылка](https://github.com/MatsuriDayo/nekoray/releases)
+**۵.** روی ستون **«Latency (ping)»** کلیک کنید تا سرورها بر اساس پینگ مرتب شوند.
 
-Можно использовать **«v2rayN»** - [Ссылка](https://github.com/2dust/v2rayN/releases)
+**۶.** در بالای صفحه اصلی برنامه، تیک گزینه‌ی **«TUN Mode»** را فعال کنید.
 
-**2.** Копируем в буфер обмена ссылку на конфиг из раздела [Конфигурации](#конфигурации)
-
-**3.** Нажимаем на **«Профили»**, а затем **«Добавить профиль из буфера обмена»**.
-
-**4.** Выделяем все конфиги комбинацией клавиш **«Ctrl + A»**, нажимаем **«Профили»** в верхнем меню, а затем **«Тест задержки (пинга) выбранного профиля»** и дожидаемся окончания теста (во вкладке **«Логи»** появится надпись **«Тест задержек (пинга) завершён!»**)
-
-**5.** Наживаем на кнопку колонки **«Задержка (пинг)»**.
-
-**6.** В верхней части окна программы активируйте опцию **«Режим TUN»**, установив галочку.
-
-**7.** Выбираем один из конфигов с наименьшим **«Задержка (пинг)»**, а затем нажимаем **«ЛКМ»** и **«Запустить»**.
+**۷.** یکی از کانفیگ‌های با پینگ پایین را انتخاب کرده، کلیک راست کنید و گزینه **«Start»** را بزنید.
 
 </details>
 
 <details>
+<summary>راهنمای تکمیلی برای ویندوز</summary>
 
-<summary>Дополнительные руководства для Windows</summary>
+**رفع ارورهای MSVCP و VCRUNTIME در ویندوز 10/11**
+1. کلیدهای **«Win+R»** را بفشارید و کلمه **«control»** را تایپ کنید تا Control Panel باز شود.
+2. وارد **«Programs and Features»** شوید.
+3. در کادر جستجوی بالا سمت راست کلمه **«Visual»** را سرچ کرده و تمام نسخه‌های مربوط به **«Microsoft Visual C++»** را پاک کنید.
+4. این پکیج کامل را دانلود و استخراج کنید - [لینک دانلود](https://cf.comss.org/download/Visual-C-Runtimes-All-in-One-Jul-2025.zip)
+5. فایل **«install_bat.all»** را به صورت *Run as Administrator* اجرا کنید و منتظر بمانید نصب کامل شود.
 
-**Исправляем ошибку MSVCP и VCRUNTIME на Windows 10/11**
-
-1. Нажимаем **«Win+R»** и пишем **«control»**.
-2. Выбираем **«Программы и компоненты»**.
-3. В поиск (справа сверху) пишем слово **«Visual»** и удалям все что касается **«Microsoft Visual»**.
-4. Скачиваем архив и распаковываем - [Ссылка](https://cf.comss.org/download/Visual-C-Runtimes-All-in-One-Jul-2025.zip)
-5. Запускаем от *имени Администратора* **«install_bat.all»** и ждем пока все установиться.
-
-**Обновление конфигов в NekoRay**
-
-1. Нажимаем на кнопку **«Настройки»**.
-2. Выбираем **«Группы»**.
-3. Нажимаем на кнопку **«Обновить все подписки»**.
+**به‌روزرسانی کانفیگ‌ها در NekoRay**
+1. روی دکمه‌ی **«Preferences»** کلیک کنید.
+2. گزینه **«Groups»** را انتخاب کنید.
+3. روی دکمه‌ی **«Update all subscriptions»** کلیک کنید.
 
 </details>
-
 
 ---
 <details>
+<summary>راهنمای آی‌او‌اس و آی‌پد (iOS, iPadOS)</summary>
 
-<summary>Гайд для iOS, iPadOS</summary>
+**۱.** برنامه **«V2Box - V2ray Client»** را دانلود کنید - [لینک اپ‌استور](https://apps.apple.com/ru/app/v2box-v2ray-client/id6446814690)
+برنامه جایگزین: **«Happ»** - [لینک اپ‌استور](https://apps.apple.com/us/app/happ-proxy-utility/id6504287215) (در تنظیمات گزینه Sort by ping فعال شود).
 
-**1.** Скачиваем **«V2Box - V2ray Client»** - [Ссылка](https://apps.apple.com/ru/app/v2box-v2ray-client/id6446814690)
+**۲.** لینک کانفیگ مورد نظر را کپی کنید.
 
-Можно использовать **«Happ»** - [Ссылка](https://apps.apple.com/us/app/happ-proxy-utility/id6504287215), в настройках: Подписки -> сортировать по пингу
+**۳.** وارد برنامه **«V2Box»** شده و به بخش **«Config»** بروید. روی علامت + در بالا سمت راست کلیک کنید و **«Add Subscription»** را بزنید. یک نام دلخواه وارد کرده و لینک را در کادر **«URL»** پیست کنید.
 
-**2.** Копируем в буфер обмена ссылку на конфиг из раздела [Конфигурации](#конфигурации)
+**۴.** پس از اتمام پردازش، با ضربه زدن روی نام هر سرور آن را انتخاب کنید.
 
-**3.** Заходим в приложение **«V2Box - V2ray Client»** и переходим во вкладку **«Config»**, нажимаем на плюсик в правом верхнем углу, затем - **«Добавить подписку»**, вводим любое **«Название»** и вставляем ссылку на конфиг в поле **«URL»**.
+**۵.** در منوی پایینی برنامه، دکمه‌ی **«Connect»** را بزنید.
 
-**4.** После добавления конфига дожидаемся окончания проверки и выбираем нужный, просто нажав на его название.
-
-**5.** В нижней панели программы нажимаем кнопку **«Подключиться»**.
-
-</details>
-
-<details>
-
-<summary>Обновление конфигов в V2Box - V2ray Client</summary>
-
-**1.** Переходим во вкладку **«Config»**.
-
-**2.** Нажимаем на иконку обновления слева от названия группы подписки.
+**به‌روزرسانی کانفیگ‌ها در V2Box:**
+به تب **«Config»** بروید و روی آیکون به‌روزرسانی (فلش چرخشی) در کنار نام گروه اشتراک کلیک کنید.
 
 </details>
-
 
 ---
 <details>
+<summary>راهنمای مک‌او‌اس (MacOS)</summary>
 
-<summary>Гайд для MacOS</summary>
+**۱.** برنامه **«Hiddify»** را دانلود کنید - [لینک دانلود مستقیم](https://github.com/hiddify/hiddify-app/releases/latest/download/Hiddify-MacOS.dmg)
+همچنین می‌توانید از **«v2rayN»** استفاده کنید.
 
-**1.** Скачиваем **«Hiddify»** - [Ссылка](https://github.com/hiddify/hiddify-app/releases/latest/download/Hiddify-MacOS.dmg)
+**۲.** روی گزینه **«New Profile»** کلیک کنید.
 
-Можно использовать **«v2rayN»** - [Ссылка](https://github.com/2dust/v2rayN/releases)
+**۳.** لینک کانفیگ مورد نظر را کپی کنید.
 
-**2.** Нажимаем **«Новый профиль»**.
+**۴.** دکمه‌ی **«Add from Clipboard»** را در برنامه بزنید.
 
-**3.** Копируем в буфер обмена ссылку на конфиг из раздела [Конфигурации](#конфигурации)
+**۵.** به بخش **«Settings»** رفته و گزینه **«Routing Option»** را به **«Indonesia»** تغییر دهید.
 
-**4.** Нажимаем на кнопку **«Добавить из буфера обмена»**.
+**۶.** از منوی تنظیمات بالا سمت چپ، گزینه **«VPN Service»** را انتخاب کنید.
 
-**5.** Перейдите в **«Настройки»**, измените **«Вариант маршрутизации»** на **«Индонезия»**.
+**۷.** با کلیک روی دکمه بزرگ وسط صفحه، **VPN** را روشن کنید.
 
-**6.** Нажмите в левом верхнем меню на иконку настроек и выберите **«VPN сервис»**.
+**۸.** برای تغییر سرورها می‌توانید به تب **«Proxies»** بروید.
 
-**7.** Включаем **«VPN»** нажав на иконку по середине.
-
-**8.** Для смены сервера включите **«VPN»** и перейдите во вкладку **«Прокси»**.
-
-</details>
-
-<details>
-
-<summary>Обновление конфигов в Hiddify</summary>
-
-**1.** Заходим в приложение **«Hiddify»** и выбираем нужный вам профиль.
-
-**2.** Нажимаем **«слева от названия профиля на иконку обновления»**.
+**به‌روزرسانی کانفیگ‌ها در Hiddify:**
+برنامه را باز کرده، پروفایل مربوطه را انتخاب کنید و روی آیکون آپدیت در سمت چپ نام پروفایل کلیک کنید.
 
 </details>
 
 ---
 
-## Дополнительно
+## اطلاعات تکمیلی
 
-### Структура репозитория
+### ساختار ریپازیتوری
 ```text
-githubmirror/        - сгенерированные .txt файлы конфигов
- ├─ default/          - основные конфиги (1.txt, 2.txt, ..., all.txt, all-secure.txt)
- ├─ bypass/           - безопасные конфиги для обхода SNI/CIDR
- │   ├─ raw/          - нетестированные конфиги (перед верификацией)
- │   └─ bypass-all.txt, bypass-1.txt, ... (протестированы, отсортированы по пингу)
- ├─ bypass-unsecure/  - все конфиги для обхода SNI/CIDR (включая небезопасные)
- │   ├─ raw/          - нетестированные конфиги (перед верификацией)
- │   └─ bypass-unsecure-all.txt, bypass-unsecure-1.txt, ... (протестированы, отсортированы по пингу)
- ├─ split-by-protocols/ - протокол-специфичные файлы (vless.txt, vmess.txt, trojan.txt, и т.д. в обеих версиях: secure и unsecure)
- ├─ tg-proxy/         - Telegram прокси (all.txt, MTProto.txt, socks.txt)
-qr-codes/            - PNG-версии конфигов для импорта по QR
-source/              - исходный код генератора
- ├─ main.py          - основная точка входа в приложение
- ├─ config/          - настройки и конфигурационные параметры
- │   ├─ settings.py  - глобальные настройки, токены, URL-источники, часовые пояса
- │   ├─ URLS.txt     - список URL для основных конфигов (секции: default, extra_bypass, yaml, telegram)
- │   ├─ servers.txt  - список ручных серверов для добавления в конфигурации
- │   ├─ whitelist-all.txt - список доменов для SNI фильтрации
- │   └─ cidrwhitelist.txt - список CIDR для IP фильтрации
- ├─ fetchers/        - модули для загрузки конфигов из внешних источников
- │   ├─ fetcher.py   - базовый загрузчик конфигов с curl_cffi (быстрый, обход анти-ботов)
- │   ├─ daily_repo_fetcher.py - загрузка из ежедневно обновляемого репозитория
- │   ├─ telegram_proxy_scraper.py - скрапер Telegram прокси (MTProto и SOCKS5)
- │   └─ yaml_converter.py - конвертер YAML-конфигов (Clash/Surge) в формат VPN URL
- ├─ processors/      - основная обработка и фильтрация конфигов
- │   ├─ config_processor.py - содержит всю основную логику обработки
- │   └─ telegram_proxy_processor.py - обработчик Telegram прокси
- ├─ utils/           - вспомогательные функции и утилиты
- │   ├─ file_utils.py - файловые операции, фильтрация insecure конфигов, SNI/CIDR фильтрация
- │   ├─ logger.py    - потокобезопасное логирование
- │   ├─ github_handler.py - работа с GitHub API
- │   ├─ git_updater.py - Git-коммиты (режим GitHub Actions)
- │   ├─ config_verifier.py - DNS/TCP/HTTP верификация с кэшированием
- │   ├─ xray_batch_tester.py - v2rayN-стиль Xray-core батч-тестирование
- │   └─ telegram_proxy_verifier.py - верификация Telegram прокси
- └─ requirements.txt - зависимости проекта
-.github/workflows/   - CI/CD (авто-обновление ежедневно)
-README.md            - этот файл
-docs/                - документация проекта
-```
-
----
-
-### Локальный запуск генератора
-```bash
-git clone https://github.com/whoahaow/rjsxrd
-cd rjsxrd/source
-python -m pip install -r requirements.txt
-export MY_TOKEN=<GITHUB_TOKEN>   # токен с правом repo, чтобы пушить изменения
-python main.py                   # конфиги появятся в ../githubmirror
-```
-
-> **Важно!** В файле `source/config/settings.py` вручную задайте `REPO_NAME = "<username>/<repository>"`, если запускаете скрипт из форка.
-
-#### Режимы запуска
-
-**Локальное тестирование без загрузки в GitHub:**
-```bash
-python main.py --dry-run
-```
-
-**Запуск в режиме GitHub Actions (использует git команды вместо API):**
-```bash
-python main.py --use-git
-```
-
-**Пропустить Xray верификацию (только TCP проверка, быстрее но менее точно):**
-```bash
-python main.py --skip-xray
-```
-
-#### Зависимости
-
-Основные зависимости:
-- `curl_cffi` - быстрый HTTP клиент с TLS fingerprinting (2-3x быстрее requests)
-- `PyGithub` - работа с GitHub API
-- `PyYAML` - парсинг YAML конфигов (Clash/Surge)
-- `requests[socks]` - HTTP запросы через прокси
-- `aiodns` - асинх DNS резолвинг (опционально, для скорости)
-- `PySocks` - SOCKS прокси поддержка
-
----
-
-### Лицензия
-
-Проект распространяется под лицензией MIT License. Полный текст лицензии содержится в файле [`LICENSE`](LICENSE).
-
----
-
-### Источники и вдохновение
-
-Основной репозиторий, который вдохновил данный проект: https://github.com/AvenCores/goida-vpn-configs
-
----
-
-### ДИСКЛЕЙМЕР
-
-> *Автор не является владельцем/разработчиком/поставщиком перечисленных VPN-конфигураций. Это независимый информационный обзор и результаты тестирования.*
->
-> *Данный пост не является рекламой VPN. Материал предназначен исключительно в информационных целях, и только для граждан тех стран, где эта информация легальна, как минимум - в научных целях.*
-> *Автор не имеет никаких намерений, не побуждает, не поощряет и не оправдывает использование VPN ни при каких обстоятельствах.*
-> *Ответственность за любое применение данных VPN-конфигураций — на их пользователе.*
-> *Отказ от ответственности: автор не несёт ответственность за действия третьих лиц и не поощряет противоправное использование VPN.*
-> *Используйте в соответствии с местным законодательством.*
->
-> *Используйте VPN только в законных целях: в частности - для обеспечения вашей безопасности в сети и защищённого удалённого доступа, и ни в коем случае не применяйте данную технологию для обхода блокировок.*
+githubmirror/         - فایل‌های متنی (.txt) تولید شده برای کانفیگ‌ها
+ ├─ default/          - کانفیگ‌های اصلی (1.txt، 2.txt و ...، all.txt، all-secure.txt)
+ ├─ bypass/           - کانفیگ‌های امن برای عبور از لیست سفید SNI/CIDR
+ │   ├─ raw/          - کانفیگ‌های تست‌نشده خام (پیش از فرآیند تایید نهایی)
+ │   └─ bypass-all.txt, bypass-1.txt, ... (تست شده و مرتب‌شده بر اساس پینگ)
+ ├─ bypass-unsecure/  - تمام کانفیگ‌های عبور از SNI/CIDR (شامل موارد ناامن)
+ │   ├─ raw/          - کانفیگ‌های خام پیش از تایید
+ │   └─ bypass-unsecure-all.txt, bypass-unsecure-1.txt, ... (تست شده و مرتب بر اساس پینگ)
+ ├─ split-by-protocols/ - فایل‌های تفکیک شده بر اساس پروتکل (vless.txt, vmess.txt و... در دو نسخه secure و unsecure)
+ ├─ tg-proxy/         - پروکسی‌های تلگرام (all.txt، MTProto.txt، socks.txt)
+qr-codes/            - نسخه‌های تصاویر PNG از کدهای QR جهت ایمپورت سریع
+source/              - سورس‌کد اصلی برنامه ژنراتور
+ ├─ main.py          - نقطه ورود اصلی برنامه (Main Entry Point)
+ ├─ config/          - فایل‌های پیکربندی و تنظیمات اسکریپت
+ │   ├─ settings.py  - تنظیمات عمومی، توکن‌ها، آدرس منابع ورودی و تایم‌زون‌ها
+ │   ├─ URLS.txt     - لیست تمامی URLهای منابع ورودی کانفیگ‌ها
+ │   ├─ servers.txt  - لیست سرورهای دستی جهت ادغام با خروجی
+ │   ├─ whitelist-all.txt - لیست دامنه‌ها برای فیلترینگ SNI
+ │   └─ cidrwhitelist.txt - لیست آدرس‌های CIDR برای فیلترینگ IP
+ ├─ fetchers/        - ماژول‌های دانلود کانفیگ‌ها از منابع خارجی
+ │   ├─ fetcher.py   - دانلودر پایه با استفاده از curl_cffi (سریع و با قابلیت دور زدن آنتی‌بات)
+ │   ├─ daily_repo_fetcher.py - ماژول دانلود از ریپازیتوری‌های آپدیت روزانه
+ │   ├─ telegram_proxy_scraper.py - اسکرپر اختصاصی پروکسی‌های تلگرام
+ │   └─ yaml_converter.py - مبدل فایل‌های YAML (مانند کلش) به فرمت استاندارد VPN URL
+ ├─ processors/      - بخش پردازش اصلی و فیلترینگ کانفیگ‌ها
+ │   ├─ config_processor.py - حاوی منطق و بیزنس‌لاژیک اصلی پردازش فایل‌ها
+ │   └─ telegram_proxy_processor.py - پردازشگر اختصاصی پروکسی‌های تلگرام
+ ├─ utils/           - توابع کمکی و ابزارهای فرعی پروژه
+ │   ├─ file_utils.py - عملیات روی فایل‌ها، فیلتر کانفیگ‌های ناامن و فیلترینگ SNI/CIDR
+ │   ├─ logger.py    - سیستم لاگ‌نویسی بهینه و Thread-safe
+ │   ├─ github_handler.py - تعامل با رابط GitHub API
+ │   ├─ git_updater.py - ثبت کامیت‌های گیت (مخصوص حالت اجرا در GitHub Actions)
+ │   ├─ config_verifier.py - بررسی وضعیت سرورها (DNS/TCP/HTTP) همراه با قابلیت کش
+ │   ├─ xray_batch_tester.py - تست دسته‌ای سرورها به سبک v2rayN با Xray-core
+ │   └─ telegram_proxy_verifier.py - تایید و ارزیابی پروکسی‌های تلگرام
+ └─ requirements.txt - نیازمندی‌ها و پکیج‌های پایتونی پروژه
+.github/workflows/   - تنظیمات CI/CD (جهت به‌روزرسانی خودکار و روزانه)
+README.md            - همین فایل راهنما
+docs/                - مستندات تکمیلی پروژه
