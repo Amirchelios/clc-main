@@ -89,13 +89,12 @@ class GitUpdater:
     def stage_files(self, file_pairs: List[Tuple[str, str]]):
         """Stage all generated files for commit."""
         log(f"Staging generated files...")
-
-        # Explicitly add the output directory to ensure new files are caught
-        if os.path.exists(os.path.join(self.repo_dir, self.output_prefix)):
-            self._run_git("add", "-A", self.output_prefix, check=False)
-
-        # Also stage any root-level changes
-        self._run_git("add", "-A", ".", check=False)
+        
+        # Force add everything to ensure even untracked files are caught
+        self._run_git("add", "--all", ".")
+        
+        # Specifically ensure placeholders and output folder are staged
+        self._run_git("add", "-f", self.output_prefix, check=False)
         
         log(f"Staging complete")
     
@@ -135,9 +134,9 @@ class GitUpdater:
         log(f"Pushing to origin {branch}...")
         
         if force:
-            self._run_git("push", "-f", "origin", branch)
+            self._run_git("push", "--force", "origin", f"HEAD:{branch}")
         else:
-            self._run_git("push", "origin", branch)
+            self._run_git("push", "origin", f"HEAD:{branch}")
         
         log("Push successful")
     

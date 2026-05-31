@@ -671,43 +671,42 @@ def _verify_config_file(input_path: str, configs: List[str] = None, verbose: boo
 
 def initialize_output_structure(output_dir: str):
     """Initialize output directory structure and create placeholder files to ensure they are tracked by Git."""
-    log(f"Initializing output directory structure at {output_dir}...")
+    log(f"Initializing/Syncing output directory structure at {output_dir}...")
     
     folders = [
-        "default",
-        "bypass",
-        "bypass/raw",
-        "bypass-unsecure",
-        "bypass-unsecure/raw",
-        "split-by-protocols",
-        "tg-proxy"
+        os.path.join(output_dir, "default"),
+        os.path.join(output_dir, "bypass"),
+        os.path.join(output_dir, "bypass/raw"),
+        os.path.join(output_dir, "bypass-unsecure"),
+        os.path.join(output_dir, "bypass-unsecure/raw"),
+        os.path.join(output_dir, "split-by-protocols"),
+        os.path.join(output_dir, "tg-proxy"),
+        "../qr-codes"
     ]
     
     for folder in folders:
-        path = os.path.join(output_dir, folder)
-        os.makedirs(path, exist_ok=True)
-        # Create .gitkeep to ensure directory structure is maintained in Git
-        gitkeep_path = os.path.join(path, ".gitkeep")
+        os.makedirs(folder, exist_ok=True)
+        # Ensure directory is tracked by Git
+        gitkeep_path = os.path.join(folder, ".gitkeep")
         if not os.path.exists(gitkeep_path):
             with open(gitkeep_path, "w") as f:
                 pass
     
     # Create empty placeholders for main subscription files
     placeholders = [
-        "default/all.txt",
-        "default/all-secure.txt",
-        "bypass/bypass-all.txt",
-        "bypass-unsecure/bypass-unsecure-all.txt",
-        "tg-proxy/mtproto.txt",
-        "tg-proxy/socks5.txt"
+        os.path.join(output_dir, "default/all.txt"),
+        os.path.join(output_dir, "default/all-secure.txt"),
+        os.path.join(output_dir, "bypass/bypass-all.txt"),
+        os.path.join(output_dir, "bypass-unsecure/bypass-unsecure-all.txt"),
+        os.path.join(output_dir, "tg-proxy/mtproto.txt"),
+        os.path.join(output_dir, "tg-proxy/socks5.txt")
     ]
     
     for placeholder in placeholders:
-        full_path = os.path.join(output_dir, placeholder)
-        if not os.path.exists(full_path):
-            os.makedirs(os.path.dirname(full_path), exist_ok=True)
-            with open(full_path, "w", encoding="utf-8") as f:
-                f.write("# Initializing configuration file\n")
+        if not os.path.exists(placeholder):
+            os.makedirs(os.path.dirname(placeholder), exist_ok=True)
+            with open(placeholder, "w", encoding="utf-8") as f:
+                f.write("# Initializing VPN configuration file (placeholder)\n")
 
 
 def process_all_configs(output_dir: str = "../githubmirror") -> List[Tuple[str, str]]:
