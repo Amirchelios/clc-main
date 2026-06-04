@@ -4,13 +4,13 @@
 #announce: Amirchelios
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:443?allowInsecure=0&encryption=none&flow=xtls-rprx-vision&fp=edge&insecure=0&security=tls&sni=r1.mizulina.top#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM%20clc-main
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-09.vk-cdnvideo.com:8443?allowInsecure=0&encryption=none&fp=chrome&security=tls&sni=cdn7-09.vk-cdnvideo.com#%E8%8B%B1%E5%9B%BD+V2CROSS.COM%20clc-main
-vless://8926050b-c552-4e38-9a74-ca9658a3b078@65.109.192.37:10964?encryption=none&fp=chrome&pbk=LbSYmRt8INMMX6h_-Pzso_Qh2GfHcFOaoyV4IgBKPzs&security=reality&sid=4e5e&sni=www.yahoo.com#%E7%BE%8E%E5%9B%BD+Alabanza%20clc-main
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?allowInsecure=0&encryption=none&flow=xtls-rprx-vision&insecure=0&security=tls&sni=r1.mizulina.top#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM%20clc-main
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@213.171.30.187:8443?Telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&encryption=none&security=tls&sni=cdn3-87.vk-cdnvideo.com#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM%20clc-main
-vmess://eyJ2IjoiMiIsInBzIjoi6Iux5Zu9IFYyQ1JPU1MuQ09NIiwiYWRkIjoiODIuMTk4LjI0Ni4yNTAiLCJwb3J0IjoiMTgwIiwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCJ9#%20clc-main
-trojan://humanity@104.20.6.134:443?allowInsecure=0&alpn=http%2F1.1&fp=chrome&host=www.calmloud.com&insecure=0&path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9%20clc-main
-hysteria2://ff488c48-b745-4d65-a6a1-0339be0b7fd7@okrs01.7770123.xyz:15219?insecure=0&security=tls&sni=okrs01.7770123.xyz#%E7%BE%8E%E5%9B%BD+%E5%BE%B7%E5%85%8B%E8%90%A8%E6%96%AF%E5%B7%9E%E8%BE%BE%E6%8B%89%E6%96%AFOracle%28Zenedge%29%20clc-main
-vless://17451fec-af94-4715-8c2f-7f6839130d0a@96.126.129.195:2040?encryption=none&fp=chrome&pbk=LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0&security=reality&sid=53197c66aef53c44&sni=tradingview.com#%E7%BE%8E%E5%9B%BD+V2CROSS.COM%20clc-main
-trojan://humanity@sourceforge.net:443?alpn=http%2F1.1&fp=chrome&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9%20clc-main
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn3-25.vk-cdnvideo.com:8443?encryption=none&host=cdn3-25.vk-cdnvideo.com&path=%2F&security=tls#%E8%8A%82%E7%82%B9%E6%97%A5%E6%9C%9F%EF%BC%9A2026-06-04%20clc-main
+ss://YWVzLTEyOC1nY206SlZyc0xMTjF0a044b1haTw==@chengbai02.ascwt179.com:13223#US%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%911%20clc-main
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn9-33.vk-cdnvideo.com:8443?allow_insecure=0&encryption=none&security=tls&sni=cdn9-33.vk-cdnvideo.com#RU%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%912%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3R20xc2RDU1JXQjQ2Q3JP@20.164.45.116:443#ZA%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%913%20clc-main
+vless://53860602-f0ea-4bb0-bc10-852a27606b87@45.39.241.51:20607?allowInsecure=0&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&insecure=0&security=tls&sni=45.39.241.51#BG%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%914%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@61.231.18.14:50099#TW%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%915%20clc-main
+vless://6a8233fe-6fc0-4dd8-aab2-d4063c16089c@5.144.179.56:45466?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&security=tls#FI%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%916%20clc-main
+vmess://eyJ2IjoiMiIsInBzIjoi5pWP5oSf5pe25pyf77yM5pu05paw5pqC5YGcIiwiYWRkIjoiMC4wLjAuMCIsInBvcnQiOiIxIiwiaWQiOiI4ODg4ODg4OC04ODg4LTg4ODgtODg4OC04ODg4ODg4ODg4ODgiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInNuaSI6IndlYi41MS5sYSJ9#%20clc-main
+vmess://eyJ2IjoiMiIsInBzIjoi5aaC5pyJ6ZyA6KaB77yM6Ieq6KGM5pCt5bu6IiwiYWRkIjoiMC4wLjAuMCIsInBvcnQiOiIyIiwiaWQiOiI4ODg4ODg4OC04ODg4LTg4ODgtODg4OC04ODg4ODg4ODg4ODgiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInNuaSI6IndlYi41MS5sYSJ9#%20clc-main
+vmess://eyJ2IjoiMiIsInBzIjoi5bqG56Wd5Lit5Y2O5Lq65rCR5YWx5ZKM5Zu95oiQ56uLNzblkajlubTvvIEiLCJhZGQiOiIwLjAuMC4wIiwicG9ydCI6IjMiLCJpZCI6Ijg4ODg4ODg4LTg4ODgtODg4OC04ODg4LTg4ODg4ODg4ODg4OCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwic25pIjoid2ViLjUxLmxhIn0#%20clc-main
