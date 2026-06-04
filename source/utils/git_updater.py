@@ -87,16 +87,26 @@ class GitUpdater:
                 raise
     
     def stage_files(self, file_pairs: List[Tuple[str, str]]):
-        """Stage all generated files for commit."""
-        log(f"Staging generated files...")
-        
-        # Force add everything to ensure even untracked files are caught
-        self._run_git("add", "--all", ".")
-        
-        # Specifically ensure placeholders and output folder are staged
-        self._run_git("add", "-f", self.output_prefix, check=False)
-        
-        log(f"Staging complete")
+        """Stage only the files explicitly produced by the current run."""
+        log("Staging generated files...")
+
+        staged_paths = set()
+        for local_path, remote_path in file_pairs:
+            if not local_path:
+                continue
+            rel_path = os.path.relpath(local_path, self.repo_dir)
+            staged_paths.add(rel_path)
+
+        if not staged_paths:
+            log("No generated files to stage")
+            return
+
+        # Use force add so newly created tracked/untracked outputs are included,
+        # but only for the exact files returned by the generator.
+        for rel_path in sorted(staged_paths):
+            self._run_git("add", "-f", "--", rel_path, check=False)
+
+        log(f"Staging complete: {len(staged_paths)} file(s)")
     
     def has_changes(self) -> bool:
         """Check if there are staged changes."""
