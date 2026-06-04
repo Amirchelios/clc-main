@@ -105,7 +105,6 @@ SNI_DOMAINS = load_sni_domains()
 
 # Split configuration
 MAX_SERVERS_PER_FILE = 300
-MANAGED_SUBSCRIPTION_LIMIT = int(os.environ.get("MANAGED_SUBSCRIPTION_LIMIT", "300"))
 
 # Other settings
 DEFAULT_MAX_WORKERS = int(os.environ.get("MAX_WORKERS", "16"))

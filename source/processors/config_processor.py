@@ -16,7 +16,7 @@ sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 # Pre-compiled base64 pattern for performance
 _BASE64_PATTERN = re.compile(r'^[A-Za-z0-9+/]+=*$')
 
-from config.settings import URLS, URLS_EXTRA_BYPASS, URLS_YAML, MANUAL_SERVERS, DEFAULT_MAX_WORKERS, TELEGRAM_PROXY_URLS, VALIDATION_MAX_WORKERS, VALIDATION_TCP_TIMEOUT, VALIDATION_HTTP_TIMEOUT, MANAGED_SUBSCRIPTION_LIMIT
+from config.settings import URLS, URLS_EXTRA_BYPASS, URLS_YAML, MANUAL_SERVERS, DEFAULT_MAX_WORKERS, TELEGRAM_PROXY_URLS, VALIDATION_MAX_WORKERS, VALIDATION_TCP_TIMEOUT, VALIDATION_HTTP_TIMEOUT
 from config.constants import V2RAYN_MAX_CONCURRENCY, MAX_SAFE_CONCURRENCY
 from fetchers.fetcher import fetch_data, build_session
 from fetchers.daily_repo_fetcher import fetch_configs_from_daily_repo
@@ -110,9 +110,6 @@ def download_all_configs(output_dir: str = "../githubmirror", scan_for_telegram_
         )
         return configs
 
-    def managed_limit_remaining() -> int:
-        return max(0, MANAGED_SUBSCRIPTION_LIMIT - ingestion_totals.final_saved_count)
-
     # Create output directories
     os.makedirs(f"{output_dir}/default", exist_ok=True)
     os.makedirs(f"{output_dir}/bypass", exist_ok=True)
@@ -135,7 +132,7 @@ def download_all_configs(output_dir: str = "../githubmirror", scan_for_telegram_
                     content = future.result()
                     corresponding_url = future_to_url[future]
                     
-                    configs = ingest_source_content(content, corresponding_url, limit=managed_limit_remaining())
+                    configs = ingest_source_content(content, corresponding_url)
                     
                     all_configs.extend(configs)
                     numbered_configs_with_urls.append((configs, corresponding_url))
@@ -163,7 +160,7 @@ def download_all_configs(output_dir: str = "../githubmirror", scan_for_telegram_
                     content = future.result()
                     corresponding_url = future_to_url[future]
                     
-                    configs = ingest_source_content(content, corresponding_url, limit=managed_limit_remaining())
+                    configs = ingest_source_content(content, corresponding_url)
                     
                     extra_bypass_configs.extend(configs)
                     all_configs.extend(configs)
@@ -191,7 +188,7 @@ def download_all_configs(output_dir: str = "../githubmirror", scan_for_telegram_
                     vpn_configs = convert_yaml_to_vpn_configs(yaml_content)
                     corresponding_url = future_to_url[future]
                     if vpn_configs:
-                        vpn_configs = ingest_source_links(vpn_configs, corresponding_url, limit=managed_limit_remaining())
+                        vpn_configs = ingest_source_links(vpn_configs, corresponding_url)
                         all_configs.extend(vpn_configs)
                         numbered_configs_with_urls.append((vpn_configs, corresponding_url))
                         
@@ -208,7 +205,7 @@ def download_all_configs(output_dir: str = "../githubmirror", scan_for_telegram_
 
     # Download from daily-updated repository
     try:
-        daily_configs = ingest_source_links(fetch_configs_from_daily_repo(), "DAILY_REPO", limit=managed_limit_remaining())
+        daily_configs = ingest_source_links(fetch_configs_from_daily_repo(), "DAILY_REPO")
         all_configs.extend(daily_configs)
         numbered_configs_with_urls.append((daily_configs, "DAILY_REPO"))
         log(f"Downloaded {len(daily_configs)} configs from daily-updated repository")
