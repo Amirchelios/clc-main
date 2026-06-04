@@ -718,7 +718,7 @@ def initialize_output_structure(output_dir: str):
         os.path.join(output_dir, "default/all-secure.txt"),
         os.path.join(output_dir, "bypass/bypass-all.txt"),
         os.path.join(output_dir, "bypass-unsecure/bypass-unsecure-all.txt"),
-        os.path.join(output_dir, "tg-proxy/mtproto.txt"),
+        os.path.join(output_dir, "tg-proxy/MTProto.txt"),
         os.path.join(output_dir, "tg-proxy/socks5.txt")
     ]
     
