@@ -16,12 +16,13 @@ sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 # Pre-compiled base64 pattern for performance
 _BASE64_PATTERN = re.compile(r'^[A-Za-z0-9+/]+=*$')
 
-from config.settings import URLS, URLS_EXTRA_BYPASS, URLS_YAML, MANUAL_SERVERS, DEFAULT_MAX_WORKERS, TELEGRAM_PROXY_URLS, VALIDATION_MAX_WORKERS, VALIDATION_TCP_TIMEOUT, VALIDATION_HTTP_TIMEOUT
+from config.settings import URLS, URLS_EXTRA_BYPASS, URLS_YAML, MANUAL_SERVERS, DEFAULT_MAX_WORKERS, TELEGRAM_PROXY_URLS, VALIDATION_MAX_WORKERS, VALIDATION_TCP_TIMEOUT, VALIDATION_HTTP_TIMEOUT, MANAGED_SUBSCRIPTION_LIMIT
 from config.constants import V2RAYN_MAX_CONCURRENCY, MAX_SAFE_CONCURRENCY
 from fetchers.fetcher import fetch_data, build_session
 from fetchers.daily_repo_fetcher import fetch_configs_from_daily_repo
 from utils.file_utils import save_to_local_file, load_from_local_file, split_config_file, deduplicate_configs, prepare_config_content, filter_secure_configs, has_insecure_setting, apply_sni_cidr_filter, split_file_by_size
 from utils.logger import log
+from utils.subscription_ingestion import IngestionStats, ingest_proxy_links, ingest_subscription_content
 from processors.telegram_proxy_processor import TelegramProxyProcessor
 
 
@@ -84,6 +85,33 @@ def download_all_configs(output_dir: str = "../githubmirror", scan_for_telegram_
     numbered_configs_with_urls = []  # Will store (configs, url) tuples for numbered files
     all_mtproto_proxies = []
     all_socks5_proxies = []
+    ingestion_seen_keys = set()
+    ingestion_totals = IngestionStats()
+
+    def ingest_source_content(content: str, source_label: str, limit: Optional[int] = None) -> List[str]:
+        configs, stats = ingest_subscription_content(content, seen_identity_keys=ingestion_seen_keys, limit=limit)
+        ingestion_totals.merge(stats)
+        log(
+            f"Ingestion stats for {source_label[:80]}: raw={stats.raw_count}, parsed={stats.parsed_count}, "
+            f"invalid_removed={stats.invalid_removed}, duplicates_removed={stats.duplicates_removed}, "
+            f"limited_removed={stats.limited_removed}, final_saved={stats.final_saved_count}, "
+            f"aggregate_outbounds={stats.final_aggregate_outbound_count}"
+        )
+        return configs
+
+    def ingest_source_links(links: List[str], source_label: str, limit: Optional[int] = None) -> List[str]:
+        configs, stats = ingest_proxy_links(links, seen_identity_keys=ingestion_seen_keys, limit=limit)
+        ingestion_totals.merge(stats)
+        log(
+            f"Ingestion stats for {source_label[:80]}: raw={stats.raw_count}, parsed={stats.parsed_count}, "
+            f"invalid_removed={stats.invalid_removed}, duplicates_removed={stats.duplicates_removed}, "
+            f"limited_removed={stats.limited_removed}, final_saved={stats.final_saved_count}, "
+            f"aggregate_outbounds={stats.final_aggregate_outbound_count}"
+        )
+        return configs
+
+    def managed_limit_remaining() -> int:
+        return max(0, MANAGED_SUBSCRIPTION_LIMIT - ingestion_totals.final_saved_count)
 
     # Create output directories
     os.makedirs(f"{output_dir}/default", exist_ok=True)
@@ -107,15 +135,7 @@ def download_all_configs(output_dir: str = "../githubmirror", scan_for_telegram_
                     content = future.result()
                     corresponding_url = future_to_url[future]
                     
-                    # Try to parse as regular configs first
-                    configs = prepare_config_content(content)
-                    
-                    # If no configs found, try base64 decoding
-                    if not configs:
-                        decoded_content = _try_decode_base64_content(content)
-                        if decoded_content:
-                            log(f"Auto-detected base64 format for {corresponding_url[:80]}...")
-                            configs = prepare_config_content(decoded_content)
+                    configs = ingest_source_content(content, corresponding_url, limit=managed_limit_remaining())
                     
                     all_configs.extend(configs)
                     numbered_configs_with_urls.append((configs, corresponding_url))
@@ -143,15 +163,7 @@ def download_all_configs(output_dir: str = "../githubmirror", scan_for_telegram_
                     content = future.result()
                     corresponding_url = future_to_url[future]
                     
-                    # Try to parse as regular configs first
-                    configs = prepare_config_content(content)
-                    
-                    # If no configs found, try base64 decoding
-                    if not configs:
-                        decoded_content = _try_decode_base64_content(content)
-                        if decoded_content:
-                            log(f"Auto-detected base64 format for {corresponding_url[:80]}...")
-                            configs = prepare_config_content(decoded_content)
+                    configs = ingest_source_content(content, corresponding_url, limit=managed_limit_remaining())
                     
                     extra_bypass_configs.extend(configs)
                     all_configs.extend(configs)
@@ -179,6 +191,7 @@ def download_all_configs(output_dir: str = "../githubmirror", scan_for_telegram_
                     vpn_configs = convert_yaml_to_vpn_configs(yaml_content)
                     corresponding_url = future_to_url[future]
                     if vpn_configs:
+                        vpn_configs = ingest_source_links(vpn_configs, corresponding_url, limit=managed_limit_remaining())
                         all_configs.extend(vpn_configs)
                         numbered_configs_with_urls.append((vpn_configs, corresponding_url))
                         
@@ -195,7 +208,7 @@ def download_all_configs(output_dir: str = "../githubmirror", scan_for_telegram_
 
     # Download from daily-updated repository
     try:
-        daily_configs = fetch_configs_from_daily_repo()
+        daily_configs = ingest_source_links(fetch_configs_from_daily_repo(), "DAILY_REPO", limit=managed_limit_remaining())
         all_configs.extend(daily_configs)
         numbered_configs_with_urls.append((daily_configs, "DAILY_REPO"))
         log(f"Downloaded {len(daily_configs)} configs from daily-updated repository")
@@ -214,7 +227,7 @@ def download_all_configs(output_dir: str = "../githubmirror", scan_for_telegram_
 
     # Add manual servers from servers.txt
     if MANUAL_SERVERS:
-        manual_configs = prepare_config_content("\n".join(MANUAL_SERVERS))
+        manual_configs = ingest_source_links(prepare_config_content("\n".join(MANUAL_SERVERS)), "MANUAL_SERVERS", limit=None)
         all_configs.extend(manual_configs)
         extra_bypass_configs.extend(manual_configs)
         numbered_configs_with_urls.append((manual_configs, "MANUAL_SERVERS"))
@@ -224,6 +237,13 @@ def download_all_configs(output_dir: str = "../githubmirror", scan_for_telegram_
     total_downloaded = sum(len(cfgs) for cfgs, _ in numbered_configs_with_urls)
     fetch_elapsed = time.time() - fetch_start_time
     log(f"DOWNLOAD COMPLETE: {total_downloaded} configs from {len(numbered_configs_with_urls)} sources in {fetch_elapsed:.2f}s (parallel fetching enabled)")
+    log(
+        "INGESTION TOTALS: "
+        f"raw={ingestion_totals.raw_count}, parsed={ingestion_totals.parsed_count}, "
+        f"invalid_removed={ingestion_totals.invalid_removed}, duplicates_removed={ingestion_totals.duplicates_removed}, "
+        f"limited_removed={ingestion_totals.limited_removed}, final_saved={len(all_configs)}, "
+        f"final_aggregate_outbound_count={len(all_configs)}"
+    )
 
     # Deduplicate telegram proxies
     if scan_for_telegram_proxies:
