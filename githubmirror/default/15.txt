@@ -4,12 +4,10 @@
 #announce: Amirchelios
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnMTNTN2RvWGFyMEE=@205.134.180.137:443#美国/United States%20clc-main
-vmess://eyJ2IjoiMiIsInBzIjoi8J-UpUpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTvCfn6MiLCJhZGQiOiIzNS4xNzcuNjYuOTciLCJwb3J0IjoiMTAwNiIsImlkIjoiNzk2NmMzZWEtZDc0NC00ODZkLWIwZDEtNTdhNzQ5NjQyY2E3IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AifQ#%20clc-main
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1REpYUnBtaTNpeXF4UTc5UGZLdjNC@195.93.253.240:14130#荷兰/The Netherlands%20clc-main
-trojan://2bcfbfba-b446-4ad5-93ad-72af9e008f61@blackshadow.dpdns.org:443?Telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&host=support.zoom.us.&path=%2F195.123.218.174-443&sni=support.zoom.us.&type=ws#德国/法兰克福/Germany/Frankfurt am Main%20clc-main
-vmess://eyJ2IjoiMiIsInBzIjoi8J-HrvCfh7NJTi0xNTIuNjcuOC4yMDUtMDE4NSIsImFkZCI6IjE1Mi42Ny44LjIwNSIsInBvcnQiOiI4MCIsImlkIjoiOWRiNGM3MDgtYWVmOC00MzU5LTgyMWItMzhlNDc5OTBiZTBkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8iLCJzbmkiOiIxNTIuNjcuOC4yMDUifQ#%20clc-main
-vless://8338171d-2ea7-4015-bdea-492f3d5d4e60@5.182.36.56:45886?allowInsecure=0&encryption=none&fp=chrome&pbk=zJeLZDPHoHMcAzBJh38tSavofNlkBrpADFx9jVVPil0&security=reality&sid=94f9&sni=yahoo.com&spx=%2F#俄罗斯联邦/Russia%20clc-main
-vless://69a2af58-d74a-44ca-864a-e09b493f4274@213.176.77.65:443?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=1kAsEwUWwatnjpeQ2qUwHSccFucFOKzXVICm9tC0eWA&security=reality&sid=25425ff6fa&sni=www.google.com#伊朗/Iran%20clc-main
-vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@83.243.86.118:10443?encryption=none&flow=xtls-rprx-vision&fp=chrome&path=%2F&pbk=WeShDM0MdunM6N8btrY8tXlL0GT1Ah-0jcplNQf9FEo&security=reality&sni=www.cloudflare.com#德国/柏林/Germany/Berlin%20clc-main
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxa1ZyMEtBVElKSTdtd09G@admin.c1.havij.co:443#英国/伦敦/United Kingdom/London%20clc-main
+trojan://2a9ba60d-10ce-4f79-97e7-817334456195@3.85.62.200:54527?security=tls&sni=tr7.tgcunzhang.xyz#美国/洛杉矶/United States/Los Angeles%20clc-main
+ss://YWVzLTEyOC1nY206NjJjNGY0YTctNTI4OS00YTBmLTk4ZjAtNDA3ZGE4MTAzZGMw@didiaosanwan.fkfkd.cn:27186#德国/贡岑豪森/Germany/Gunzenhausen%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNXA2d3c0bzY3SEI=@108.181.118.10:8388#加拿大/Canada%20clc-main
+trojan://duaR-NjjdGGLeZ+W6j=3NY46vZW+zyMD1z@89.125.95.152:11300?path=%2F&sni=www.toughapp.click#阿联酋/United Arab Emirates%20clc-main
+vless://353d1d68-1523-415e-9d89-d14a9a55e253@best2.darkteam.info:443?encryption=none&host=speedtest.net&path=%2FDarkTeam_VPN&type=ws#乌克兰/Ukraine%20clc-main
+vless://0799a47d-d446-4a20-8e75-441fa899fbb1@104.16.72.70:443?allowInsecure=0&encryption=none&host=unnes.ac.id.r3xxe.eu.cc&insecure=0&path=%2Fid-pusat&security=tls&sni=unnes.ac.id.r3xxe.eu.cc&type=ws#瑞士/Switzerland%20clc-main
+hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@185.228.139.247:4433?insecure=1&sni=de2.xiaoliyu.cyou#德国/纽伦堡/Germany/Nuremberg%20clc-main
