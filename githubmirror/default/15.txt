@@ -4,5 +4,14 @@
 #announce: Amirchelios
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
-vmess://eyJ2IjoiMiIsInBzIjoi8J-UpUpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTvCfn6MiLCJhZGQiOiIxMDQuMjEuNy4xMDEiLCJwb3J0IjoiODAiLCJpZCI6IjRlNDVjMWI0LTkxMDctNDVkZC05OTk1LWNkZjdjYmI0NGQ5ZCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiZ2JuaC4wbm4uY2N3dS5jYyIsInBhdGgiOiIvaVNSV1NLVUpLTnVYdlZ6c1lIbXNNcm5PIn0#%20clc-main
-trojan://Hu4CFM0wJ3@38.150.13.140:57063?security=tls&sni=38.150.13.140#荷兰/The Netherlands%20clc-main
+vless://3ebbad76-f6fa-5781-afa3-f66afd82549f@172.65.153.227:25565?encryption=none&headerType=http#美国/United States%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQMnp4WFBld2xWM0JsZnFxWWlTdGh2dExj@212.113.106.243:12949#英国/United Kingdom%20clc-main
+vless://ZoRoVpN@203.202.232.11:36068?encryption=none&host=Play.google.com&path=%2FZoRoVpn&type=ws#土耳其/伊斯坦布尔/Türkiye/Istanbul%20clc-main
+ss://YWVzLTEyOC1nY206NTIzejJmZ3JkN2p4MHo1eHY2bzU=@167.160.90.51:11475#美国/洛杉矶/United States/Los Angeles%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwNzhuYUNmMkVmT2xSU0xUWDB3RlZ4@71.19.148.143:443#美国/圣克拉拉/United States/Santa Clara%20clc-main
+vless://43488128-319e-f480-64ea-0acdc712e2a8@178.159.10.78:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=6tORX9bm6UlGJ4dR8L2kzOd21oSrOyzpN7gC6SqGGyc&security=reality&sid=d27683580fc15f1e&sni=www.vodafone.co.uk#英国/伦敦/United Kingdom/London%20clc-main
+vless://a7b1b295-89c0-4794-bc3b-13af6cf63312@185.162.11.223:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=htJuCzotUMp7MYP7ZEWKWT1iEuAbr5cDKoX32Ego6WE&security=reality&sid=edbc04c389&sni=sun6-21.userapi.com#荷兰/哈勒姆/The Netherlands/Haarlem%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzRAcjNtcmNnMDAxMjg2ZWsyLmN5YmVydmVuYS5jb206NTAwOTk=#台湾/新北/Taiwan/New Taipei City%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRclFmUTF1SVBxVDZ1Y1p1amlVdzhs@45.95.232.138:443#瑞士/苏黎世/Switzerland/Zurich%20clc-main
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206M1VlYlltOEhXOERVN2lNczFPMHBldz09@47.80.24.245:8127#韩国/首尔特别市/South Korea/Seoul%20clc-main
+ss://YWVzLTEyOC1nY206d2NqTW5pQ09EZmh6MjZQN0wyQnZwRURRZmhvZ2JGVGw@161.129.71.148:17913#美国/亚特兰大/United States/Atlanta%20clc-main
