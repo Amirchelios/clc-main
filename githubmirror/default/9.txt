@@ -1,4 +1,4 @@
-#profile-title: 9-9/25 @Amirchelios
+#profile-title: 9-9/26 @Amirchelios
 #profile-update-interval: 48
 #support-url: https://github.com/Amirchelios/clc-main
 #announce: Amirchelios
@@ -10,13 +10,20 @@ vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@45.130.125.69:8443?allowInsecure=1&
 vless://8b648e4c-ac38-4809-951b-e1c8862b13d1@45.149.115.148:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=0pX0dvxDHHJS2uK0t_SHauP1LB65JsRD1kQp9MK9vjI&security=reality&sid=96&sni=google.com#DE🇩🇪%20clc-main
 vless://081efe27-f6b8-4f60-aedb-3c9effe9c67d@poe.com:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=80bab3a2.gon-7ye.pages.dev&insecure=1&path=%2F&security=tls&sni=80bab3a2.gon-7ye.pages.dev&type=ws#US🇺🇸%20clc-main
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.244.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&insecure=1&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#CR🇨🇷%20clc-main
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@clyde.ns.cloudflare.com:2096?allowInsecure=1&encryption=none&host=hetz.x-smm.com&insecure=1&path=%2F45.76.183.217%3D49292&security=tls&sni=hetz.x-smm.com&type=ws#US🇺🇸%20clc-main
 vless://e6eec2e9-f98d-4fd4-afac-c504123231cf@104.16.89.18:443?allowInsecure=1&encryption=none&host=rukawa.pages.dev&insecure=1&path=%2F&security=tls&sni=rukawa.pages.dev&type=ws#US🇺🇸%20clc-main
+vless://d9a83363-40a6-4a21-9dbe-cb2b7d287048@104.26.15.21:443?allowInsecure=1&encryption=none&host=afrcloud22.mmv.kr&insecure=1&path=%2F107.174.121.122%3D443&security=tls&sni=afrcloud22.mmv.kr&type=ws#US🇺🇸%20clc-main
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.49.1:23576?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn#DE🇩🇪%20clc-main
+vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@nodejs.org:443?allowInsecure=0&encryption=none&host=afrcloud22.mmv.kr&insecure=0&path=%2F164.52.2.98%3D443&security=tls&sni=afrcloud22.mmv.kr&type=ws#US🇺🇸%20clc-main
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.71.136.139:443?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&insecure=1&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#GB🇬🇧%20clc-main
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@94.130.132.180:8443?allowInsecure=0&encryption=none&fp=chrome&host=sni.111000.indevs.in&insecure=0&path=%2F%3Fed%3D2560&security=tls&sni=sni.111000.indevs.in&type=ws#DE🇩🇪%20clc-main
 vless://6fab6cc6-e340-4073-93e1-c6c6802002c7@104.26.14.21:443?allowInsecure=1&encryption=none&host=afrcloud22.mmv.kr&insecure=1&path=%2F167.179.110.68%3D8443&security=tls&sni=afrcloud22.mmv.kr&type=ws#US🇺🇸%20clc-main
 vless://a6430e91-38ad-4254-b7db-d1fba6efd9e3@nodejs.org:443?allowInsecure=1&encryption=none&host=afrcloud22.mmv.kr&insecure=1&path=%2F129.146.254.25%3A443&security=tls&sni=afrcloud22.mmv.kr&type=ws#US🇺🇸%20clc-main
+vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@www.speedtest.net:443?allowInsecure=0&encryption=none&host=afrcloud22.mmv.kr&insecure=0&path=%2F209.97.173.243%3D443&security=tls&sni=afrcloud22.mmv.kr&type=ws#US🇺🇸%20clc-main
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.17.98.251:443?allowInsecure=0&encryption=none&host=afrcloud22.mmv.kr&insecure=0&path=%2F&security=tls&sni=joinProxyVPN11.afrcloud22.mmv.kr&type=ws#US🇺🇸%20clc-main
 vmess://eyJ2IjoiMiIsInBzIjoiVVPwn4e68J-HuCIsImFkZCI6InRnanUub3JnIiwicG9ydCI6IjgwODAiLCJpZCI6ImU4YjE1MDBiLWU5ZTgtNTQ5Mi04MzEyLWY0ZWFkZjdkMDc2NyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6Im5hc25ldC01NzEyOTY0OTcuaXJhbnByZXNzLmNvIiwicGF0aCI6Ii9uYXNuZXQvY2RuIn0#%20clc-main
+vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?allowInsecure=0&encryption=none&fp=chrome&host=afrcloud22.mmv.kr&insecure=0&path=%2F43.218.77.16%3D1443&security=tls&sni=Pulavpn11.afrcloud22.mmv.kr&type=ws#US🇺🇸%20clc-main
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.12.151:443?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&insecure=1&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#US🇺🇸%20clc-main
 vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@202.84.53.85:30816?allowInsecure=0&encryption=none&host=ylnhh.cc.cd&insecure=0&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&security=tls&sni=ylnhh.cc.cd&type=ws#JP🇯🇵%20clc-main
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@151.242.165.136:59124?alpn=http%2F1.1&encryption=none&fp=random&host=snippet.fgfw.indevs.in&path=%2Fdanfeng&security=tls&sni=snippet.fgfw.indevs.in&type=ws#JP🇯🇵%20clc-main
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@103.75.118.144:2053?encryption=none&fp=random&host=snippet.fgfw.ye.gs&path=%2Fdanfeng&security=tls&sni=snippet.fgfw.ye.gs&type=ws#JP🇯🇵%20clc-main
@@ -39,6 +46,7 @@ vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@146.56.43.189:34454?allowInsecure=0
 vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@45.77.25.6:48828?allowInsecure=0&encryption=none&host=ylnhh.cc.cd&insecure=0&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&security=tls&sni=ylnhh.cc.cd&type=ws#INT🌍%20clc-main
 vless://4dc817f7-2595-4330-a1b0-e35e7c6b803a@www.ptnk.sry-vpn.com:80?encryption=none&host=www.ptnk.sry-vpn.com&path=%2Fvless&type=ws#INT🌍%20clc-main
 vmess://eyJ2IjoiMiIsInBzIjoiSU5U8J-MjSIsImFkZCI6IjM4LjEwNy4yMzQuNTciLCJwb3J0IjoiODAiLCJpZCI6IjU2N2Y0YmU1LTEyYWItNDJlMS1iOGQ5LWRiNmZkMWZkZDMxYyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiM2gta2F6YWtoc3RhbjEuMDl2cG4uY29tIiwicGF0aCI6Ii92bWVzcy8ifQ#%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphODIwMWJiZDc0MDQyMGJi@213.156.137.142:43659?Â¬e=@FreeOnlineVPN#INT🌍%20clc-main
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@83.138.55.120:2053?encryption=none&fp=random&host=snippet.fgfw.ye.gs&path=%2Fdanfeng&security=tls&sni=snippet.fgfw.ye.gs&type=ws#INT🌍%20clc-main
 vless://a58b71d9-7bb6-4c83-b17d-732655d20959@217.13.105.19:1443?encryption=none&flow=xtls-rprx-vision&fp=randomized&pbk=cDLK-I36SU8b7H7u-ZFyoMTjVKnbfQfKjhQvzTf13Dw&security=reality&sid=f6f561090bdf7bf4&sni=alfabank.ru&spx=%2F#INT🌍%20clc-main
 vless://cf35aef1-cf24-488f-a952-3bfd14c15b48@217.13.105.1:1443?encryption=none&flow=xtls-rprx-vision&fp=randomized&pbk=cDLK-I36SU8b7H7u-ZFyoMTjVKnbfQfKjhQvzTf13Dw&security=reality&sid=f6f561090bdf7bf4&sni=alfabank.ru&spx=%2F#INT🌍%20clc-main
