@@ -4,7 +4,49 @@
 #announce: Amirchelios
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzRAcjNtcmNnMDAxMjg2ZWsyLmN5YmVydmVuYS5jb206NTAwOTk=#台湾/板橋/Taiwan/Banqiao%20clc-main
-ss://YWVzLTEyOC1nY206d2NqTW5pQ09EZmh6MjZQN0wyQnZwRURRZmhvZ2JGVGw=@161.129.71.148:17913#美国/亚特兰大/United States/Atlanta%20clc-main
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozQzFHQWNJVXMzZ21yODV5@20.107.208.165:443?outline=1&prefix=POST#爱尔兰/都柏林/Ireland/Dublin%20clc-main
-vless://035c4e6a-88cb-4c06-9db5-b5474bded239@87.229.34.23:443?allowinsecure=0&encryption=none&fp=chrome&pbk=OZVjfQBboTDTBw0baMFqzVPsVUI4FNQmspTEb0b0zW4&security=reality&sid=e5f60718&sni=www.samsung.com#阿根廷/布宜诺斯艾利斯/Argentina/Buenos Aires%20clc-main
+vmess://eyJ2IjoiMiIsInBzIjoi8J-HuvCfh7ggSm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOIPCfh7rwn4e4IiwiYWRkIjoiODIuMTk4LjI0Ni4yNTAiLCJwb3J0IjoiMTgwIiwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInBhdGgiOiIvIn0#%20clc-main
+vmess://eyJ2IjoiMiIsInBzIjoi8J-HqPCfh78gQ1ogNCIsImFkZCI6IjgyLjE5OC4yNDYuMzciLCJwb3J0IjoiMTgwIiwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInBhdGgiOiIvIn0#%20clc-main
+vmess://eyJ2IjoiMiIsInBzIjoi8J-HqPCfh78gQ1ogMSIsImFkZCI6IjgyLjE5OC4yNDYuMjE0IiwicG9ydCI6IjE4MCIsImlkIjoiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyJ9#%20clc-main
+vmess://eyJ2IjoiMiIsInBzIjoi8J-HqPCfh78gQ1ogMyIsImFkZCI6IjgyLjE5OC4yNDYuOTciLCJwb3J0IjoiMTgwIiwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInBhdGgiOiIvIn0#%20clc-main
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@173.244.56.6:443#%F0%9F%87%BA%F0%9F%87%B8US-173.244.56.6-0096%20clc-main
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@173.244.56.9:443#%F0%9F%87%BA%F0%9F%87%B8US-173.244.56.9-0207%20clc-main
+vless://1679af35-6dd6-4c09-ae3b-18f239217f3e@172.66.43.117:443?encryption=none&host=rAyAn-007.pArViN.DpDnS.OrG&path=%2F&security=tls&sni=rAyAn-007.pArViN.DpDnS.OrG&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS%20clc-main
+trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@45.130.125.126:443?sni=space.byu.id.yxls.eu.cc&type=ws#%40erfanandroid%20clc-main
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.168:443#%F0%9F%87%BA%F0%9F%87%B8US-156.146.38.168-0094%20clc-main
+vless://a73b8135-ec7a-4f70-bac6-81fbccad4515@188.114.96.3:443?encryption=none&host=labeller.neonime83.workers.dev&path=%2F&security=tls&sni=labeller.neonime83.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS%20clc-main
+vless://35939cbe-5d57-4413-f4d0-cc115db0e000@a.cflive.top:35535?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=g1f1wLjim5gOVGnI5LGUV0dL4iFXPoiepOPZfSxJe14&security=reality&sni=www.speedtest.org#%F0%9F%94%B4%F0%9F%87%BA%F0%9F%87%B8%5B%F0%9F%8E%AC%F0%9F%A4%96%F0%9F%93%BA%F0%9F%94%8D%5D_github.com%2FRuk1ng001_198d7330%20clc-main
+vless://ce035748-9913-40c9-9fb6-c8389f7cdcf3@172.66.40.99:2083?encryption=none&host=yousef.varzesh.dpdns.org&security=tls&sni=yousef.varzesh.dpdns.org&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS%20clc-main
+vless://1679af35-6dd6-4c09-ae3b-18f239217f3e@172.66.40.139:443?encryption=none&host=rAyAn-007.pArViN.DpDnS.OrG&path=%2F&security=tls&sni=rAyAn-007.pArViN.DpDnS.OrG&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS%20clc-main
+vless://f2a73750-3087-48ff-a763-1348c15dce68@162.159.153.4:443?encryption=none&host=rAyAn-007.mAxImA.DpDnS.OrG&path=%2F&security=tls&sni=rAyAn-007.mAxImA.DpDnS.OrG&type=ws#%F0%9F%87%B8%F0%9F%87%AC+Join+Telegram%3A%40Farah_VPN+%F0%9F%87%B8%F0%9F%87%AC%20clc-main
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.95.183:443#%F0%9F%87%A8%F0%9F%87%A6CA-149.22.95.183-0117%20clc-main
+trojan://6c862415-30d2-4813-8e49-42e99a0bd415@188.164.248.122:443?sni=space.byu.id.yxls.eu.cc&type=ws#%40V2dogs_n%20clc-main
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@37.19.198.160:443#%F0%9F%87%BA%F0%9F%87%B8US-37.19.198.160-4079%20clc-main
+trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.70:443?allowInsecure=1&sni=space.byu.id.yxls.eu.cc&type=ws#%40meliproxyy%20clc-main
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@37.19.198.236:443#%F0%9F%87%BA%F0%9F%87%B8US-37.19.198.236-0124%20clc-main
+ss://YWVzLTEyOC1nY206dDZkMjZpZDBwanpkbzN4NXd0bGY@69.164.240.83:10878#%F0%9F%87%BA%F0%9F%87%B8US-69.164.240.83-0116%20clc-main
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@37.19.198.243:443#%F0%9F%87%BA%F0%9F%87%B8US-37.19.198.243-0224%20clc-main
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@37.19.198.244:443#%F0%9F%87%BA%F0%9F%87%B8US-37.19.198.244-3684%20clc-main
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@137.184.174.93:8080#%F0%9F%87%A8%F0%9F%87%A6CA-137.184.174.93-4448%20clc-main
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.241:443#%F0%9F%87%AF%F0%9F%87%B5JP-149.22.87.241-0128%20clc-main
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.240:443#%F0%9F%87%AF%F0%9F%87%B5JP-149.22.87.240-0130%20clc-main
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.204:443#%F0%9F%87%AF%F0%9F%87%B5JP-149.22.87.204-0129%20clc-main
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.181:443#%F0%9F%87%AC%F0%9F%87%A7GB-141.98.101.181-0137%20clc-main
+vless://394f6981-a782-4779-9a85-e6cf22935d93@178.249.213.177:8443?encryption=none&path=%2F&security=tls&sni=jp1.fromblancwithlove.com#%F0%9F%87%AF%F0%9F%87%B5+JP+1%20clc-main
+vless://11d29ec6-be66-4f59-97c6-7cff836ea318@138.2.50.155:44073?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Z3ZGnAOdKkzJ07gR_7_0k9_iTTFP6paDOrqx1rN2LU4&security=reality&sni=www.icloud.com#%F0%9F%94%B4%F0%9F%87%AF%F0%9F%87%B5%5B%F0%9F%8E%AC%F0%9F%A4%96%F0%9F%93%BA%F0%9F%94%8D%5D_github.com%2FRuk1ng001_59b3c7d8%20clc-main
+vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.51:8443?encryption=none&path=%2F&security=tls&sni=ams1.fromblancwithlove.com#%F0%9F%87%B3%F0%9F%87%B1+NL+3%20clc-main
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.19:23576?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn#%F0%9F%87%B3%F0%9F%87%B1+423+-+NL+-+VLESS%2FREALITY%2FPBK%2FSID%2FVISION%2FUTLS+-+23576%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjQXFiQllCQjBmOUNBbXBVX21jXzdGeXZ2TENjd3p0MA@31.172.87.124:8388#%40v2FreeHub+%F0%9F%87%A9%F0%9F%87%AA%20clc-main
+trojan://humanity@66.81.247.155:443?sni=www.calmloud.com&type=ws#%E7%BE%8E%E5%9B%BD+%E6%B4%9B%E6%9D%89%E7%9F%B6%20clc-main
+trojan://humanity@188.114.98.0:443?sni=www.calmlunch.com&type=ws#%E6%9C%AA%E7%9F%A538%20clc-main
+trojan://humanity@www.calmloud.com:443?sni=www.calmloud.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8+US+3%20clc-main
+trojan://humanity@104.18.12.149:443?sni=www.calmlunch.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8+30+-+US+-+Trojan%2FWS%2FTLS+-+443%20clc-main
+trojan://humanity@188.114.96.3:443?sni=www.calmlunch.com&type=ws#%F0%9F%8C%90+WS-TLS+%7C+%40Express_alaki+%7C+src+%40V2rayng_Fast%60%60%60%20clc-main
+trojan://humanity@172.67.180.92:443?allowInsecure=1&sni=www.multiplydose.com&type=ws#%F0%9F%8C%90+WS-TLS+%7C+%40Express_alaki+%7C+src+%40v2Line%20clc-main
+trojan://humanity@104.18.11.110:443?sni=www.multiplydose.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8+26+-+US+-+Trojan%2FWS%2FTLS+-+443%20clc-main
+trojan://humanity@162.159.17.189:443?sni=www.multiplydose.com&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%20clc-main
+trojan://humanity@185.18.250.252:443?sni=www.gossipglove.com&type=ws#%F0%9F%87%AA%F0%9F%87%B8+67+-+ES+-+Trojan%2FWS%2FTLS+-+443%20clc-main
+trojan://humanity@172.64.147.24:443?allowInsecure=1&sni=www.gossipglove.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8+44+-+US+-+Trojan%2FWS%2FTLS+-+443%20clc-main
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@51.15.23.63:989#%F0%9F%87%B3%F0%9F%87%B1NL-51.15.23.63-0163%20clc-main
+trojan://humanity@104.16.174.117:443?sni=www.ignitelimit.com&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9%20clc-main
+trojan://humanity@www.ignitelimit.com:443?sni=www.ignitelimit.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8+83+-+US+-+Trojan%2FWS%2FTLS%2FUTLS+-+443%20clc-main
+trojan://humanity@172.64.152.23:443?sni=www.creationlong.org&type=ws#%40V2ray_confiig%60%20clc-main
