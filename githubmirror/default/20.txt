@@ -64,6 +64,7 @@ hysteria2://@Masir_Sefid@Masir_Sefid@18.157.222.169:44044?insecure=0&obfs=salama
 hysteria2://@Masir_Sefid@Masir_Sefid@18.157.222.169:443?insecure=0&obfs=salamander&obfs-password=Masir_Sefid&sni=free.masir-sefid.shop#%20clc-main
 hysteria2://@Masir_Sefid@Masir_Sefid@18.157.222.169:444?insecure=0&obfs=salamander&obfs-password=Masir_Sefid&sni=free.masir-sefid.shop#%20clc-main
 hysteria2://@Masir_Sefid@Masir_Sefid@18.157.222.169:54040?Telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&insecure=0&obfs=salamander&obfs-password=Masir_Sefid&security=tls&sni=free.masir-sefid.shop#%20clc-main
+hysteria2://@Masir_Sefid@Masir_Sefid@18.157.222.169:54040?fm=%7B&security=tls#%20clc-main
 hysteria2://@Masir_Sefid@Masir_Sefid@18.157.222.169:8880?insecure=0&obfs=salamander&obfs-password=Masir_Sefid&security=tls&sni=free.masir-sefid.shop#%20clc-main
 hysteria2://C5FC4ED3-25A0-4ACC-9862-0B63EB7EAD54@jp2.dexlos.com:20253?insecure=0&obfs=salamander&obfs-password=xK9mN2pLq5vR8wB3&sni=jp2.dexlos.com#%20clc-main
 hysteria2://C5FC4ED3-25A0-4ACC-9862-0B63EB7EAD54@sg5.dexlos.com:20915?insecure=0&obfs=salamander&obfs-password=xK9mN2pLq5vR8wB3&sni=sg5.dexlos.com#%20clc-main
@@ -106,11 +107,9 @@ hysteria2://Masir_Sefid@84.234.31.190:1040?insecure=0&obfs=salamander&obfs-passw
 hysteria2://Masir_Sefid@84.234.31.190:4040?insecure=0&obfs=salamander&obfs-password=Masir_Sefid&sni=free3.masir-sefid-1.my#%20clc-main
 hysteria2://Masir_Sefid@84.234.31.190:54040?insecure=0&obfs=salamander&obfs-password=Masir_Sefid&sni=free3.masir-sefid-1.my#%20clc-main
 hysteria2://Masir_Sefid@84.234.31.190:8880?insecure=0&obfs=salamander&obfs-password=Masir_Sefid&sni=free3.masir-sefid-1.my#%20clc-main
-hysteria2://MySecurePassword123@wuhantravel.duckdns.org:8443?alpn=h3&sni=wuhantravel.duckdns.org#%20clc-main
 hysteria2://Nrqyc1GkGr@panel.cobalttoolsgithub.online:54236?insecure=0&obfs=salamander&obfs-password=gxXGwphUe6APbFFsWA&sni=panel.cobalttoolsgithub.online#%20clc-main
 hysteria2://Nrqyc1GkGr@panel.cobalttoolsgithub.online:54236?insecure=0&obfs=salamander&obfs-password=gxXGwphUe6APbFFsWA#%20clc-main
 hysteria2://Telegram-->@Ln2Ray@Ln2Ray@gavazn.lnmarketplace.net:45000?insecure=1&obfs=salamander&obfs-password=Telegram--%3E%40Ln2Ray&security=tls&sni=gavazn.55994421.xyz#%20clc-main
-hysteria2://V2RayyNGvpn@66.92.161.94:80?insecure=1&obfs=salamander&obfs-password=T.me%2FV2RayyNGvpn#%F0%9F%87%A8%F0%9F%87%A6%40V2RayyNGvpn%F0%9F%87%A8%F0%9F%87%A6%20clc-main
 hysteria2://b880e510-8196-44bb-b715-781a9461b4a0@aestheticperforator.ru:8443?insecure=0&security=tls&sni=aestheticperforator.ru#%20clc-main
 hysteria2://b95dd8e5-2758-408f-be99-9362eecee609@files.fantoff.online:10808?insecure=0&sni=files.fantoff.online#%20clc-main
 hysteria2://c7166f8f-236b-4fa4-b99c-172813b24f73@188.130.154.56:13337?obfs=salamander&obfs-password=killmebaby&sni=h2.mtproxy-hub.org#%20clc-main
@@ -135,7 +134,7 @@ hysteria2://hhwpbpx264trkhlf@somelove.abrdns.com:443?alpn=h3&fp=firefox&security
 hysteria2://hk6ah4vgb0qp2koh@ger1.riziro.ir:2087?alpn=h2%2Ch3&fp=chrome&obfs=salamander&obfs-password=xdbc2u01v1j9fhvv&sni=ger1.riziro.ir#%20clc-main
 hysteria2://hk6ah4vgb0qp2koh@ger1.riziro.ir:2087?alpn=h2%2Ch3&fm=%7B#%20clc-main
 hysteria2://hk6ah4vgb0qp2koh@panel.riziro.ir:4526?alpn=h3&ech=AGH+DQBdAAAgACA%2FG+iJmvonLLbAR%2FqxdOJHr3YYz+cR14O4ZUJa9LQNBgAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAA5nZXIxLnJpemlyby5pcgAA&fp=chrome&security=tls&sni=ger1.riziro.ir#%20clc-main
-hysteria2://kjMoXj9ZxP@66.92.161.94:443?insecure=1&obfs=salamander&obfs-password=T.me%2FV2RayyNGvpn&sni=www.wordreference.com#%F0%9F%87%A8%F0%9F%87%A6%40V2RayyNGvpn%F0%9F%87%A8%F0%9F%87%A6%20%231%20clc-main
+hysteria2://jkcnkc84dvggvi2n@38.107.232.146:54040?insecure=0&obfs=salamander&obfs-password=JynMarket&security=tls&sni=38.107.232.146#%20clc-main
 hysteria2://lak374gtxzrxz241@social.klipp.su:443?obfs=salamander&obfs-password=3sv5vpdl9xr84lyb&sni=social.klipp.su#%20clc-main
 hysteria2://masir_sefid@18.157.51.145:443?Telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&insecure=0&mport=443%2C2053%2C2083%2C2087%2C2096%2C8443&obfs=salamander&obfs-password=masir_sefid&security=tls&sni=content.masir-sefid.shop#%20clc-main
 hysteria2://masir_sefid@18.194.63.255:443?insecure=0&obfs=salamander&obfs-password=masir_sefid&sni=content.masir-sefid.shop#%20clc-main
@@ -146,9 +145,7 @@ hysteria2://odnvqb4ihg396e5z@104.252.19.102:51554?insecure=0&obfs=salamander&obf
 hysteria2://odnvqb4ihg396e5z@104.252.19.102:54040?Telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&insecure=0&obfs=salamander&obfs-password=%40JynMarket&security=tls#%20clc-main
 hysteria2://odnvqb4ihg396e5z@104.252.19.102:54040?alpn=h3&insecure=0&obfs=salamander&obfs-password=%40JynMarket&sni=104.252.19.102#%20clc-main
 hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@hy2.aspidnet.xyz:443?obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#%20clc-main
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-de-002.fastervpn.world:443?insecure=1&sni=vpn-de-002.fastervpn.world#%E7%BE%8E%E5%9B%BD%2010%20clc-main
 hysteria2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443?insecure=0&obfs=salamander&obfs-password=oMgvuBy5Lj5kYM57sGsnjpjNcSEQ&security=tls&sni=tunel1.washing.help%23telegram+%40mtmvpn#%20clc-main
 hysteria2://vlxjqoiauby22dvb@n.acp.us.ci:443?insecure=0&obfs=salamander&obfs-password=%40arshiacomplus&security=tls&sni=n.acp.us.ci#%20clc-main
-hysteria2://wundefinedg2dqmQqM@82.47.63.181:443?insecure=1&obfs=salamander&obfs-password=T%24me%24V2RayyNGvpn%40V2RayyNGvpn&sni=www.wordreference.com#%F0%9F%87%B5%F0%9F%87%B1%40V2RayyNGvpn%F0%9F%87%B5%F0%9F%87%B1%20clc-main
 hysteria2://zZlPDO5jYeaE9rYtNnjlBI0igvbIdjRX@endpoint.neoservers.ir:30781?alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&obfs=salamander&obfs-password=8s7t1sNDH36vU8_Ixd7MckIY&sni=www.microsoft.com#%20clc-main
 hysteria2://zZlPDO5jYeaE9rYtNnjlBI0igvbIdjRX@endpoint.neoservers.ir:30781?fm=%7B&obfs=salamander&obfs-password=8s7t1sNDH36vU8_Ixd7MckIY#%20clc-main
