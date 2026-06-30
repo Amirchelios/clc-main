@@ -1,13 +1,20 @@
-#profile-title: 17-17/25 @Amirchelios
+#profile-title: 17-17/26 @Amirchelios
 #profile-update-interval: 48
 #support-url: https://github.com/Amirchelios/clc-main
 #announce: Amirchelios
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHdnNqUTBPWjVuR1FYREdmemZXWmY1@212.227.146.33:443#英国/United Kingdom%20clc-main
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443?path=%2F&sni=fta.fontanvpn.com#芬兰/赫尔辛基/Finland/Helsinki%20clc-main
+trojan://0f5e6d9a-49af-4bc0-b04b-503102382144@51.195.219.173:443?security=tls&sni=ukt1.sshocean.net#荷兰/The Netherlands%20clc-main
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.9:443#美国/凤凰城/United States/Phoenix%20clc-main
+vless://296a5736-bc8c-45dd-9971-8bf44b28ed4e@all40.allenshop2025.ir:443?encryption=none&fp=firefox&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&security=reality&sid=98fa0b00d09419f7&sni=play.google.com#英国/United Kingdom%20clc-main
+vless://abf52aa8-efd8-4849-8ded-fda151d4308b@194.24.161.228:58055?encryption=none&fp=chrome&pbk=eiDyRuMGa0Jyb2Ff4w1Pb7zTri5h38R2w0kZj0uksF4&security=reality&sid=374b32ed91f8f023&sni=play.google.com#瑞典/Sweden%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoMkdOUDZ4enNzMHhRNWtmN0JOY0pJ@46.224.2.35:47199#德国/Germany%20clc-main
+vmess://eyJ2IjoiMiIsInBzIjoi8J-HqfCfh6ogREXlvrflm70obWliZWk3Ny5jb20g57Gz6LSd6IqC54K55YiG5LqrKSIsImFkZCI6ImhsMTEyLmNvd2p1bXAuc2l0ZSIsInBvcnQiOiI0NDMiLCJpZCI6IjBiZjFjZWFkLWJkZDQtNDY5Mi1iM2Q0LTY4NjZjY2I5ZjM3YSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiaGwxMTIuY293anVtcC5zaXRlIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMifQ#%20clc-main
+trojan://BSs5IAVMQdYuykvDsOYZoa6gNPSGBjAbLL@185.126.236.44:443?sni=www.mesaly.click#奥地利/Austria%20clc-main
+ss://YWVzLTI1Ni1nY206MWE4NzAxN2QwYmY1N2YzNA@195.133.23.142:32432#香港/Hong Kong%20clc-main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VTNwc1Iwc1F1UXhXWG9CSEI0S1REM1lhY3dRd1MyMVh2U0V5OQ==@45.129.96.62:41348#爱沙尼亚/Estonia%20clc-main
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUV0c3SjFLUjVLc1BhVjVxWkkrcmlldWVLeHhhZlpTcENI@45.77.232.213:15675#澳大利亚/悉尼/Australia/Sydney%20clc-main
-vless://d555a2de-9f94-44f4-aba9-63584b81a36d@zone.de1.f2gate.ir:54238?encryption=none&fp=chrome&headerType=http&host=telewebion.ir&pbk=eig4M43BwT0eJfg2Tfu5cHxQ5cWKFv07posBCidoFlk&security=reality&sid=510ab49b8c0745a9&sni=telewebion.ir#卢森堡/Luxembourg%20clc-main
-hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:443?sni=newlte.kihsuyhf8jkiugsxb.cfd#俄罗斯联邦/莫斯科/Russia/Moscow%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2U2plQWpYY0Ryb3ZFNDVTME55Q0dnUWZJUUxTRlYwNEp5TWhNdG1aaUdRPQ@e1.cover20.ir:51570?type=tcp#伊朗/Iran%20clc-main
+vless://f07a3816-f527-4ce8-8d21-ada012618695@fin-jd.jdvpn.shakhle.ir:22000?encryption=none&fp=firefox&pbk=xLCgdUiKeBpYK3YsT96d81yuhFuVgUeANbVeiQACRWw&security=reality&sid=6ba85179e30d4fc2&sni=fontawesome.com#西班牙/马德里/Spain/Madrid%20clc-main
+vless://e6d8d743-a9bc-48c9-be99-8f3cc94d16e1@ako.pagate.top:443?encryption=none&flow=xtls-rprx-vision&security=tls#韩国/首尔特别市/South Korea/Seoul%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.82:28061#印度/孟买/India/Mumbai%20clc-main
 hysteria2://f7cb07a0-e6f9-4d22-a60e-c61854450c89@vn2.yuntong.click:443?obfs=salamander&obfs-password=eNM%2FNfxTsBqQIKcN0ezARS1z0f5mIxRd9GSwhVsyJlo%3D&sni=vn2.yuntong.click#越南/胡志明市/Vietnam/Ho Chi Minh City%20clc-main
