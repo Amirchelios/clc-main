@@ -4,342 +4,93 @@
 #announce: Amirchelios
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
-trojan://--------BanV2ray--------@179.237.75.217:443?Telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&allowInsecure=1&fp=chrome&insecure=1&pbk=CtGQ82BzaL3i-HPPmmnEUwjA2zPMTnN36r8ZMKGG4Ro&security=reality&sid=9f9de956&sni=promotion.yahoo.com&spx=%2F5qqyHbduZNTV6Wr#@GozargahAzad|🇨🇭%20clc-main
-trojan://019a8c1f-3d28-74e8-8a8e-40045d7ec77f@38.207.160.35:443?allowInsecure=1&security=tls&sni=www.bilibili.com#🇭🇰 HK%20clc-main
-trojan://114514@72.249.204.157:443?allowInsecure=0&insecure=0&security=tls&sni=tjaaa.hhllfly.kdns.fr#kurdconfig%20clc-main
-trojan://114514@cf1.466688.xyz:443?allowInsecure=0&host=tjaaa.hhllfly.kdns.fr&insecure=0&path=%2F&security=tls&sni=tjaaa.hhllfly.kdns.fr&type=ws#https://t.me/QiangLieTuiJian%20clc-main
-trojan://114514@cf10.466688.xyz:443?allowInsecure=0&host=tjaaa.hhllfly.kdns.fr&insecure=0&path=%2F&security=tls&sni=tjaaa.hhllfly.kdns.fr&type=ws#https://t.me/QiangLieTuiJian%20clc-main
-trojan://114514@cf2.466688.xyz:443?allowInsecure=0&host=tjaaa.hhllfly.kdns.fr&insecure=0&path=%2F&security=tls&sni=tjaaa.hhllfly.kdns.fr&type=ws#https://t.me/QiangLieTuiJian%20clc-main
-trojan://114514@cf3.466688.xyz:443?allowInsecure=0&host=tjaaa.hhllfly.kdns.fr&insecure=0&path=%2F&security=tls&sni=tjaaa.hhllfly.kdns.fr&type=ws#https://t.me/QiangLieTuiJian%20clc-main
-trojan://114514@cf4.466688.xyz:443?allowInsecure=0&host=tjaaa.hhllfly.kdns.fr&insecure=0&path=%2F&security=tls&sni=tjaaa.hhllfly.kdns.fr&type=ws#https://t.me/QiangLieTuiJian%20clc-main
-trojan://114514@cf5.466688.xyz:443?allowInsecure=0&host=tjaaa.hhllfly.kdns.fr&insecure=0&path=%2F&security=tls&sni=tjaaa.hhllfly.kdns.fr&type=ws#https://t.me/QiangLieTuiJian%20clc-main
-trojan://114514@cf6.466688.xyz:443?allowInsecure=0&host=tjaaa.hhllfly.kdns.fr&insecure=0&path=%2F&security=tls&sni=tjaaa.hhllfly.kdns.fr&type=ws#https://t.me/QiangLieTuiJian%20clc-main
-trojan://114514@cf7.466688.xyz:443?allowInsecure=0&host=tjaaa.hhllfly.kdns.fr&insecure=0&path=%2F&security=tls&sni=tjaaa.hhllfly.kdns.fr&type=ws#https://t.me/QiangLieTuiJian%20clc-main
-trojan://114514@cf8.466688.xyz:443?allowInsecure=0&host=tjaaa.hhllfly.kdns.fr&insecure=0&path=%2F&security=tls&sni=tjaaa.hhllfly.kdns.fr&type=ws#https://t.me/QiangLieTuiJian%20clc-main
-trojan://114514@cf9.466688.xyz:443?allowInsecure=0&host=tjaaa.hhllfly.kdns.fr&insecure=0&path=%2F&security=tls&sni=tjaaa.hhllfly.kdns.fr&type=ws#https://t.me/QiangLieTuiJian%20clc-main
-trojan://20ba0c60-0133-11f1-95ef-1239d0255272@172.64.152.23:443?allowInsecure=1&host=uk1.test3.net&insecure=1&path=%2Fhowdy&security=tls&sni=uk1.test3.net&type=ws#@KAFING_2%20clc-main
-trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43074?allowInsecure=1&insecure=1&note=%40FreeOnlineVPN&security=tls&sni=iepl.jpz2.cat.bilibili.com#🇯🇵 - JP - @FreeOnlineVPN%20clc-main
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.90:46424?allowInsecure=1&sni=de.01.naiun.bilibili.com#🏇31@NetFlowTools%20clc-main
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.90:47909?allowInsecure=1&sni=is.01.naiun.bilibili.com#🏇36@NetFlowTools%20clc-main
-trojan://59a62e95-6262-4ba1-8027-c642b7c72713@green2.cdntencentmusic.com:31101?security=tls&sni=green2.cdntencentmusic.com#🇭🇰 香港%20clc-main
-trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?host=bangladeshipatri.com&path=%2F6b777a91&security=tls&sni=bangladeshipatri.com&type=ws#🩵+@Azarakhsh_Proxy+🩷%20clc-main
-trojan://6A9UE1QmtnW4t0WRLtt8pw@Malavang.hardvezoo.ir:2763?type=ws#Proxy_Se7en%20clc-main
-trojan://6A9UE1QmtnW4t0WRLtt8pw@Malavant.hardvezoo.ir:2763?type=ws#Proxy_Se7en%20clc-main
-trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.101:443?allowInsecure=0&host=space.byu.id.yxls.eu.cc&insecure=0&path=%2Fus-gllc&security=tls&sni=space.byu.id.yxls.eu.cc&type=ws#@meliproxyy%20clc-main
-trojan://7002R3Gxo1@45.130.125.2:443?allowInsecure=0&alpn=-%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN&fp=chrome&host=sa.farxmode.ir&insecure=0&path=%2Fda&security=tls&sni=sa.farxmode.ir&type=ws#🇩🇪 Telegram @SRCVPN%20clc-main
-trojan://7e70223b-f331-41d5-9313-02b8d2df2885@kkvlvvq-a.catcat321.com:20017?allowInsecure=0&insecure=0&security=tls&sni=hk.catxstar.com#kurdconfig%20clc-main
-trojan://7e70223b-f331-41d5-9313-02b8d2df2885@kkvlvvq-a.catcat321.com:20112?allowInsecure=0&insecure=0&security=tls&sni=ca.catxstar.com#🇬🇧@FreakConfig%20clc-main
-trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@104.16.72.101:443?host=space.byu.id.yxls.eu.cc&path=%2Fau-do&sni=space.byu.id.yxls.eu.cc&type=ws#🦖95@oneclickvpnkeys%20clc-main
-trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@104.16.72.70:443?host=space.byu.id.yxls.eu.cc&path=%2Fau-do&sni=space.byu.id.yxls.eu.cc&type=ws#☀️48@NetFlowTools%20clc-main
-trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@space.byu.id.yxls.eu.cc:443?fp=chrome&path=%2Fau-do&type=ws#🏇34@NetFlowTools%20clc-main
-trojan://9c521e24-7326-acd3-acec-d0afac2b465d@104.21.34.58:8080?allowInsecure=0&fp=chrome&host=red-cell-47f9.milaniomilan9.workers.dev&path=%2FeyJqdW5rIjoiQ09WMGc3R0RTSzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W10sInJlbGF5SWR4Ijo4fQ%3D%3D&sni=red-cell-47f9.milaniomilan9.workers.dev&type=ws#MoOon_proxy%20clc-main
-trojan://9c521e24-7326-acd3-acec-d0afac2b465d@104.25.108.147:8080?allowInsecure=0&fp=chrome&host=red-cell-47f9.milaniomilan9.workers.dev&path=%2FeyJqdW5rIjoiSWFzMHp3Nko4MjMiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W10sInJlbGF5SWR4Ijo2fQ%3D%3D&sni=red-cell-47f9.milaniomilan9.workers.dev&type=ws#MoOon_proxy%20clc-main
-trojan://BhNAljna1sXjsY.Nqdl0ksXJ1VsGRqXz1V@130.94.114.217:443?allowInsecure=0&insecure=0&security=tls#@v2rayNplus |🇨🇦%20clc-main
-trojan://BxceQaOe@16.163.102.116:52951?allowInsecure=1&note=%40FreeOnlineVPN&security=tls#🇸🇬 - SG - @FreeOnlineVPN%20clc-main
-trojan://BxceQaOe@16.163.107.220:11035?allowInsecure=1&sni=t.me%2Fripaojiedian#@Hope_Net-join-us-on-Telegram%20clc-main
-trojan://BxceQaOe@18.163.56.230:3941?allowInsecure=1&insecure=1&security=tls&sni=t.me%2Fripaojiedian#@Shh_Proxy-New⁶%20clc-main
-trojan://BxceQaOe@18.163.84.233:11035?allowInsecure=1&sni=t.me%2Fripaojiedian#@Hope_Net-join-us-on-Telegram%20clc-main
-trojan://BxceQaOe@43.198.13.210:41973?allowInsecure=1&note=%40FreeOnlineVPN&sni=t.me%2Fripaojiedian#🇸🇬 - SG - @FreeOnlineVPN%20clc-main
-trojan://BxceQaOe@58.152.26.173:443?allowInsecure=1&security=tls#香港%20clc-main
-trojan://CHhHZoXQCp@45.130.125.2:443?allowInsecure=0&fp=chrome&host=se.farxmode.ir&insecure=0&path=%2Fda&security=tls&sni=se.farxmode.ir&type=ws#@Rahin_vpn1 💎%20clc-main
-trojan://Config0plus@45.130.125.0:443?host=api24-normal.tiktokv.com.cyylr.eu.cc&path=%2Fid-tksi&security=tls&sni=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws#@routel1+🦋%20clc-main
-trojan://Config0plus@45.130.125.160:443?allowInsecure=0&host=api24-normal.tiktokv.com.cyylr.eu.cc&insecure=0&path=%2Fid-tksi&security=tls&sni=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws#@V2raySup0 | 🚀%20clc-main
-trojan://GavW8e3DN7@45.130.125.2:443?allowInsecure=0&alpn=-%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN&fp=chrome&host=sf.farxmode.ir&insecure=0&path=%2Fdb&security=tls&sni=sf.farxmode.ir&type=ws#🇩🇪 Telegram @SRCVPN ²%20clc-main
-trojan://I1vtf6pjYsAu-nFnraWAMjKTy90AHitdAz@91.233.8.25:443?allowInsecure=0&fp=chrome&insecure=0&security=tls&sni=fra34.tracker-ws.click#TEL;Father_vpn%20clc-main
-trojan://Iwzl7RHG_IE2qwsJ3uYIDA@irmedia12.pmme6.top:22443#@ReleaseNet%20clc-main
-trojan://Iwzl7RHG_IE2qwsJ3uYIDA@track1.mediavlink.top:20443#@ReleaseNet%20clc-main
-trojan://Iwzl7RHG_IE2qwsJ3uYIDA@track2.mediavlink.top:21443#@ReleaseNet%20clc-main
-trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@94.103.173.70:9443?allowInsecure=0&insecure=0&security=tls&sni=de-1.hysteria.ltd#@hopev2ray🤍%20clc-main
-trojan://MITIVPN@104.16.72.70:443?allowInsecure=1&fp=chrome&host=www.pagess.ir&insecure=1&path=%2Fed%3Dmitivpn&security=tls&sni=pagess.ir&type=ws#@prrofile_purple  ♥️👈 تلگرام%20clc-main
-trojan://MITIVPN@146.75.121.194:443?allowInsecure=1&alpn=h2&fp=chrome&host=mitivpn--3.global.ssl.fastly.net&insecure=1&path=%2Fed%3Dmitivpn&security=tls&sni=fastly.com&type=ws#@prrofile_purple  ♥️👈 تلگرام%20clc-main
-trojan://MITIVPN@151.101.1.194:80?host=mitivpn--3.global.ssl.fastly.net&path=%2Fed&type=ws#همه اپراتور سرعتی%20clc-main
-trojan://MITIVPN@151.101.110.219:443?allowInsecure=1&fp=chrome&host=mitivpn-6.global.ssl.fastly.net&insecure=1&path=%2Fed%3Dmitivpn&security=tls&sni=global.fastly.com&type=ws#@V2ConfigPro%20clc-main
-trojan://MITIVPN@151.101.69.219:443?allowInsecure=1&alpn=h2&fp=chrome&host=mitivpn-77.global.ssl.fastly.net&insecure=1&path=%2Fed%3Dmitivpn&security=tls&sni=speedtest.net&type=ws#@V2ConfigPro%20clc-main
-trojan://MITIVPN@199.232.173.194:443?allowInsecure=1&fp=chrome&host=mitivpn--4.global.ssl.fastly.net&insecure=1&path=%2Fed%3Dmitivpn&security=tls&sni=fastly.com&type=ws#@V2dogs_n%20clc-main
-trojan://Masir_Sefid@37.156.46.29:2053?fp=chrome&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&security=reality&sid=20b301df70&sni=store.steampowered.com&spx=%2FW8svbYrFok2DfFx#❤️‍🔥 ک%20clc-main
-trojan://Masir_Sefid@83.228.225.220:1040?fp=chrome&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&security=reality&sid=84e87fdcdf2ea9e8&sni=store.steampowered.com&spx=%2FaRBYGa427aKKE16#❤️‍🔥 کانال تلگرام HiByeVPNN@%20clc-main
-trojan://Masir_Sefid@84.234.31.249:443?fp=chrome&security=reality&sni=store.steampowered.com#@VpnCostumer+|+بیا+تو+وصل+باش+💙%20clc-main
-trojan://MiTiVPN@104.16.71.213:443?allowInsecure=0&alpn=http%2F1.1&fp=chrome&host=wwww.95r.ir&insecure=0&path=%2Fed%3Dmitivpn&security=tls&sni=wwww.95r.ir&type=ws#@EXPRESSVPN_420%20clc-main
-trojan://MiTiVPN@104.16.72.70:443?allowInsecure=0&alpn=http%2F1.1&fp=chrome&host=linkkon-w.ir&insecure=0&path=%2Fed%3Dmitivpn&security=tls&sni=linkkon-w.ir&type=ws#@fastkanfig کانال تلگرام%20clc-main
-trojan://MiTiVPN@104.21.18.41:443?allowInsecure=0&alpn=http%2F1.1&fp=chrome&host=linkkon-w.ir&insecure=0&path=%2Fcdn%3Dmitivpn&security=tls&sni=linkkon-w.ir&type=ws#9 @fastkanfig%20clc-main
-trojan://MiTiVPN@104.21.18.41:443?allowInsecure=1&alpn=http%2F1.1&fp=chrome&host=blog.95r.ir&insecure=1&path=%2Fed%3Dmitivpn&security=tls&sni=blog.95r.ir&type=ws#@prrofile_purple  ♥️👈 تلگرام%20clc-main
-trojan://MiTiVPN@104.24.17.0:443?allowInsecure=1&alpn=http%2F1.1&fp=chrome&host=linkkon-w.ir&insecure=1&path=%2Fed%3Dmitivpn&security=tls&sni=linkkon-w.ir&type=ws#@prrofile_purple  ♥️👈 تلگرام%20clc-main
-trojan://MiTiVPN@104.24.50.97:443?allowInsecure=0&alpn=http%2F1.1&fp=chrome&host=linkkon-w.ir&insecure=0&path=%2Fed%3Dmitivpn&security=tls&sni=linkkon-w.ir&type=ws#@SONIC_2524 کانال روبیکا و تلگرام 🕊⭐️%20clc-main
-trojan://MiTiVPN@140.248.185.253:443?allowInsecure=1&alpn=http%2F1.1&fp=chrome&host=mitivpn-s2.global.ssl.fastly.net&insecure=1&path=%2Fed%3DMiTiVPN&security=tls&sni=ssl.fastly.com&type=ws#telegram @mtmvpn 16%20clc-main
-trojan://MiTiVPN@151.101.1.194:443?alpn=http%2F1.1&host=mitivpn-s2.global.ssl.fastly.net&path=%2Fed%3Dmitivpn&security=tls&sni=global.fastly.com&type=ws#@appsooner کانال تلگرام 🕊️%20clc-main
-trojan://MiTiVPN@151.101.110.219:443?allowInsecure=0&alpn=http%2F1.1&fp=chrome&host=cdn2-mitivpn.global.ssl.fastly.net&insecure=0&path=%2Fde&security=tls&sni=ssl.fastly.com&type=ws#@ReleaseNet%20clc-main
-trojan://MiTiVPN@151.101.110.219:443?alpn=http%2F1.1&fp=chrome&host=cdn2-mitivpn.global.ssl.fastly.net&path=%2Fde%3Dmitivpn&security=tls&sni=ssl.fastly.com&type=ws#✅  @vistav2ray  👈👈کانال ما ✅%20clc-main
-trojan://MiTiVPN@151.101.110.219:443?allowInsecure=0&alpn=http%2F1.1&fp=chrome&host=mitivpn-6.global.ssl.fastly.net&insecure=0&path=%2Fed%3Dmitivpn&security=tls&sni=global.fastly.com&type=ws#Proxy_Se7en%20clc-main
-trojan://MiTiVPN@151.101.110.219:443?allowInsecure=0&alpn=http%2F1.1&fp=chrome&host=mitivpn-77.global.ssl.fastly.net&insecure=0&path=%2Fed%3Dmitivpn&security=tls&sni=default.ssl.fastly.net&type=ws#Proxy_Se7en%20clc-main
-trojan://MiTiVPN@164.38.155.135:443?allowInsecure=0&alpn=http%2F1.1&fp=chrome&host=95r.ir&insecure=0&path=%2FMiTiVPN%3DDe&security=tls&sni=95r.ir&type=ws#@meliproxyy%20clc-main
-trojan://MiTiVPN@167.82.101.251:443?allowInsecure=1&alpn=http%2F1.1&fp=chrome&host=mitivpn.global.ssl.fastly.net&insecure=1&path=%2Fed%3Dmitivpn&security=tls&sni=ssl.fastly.com&type=ws#telegram @mtmvpn 15%20clc-main
-trojan://MiTiVPN@167.82.101.251:443?allowInsecure=0&alpn=http%2F1.1&fp=chrome&host=cdn-mitivpn.global.ssl.fastly.net&insecure=0&path=%2Fnl%3Dmitivpn&security=tls&sni=default.ssl.fastly.net&type=ws#@ReleaseNet%20clc-main
-trojan://MiTiVPN@188.114.97.6:443?allowInsecure=0&alpn=http%2F1.1&fp=chrome&host=wwww.95r.ir&insecure=0&path=%2Fed&security=tls&sni=wwww.95r.ir&type=ws#@v2rayNplus%20clc-main
-trojan://MiTiVPN@188.114.97.6:443?allowInsecure=0&alpn=http%2F1.1&fp=chrome&host=wwww.95r.ir&insecure=0&path=%2Fed%3Dmitivpn&security=tls&sni=wwww.95r.ir&type=ws#7 @fastkanfig%20clc-main
-trojan://MiTiVPN@188.114.97.6:443?allowInsecure=0&alpn=http%2F1.1&fp=chrome&host=cdn.95r.ir&insecure=0&path=index.php%3Fmitivpn&security=tls&sni=cdn.95r.ir&type=ws#4 @fastkanfig%20clc-main
-trojan://MiTiVPN@198.41.222.60:443?allowInsecure=0&alpn=http%2F1.1&fp=chrome&host=linkkon-w.ir&insecure=0&path=%2Fed%3Dmitivpn&security=tls&sni=linkkon-w.ir&type=ws#@SONIC_2524 کانال روبیکا و تلگرام 🕊⭐️%20clc-main
-trojan://MiTiVPN@198.62.62.162:443?allowInsecure=0&alpn=http%2F1.1&fp=chrome&host=95r.ir&insecure=0&path=%2FMiTiVPN%3DNL&security=tls&sni=95r.ir&type=ws#🇺🇸 @rayhub_ir 0629-6%20clc-main
-trojan://MiTiVPN@199.181.197.176:443?allowInsecure=1&alpn=http%2F1.1&fp=chrome&host=linkkon-w.ir&insecure=1&path=%2Fcdn%3Dmitivpn&security=tls&sni=linkkon-w.ir&type=ws#@prrofile_purple  ♥️👈 تلگرام%20clc-main
-trojan://MiTiVPN@45.131.4.118:443?alpn=http%2F1.1&fp=chrome&host=linkkon-w.ir&path=%2Fed%3Dmitivpn&security=tls&sni=linkkon-w.ir&type=ws#@appsooner کانال تلگرام 🕊️%20clc-main
-trojan://Mitivpn@151.101.0.0:80?host=%40SylphNet&path=%40SylphNet&type=ws#@SylphNet | 2026-06-27 02:22%20clc-main
-trojan://Mitivpn@151.101.110.219:443?allowInsecure=0&host=3-mitivpn.global.ssl.fastly.net&insecure=0&path=%2Fstable&security=tls&sni=ssl.fastly.com&type=ws#@Soul737%20clc-main
-trojan://Mitivpn@151.101.193.242:80?ed=2560&eh=Sec-WebSocket-Protocol&host=cdn.gamingdll.ir&path=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&type=ws#🇭🇰HK_@WangCai_8%20clc-main
-trojan://Mitivpn@151.101.242.172:80?allowInsecure=0&host=4-4-3-mitivpn.global.ssl.fastly.net&insecure=0&path=%2Fed&security=tls&type=ws#@hex_proxy ²%20clc-main
-trojan://Mitivpn@151.101.56.6:443?allowInsecure=0&host=4-4-3-Mitivpn.global.ssl.fastly.net&insecure=0&path=%2Fboost%2Fmtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn&security=tls&sni=ssl.fastly.com&type=ws#تلگرام :  mtmvpn@%20clc-main
-trojan://O4O8.Ew+ujFX6GJBQ=xQr.heGwux0GYHqk@45.61.58.89:443#🏇81@NetFlowTools%20clc-main
-trojan://P6oS8vzFbu@45.130.125.2:443?allowInsecure=0&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&fp=chrome&host=sb.farxmode.ir&insecure=0&path=%2Fdb&security=tls&sni=sb.farxmode.ir&type=ws#https://t.me/v2rayNplus |🇸🇨%20clc-main
-trojan://PQ6rFC2WGc@188.114.97.6:443?allowInsecure=0&fp=chrome&host=s5.aananas.ir&insecure=0&path=%2F%3Fed%3D2048&security=tls&sni=s5.aananas.ir&type=ws#https://t.me/v2raynplus |🇩🇪%20clc-main
-trojan://PoSQBShqwNV9wKX4WHxDoLxbvp4eQYnD8v@130.94.78.17:443?allowInsecure=0&insecure=0&security=tls#@v2rayNplus |🇬🇧%20clc-main
-trojan://SoftNetConnect@37.156.44.157:2087?allowInsecure=1&authority=185.204.169.129&fp=chrome&insecure=1&pbk=tDzuiaElyFXPtFP25CeCKWW5dsdC4055CnqzYcFyfB8&security=reality&sid=96a17085678b&sni=www.yahoo.com&spx=%2F&type=grpc#%FREE_VPN02%20clc-main
-trojan://SoftNetConnect@37.156.44.157:42549?allowInsecure=1&fp=chrome&insecure=1&security=tls&sni=www.speedtest.net#@Leecher56%20clc-main
-trojan://SoftNetConnect@37.156.44.157:8443?allowInsecure=1&fp=chrome&insecure=1&pbk=h0Lem3eyDGqkye4yAMuxixCMI2EqD1EKdH9Ky0Xetjg&security=reality&sid=c7&sni=play.google.com&spx=%2F#%FREE_VPN02%20clc-main
-trojan://SoftNetConnect@37.156.44.50:2087?authority=185.204.169.129&fp=chrome&mode=gun&pbk=tDzuiaElyFXPtFP25CeCKWW5dsdC4055CnqzYcFyfB8&security=reality&sid=96a17085678b&sni=www.yahoo.com&spx=%2F&type=grpc#@ReleaseNet%20clc-main
-trojan://SoftNetConnect@37.156.44.50:42549?fp=chrome&security=tls&sni=www.speedtest.net#✅  @vistav2ray  👈👈کانال ما ✅%20clc-main
-trojan://SoftNetConnect@37.156.44.50:8443?fp=chrome&pbk=h0Lem3eyDGqkye4yAMuxixCMI2EqD1EKdH9Ky0Xetjg&security=reality&sid=c7&sni=play.google.com&spx=%2F#✅  @vistav2ray  👈👈کانال ما ✅%20clc-main
-trojan://SoftNetConnect@37.156.45.237:2087?authority=185.204.169.129&fp=chrome&mode=gun&pbk=tDzuiaElyFXPtFP25CeCKWW5dsdC4055CnqzYcFyfB8&security=reality&sid=96a17085678b&sni=www.yahoo.com&spx=%2F&type=grpc#@ReleaseNet%20clc-main
-trojan://SoftNetConnect@37.156.45.237:42549?allowInsecure=1&fp=chrome&insecure=1&security=tls&sni=www.speedtest.net#@ReleaseNet%20clc-main
-trojan://SoftNetConnect@37.156.45.237:8443?fp=chrome&pbk=h0Lem3eyDGqkye4yAMuxixCMI2EqD1EKdH9Ky0Xetjg&security=reality&sid=c7&sni=play.google.com&spx=%2F#@ReleaseNet%20clc-main
-trojan://SoftNetConnect@77.110.114.75:2087?fp=chrome&pbk=pnrbo0MG4n719Yt3YhvL_SvV37NOmHm0_vbRnbRxaz0&security=reality&sid=3e503fccee5701&sni=www.yahoo.com&spx=%2F#🇺🇸@FreakConfig%20clc-main
-trojan://SoftNetConnect@83.228.251.69:2087?allowInsecure=1&authority=185.204.169.129&fp=chrome&insecure=1&pbk=tDzuiaElyFXPtFP25CeCKWW5dsdC4055CnqzYcFyfB8&security=reality&sid=96a17085678b&sni=www.yahoo.com&spx=%2F&type=grpc#@MoOon_proxy (3🇨🇭⚡)%20clc-main
-trojan://SoftNetConnect@83.228.251.69:42549?allowInsecure=1&alpn=h2%2Chttp%2F1.1%2Ch3&fp=chrome&insecure=1&security=tls&sni=www.speedtest.net#@MoOon_proxy (4🇨🇭⚡)%20clc-main
-trojan://SoftNetConnect@83.228.251.69:8443?allowInsecure=1&fp=chrome&insecure=1&pbk=h0Lem3eyDGqkye4yAMuxixCMI2EqD1EKdH9Ky0Xetjg&security=reality&sid=c7&sni=play.google.com&spx=%2F#@MoOon_proxy (🇨🇭⚡)%20clc-main
-trojan://T9BpZIVMNv@v1.dabache.top:8443?allowInsecure=1&fp=chrome&host=sweden.vmaxpanel.com&insecure=1&path=%2Famd&security=tls&sni=sweden.vmaxpanel.com&type=ws#@v2rayngzendegimamad🕊️%20clc-main
-trojan://Telegram-Config0plus@104.17.108.189:443?allowInsecure=0&host=go.appsflyer.com.r3xxe.eu.cc&insecure=0&path=%2Fca-cl&security=tls&sni=go.appsflyer.com.r3xxe.eu.cc&type=ws#TEL;Father_vpn%20clc-main
-trojan://TrojanPass2026!@2.26.54.174:8448?sni=foolsland.ru#☀️41@NetFlowTools%20clc-main
-trojan://VGBzLm49=M_i02Az30tIeonkQw180t-edg@185.126.236.190:443?allowInsecure=0&host=v2rayNplus--v2rayNplus--v2rayNplus&insecure=0&security=tls&sni=185.126.236.190#https://t.me/v2rayNplus |🇦🇹%20clc-main
-trojan://ZpUUBCgWT3k6PriIFDccEs5RVRclJb9CL1LvF+yJTjY=@94.139.179.9:52321#@vpng3 [9]%20clc-main
-trojan://a1e12464-9208-4583-bd21-ab6889fdd242@139.177.189.122:443?sni=cdn.qchwnd.moe#@Hope_Net-join-us-on-Telegram%20clc-main
-trojan://a5EkuXO_8nBkJzCFkxtniw@Franc2.serendpiti.ir:2086?host=Franc2.serendpiti.ir&path=%2Fmmdokkkk&type=ws#🚀@VPNine1%20clc-main
-trojan://a5EkuXO_8nBkJzCFkxtniw@Swmmd.serendpiti.ir:2086?host=Swmmd.serendpiti.ir&path=%2Fmmdokkkk&type=ws#🚀@VPNine1%20clc-main
-trojan://aR9EJWEB2Jp3m6xKJK=Ct7kLyqFSU-iDBR@92.119.35.125:443?allowInsecure=0&insecure=0&security=tls&sni=92.119.35.125#@hex_proxy ⁴%20clc-main
-trojan://aa710f78-eddb-45b4-bd32-1f8692a754e5@104.19.229.21:443?host=s.blibli.com.cyylr.eu.cc&path=%2Fae-bo&security=tls&sni=s.blibli.com.cyylr.eu.cc&type=ws#@routel1+🦋%20clc-main
-trojan://armindone@151.101.110.219:443?allowInsecure=1&alpn=http%2F1.1&fp=chrome&host=mitivpn.global.ssl.fastly.net&insecure=1&path=%2Fed%3Dmitivpn&security=tls&sni=global.fastly.com&type=ws#@armindone👈چنل تلگراممون%20clc-main
-trojan://auto@129.146.254.39:443?alpn=http%2F1.1&fp=chrome&host=tg.cmliussss.us.kg&path=%2F%40Azarakhsh_Proxy%3Fed%3D2560&security=tls&sni=tg.cmliussss.us.kg&type=ws#🩵+@Azarakhsh_Proxy+🩷%20clc-main
-trojan://auto@iranserver.com:8443?alpn=http%2F1.1&fp=chrome&host=tg.cmliussss.us.kg&path=%2F%40Azarakhsh_Proxy%3Fed%3D2560&security=tls&sni=tg.cmliussss.us.kg&type=ws#🩵+@Azarakhsh_Proxy+🩷%20clc-main
-trojan://auto@zula.ir:443?alpn=http%2F1.1&fp=chrome&host=tg.cmliussss.us.kg&path=%2F%40Azarakhsh_Proxy%3Fed%3D2560&security=tls&sni=tg.cmliussss.us.kg&type=ws#🩵+@Azarakhsh_Proxy+🩷%20clc-main
-trojan://b574ea88-168d-4504-a62d-fe9a2271d726@green2.cdntencentmusic.com:31103?allowInsecure=1&security=tls&sni=green2.cdntencentmusic.com#🇭🇰 香港%20clc-main
-trojan://bX_lNHWoW6ywq82mI=KUr+8i__VSp0Hs_E@172.235.63.252:443?allowInsecure=0&fp=chrome&insecure=0&security=tls#TEL;Father_vpn%20clc-main
-trojan://ba5305d8-bf3e-4eee-8ebf-1c7b9a6dbed2@103.20.223.4:50180?security=tls&sni=cn-hk-package.hyperlinkvpn.xyz#@v2rayconfigamir 1638%20clc-main
-trojan://ba5305d8-bf3e-4eee-8ebf-1c7b9a6dbed2@cn-hk-package.hyperlinkvpn.xyz:50180?security=tls#@v2rayconfigamir 3033%20clc-main
-trojan://bb45f73f-795b-4a05-a8e0-ba717bce87e3@104.19.229.21:443?host=api24-normal.tiktokv.com.cyylr.eu.cc&path=%2Fid-tksi&security=tls&sni=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws#@routel1+🦋%20clc-main
-trojan://bpb-trojan@190.93.244.202:443?host=fcspring.ggff.net&path=%2Ftr%3Fed&security=tls&sni=fcspring.ggff.net&type=ws#🩵+@Azarakhsh_Proxy+🩷%20clc-main
-trojan://c-XesvUECJoZqRpYM_YVCg@sv4.hosttbd.ir:10004#@NETMelliAnti%20clc-main
-trojan://c30f9be0-6d5d-11f1-b3fc-1239d0255272@172.66.47.69:443?allowInsecure=0&host=uk1.test3.net&insecure=0&path=%2Fhowdy&security=tls&sni=uk1.test3.net&type=ws#@ReleaseNet%20clc-main
-trojan://d446ca24-80b7-4e4a-8055-e23838e43705@cdnfire.xiaomispeed.com:21102?allowInsecure=1&security=tls&sni=cdnfire.xiaomispeed.com#🇭🇰 香港%20clc-main
-trojan://d446ca24-80b7-4e4a-8055-e23838e43705@cdnfire.xiaomispeed.com:23301?allowInsecure=1&security=tls&sni=cdnfire.xiaomispeed.com#🇸🇬 新加坡%20clc-main
-trojan://d682c8f4-e719-577e-cbe9-2e5b00000001@0406.infinityconfig7.workers.dev:2053?allowInsecure=0&fp=chrome&host=0406.infinityconfig7.workers.dev&insecure=0&path=%2Fsync&security=tls&sni=0406.infinityconfig7.workers.dev&type=ws#FREE_VPN02%20clc-main
-trojan://de4dbc41-fe13-4498-b5b4-083e451270f6@89.116.46.68:443?allowInsecure=0&host=zaintest.vuclip.com.cyylr.eu.cc&insecure=0&path=%2Fmy-wbv&security=tls&sni=zaintest.vuclip.com.cyylr.eu.cc&type=ws#TEL:Father_vpn%20clc-main
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.138:443#☀️34@NetFlowTools%20clc-main
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.140:443?allowInsecure=0&insecure=0&security=tls#@Soul737%20clc-main
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.151:443?allowInsecure=0&insecure=0&security=tls#https://t.me/AarazV2ray%20clc-main
-trojan://duaR-NjjdGGLeZ+W6j=3NY46vZW+zyMD1z@89.125.95.152:11300?allowInsecure=0&fp=chrome&insecure=0&security=tls&sni=www.toughapp.click#@hopev2ray🧡%20clc-main
-trojan://e0195c73018d597b1c2f0ea89d8676ae@43.198.107.157:17005?sni=www.nintendogames.net#@Hope_Net-join-us-on-Telegram%20clc-main
-trojan://e0195c73018d597b1c2f0ea89d8676ae@95.40.125.63:5701?allowInsecure=1&sni=www.nintendogames.net#@Hope_Net-join-us-on-Telegram%20clc-main
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.42.163:443?host=tjsp.hhxaf.cc.cd&path=%2F&sni=tjsp.hhxaf.cc.cd&type=ws#☀️31@NetFlowTools%20clc-main
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@108.160.132.132:443?allowInsecure=0&fp=chrome&host=tjsp.hhxaf.cc.cd&insecure=0&path=%2F&security=tls&sni=tjsp.hhxaf.cc.cd&type=ws#🕊️Tel: @Proxy_Vpney (1)%20clc-main
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@130.162.130.105:443?allowInsecure=0&ech=cloudflare-ech.com+https%3A%2F%2Fdns.alidns.com%2Fdns-query&fp=chrome&host=tjsp.hhxaf.cc.cd&insecure=0&path=%2F&security=tls&sni=tjsp.hhxaf.cc.cd&type=ws#🇰🇷 Join+Telegram:@Farah_VPN 🇰🇷%20clc-main
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@144.202.83.188:443?fp=chrome&host=hhcm.hhxaf.cc.cd&path=%2F&sni=hhcm.hhxaf.cc.cd&type=ws#🏇32@NetFlowTools%20clc-main
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@152.70.105.42:8443?fp=chrome&host=tjsp.hhxaf.cc.cd&path=%2F&sni=tjsp.hhxaf.cc.cd&type=ws#🏇33@NetFlowTools%20clc-main
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@161.118.158.9:443?insecure=0&path=%2F&security=tls&sni=hhcm.hhxaf.cc.cd&type=ws#@v2rayconfigamir 8806%20clc-main
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.36.20:443?fp=chrome&host=hhcm.hhxaf.cc.cd&path=%2F&sni=hhcm.hhxaf.cc.cd&type=ws#☀️42@NetFlowTools%20clc-main
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@172.66.46.250:443?fp=chrome&host=hhcm.hhxaf.cc.cd&path=%2F&sni=hhcm.hhxaf.cc.cd&type=ws#🦖74@NetFlowTools%20clc-main
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@47.245.62.4:8443?fp=chrome&host=dxy1h.twiladaphne.ndjp.net&path=%2Fproxyip%3D104.168.132.123%2C172.104.53.198%2C85.121.50.16%2C151.242.125.226&security=tls&sni=dxy1h.twiladaphne.ndjp.net&type=ws#🇯🇵 ژاپن | https://t.me/FREECONFIGSPLUS ✨%20clc-main
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@66.245.218.247:443?fp=chrome&host=tjsp.hhxaf.cc.cd&path=%2F&sni=tjsp.hhxaf.cc.cd&type=ws#🏇35@NetFlowTools%20clc-main
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@saas.sin.fan:443?host=hhcm.hhxaf.cc.cd&path=%2F&security=tls&sni=hhcm.hhxaf.cc.cd&type=ws#🚀@VPNine1%20clc-main
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@store.ubi.com:443?allowInsecure=0&fp=chrome&host=hhcm.hhxaf.cc.cd&insecure=0&path=%2F&security=tls&sni=hhcm.hhxaf.cc.cd&type=ws#@Soul737%20clc-main
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@tjsp.hhxaf.cc.cd:443?allowInsecure=0&path=%2F&security=tls&sni=tjsp.hhxaf.cc.cd&type=ws#🇸🇬 Join+Telegram:@Farah_VPN 🇸🇬%20clc-main
-trojan://f922fa0f-3311-4368-85ff-cf65e727c854@104.17.121.43:443?host=space.byu.id.yxls.eu.cc&path=%2Fbr-orcl&sni=space.byu.id.yxls.eu.cc&type=ws#🦖72@NetFlowTools%20clc-main
-trojan://f922fa0f-3311-4368-85ff-cf65e727c854@141.193.213.30:443?host=space.byu.id.yxls.eu.cc&path=%2Fbr-orcl&sni=space.byu.id.yxls.eu.cc&type=ws#🦖100@oneclickvpnkeys%20clc-main
-trojan://humanity@104.16.174.12:443?allowInsecure=0&host=www.ignitelimit.com&insecure=0&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#@Filtershekan_channel |3%20clc-main
-trojan://humanity@104.16.174.36:443?allowinsecure=0&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#@meliproxyy%20clc-main
-trojan://humanity@104.16.174.37:443?allowInsecure=1&host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#🏇40@NetFlowTools%20clc-main
-trojan://humanity@104.16.174.44:443?allowInsecure=0&fp=chrome&insecure=0&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#@V2ray_confiig%20clc-main
-trojan://humanity@104.16.174.6:443?allowInsecure=0&host=www.ignitelimit.com&insecure=0&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#@Filtershekan_channel |2%20clc-main
-trojan://humanity@104.16.174.71:443?allowInsecure=0&host=www.ignitelimit.com&insecure=0&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#Tel-@Alpha_V2rayip🧐 2%20clc-main
-trojan://humanity@104.16.71.213:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#@appsooner کانال تلگرام 🕊️%20clc-main
-trojan://humanity@104.17.121.9:443?allowInsecure=1&alpn=http%2F1.1&fp=chrome&host=www.calmlunch.com&insecure=1&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#@Soul737%20clc-main
-trojan://humanity@104.18.115.61:443?allowInsecure=0&alpn=h2%2Chttp%2F1.1&fp=chrome&insecure=0&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#🇫🇷 @RouTel1%20clc-main
-trojan://humanity@104.18.13.149:443?allowInsecure=1&alpn=http%2F1.1&fp=chrome&host=www.calmloud.com&insecure=1&path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#https://t.me/AarazV2ray%20clc-main
-trojan://humanity@104.18.152.143:443?allowInsecure=0&host=www.ignitelimit.com&insecure=0&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#@Filtershekan_channel |2%20clc-main
-trojan://humanity@104.18.152.155:443?allowInsecure=0&host=www.ignitelimit.com&insecure=0&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#@Filtershekan_channel |3%20clc-main
-trojan://humanity@104.18.152.175:443?allowInsecure=0&host=www.ignitelimit.com&insecure=0&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#@Filtershekan_channel |1%20clc-main
-trojan://humanity@104.18.152.187:443?allowInsecure=0&host=www.ignitelimit.com&insecure=0&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#@Filtershekan_channel |1%20clc-main
-trojan://humanity@104.18.152.219:443?allowInsecure=0&host=www.ignitelimit.com&insecure=0&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#@Filtershekan_channel |3%20clc-main
-trojan://humanity@104.18.152.225:443?allowInsecure=0&host=www.ignitelimit.com&insecure=0&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#@Filtershekan_channel |1%20clc-main
-trojan://humanity@104.18.152.233:443?allowInsecure=0&alpn=http%2F1.1&host=www.calmloud.com&insecure=0&path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#@V2raySup0 | 🚀%20clc-main
-trojan://humanity@104.18.152.246:443?allowInsecure=0&host=www.ignitelimit.com&insecure=0&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#@Filtershekan_channel |2%20clc-main
-trojan://humanity@104.18.152.54:443?allowInsecure=0&alpn=h3%2Ch2&fp=chrome&insecure=0&path=%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#🇳🇱 @ProxyVPN11%20clc-main
-trojan://humanity@104.18.152.77:443?allowInsecure=0&host=www.ignitelimit.com&insecure=0&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#@Filtershekan_channel |2%20clc-main
-trojan://humanity@104.18.152.97:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#@appsooner کانال تلگرام 🕊️%20clc-main
-trojan://humanity@104.19.2.175:443?allowInsecure=0&alpn=http%2F1.1&host=www.calmloud.com&insecure=0&path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#@V2raySup0🚀✅%20clc-main
-trojan://humanity@104.19.229.21:443?allowInsecure=0&host=www.multiplydose.com&insecure=0&path=%2F%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#@Maznet -SOS468%20clc-main
-trojan://humanity@104.19.229.21:443?allowInsecure=0&alpn=http%2F1.1&fp=chrome&host=www.calmloud.com&insecure=0&path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#@Maznet -SOS462%20clc-main
-trojan://humanity@104.19.229.21:443?allowInsecure=0&host=www.calmlunch.com&insecure=0&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#@Maznet -SOS464%20clc-main
-trojan://humanity@104.19.229.21:443?allowInsecure=0&host=www.gossipglove.com&insecure=0&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#@Filtershekan_channel |1%20clc-main
-trojan://humanity@104.19.229.21:443?allowInsecure=0&host=www.ignitelimit.com&insecure=0&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#@Maznet -SOS460%20clc-main
-trojan://humanity@104.19.229.21:443?allowInsecure=0&fp=chrome&insecure=0&path=%2Fassignment%3FTELEGRAM--KANAL--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN&security=tls&sni=www.gossipglove.com&type=ws#@Maznet -SOS466%20clc-main
-trojan://humanity@104.19.229.21:443?allowInsecure=0&insecure=0&path=assignment&security=tls&sni=www.ignitelimit.com&type=ws#@Maznet -SOS465%20clc-main
-trojan://humanity@104.20.42.250:443?alpn=http%2F1.1&fp=chrome&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#🏇75@NetFlowTools%20clc-main
-trojan://humanity@104.21.40.34:443?allowInsecure=1&host=www.gossipglove.com&insecure=1&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#@vmesskhodam%20clc-main
-trojan://humanity@104.26.14.137:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#🏇39@NetFlowTools%20clc-main
-trojan://humanity@127.0.0.1:40443?allowInsecure=0&host=www.multiplydose.com&insecure=0&path=%2F%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#@Maznet-Spoof13%20clc-main
-trojan://humanity@127.0.0.1:40443?allowInsecure=0&host=www.calmlunch.com&insecure=0&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#@Maznet-Spoof8%20clc-main
-trojan://humanity@127.0.0.1:40443?allowInsecure=0&host=www.gossipglove.com&insecure=0&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#@Maznet-Spoof12%20clc-main
-trojan://humanity@127.0.0.1:40443?allowInsecure=0&host=www.ignitelimit.com&insecure=0&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#@Maznet-Spoof9%20clc-main
-trojan://humanity@127.0.0.1:40443?allowInsecure=0&fp=chrome&insecure=0&path=%2Fassignment%3FTELEGRAM--KANAL--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN&security=tls&sni=www.gossipglove.com&type=ws#@Maznet-Spoof11%20clc-main
-trojan://humanity@127.0.0.1:40443?allowInsecure=0&insecure=0&path=assignment&security=tls&sni=www.ignitelimit.com&type=ws#@Maznet-Spoof10%20clc-main
-trojan://humanity@141.101.90.101:443?allowInsecure=0&fp=chrome&host=www.ignitelimit.com&insecure=0&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🛜🔷️414🌐🆕️%20clc-main
-trojan://humanity@141.193.213.21:443?host=www.calmloud.com&path=%2Fassignment&sni=www.calmloud.com&type=ws#🏇42@NetFlowTools%20clc-main
-trojan://humanity@141.193.213.21:443?allowInsecure=0&fp=chrome&insecure=0&path=%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#🦌@ProxyVPN11 - 10%20clc-main
-trojan://humanity@159.112.235.52:443?allowInsecure=0&fp=chrome&insecure=0&path=%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#Proxy_Se7en%20clc-main
-trojan://humanity@162.159.17.189:443?host=www.multiplydose.com&path=%2Fassignment&sni=www.multiplydose.com&type=ws#🏇41@NetFlowTools%20clc-main
-trojan://humanity@172.64.152.23:443?allowInsecure=0&host=www.calmlunch.com&insecure=0&note=%40FreeOnlineVPN&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#🇫🇷 - FR - @FreeOnlineVPN%20clc-main
-trojan://humanity@172.64.152.23:443?allowInsecure=0&fp=chrome&host=www.gossipglove.com&insecure=0&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#@vmesskhodam%20clc-main
-trojan://humanity@172.67.180.92:443?allowInsecure=0&fp=chrome&host=www.multiplydose.com&insecure=0&path=%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#@outline_ir%20clc-main
-trojan://humanity@185.18.250.252:443?allowInsecure=0&insecure=0&path=%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#@V2raySup0 | 🚀%20clc-main
-trojan://humanity@185.18.250.252:443?allowInsecure=1&fp=chrome&host=www.gossipglove.com&insecure=1&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#@v2rayngzendegimamad🕊️%20clc-main
-trojan://humanity@185.231.112.217:40443?allowInsecure=0&host=www.creationlong.org&insecure=0&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#irconfiig%20clc-main
-trojan://humanity@188.114.96.3:443?allowInsecure=0&host=www.calmlunch.com&insecure=0&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#@hopev2ray🩶%20clc-main
-trojan://humanity@188.114.96.3:443?allowInsecure=0&host=www.creationlong.org&insecure=0&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#@V2raySup0🚀%20clc-main
-trojan://humanity@188.114.97.6:443?allowInsecure=0&alpn=http%2F1.1&fp=chrome&host=www.calmloud.com&insecure=0&path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#@qruzvpn کانال تلگرام کانفیگ%20clc-main
-trojan://humanity@188.114.97.6:443?allowInsecure=0&host=www.calmlunch.com&insecure=0&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#@v2rayNplus%20clc-main
-trojan://humanity@188.114.97.6:443?allowInsecure=0&insecure=0&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#MiX--@V2rayAlpha--11%20clc-main
-trojan://humanity@188.114.98.0:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#@appsooner کانال تلگرام 🕊️%20clc-main
-trojan://humanity@188.114.98.0:443?allowInsecure=0&host=www.creationlong.org&insecure=0&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#@vmesskhodam%20clc-main
-trojan://humanity@198.202.211.1:443?allowInsecure=0&fp=chrome&host=www.creationlong.org&insecure=0&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#@V2raySup0 🚀%20clc-main
-trojan://humanity@198.62.62.23:443?host=www.calmlunch.com&path=%2F%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#🏇72@NetFlowTools%20clc-main
-trojan://humanity@198.62.62.23:443?allowInsecure=0&fp=chrome&insecure=0&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#@hopev2ray🩵%20clc-main
-trojan://humanity@199.181.197.212:443?alpn=http%2F1.1&host=www.calmloud.com&path=%2Fassignment&sni=www.calmloud.com&type=ws#kurdconfig%20clc-main
-trojan://humanity@2.144.21.112:40443?allowInsecure=0&host=www.ignitelimit.com&insecure=0&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#irconfiig%20clc-main
-trojan://humanity@208.103.161.170:443?allowInsecure=0&alpn=http%2F1.1&fp=chrome&host=www.calmloud.com&insecure=0&path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#Tel-@NapsterNetvIrani🥸 2%20clc-main
-trojan://humanity@216.24.57.6:443?allowInsecure=0&alpn=http%2F1.1&fp=chrome&host=www.creationlong.org&insecure=0&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#vipp - #6%20clc-main
-trojan://humanity@45.130.125.112:443?allowInsecure=0&fp=chrome&insecure=0&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#@V2dogs_n%20clc-main
-trojan://humanity@45.130.125.126:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#🏇71@NetFlowTools%20clc-main
-trojan://humanity@45.130.125.126:443?allowInsecure=0&fp=chrome&host=www.multiplydose.com&insecure=0&path=%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#@bored_vpn%20clc-main
-trojan://humanity@45.130.125.32:443?allowInsecure=0&host=www.calmloud.com&insecure=0&path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#@Ap_Ir6%20clc-main
-trojan://humanity@45.130.125.75:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#🏇67@NetFlowTools%20clc-main
-trojan://humanity@45.80.111.7:443?allowInsecure=0&fp=chrome&insecure=0&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#@Arvand_soul❤️🧑‍💻 کانفیگ ملی در%20clc-main
-trojan://humanity@5.10.214.34:443?allowInsecure=1&alpn=http%2F1.1&host=www.calmloud.com&insecure=1&path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#Channel id:@V2RAYBAZI%20clc-main
-trojan://humanity@91.193.58.77:443?allowInsecure=0&host=www.calmloud.com&insecure=0&path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#@V2raySup0🚀%20clc-main
-trojan://humanity@srv1.khatibirepair.ir:443?allowInsecure=0&fp=chrome&insecure=0&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#@V2raySup0 | 🚀%20clc-main
-trojan://humanity@www.calmlunch.com:443?fp=chrome&path=%2Fassignment&security=tls&type=ws#🏇73@NetFlowTools%20clc-main
-trojan://humanity@www.multiplydose.com:443?fp=chrome&path=%2Fassignment&security=tls&type=ws#🏇74@NetFlowTools%20clc-main
-trojan://humanity@www.multiplydose.com:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#@CUSTOMVPNSERVER%20clc-main
-trojan://k2CQ2JboS7@188.114.97.6:443?allowInsecure=0&fp=chrome&host=s6.aananas.ir&insecure=0&path=%2F%3Fed%3D2048&security=tls&sni=s6.aananas.ir&type=ws#https://t.me/v2raynplus |🇹🇼%20clc-main
-trojan://kflYwtj8VD7Pd4V9ixedIxEDsac4QQXvbP@45.77.227.183:443#☀️93@oneclickvpnkeys%20clc-main
-trojan://kflYwtj8VD7Pd4V9ixedIxEDsac4QQXvbP@45.77.227.183:443?allowInsecure=0&insecure=0&security=tls&sni=45.77.227.183#@Soul737%20clc-main
-trojan://mSzFVhUczD@104.20.6.134:443?allowInsecure=0&alpn=http%2F1.1&fp=chrome&insecure=0&path=%2F&security=tls&sni=abest.api-tel.xyz&type=ws#@SheriffNet%20clc-main
-trojan://mitivpn@104.16.72.70:443?allowInsecure=0&alpn=http%2F1.1&fp=chrome&host=gamingdll.ir&insecure=0&path=%2Findex.php%2Fed%3Dmitivpn&security=tls&sni=gamingdll.ir&type=ws#@prrofile_purple  ♥️👈 تلگرام%20clc-main
-trojan://mitivpn@104.16.72.70:443?allowInsecure=0&alpn=http%2F1.1&fp=chrome&host=linkkon-a.ir&insecure=0&path=index.php%3Dmitivpn&security=tls&sni=linkkon-a.ir&type=ws#@prrofile_purple  ♥️👈 تلگرام%20clc-main
-trojan://mitivpn@109.120.176.4:443?allowInsecure=0&alpn=http%2F1.1&fp=chrome&host=gamingdll.ir&insecure=0&path=%2Fed%3Dmitivpn&security=tls&sni=gamingdll.ir&type=ws#@V2ConfigPro%20clc-main
-trojan://mitivpn@188.114.97.6:443?allowInsecure=0&alpn=http%2F1.1&fp=chrome&host=s2.mitivpn.nl.ssl.global.fastly.ir.iranpoems.ir&insecure=0&path=%2F%3Fmitivpn&security=tls&sni=s2.mitivpn.nl.ssl.global.fastly.dev.iranpoems.ir&type=ws#TEL;Father_vpn%20clc-main
-trojan://mitivpn@188.114.97.6:443?allowInsecure=0&alpn=http%2F1.1&fp=chrome&host=sdasdfgv.global.ssl.fastly.net.mitivpn-a.site&insecure=0&path=%2F%3Fmitivpn&security=tls&sni=global.fastly.com.mitivpn-a.site&type=ws#TEL;Father_vpn%20clc-main
-trojan://mitivpn@188.114.97.6:443?alpn=http%2F1.1&fp=chrome&host=sdasdfgv.global.ssl.fastly.top.mitivpn-a.site&path=%2Fed%3Dmitivpn&security=tls&sni=global.fastly.com.mitivpn-a.site&type=ws#❤️‍🔥 کانال تلگرام HiByeVPNN@%20clc-main
-trojan://mitivpn@188.114.97.6:443?allowInsecure=0&alpn=http%2F1.1&fp=chrome&host=eee.we.wwww.swsl.glowbal.diwgi.mwy.mitivpn.xyz&insecure=0&path=%2Fed%3Dmitivpn&security=tls&sni=www.ssl.global.digi.my.mitivpn.xyz&type=ws#TEL;Father_vpn%20clc-main
-trojan://mitivpn@188.114.97.6:443?allowInsecure=0&alpn=http%2F1.1&fp=chrome&host=s1.mitivpn.de.ssl.global.fastly.com.iranpoems.ir&insecure=0&path=%2Fed%3Dmitivpn&security=tls&sni=s1.mitivpn.de.ssl.global.fastly.co.iranpoems.ir&type=ws#TEL;Father_vpn%20clc-main
-trojan://mitivpn@188.114.97.6:443?allowInsecure=0&fp=chrome&host=cdn.gamingdll.ir&insecure=0&path=%2Fed%3Dmitivpn&security=tls&sni=gamingdll.ir&type=ws#@hopev2ray🩷%20clc-main
-trojan://mitivpn@188.114.97.6:443?allowInsecure=0&alpn=http%2F1.1&fp=chrome&insecure=0&path=https%3A%2F%2Fchatgpt.com&security=tls&sni=mitivpn.sddde.ssddl.globddal.fassdtdly.cow.mitivpn.site&type=ws#TEL;Father_vpn%20clc-main
-trojan://mitivpn@188.114.97.6:443?allowInsecure=0&alpn=http%2F1.1&fp=chrome&insecure=0&path=https%3A%2F%2Fchatgpt.com&security=tls&sni=mitivpn.sdde.ssdl.globdal.fastdly.net.mitivpn.site&type=ws#TEL;Father_vpn%20clc-main
-trojan://mitivpn@188.114.97.6:443?allowInsecure=1&alpn=http%2F1.1&fp=chrome&host=s-mitivpn.global.ssl.b5r.ir&insecure=1&path=https%3A%2F%2Fchatgpt.com&security=tls&sni=sadszdx.global.ssl.fastly.net.b5r.ir&type=ws#🔥 @free_conf_iran 🔥 1%20clc-main
-trojan://mitivpn@27.50.48.49:443?allowInsecure=0&alpn=http%2F1.1&fp=chrome&host=gamingdll.ir&insecure=0&path=%2Findex.html%2Fed%3Dmitivpn&security=tls&sni=gamingdll.ir&type=ws#TEL;Father_vpn%20clc-main
-trojan://mitivpn@45.130.125.220:443?allowInsecure=0&alpn=http%2F1.1&fp=chrome&host=linkkon-a.ir&insecure=0&path=index.html%3Dmitivpn&security=tls&sni=linkkon-a.ir&type=ws#@V2ConfigPro%20clc-main
-trojan://n-S5Kuz58YgwljisuLEJltip2OWf1ourWz@185.137.157.250:443?allowInsecure=0&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&insecure=0&security=tls&sni=fra250.clientfirewall.click#https://t.me/v2rayNplus |🇩🇪%20clc-main
-trojan://opentunnel.net-andonezi30day@38.9.140.91:443?security=tls&sni=uplod.ir#@v2rayconfigamir 5291%20clc-main
-trojan://opentunnel.net-engliah30day1@38.48.123.89:443?security=tls&sni=uplod.ir#@v2rayconfigamir 1608%20clc-main
-trojan://opentunnel.net-english30day@54.37.18.204:443?security=tls&sni=uplod.ir#@v2rayconfigamir 2753%20clc-main
-trojan://opentunnel.net-hongkong30day3@185.48.251.29:443?security=tls&sni=uplod.ir#@v2rayconfigamir 2627%20clc-main
-trojan://opentunnel.net-usa30day@15.204.9.172:443?security=tls&sni=uplod.ir#@v2rayconfigamir 8333%20clc-main
-trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@172.238.120.124:443?allowInsecure=0&fp=chrome&insecure=0&security=tls#TEL;Father_vpn%20clc-main
-trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?allowInsecure=0&fp=chrome&insecure=0&security=tls&sni=172.236.220.10#TEL;Father_vpn%20clc-main
-trojan://tUtK5TKdjxsPnOyritLtv8OQWHAK8f8yNR@130.94.94.15:443#🏇45@NetFlowTools%20clc-main
-trojan://telegram-id-directvpn@13.37.121.12:22223?alpn=http%2F1.1&security=tls&sni=trojan.burgerip.co.uk#🇫🇷FR-🚀@VPNine1%20clc-main
-trojan://telegram-id-directvpn@13.37.40.117:22223?alpn=http%2F1.1&security=tls&sni=trojan.burgerip.co.uk#🇫🇷FR-🚀@VPNine1%20clc-main
-trojan://telegram-id-privatevpns@13.37.121.12:22222?alpn=http%2F1.1&security=tls&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs%20clc-main
-trojan://telegram-id-privatevpns@13.37.27.225:22222?alpn=http%2F1.1&security=tls&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs%20clc-main
-trojan://telegram-id-privatevpns@13.37.37.145:22222?alpn=http%2F1.1&security=tls&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs%20clc-main
-trojan://telegram-id-privatevpns@13.37.40.117:22222?alpn=http%2F1.1&security=tls&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs%20clc-main
-trojan://telegram-id-privatevpns@15.236.45.32:22222?alpn=http%2F1.1&security=tls&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs%20clc-main
-trojan://telegram-id-privatevpns@18.156.10.205:22222?alpn=http%2F1.1&security=tls&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs%20clc-main
-trojan://telegram-id-privatevpns@18.203.97.93:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#@Hope_Net-join-us-on-Telegram%20clc-main
-trojan://telegram-id-privatevpns@3.73.187.97:22222?alpn=http%2F1.1&security=tls&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs%20clc-main
-trojan://telegram-id-privatevpns@3.78.10.220:22222?alpn=http%2F1.1&security=tls&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs%20clc-main
-trojan://telegram-id-privatevpns@35.180.163.45:22222?alpn=http%2F1.1&security=tls&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs%20clc-main
-trojan://telegram-id-privatevpns@35.181.126.167:22222?alpn=http%2F1.1&security=tls&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs%20clc-main
-trojan://telegram-id-privatevpns@51.102.212.106:22222?alpn=http%2F1.1&security=tls&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs%20clc-main
-trojan://telegram-id-privatevpns@51.45.27.231:22222?alpn=http%2F1.1&security=tls&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs%20clc-main
-trojan://telegram-id-privatevpns@52.28.54.27:22222?alpn=http%2F1.1&security=tls&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs%20clc-main
-trojan://telegram-id-privatevpns@52.57.233.63:22222?alpn=http%2F1.1&security=tls&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs%20clc-main
-trojan://tg-dns68@162.159.152.138:443?host=vip.putata.eu.org&security=tls&sni=vip.putata.eu.org&type=ws#@Hope_Net-join-us-on-Telegram%20clc-main
-trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.119:443#🦖51@oneclickvpnkeys%20clc-main
-trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.71:443#🦖40@NetFlowTools%20clc-main
-trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.85:443?allowInsecure=0&insecure=0&security=tls#@Soul737%20clc-main
-trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.87:443#☀️25@NetFlowTools%20clc-main
-trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.93:443#🦖47@oneclickvpnkeys%20clc-main
-trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.93:443?allowInsecure=0&insecure=0&security=tls&sni=92.119.35.93#@v2raybaaz ⁴%20clc-main
-trojan://zK=0KfL3IG+sNNZL-J7d0Nonu4wFBx8MOy@172.235.229.227:443?allowInsecure=0&insecure=0&security=tls#@Arvand_soul❤️🧑‍💻 کانفیگ ملی در%20clc-main
-trojan://aR9EJWEB2Jp3m6xKJK%3DCt7kLyqFSU-iDBR@92.119.35.127:443?security=tls#%3E%3E%40ISVvpn%3A%3ADE%20clc-main
-trojan://aR9EJWEB2Jp3m6xKJK=Ct7kLyqFSU-iDBR@92.119.35.130:443#%3E%3E%40oneclickvpnkeys%3A%3ADE%20clc-main
-trojan://aR9EJWEB2Jp3m6xKJK%3DCt7kLyqFSU-iDBR@92.119.35.120:443?security=tls#%3E%3E%40ISVvpn%3A%3ADE%20clc-main
-trojan://aR9EJWEB2Jp3m6xKJK%3DCt7kLyqFSU-iDBR@92.119.35.123:443?allowInsecure=0&insecure=0&security=tls#%3E%3E%40outline_vpn%3A%3ADE%20clc-main
-trojan://aR9EJWEB2Jp3m6xKJK%3DCt7kLyqFSU-iDBR@92.119.35.117:443?security=tls#%3E%3E%40ISVvpn%3A%3ADE%20clc-main
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@213.35.127.18:443?fp=chrome&host=hhcm.hhxaf.cc.cd&path=%2F&security=tls&sni=hhcm.hhxaf.cc.cd&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ASG%20clc-main
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@tjsp.hhxaf.cc.cd:443?fp=chrome&path=%2F&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS%20clc-main
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@154.64.235.157:443?fp=chrome&host=hhcm.hhxaf.cc.cd&path=%2F&security=tls&sni=hhcm.hhxaf.cc.cd&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS%20clc-main
-trojan://f922fa0f-3311-4368-85ff-cf65e727c854@space.byu.id.yxls.eu.cc:443?fp=chrome&path=%2Fbr-orcl&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS%20clc-main
-trojan://humanity@104.16.174.117:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR%20clc-main
-trojan://humanity@104.18.8.83:443?allowInsecure=0&fp=chrome&insecure=0&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#%3E%3E%40v2rayng_fast%3A%3AFR%20clc-main
-trojan://humanity@104.18.152.246:443?allowInsecure=0&alpn=http%2F1.1&fp=chrome&host=www.calmloud.com&insecure=0&path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#%3E%3E%40v2rayng_fast%3A%3AFR%20clc-main
-trojan://humanity@104.17.121.71:443?allowInsecure=1&alpn=http%2F1.1&fp=chrome&host=www.calmloud.com&path=%2Fassignment&sni=www.calmloud.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR%20clc-main
-trojan://humanity@104.17.131.88:443?fp=chrome&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR%20clc-main
-trojan://humanity@104.18.12.149:443?allowInsecure=1&host=www.multiplydose.com&path=%2Fassignment&sni=www.multiplydose.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL%20clc-main
-trojan://humanity@104.20.6.134:443?host=www.calmloud.com&path=%2Fassignment&sni=www.calmloud.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR%20clc-main
-trojan://humanity@104.18.32.37:443?allowInsecure=1&fp=chrome&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#%3E%3E%40v2line%3A%3AFR%20clc-main
-trojan://humanity@104.19.229.21:443?allowInsecure=0&fp=chrome&insecure=0&path=%2Fassignment%3FL%3Dtls&sni=www.gossipglove.com&type=ws#%3E%3E%40V2rayNG3%3A%3AFR%20clc-main
-trojan://humanity@104.18.32.47:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR%20clc-main
-trojan://humanity@141.193.213.11:443?allowInsecure=1&alpn=http%2F1.1&fp=chrome&host=www.calmloud.com&insecure=1&path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#%3E%3E%40freeland8%3A%3AFR%20clc-main
-trojan://humanity@165.215.250.14:443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR%20clc-main
-trojan://humanity@172.64.147.24:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR%20clc-main
-trojan://humanity@172.64.155.209:443?host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR%20clc-main
-trojan://humanity@172.66.47.69:443?host=www.multiplydose.com&path=%2Fassignment&sni=www.multiplydose.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL%20clc-main
-trojan://humanity@185.18.250.245:443?allowInsecure=1&host=www.calmlunch.com&insecure=1&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#%3E%3E%40configV2rayNG%3A%3AFR%20clc-main
-trojan://humanity@185.18.250.252:443?allowInsecure=1&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR%20clc-main
-trojan://humanity@188.114.96.3:443?fp=chrome&host=www.multiplydose.com&path=%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL%20clc-main
-trojan://humanity@188.114.96.4:443?allowInsecure=1&alpn=http%2F1.1&insecure=1&path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#%3E%3E%40configV2rayNG%3A%3AFR%20clc-main
-trojan://humanity@104.19.230.21:443?allowInsecure=1&fp=chrome&host=www.multiplydose.com&path=%2Fassignment&sni=www.multiplydose.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL%20clc-main
-trojan://humanity@104.18.7.147:443?allowInsecure=1&fp=chrome&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR%20clc-main
-trojan://humanity@104.21.40.34:443?host=www.multiplydose.com&path=%2Fassignment&sni=www.multiplydose.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL%20clc-main
-trojan://humanity@104.19.208.184:443?host=www.multiplydose.com&path=%2F%252Fassignment&sni=www.multiplydose.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL%20clc-main
-trojan://humanity@172.64.147.166:443?host=www.multiplydose.com&path=%2Fassignment&sni=www.multiplydose.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL%20clc-main
-trojan://humanity@172.66.44.211:443?host=www.multiplydose.com&path=%2Fassignment&sni=www.multiplydose.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL%20clc-main
-trojan://humanity@199.181.197.143:443?alpn=http%2F1.1&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#%3E%3E%40ShadowsocksM%3A%3AFR%20clc-main
-trojan://humanity@199.181.197.228:443?alpn=http%2F1.1&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#%3E%3E%40ShadowsocksM%3A%3AFR%20clc-main
-trojan://humanity@199.181.197.111:443?alpn=http%2F1.1&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#%3E%3E%40ShadowsocksM%3A%3AFR%20clc-main
-trojan://humanity@199.181.197.169:443?alpn=http%2F1.1&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#%3E%3E%40ShadowsocksM%3A%3AFR%20clc-main
-trojan://humanity@199.181.197.36:443?alpn=http%2F1.1&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#%3E%3E%40ShadowsocksM%3A%3AFR%20clc-main
-trojan://humanity@199.181.197.176:443?alpn=http%2F1.1&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#%3E%3E%40ShadowsocksM%3A%3AFR%20clc-main
-trojan://humanity@216.24.57.7:443?alpn=http%2F1.1&host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR%20clc-main
-trojan://humanity@45.130.125.0:443?allowinsecure=0&alpn=http%2F1.1&fp=chrome&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#%3E%3E%40v2rayngvpn%3A%3AFR%20clc-main
-trojan://humanity@45.130.125.160:443?alpn=http%2F1.1&fp=chrome&host=www.calmloud.com&path=%2Fassignment&sni=www.calmloud.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR%20clc-main
-trojan://humanity@45.130.125.69:443?allowInsecure=1&alpn=http%2F1.1&fp=chrome&host=www.calmloud.com&insecure=1&path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#%3E%3E%40configV2rayNG%3A%3AFR%20clc-main
-trojan://humanity@45.130.125.76:443?allowInsecure=1&alpn=http%2F1.1&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR%20clc-main
-trojan://humanity@45.130.125.96:443?allowInsecure=0&alpn=http%2F1.1&fp=chrome&host=www.calmloud.com&insecure=0&path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#%3E%3E%40configV2rayNG%3A%3AFR%20clc-main
-trojan://humanity@66.81.247.155:443?allowInsecure=0&alpn=http%2F1.1&fp=chrome&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#%3E%3E%40v2rayngvpn%3A%3AFR%20clc-main
-trojan://humanity@8.6.112.0:443?host=www.multiplydose.com&path=%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#%3E%3E%40configshub2%3A%3ANL%20clc-main
-trojan://humanity@8.6.112.6:443?allowInsecure=0&alpn=http%2F1.1&fp=chrome&host=www.calmloud.com&insecure=0&path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#%3E%3E%40v2rayNG_Matsuri%3A%3AFR%20clc-main
-trojan://humanity@chatgpt.com:443?host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR%20clc-main
-trojan://humanity@sourceforge.net:443?allowInsecure=1&alpn=http%2F1.1&host=www.calmloud.com&path=%2Fassignment&sni=www.calmloud.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR%20clc-main
-trojan://humanity@www.calmlunch.com:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR%20clc-main
-trojan://humanity@www.gossipglove.com:443?allowInsecure=1&path=%2Fassignment&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR%20clc-main
-trojan://humanity@www.ignitelimit.com:443?allowInsecure=1&path=%2Fassignment&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR%20clc-main
-trojan://humanity@www.creationlong.org:443?fp=chrome&path=%2Fassignment&type=ws#%3E%3E%40oneclickvpnkeys%3A%3APL%20clc-main
-trojan://humanity@208.103.161.110:443?allowInsecure=1&host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#%3E%3E%40oneclickvpnkeys%3A%3APL%20clc-main
-trojan://humanity@45.130.125.2:443?allowInsecure=0&host=Www.cReaTIOnLONG.OrG&insecure=0&path=%2Fassignment&security=tls&sni=Www.cReaTIOnLONG.OrG&type=ws#%3E%3E%40configshub2%3A%3APL%20clc-main
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.ivano-frankivsk.ua:2053?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-209.9.203.46-4126%20clc-main
-trojan://45a02ace-0d89-45a8-92a1-ecaf81d870b9@36.139.154.162:45303?security=tls&sni=hg01.chunyua.online#%F0%9F%87%A8%F0%9F%87%B3CN-36.139.154.162-0029%20clc-main
-trojan://da777aae-defb-41d0-a183-2c27da2b4677@150.230.96.103:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-150.230.96.103-0182%20clc-main
-trojan://GTCCjtvCtuy03-aV1mwF0OkG2q6yL+Fc5K@207.126.167.162:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-207.126.167.162-0193%20clc-main
-trojan://O4O8.Ew+ujFX6GJBQ=xQr.heGwux0GYHqk@207.126.167.150:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-207.126.167.150-0194%20clc-main
-trojan://O4O8.Ew+ujFX6GJBQ=xQr.heGwux0GYHqk@45.61.52.243:443?security=tls&sni=45.61.52.243#%F0%9F%87%BA%F0%9F%87%B8US-45.61.52.243-0195%20clc-main
-trojan://SoftNetConnect@37.156.44.215:42549?security=tls#%F0%9F%87%A8%F0%9F%87%ADCH-37.156.44.215-0196%20clc-main
-trojan://oJRk-2+NoHJ3N4frj_O2.0CzT+WAgdcs7b@144.31.55.35:28126?sni=www.game-bridge.click#%F0%9F%8C%8A44@NetFlowTools%20clc-main
-trojan://0ab59a11983d4ce7862d156c164d927d@www.speedtest.net:443?allowInsecure=0&alpn=http%2F1.1&fp=chrome&host=FAST-RouTE-Dd4E2d.fREefIREmO7964.wOrKerS.dev&insecure=0&path=%2FeyJqdW5rIjoiajRMMndudHIiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMDkuMTIyLjE5OC4xMjciXX0%3D%3Fed%3D2560&security=tls&sni=FAST-Route-DD4E2D.FREEfiReMO7964.WOrkeRS.DEV&type=ws#🇸🇬```%20clc-main
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca37.myfymain.com:8880?encryption=none&mode=gun&type=grpc#🇮🇹%20clc-main
+vless://b82f0dc8-6ed6-4cb1-8754-3a41846eec11@135.125.191.9:8443?allowInsecure=0&encryption=none&fp=random&host=nova-mango-spark-7b1c.nova-ef15e0.workers.dev&insecure=0&path=%2Fproxyip%3D45.155.102.207%3Fu%3Df37bdce86d&security=tls&sni=nova-mango-spark-7b1c.nova-ef15e0.workers.dev&type=ws#🇨🇦%20clc-main
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.67.215.30:8880?encryption=none&host=vms.lifetime48.workers.dev&path=%2F&type=ws#🇸🇬%20clc-main
+vless://e96ffcc1-5acf-4e24-9b67-1b736a2f1c24@89.208.97.95:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=OhHt4eEk9pZVzDpt37apm_7DRM0qP6_D4yJBCK0n02A&security=reality&sid=5701e710c025b4b8&sni=amazon.fr&spx=%2F#👁️‍🗨️%20clc-main
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.53.65:443?allowInsecure=0&encryption=none&host=t1s1.rittbo.kdns.fr&insecure=0&path=%2Ffp%3Dchrome&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#Mix--%40V2rayAlpha--30%20clc-main
+vless://9c10d8b0-e1fb-48d5-af5d-03ad736f37bb@188.114.97.6:2086?encryption=none&host=snowy-fire-7369.mmdiborobav.workers.dev&path=%2FeyJqdW5rIjoiMENyWGlPUjVmIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiODcuMTIwLjE2Ni4xNCJdfQ%3D%3D%3Fed%3D2560&type=ws#🇸🇬%20clc-main
+vless://aa3415b8-f471-47c4-8159-7681d645c8ca@198.186.131.222:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=b6n3d22n.qcwdcq.workers.dev&path=%2F&security=tls&sni=b6n3d22n.qcwdcq.workers.dev&type=ws#🇩🇪%20clc-main
+vless://af475b0e-0c07-40fe-b4db-3dea2c0a481d@91.193.58.17:2083?allowInsecure=1&encryption=none&host=edgetunnel-cmliu.lyqnihao.dpdns.org&path=%2Ffp%3Dchrome&security=tls&sni=edgetunnel-cmliu.lyqnihao.dpdns.org&type=ws#🇨🇦%20clc-main
+vless://73bfc040-0083-4b22-a899-0576afe8e304@95.182.100.227:443?encryption=none&fp=chrome&pbk=fIQDc-_4dIPsDY9EK-jHRV0YPGrPjaXCUtndofTPk0E&security=reality&sid=3fe1dbed36&sni=www.cloudflare.com&spx=%2FjuWpRWaiG2uHZ22#%40v2ray_phoenix%20clc-main
+vless://3fa92976-551b-4805-b59e-e4f09db85e71@d-a.lorqina.ir:2082?encryption=none&host=d-a.lorqina.ir&path=%2Fed%3D250&type=ws#%40Sirvpnfirst%20%3A%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20clc-main
+vless://ca610057-1080-4444-a509-da582cf27976@3.71.8.174:1001?encryption=none#%F0%9F%93%A2Filterboro%203%20clc-main
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.159.247.30:8880?encryption=none&host=vms.lifetime59.workers.dev&path=%2F&type=ws#🇸🇬%20clc-main
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@dx.mmhh.eu.cc:443?encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=%2Ffp%3Drandom&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#🇨🇦%20clc-main
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@198.41.223.238:443?allowInsecure=0&encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&insecure=0&path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2560&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#%40MARAMBASHI%20%F0%9F%87%AE%F0%9F%87%B9%20clc-main
+vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.53.74:443?encryption=none&host=fgnix832fx.fx6hsv0.ccwu.cc&path=%2F&security=tls&sni=fgnix832fx.fx6hsv0.ccwu.cc&type=ws#🇺🇸%20clc-main
+vless://7d14f1cf-3740-4fbd-a31c-6f7d078f97d7@hello.blind-chip.store:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=08u-fNMdTjjUwYv4GPbG7VK1ep2vh4Fv-puMcmFzhz0&security=reality&sni=hello.blind-chip.store#🇧🇪%20clc-main
+vless://4b00d726-e072-429b-997e-f07affea3b7f@162.159.81.177:80?encryption=none&host=icy-darkness-8ff1.farzambia12mo.workers.dev&path=%2FeyJqdW5rIjoibHFUM0pwRHZXIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OmIwOjY0OjpdIl19%3Fed%3D2560&type=ws#🇨🇦%20clc-main
+vless://abd3678b-f654-404c-adc7-1355865197e1@vmess.a-amr79.workers.dev:8880?allowInsecure=0&encryption=none&host=vless.a-amr79.workers.dev&path=%2FeyJqdW5rIjoiNUZVWmdPNWNpTW5LOCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzI2MDI6ZmM1OTpiMDo2NDo6XSJdfQ&type=ws#🇸🇬%20clc-main
+vless://e97a7931-500b-4777-82a2-4237f15bcedd@lt-cherry-01.com:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&packetEncoding=xudp&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&security=reality&sid=2cfb5a0ae8ab0cb0&sni=storage.yandex.net#🇱🇹%20clc-main
+vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@www.zsu.gov.ua:443?encryption=none&host=misaka.cndyw.ggff.net&path=%2F%3Fed%3D2560fp%3Drandom&security=tls&sni=misaka.cndyw.ggff.net&type=ws#🇵🇱%20clc-main
+vless://4b00d726-e072-429b-997e-f07affea3b7f@162.159.81.104:80?encryption=none&host=icy-darkness-8ff1.farzambia12mo.workers.dev&path=%2FeyJqdW5rIjoiUEVTdDRlR2hhc0JuYyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzI2MDI6ZmM1OTpiMDo2NDo6XSJdfQ%3D%3D%3Fed%3D2560&type=ws#🇸🇬%20clc-main
+vless://659a9075-d5ab-4fd2-bf34-b37043fae832@162.159.13.71:443?encryption=none&host=nbhhh.mrcool.kdns.fr&path=%2Fproxyip%3Ddc844a1f.tp15333.ip.090227.xyzfp%3Dchrome&security=tls&sni=nbhhh.mrcool.kdns.fr&type=ws#🇸🇬%20clc-main
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@betty.ns.cloudflare.com:443?allowInsecure=0&encryption=none&host=vangoghhh.info&insecure=0&path=%2Frdfgtws&security=tls&sni=vangoghhh.info&type=ws#🇩🇪%20clc-main
+vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@89.124.105.137:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=_5KQWficxpTFTYpHG-PpKpN99XL8H0vwOyg2XBMhVn8&security=reality&sid=ef3d5a5ce1127092&sni=rezerv17.yunus.guru#Mix--%40V2rayAlpha--36%20clc-main
+vless://3fa92976-551b-4805-b59e-e4f09db85e71@d-a.lorqina.ir:2086?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=GR4Vf2qGFrq56Q1Z1YyxmvUrcpbBtw02fkDKv43KbUo&security=reality&sid=f237dd185008d68b&sni=www.yahoo.com&spx=%2FzH8bCLheKNPSSKg#%40Sirvpnfirst%20%3A%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20clc-main
+vless://9479aaaf-3057-4bac-ad58-efa2a6abff73@137.74.119.18:8443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&security=tls#🇫🇷%20clc-main
+vless://c1f37260-7d28-4370-9e67-33d9bb17f5f6@199.91.220.99:36449?encryption=none#%40appsooner%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%95%8A%EF%B8%8F%20clc-main
+vless://2107ef4d-870b-4cbe-9f84-fd64319bc45c@217.60.23.144:443?encryption=none&flow=xtls-rprx-vision&fp=safari&pbk=r77nilacD34SeLmghmchRKuNiUL0xzh-pK87Ux58dzI&security=reality&sid=d0a1665d1b96515e&sni=dev.max.ru#🏳️%20clc-main
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.145.158:443?allowInsecure=0&encryption=none&host=t1s1.rittbo.kdns.fr&insecure=0&path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#%40MARAMBASHI%20%F0%9F%87%AE%F0%9F%87%B9%20clc-main
+vless://fe273991-0514-4a16-8ec4-b15ae861c000@198.41.219.218:443?encryption=none&host=zyzzzoao.xn--fiqv8j.eu.org&path=%2F%3Fed%3D2048fp%3Drandomized&security=tls&sni=zyzzzoao.xn--fiqv8j.eu.org&type=ws#🇺🇸%20clc-main
+vless://9c940549-ac64-370e-eda9-67257bab6815@141.95.8.64:9331?encryption=none&fp=firefox&pbk=x0PQITRDc443ujCTd0LORwvBBFGYKv6z2cvRbKHxAFU&security=reality&sid=af1fac6e&sni=play.google.com&spx=%2F#%40NETMelliAnti%20clc-main
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@156.231.113.141:8443?allowInsecure=0&encryption=none&host=t1s1.rittbo.kdns.fr&path=%2Ffp%3Dchrome&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#🇯🇵%20clc-main
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.214:23576?Telegram=%40kurdconfig&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn#🇺🇸%20clc-main
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@162.159.44.195:443?encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=%2Ffp%3Dchrome&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#🇯🇵%20clc-main
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@saas.sin.fan:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#%40v2ray_phoenix%20clc-main
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.21.47.19:443?allowInsecure=0&encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&insecure=0&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#Mix--%40V2rayAlpha--29%20clc-main
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@104.16.72.101:443?encryption=none&host=vangoghhh.info&path=%2Frdfgtws&security=tls&sni=vangoghhh.info&type=ws#%40v2ray_phoenix%20clc-main
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.13.196:8443?allowInsecure=0&encryption=none&host=t1s1.rittbo.kdns.fr&insecure=0&path=%2Ffp&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#Mix--%40V2rayAlpha--5%20clc-main
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@cf.008500.xyz:443?allowInsecure=0&encryption=none&host=t1s1.rittbo.kdns.fr&insecure=0&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#Mix--%40V2rayAlpha--13%20clc-main
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@204.168.174.36:8443?allowInsecure=0&encryption=none&host=vpn47.cc.cd&insecure=0&path=%2Ffp&security=tls&sni=vpn47.cc.cd&type=ws#Mix--%40V2rayAlpha--35%20clc-main
+vless://4b184bbb-c4d6-42ae-b447-aa85d8294967@46.101.160.244:2083?allowInsecure=0&encryption=none&fp=chrome&host=qeztrg7u.akscasx.workers.dev&insecure=0&path=%2F%3Fed%3D2560&security=tls&sni=qeztrg7u.akscasx.workers.dev&type=ws#🇩🇪%20clc-main
+vless://4c1b83e4-5ade-46a8-966d-1eeb7a8dcc65@104.18.42.68:8443?encryption=none&fp=chrome&host=wz1.fum.ccwu.cc&path=%2Fproxyip%3Dsjc.o00o.ooo&security=tls&sni=wz1.fum.ccwu.cc&type=ws#👁️‍🗨️%20clc-main
+vless://276733b9-25c8-47b0-b651-b18cd4909128@132.243.213.174:37037?Telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&encryption=none#👁️‍🗨️%20clc-main
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.34.124:443?encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=%2F&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#🇨🇦%20clc-main
+vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@104.16.72.70:443?allowInsecure=0&encryption=none&host=unnes.ac.id.yxls.eu.cc&insecure=0&path=%2Fca-cl&security=tls&sni=unnes.ac.id.yxls.eu.cc&type=ws#Mix--%40V2rayAlpha--11%20clc-main
+vless://aed8656b-6479-4c04-9437-c7e16aa52a06@104.21.46.80:80?encryption=none&host=jolly-base-0bce.hamedpop2.workers.dev&path=%2FeyJqdW5rIjoidXlXRjN1SVB6MllockoiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0%3D%3Fed%3D2560&type=ws#🇸🇬%20clc-main
+vless://f16ff15f-61db-4e37-ba2c-2f8620998e8b@cdn-waw.veilora.net:2052?encryption=none&path=%2F&type=ws#%F0%9F%87%A9%F0%9F%87%AA%E2%9A%A1%EF%B8%8FTel%20%3A%20%40SERVER_DNS%20clc-main
+vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?allowInsecure=0&alpn=h3&encryption=none&fp=firefox&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&insecure=0&security=tls&sni=kingcloud.biack.ir&type=ws#%40MARAMBASHI%20%F0%9F%87%AE%F0%9F%87%B9%20clc-main
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@152.70.239.74:443?allowInsecure=1&encryption=none&host=t1s1.rittbo.kdns.fr&insecure=1&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#🇰🇷%20clc-main
+vless://3fa92976-551b-4805-b59e-e4f09db85e71@p-l.lorqina.ir:28978?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=3uy61O2m5gnick-92Ce7OE-28ED3EVa1I4UVdW4T_1M&security=reality&sid=655d&sni=www.yahoo.com&spx=%2F2Lgir0FRWswyH4H#%40Sirvpnfirst%20%3A%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20clc-main
+vless://3fa92976-551b-4805-b59e-e4f09db85e71@u-s.lorqina.ir:12347?encryption=none&host=u-s.lorqina.ir&path=%2Fed%3D250&type=ws#%40Sirvpnfirst%20%3A%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20clc-main
+vless://c7665648-eff9-4317-8978-4ee2fb34f752@188.226.146.164:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=v7s1e040.5qqzdipkj05g8copceva.workers.dev&path=%2F&security=tls&sni=v7s1e040.5qqzdipkj05g8copceva.workers.dev&type=ws#🇨🇦%20clc-main
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.53.65:443?allowInsecure=0&encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&insecure=0&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#Mix--%40V2rayAlpha--1%20clc-main
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.59.13.5:22224?encryption=none&path=%2Ftelegram-channel-vlessconfig&security=tls&sni=trojan.burgerip.co.uk&type=ws#👁️‍🗨️%20clc-main
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca11.myfymain.com:8880?encryption=none&mode=gun&type=grpc#🇮🇹%20clc-main
+vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@ov-france1.09vpn.com:80?encryption=none&path=%2Fvless%2F&type=ws#🇫🇷%20clc-main
+vless://8b575b35-3c7c-42b0-ac80-2aa6b0d7717c@90.156.255.198:51114?encryption=none&fp=chrome&pbk=lf7NJGZAcj3b-YdbsmD6oEISr0dZRjp_gM8ZhLHwb0U&security=reality&sid=772e&sni=yahoo.com&spx=%2F#🇱🇻%20clc-main
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca13.myfymain.com:8880?encryption=none&mode=gun&type=grpc#🇮🇹%20clc-main
+vless://f16ff15f-61db-4e37-ba2c-2f8620998e8b@cdn-ams.veilora.net:2052?encryption=none&path=%2F&type=ws#%F0%9F%87%A9%F0%9F%87%AA%E2%9A%A1%EF%B8%8FTel%20%3A%20%40SERVER_DNS%20clc-main
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.wto.org:2095?encryption=none&host=cnmfangbinxing.cnmfangbinxing-f.workers.dev&path=%2F&type=ws#🇨🇦%20clc-main
+vless://0611401f-a49e-4a55-9954-e74d4af47100@65.109.186.44:45026?encryption=none#Mix--%40V2rayAlpha--32%20clc-main
+vless://1c405762-61d8-4654-abf0-1ab168a237eb@91.107.253.64:2035?encryption=none&headerType=http&host=play.google.com#%F0%9F%87%A9%F0%9F%87%AA%E2%9A%A1%EF%B8%8FTel%20%3A%20%40SERVER_DNS%20clc-main
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca34.mysilipdir.com:8880?encryption=none&mode=gun&type=grpc#🇮🇹%20clc-main
+vless://3f61815a-1c63-456a-ad05-655374dfd7c8@199.232.78.159:443?allowInsecure=0&encryption=none&host=bazaryabab.global.ssl.fastly.net&insecure=0&path=%2F%2F%3Fed%3D2560%2FJOIN%2FAV2rayBOT%2FJOIN%2FAV2rayBOT%2FJOIN%2FAV2rayBOT%2FJOIN%2FAV2rayBOT%2FJOIN%2FAV2rayBOT&security=tls&sni=default.ssl.fastly.net&type=ws#👁️‍🗨️%20clc-main
+vless://26524cce-d514-4014-a426-365fb266a14d@20.229.252.162:443?allowInsecure=0&encryption=none&host=i8dxb.media-cdn-us.chinav.indevs.in&insecure=0&path=%2Fdanfeng-lo9ew8-vfksib-hwrl-84fg5mvlfp&security=tls&sni=i8dxb.media-cdn-us.chinav.indevs.in&type=ws#🇳🇱%20clc-main
+vless://0611401f-a49e-4a55-9954-e74d4af47100@65.109.186.44:45026?encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI#%40MARAMBASHI%20%F0%9F%87%AE%F0%9F%87%B9%20clc-main
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca21.myfymain.com:8880?encryption=none&mode=gun&type=grpc#🇮🇹%20clc-main
+vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.66:8443?encryption=none&flow=xtls-rprx-vision&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&security=reality&sid=e3d38cee79d4f94c&sni=storage.yandex.net#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%98%8D%20clc-main
+vless://79328a64-a74f-48a0-9030-b5c7b96d43cc@doomvex1.doomvexx.workers.dev:443?allowInsecure=0&encryption=none&fp=ios&host=doomvex1.doomvexx.workers.dev&insecure=0&path=%2FIn_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=tls&sni=doomvex1.doomvexx.workers.dev&type=ws#Biosabet%20clc-main
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.249:8880?encryption=none&mode=gun&type=grpc#%40NETMelliAnti%20clc-main
+vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.251:8443?encryption=none&flow=xtls-rprx-vision&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&security=reality&sid=e3d38cee79d4f94c&sni=storage.yandex.net#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%E2%9D%A4%EF%B8%8F%20clc-main
+vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@104.17.156.197:443?allowInsecure=1&encryption=none&host=juzi.qea.ccwu.cc&path=%2F&security=tls&sni=juzi.qea.ccwu.cc&type=ws#🇺🇸%20clc-main
+vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@shopify.com:443?encryption=none&host=misaka.cndyw.ggff.net&path=%2F%3Fed%3D2560fp%3Drandom&security=tls&sni=misaka.cndyw.ggff.net&type=ws#🇨🇦%20clc-main
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca18.myfymain.com:8880?encryption=none&mode=gun&type=grpc#🇮🇹%20clc-main
+vless://3fa92976-551b-4805-b59e-e4f09db85e71@u-s.lorqina.ir:8080?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=T3vWH0zPUrOsgdK7cvEEnMbS3LIJDxQ17_L_GhmZJ0E&security=reality&sid=8b2538d8ebcd&sni=www.yahoo.com&spx=%2FIgzJdy92KfjOwhj#%40Sirvpnfirst%20%3A%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20clc-main
+vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.149.209:2087?allowInsecure=0&encryption=none&host=fgnix832fx.fx6hsv0.ccwu.cc&insecure=0&path=%2F&security=tls&sni=fgnix832fx.fx6hsv0.ccwu.cc&type=ws#🇸🇬%20clc-main
+vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@cf.9999669.xyz:2087?encryption=none&host=fgnix832fx.fx6hsv0.ccwu.cc&path=%2F&security=tls&sni=fgnix832fx.fx6hsv0.ccwu.cc&type=ws#🇸🇬%20clc-main
+vless://659a9075-d5ab-4fd2-bf34-b37043fae832@108.162.194.135:443?allowInsecure=0&encryption=none&host=nbhhh.mrcool.kdns.fr&insecure=0&path=%2Fproxyip%3Ddc844a1f.tp15333.ip.090227.xyz&security=tls&sni=nbhhh.mrcool.kdns.fr&type=ws#Mix--%40V2rayAlpha--24%20clc-main
+vless://93f0761d-4393-4b43-a523-e812fa0b7e83@47.251.95.178:443?allowInsecure=0&encryption=none&fp=chrome&host=cf.cfvip.lol&insecure=0&path=%2Fpyip%3D47.251.95.178&security=tls&sni=cf.cfvip.lol&type=ws#🇺🇸%20clc-main
+vless://e0de62c9-f317-4275-b7e5-8da7b7fa9bc6@77.110.127.191:9443?encryption=none&path=%2Fpourya&type=ws#🇺🇸%20clc-main
+vless://3fa92976-551b-4805-b59e-e4f09db85e71@t-r.lorqina.ir:2082?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=qfi1IF21_4YMTUOdvhWNnh4oREPEfrEwe2SmEuw-6Sk&security=reality&sid=8d779a91b4d669f6&sni=www.yahoo.com&spx=%2F209SOW4lDAVtrdJ#%40Sirvpnfirst%20%3A%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20clc-main
+vless://e388fffb-03b0-4227-ac2c-2b5cec1f5c34@198.41.222.191:80?encryption=none&host=leecher56.matinheydri.workers.dev&path=%2F&type=ws#🇸🇬%20clc-main
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.216:23576?encryption=none&flow=xtls-rprx-vision&fp=chrome&path=%2F&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn#🇺🇸%20clc-main
+vless://955703cb-7766-41c0-8567-06c2f36b65cb@168.222.43.15:443?encryption=mlkem768x25519plus.native.0rtt.QtVN6SieJTpMzWSJnKeROmieCKH2IBeY8htIFCbPIWw&fp=chrome&pbk=NJHHn2lOkY0ScOiK8qf5xc57YFRsT44EYjUYOrbIVUw&security=reality&sid=ba4d8809c5b9b9cb&sni=www.oracle.com&spx=%2FeYYm8lO1JWehp35#-h6jszi23kl%20clc-main
+vless://a6d20e79-d326-42c1-bc20-f4cecc6dc42d@ul-mexico1.09vpn.com:8443?encryption=none&path=%2Fvless%2F&security=tls&type=ws#🇲🇽%20clc-main
+vless://3fa92976-551b-4805-b59e-e4f09db85e71@all.lorqina.ir:8880?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=dISkAZV3LXVBa9yM02MoyFqajSLFqXrTj74ywRzKjiY&security=reality&sid=2b32c8e270dce2&sni=www.yahoo.com&spx=%2FYBw3oF8Tm1sWq0V#%40Sirvpnfirst%20%3A%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20clc-main
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@josni.hoyes.cloudns.ch:2053?allowInsecure=1&encryption=none&host=josni.hoyes.cloudns.ch&path=%2F&security=tls&sni=josni.hoyes.cloudns.ch&type=ws#🇯🇵%20clc-main
+vless://5b9fa73b-b549-480b-add9-c45e650d236f@yx.cloudflare.182682.xyz:443?allowInsecure=1&encryption=none&host=gddy.hhlfy.de5.net&path=%2Ffp%3Dfirefoxsecurity%3Dtls&sni=gddy.hhlfy.de5.net&type=ws#🇸🇬%20clc-main
+vless://51a0af77-a60c-4d9b-81a4-f50e1b38d90b@104.17.20.214:443?allowInsecure=0&encryption=none&fp=chrome&host=refighehosein.salamdadash123.workers.dev&insecure=0&path=%2F&security=tls&sni=refighehosein.salamdadash123.workers.dev&type=ws#🇸🇬%20clc-main
+vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@188.114.97.4:443?allowInsecure=0&encryption=none&fp=chrome&host=rubifen.adaspoloandco.com&insecure=0&path=%2FGOrbEh%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2048&security=tls&sni=rubifen.adaspoloandco.com&type=ws#%40MARAMBASHI%20%F0%9F%87%AE%F0%9F%87%B9%20clc-main

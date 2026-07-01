@@ -4,4 +4,7 @@
 #announce: Amirchelios
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@56.10.11.159:443?insecure=1&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#SG_%40WangCai_8%20clc-main
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.229.94.221:443?insecure=1&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#EPODONIOS%20clc-main
+hysteria2://Z7MFGgpuzh@185.250.41.245:443?insecure=1&obfs=salamander&obfs-password=T.me%2FV2RayyNGvpn&security=tls&sni=www.wordreference.com#5%20%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40Viturey%20clc-main
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.229.77.162:443?insecure=1&sni=vpn-sg-001.fastervpn.world#%20clc-main
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@52.221.230.24:443?insecure=1&sni=vpn-sg-001.fastervpn.world#%20clc-main
