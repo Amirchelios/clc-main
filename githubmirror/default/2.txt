@@ -1,23 +1,25 @@
-#profile-title: 2-2/26 @Amirchelios
+#profile-title: 2-2/25 @Amirchelios
 #profile-update-interval: 48
 #support-url: https://github.com/Amirchelios/clc-main
 #announce: Amirchelios
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-us-003.fastervpn.world:443?insecure=1&security=tls&sni=vpn-us-003.fastervpn.world#%E7%BE%8E%E5%9B%BD+Amazon+EC2%E6%9C%8D%E5%8A%A1%E5%99%A8%20clc-main
-trojan://NAdtbpuyJXPH=CfKmdBqD2YVbzdvwAtuxw@38.60.252.118:443?security=tls&sni=38.60.252.118#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8%20clc-main
-vless://cf75e4d5-21f0-426b-bebb-1fa7c5d52343@172.67.181.75:80?encryption=none&fp=chrome&host=zeus-panel-4tzfj3.zeus-d3z3w8.workers.dev&path=%2FIn_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&sni=zeus-panel-4tzfj3.zeus-d3z3w8.workers.dev&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9%20clc-main
-vless://9480871a-3843-441c-9b83-aa8c5c96b209@155.117.137.103:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&packetEncoding=xudp&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&security=reality&sid=3c9c5d01c6f824dd&sni=cdn6-49.yahoo.com#%E6%AF%94%E5%88%A9%E6%97%B6+V2CROSS.COM%20clc-main
-hysteria2://13d29042-ab82-4195-9cd4-2bafc518e201@45.88.42.29:50117?insecure=1&security=tls&sni=iosapps.itunes.apple.com#%E6%96%B0%E5%8A%A0%E5%9D%A1+Digital+VM%20clc-main
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.138:443?security=tls#%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A+V2CROSS.COM%20clc-main
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.135:443?allowInsecure=0&insecure=0&security=tls#%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A+V2CROSS.COM%20clc-main
-hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@66.234.150.237:8449?insecure=0&security=tls&sni=sni.fi-m247-02.com#%E7%BE%8E%E5%9B%BD+V2CROSS.COM%20clc-main
-vless://659a9075-d5ab-4fd2-bf34-b37043fae832@120.26.61.84:443?allowInsecure=1&encryption=none&host=nbhhh.mrcool.kdns.fr&path=%2Ffp%3Dchrome&security=tls&sni=nbhhh.mrcool.kdns.fr&type=ws#%E6%B5%99%E6%B1%9F%E7%9C%81%E6%9D%AD%E5%B7%9E%E5%B8%82+%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E7%BD%91%E7%BB%9C%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8BGP%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%28BGP%29%20clc-main
-hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.239:8449?insecure=1&security=tls&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%E5%8D%97%E9%9D%9E+V2CROSS.COM%20clc-main
-vless://72edcaa1-685e-4022-9576-273746529e1f@78.159.250.189:1111?encryption=none&flow=xtls-rprx-vision&fp=firefox&packetEncoding=xudp&pbk=YuhNgtj_Tf8WNLiSB2bNJKPvfwmqa6PNRpbP8TvNkzA&security=reality&sni=api-maps.yandex.ru#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM%20clc-main
-ss://YWVzLTI1Ni1nY206Y2ZlNjg1NzI2ZWVhMmM0Yg==@46.17.43.63:30888#%E4%BF%84%E7%BD%97%E6%96%AF+%E9%9E%91%E9%9D%BC%E6%96%AF%E5%9D%A6%E5%96%80%E5%B1%B1justhost%20clc-main
-vless://82a3c394-55b7-4780-93a0-5f45c0e89625@104.16.106.213:8880?encryption=none&host=square-brook-e650.353-3ac.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9%20clc-main
-hysteria2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443?insecure=1&security=tls&sni=www.microsoft.com#%E8%8D%B7%E5%85%B0+V2CROSS.COM%20clc-main
-trojan://nsKBtW4V7LPHG5.iSySU8_pNM88Gkxz7eE@64.176.74.241:443?security=tls#%E7%BE%8E%E5%9B%BD+%E5%8A%A0%E5%88%A9%E7%A6%8F%E5%B0%BC%E4%BA%9A%20clc-main
-hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.216:8449?insecure=0&security=tls&sni=sni.fi-m247-02.com#%E5%8D%97%E9%9D%9E+V2CROSS.COM%20clc-main
-trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.68:443?security=tls#%E4%BA%9A%E5%A4%AA%E5%9C%B0%E5%8C%BA+V2CROSS.COM%20clc-main
+vless://93c6c00b-be26-45a3-a23e-c970fb60f2ff@104.21.63.40:80?encryption=none&host=zeus-panel-67qb7f.zeus-moi2iw.workers.dev&packetEncoding=xudp&path=%2FIn_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&sni=zeus-panel-67qb7f.zeus-moi2iw.workers.dev&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9%20clc-main
+hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@66.234.150.253:8449?insecure=0&security=tls&sni=sni.fi-m247-02.com#%E7%BE%8E%E5%9B%BD+V2CROSS.COM%20clc-main
+hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.144:8449?insecure=0&security=tls&sni=sni.fi-m247-02.com#%E5%8D%97%E9%9D%9E+V2CROSS.COM%20clc-main
+vless://86dc5fb4-f279-45b7-a2c6-0d1e84b85c18@162.159.156.214:8880?encryption=none&host=lingering-dawn-5d4a.163-3f1.workers.dev&packetEncoding=xudp&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9%20clc-main
+vless://9480871a-3843-441c-9b83-aa8c5c96b209@155.117.137.42:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&packetEncoding=xudp&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&security=reality&sid=3c9c5d01c6f824dd&sni=cdn6-49.yahoo.com#%E6%AF%94%E5%88%A9%E6%97%B6+V2CROSS.COM%20clc-main
+trojan://humanity@172.64.147.24:443?allowInsecure=1&fp=chrome&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9%20clc-main
+vless://eece4171-e025-40a3-9027-e395036ff99d@45.198.80.220:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&host=v2rayNplus--v2rayNplus--v2rayNplus&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&security=reality&sid=28047c78b3f5ee2c&sni=storage.yandex.net#%E5%8D%97%E9%9D%9E+V2CROSS.COM%20clc-main
+vless://7982f37c-757c-4a29-9ad4-04db96d6b1bc@lva2.unlimitedteam.space:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=aFJd-2v7u8SUz5w95zS46_LpnMPievSZkGobHwx4JSI&security=reality&sid=589b1c3ca18d6a16&sni=lva2.unlimitedteam.space#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM%20clc-main
+hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.235:8449?allowInsecure=0&insecure=0&security=tls&sni=sni.fi-m247-02.com#%E5%8D%97%E9%9D%9E+V2CROSS.COM%20clc-main
+vless://c3f8992b-c174-4fc0-bfde-87ae88c88da2@38.180.149.55:49875?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=vrlwCtmphaZtkfVZGkfxWrKEWqDY8DqXQqZQvN2HPSI&security=reality&sni=www.ebay.com#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8%20clc-main
+vless://24c2a873-4584-4c53-8679-61029682d0bb@172.67.209.127:8880?encryption=none&host=soft-thunder-bc22.111-f59.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9%20clc-main
+vless://df301b32-1152-4526-9a63-beedd93d3156@104.16.27.134:80?ed=2048&encryption=none&host=vl.dalazhi.cloudns.biz&packetEncoding=xudp&path=%2F&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9%20clc-main
+hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@66.234.150.242:8449?insecure=1&security=tls&sni=https%3A%2F%2Ft.me%2FQiangLieTuiJian#%E7%BE%8E%E5%9B%BD+V2CROSS.COM%20clc-main
+hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.250:8449?security=tls&sni=sni.fi-m247-02.com#%E5%8D%97%E9%9D%9E+V2CROSS.COM%20clc-main
+trojan://humanity@104.20.6.134:443?alpn=http%2F1.1&fp=chrome&path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.82:28061#%E5%8D%B0%E5%BA%A6+V2CROSS.COM%20clc-main
+hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.140:8449?security=tls&sni=sni.fi-m247-02.com#%E5%8D%97%E9%9D%9E+V2CROSS.COM%20clc-main
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.135:443?security=tls#%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A+V2CROSS.COM%20clc-main
+vless://9480871a-3843-441c-9b83-aa8c5c96b209@155.117.137.33:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&packetEncoding=xudp&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&security=reality&sid=3c9c5d01c6f824dd&sni=cdn6-49.yahoo.com#%E6%AF%94%E5%88%A9%E6%97%B6+V2CROSS.COM%20clc-main
