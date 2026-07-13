@@ -1,25 +1,41 @@
-#profile-title: 25-25/26 @Amirchelios
+#profile-title: 25-25/25 @Amirchelios
 #profile-update-interval: 48
 #support-url: https://github.com/Amirchelios/clc-main
 #announce: Amirchelios
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
-vmess://eyJ2IjoiMiIsInBzIjoi8J-HuvCfh7ggVVMgMTQiLCJhZGQiOiIzOC4xMTQuMTIzLjQyIiwicG9ydCI6IjE4MDAwIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInBhdGgiOiIvIn0#%20clc-main
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#%f0%9f%87%ba%f0%9f%87%b8%20US%2018%20clc-main
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.119.164.101:443#%f0%9f%87%ba%f0%9f%87%b8%20US%2025%20clc-main
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.192.184.199:443#%f0%9f%87%af%f0%9f%87%b5%20JP%206%20clc-main
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@51.44.170.232:443#%f0%9f%87%ab%f0%9f%87%b7%20FR%203%20clc-main
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.180.210.199:443#%f0%9f%87%ab%f0%9f%87%b7%20FR%204%20clc-main
-vless://45fefc81-1245-4452-b618-7496445f9da5@185.171.202.157:8443?encryption=none&fp=firefox&path=%2F&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&security=reality&sid=6ba85179e30d4fc2&sni=play.google.com#%f0%9f%87%ab%f0%9f%87%b7%20FR%207%20clc-main
-vless://45fefc81-1245-4452-b618-7496445f9da5@185.171.202.108:8443?encryption=none&fp=firefox&path=%2F&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&security=reality&sid=6ba85179e30d4fc2&sni=play.google.com#%f0%9f%87%ab%f0%9f%87%b7%20FR%208%20clc-main
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.57.108.96:29148?encryption=none&headerType=http&path=%2F#%f0%9f%87%ab%f0%9f%87%b7%20FR%2011%20clc-main
-vmess://eyJ2IjoiMiIsInBzIjoi8J-HrfCfh7AgSEsgNSIsImFkZCI6IjM4LjIwNy4xNzcuMTM0IiwicG9ydCI6IjM5NzQyIiwiaWQiOiIzNmNmNjU2NS1iYzcxLTRmOGMtOWUzMC1hOWNjNjE1NmU1ODMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInBhdGgiOiIvIn0#%20clc-main
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSRkszOENnN0FQbmVTQjVjV0RjcGJt@switcher-nick-croquet.freesocks.work:443#%f0%9f%87%b3%f0%9f%87%b1%20NL%209%20clc-main
-vless://301d514e-4aa0-47b0-ba44-a0cb891cd52f@151.242.191.161:443?encryption=none&fp=chrome&path=%2F&pbk=OZVjfQBboTDTBw0baMFqzVPsVUI4FNQmspTEb0b0zW4&security=reality&sid=a1b2c3d4&sni=www.samsung.com#%f0%9f%87%b7%f0%9f%87%b4%20RO%201%20clc-main
-vmess://eyJ2IjoiMiIsInBzIjoi8J-HuPCfh6wgU0cgMSIsImFkZCI6IjE0OS44OC4yMy4yMDciLCJwb3J0IjoiMTgwMDAiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwicGF0aCI6Ii8ifQ#%20clc-main
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@137.184.174.93:8080#%f0%9f%87%a8%f0%9f%87%a6%20CA%202%20clc-main
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?encryption=none&path=%2F#%f0%9f%87%ae%f0%9f%87%b9%20IT%201%20clc-main
-vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?encryption=none&path=%2F#%f0%9f%87%b8%f0%9f%87%aa%20SE%201%20clc-main
-vless://7499f0a0-3670-4cf6-a31c-ad4cd943cf18@82.41.30.100:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&path=%2F&pbk=nfkwd9xJCoNuWrvvieBB9VfpcDldsARAdFPL0dF5A1Q&security=reality&sid=305570274c0c72cc&sni=kz.hagrid-connected.com#%f0%9f%87%b0%f0%9f%87%bf%20KZ%201%20clc-main
-vless://6bc19aa1-d94b-488c-9b25-47214d371851@46.8.230.142:200?encryption=none&headerType=http&host=play.google.com&path=%2F#%f0%9f%87%ab%f0%9f%87%ae%20FI%201%20clc-main
-vmess://eyJ2IjoiMiIsInBzIjoi8J-HqPCfh78gQ1ogMiIsImFkZCI6IjgyLjE5OC4yNDYuOTciLCJwb3J0IjoiMTgwIiwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInBhdGgiOiIvIn0#%20clc-main
+vmess://eyJ2IjoiMiIsInBzIjoiaHR0cHM6Ly90Lm1lL0ZvcmNlUnVuVlBOLfCfh7rwn4e4LUxvc0FuZ2VsZXMtMTE4bXMtRGF0YWNhbXAgTGltaXRlZCIsImFkZCI6IjgyLjE5OC4yNDYuMjMzIiwicG9ydCI6IjE4MCIsImlkIjoiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJob3N0IjoiSEwtRlJFRURPTS0xLlVOREVGLk5FVFdPUksiLCJwYXRoIjoiL2YyZmMyYTFmIiwic25pIjoiSEwtRlJFRURPTS0xLlVOREVGLk5FVFdPUksifQ#%20clc-main
+vmess://eyJ2IjoiMiIsInBzIjoiaHR0cHM6Ly90Lm1lL0ZvcmNlUnVuVlBOLfCfh7rwn4e4LUxvc0FuZ2VsZXMtMTE5bXMtRGF0YWNhbXAgTGltaXRlZCIsImFkZCI6IjgyLjE5OC4yNDYuMjUwIiwicG9ydCI6IjE4MCIsImlkIjoiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJob3N0IjoiYWRzLng1LnJ1IiwicGF0aCI6Ii8ifQ#%20clc-main
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhHQDIxMy4yMDIuMjA4LjE5OTo3MDAx#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A9%F0%9F%87%AA-D%C3%BCsseldorf-177ms-myLoc%20managed%20IT%20AG%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaGhycXJva2ozYWc@209.46.102.22:8388#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A9%F0%9F%87%AA-FrankfurtamMain-186ms-Clouvider%20Limited%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJRQDgyLjM4LjMxLjE3Njo4MDgw#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Amsterdam-191ms-Greenhost%20BV%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNBQDgyLjM4LjMxLjE0OTo4MDgw#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Amsterdam-195ms-Greenhost%20BV%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJRQDgyLjM4LjMxLjE5OTo4MDgw#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Amsterdam-199ms-Greenhost%20BV%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.18:8080#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Amsterdam-201ms-Greenhost%20BV%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8080#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Amsterdam-205ms-Greenhost%20BV%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Amsterdam-206ms-Greenhost%20BV%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1BAMTQwLjE3NC4xODQuNTo4Mzg4#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AA%F0%9F%87%B8-Barcelona-247ms-Psychz%20Networks%20clc-main
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.113.194:8119#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B9%F0%9F%87%B7-Istanbul-255ms-Scalaxy%20B.V.%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowR0FLMmI5Z2txQmF0dXhpMmNzd21I@83.217.9.17:25232#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B9%F0%9F%87%B7-Istanbul-267ms-GCS%20SER%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOUZVbkdKSDdiOGU1akZiRmNsZlgy@185.39.204.161:33563/?outline=1#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B9%F0%9F%87%B7-Istanbul-271ms-Global%20Connectivity%20Solutions%20LLP%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKNWpvdG9iUjdqSkNfcDhRNDFkZFk3elQ@bot.sobhanpor.ir:1080#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AB%F0%9F%87%AE-Helsinki-323ms-Hetzner%20Online%20GmbH%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZtQDEwMy4xMTEuMTE0LjcxOjI4MDYx#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AE%F0%9F%87%B3-Mumbai-368ms-Melbikomas%20UAB%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyS0F1OWVNbUd3U2hXVFdjdXl5bm1MRTgxUFZrb0tEdlEzZmIyOWRQU2NjMWJNVVc1eTZocHByWHFWV3FTcWpUaTIzNGhGR2REZjNBckN1V3RCdzVGQTZ6VjV3QmdXVFBAbWFpbDIudGhpcmRwYXVsbC5tb25zdGVyOjU3MzI3#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AB%F0%9F%87%AE-Helsinki-369ms-ITM%20NORD%20clc-main
+vmess://eyJ2IjoiMiIsInBzIjoiaHR0cHM6Ly90Lm1lL0ZvcmNlUnVuVlBOLfCfh6nwn4eqLU51cmVtYmVyZy0zNzltcy1DbG91ZGZsYXJlIEluYy4iLCJhZGQiOiI5MS4xMDcuMjQ3Ljk5IiwicG9ydCI6Ijg5OTgiLCJpZCI6IjQ1ZTZjYzFkLWZjMmUtNGM5Ny04NjMzLWIzM2NhYTI4ZTEzMCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidGxzIjoidGxzIiwic25pIjoiamF6emdob3N0LmNvbSIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiY2hyb21lIn0#%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZtQDEwMy4xMTEuMTE0LjYxOjI4MDYx#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AE%F0%9F%87%B3-Mumbai-381ms-Melbikomas%20UAB%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.61:28061#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AE%F0%9F%87%B3-Mumbai-381ms-Melbikomas%20UAB%20clc-main
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@141.164.45.187:8000#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B0%F0%9F%87%B7-Seoul-402ms-KOR%20VULTR%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYeVNKNHBlM25MQk1nREZPT05oVGxLSGxKRWJJcHl0ag@bot.sobhanpor.ir:1080#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AB%F0%9F%87%AE-Helsinki-402ms-Hetzner%20Online%20GmbH%20clc-main
+vmess://eyJ2IjoiMiIsInBzIjoiaHR0cHM6Ly90Lm1lL0ZvcmNlUnVuVlBOLfCfh6nwn4eqLU51cmVtYmVyZy00MTJtcy1DbG91ZGZsYXJlIEluYy4iLCJhZGQiOiJqYXp6Z2hvc3QuY29tIiwicG9ydCI6Ijg5OTgiLCJpZCI6IjQ1ZTZjYzFkLWZjMmUtNGM5Ny04NjMzLWIzM2NhYTI4ZTEzMCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidGxzIjoidGxzIiwic25pIjoiamF6emdob3N0LmNvbSIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiY2hyb21lIn0#%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSRkszOENnN0FQbmVTQjVjV0RjcGJt@switcher-nick-croquet.freesocks.work:443#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%92%F0%9F%87%92-Unknown-414ms-Unknown%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpfdXdHb0I0QmVaekJneGltcTZiU3RmZ2U@bot.sobhanpor.ir:1080#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AB%F0%9F%87%AE-Helsinki-427ms-Hetzner%20Online%20GmbH%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%BF%F0%9F%87%A6-Johannesburg-437ms-Microsoft%20Corporation%20clc-main
+vmess://eyJ2IjoiMiIsInBzIjoiaHR0cHM6Ly90Lm1lL0ZvcmNlUnVuVlBOLfCfh6jwn4emLVZhbmNvdXZlci00NTBtcy1HTE9CQUxURUxFSE9TVCBDb3JwLiIsImFkZCI6IjE0OS44OC4yMy4yMDIiLCJwb3J0IjoiMTgwMDAiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIn0#%20clc-main
+vmess://eyJ2IjoiMiIsInBzIjoiaHR0cHM6Ly90Lm1lL0ZvcmNlUnVuVlBOLfCfh6_wn4e1LU9zYWthLTUwOG1zLU9yYWNsZSBDb3Jwb3JhdGlvbiIsImFkZCI6IjE2OC4xMzguNDMuNzUiLCJwb3J0IjoiODAiLCJpZCI6IjExYzM2MjdmLTMxZTgtNDY5NS1kZmJkLTM0MDc2ZTJmMWY1ZCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoianAwMS5hMGEueHl6IiwicGF0aCI6Ii9jY3R2MTMubTN1OCJ9#%20clc-main
+vmess://eyJ2IjoiMiIsInBzIjoiaHR0cHM6Ly90Lm1lL0ZvcmNlUnVuVlBOLfCfh7Dwn4e_LUFsbWF0eS03MzRtcy1OZXdzZXJ2ZXJsaWZlIExMQyIsImFkZCI6IjM4LjEwNy4yMzQuNTciLCJwb3J0IjoiODAiLCJpZCI6IjU2N2Y0YmU1LTEyYWItNDJlMS1iOGQ5LWRiNmZkMWZkZDMxYyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwicGF0aCI6Ii92bWVzcy8ifQ#%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEQ1oxb3BibnVMbVlBMk9MNHFmYkhkU3BUcWtmdE9PQmgxa0hrbjlBUERjPQ@n1.cover20.ir:38760?type=tcp#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%92%F0%9F%87%92-Unknown-786ms-Unknown%20clc-main
+vmess://eyJ2IjoiMiIsInBzIjoiaHR0cHM6Ly90Lm1lL0ZvcmNlUnVuVlBOLfCfh7rwn4e4LVN0TG91aXMtNzk1bXMtQ29udGFibyBJbmMuIiwiYWRkIjoid3d3LmlyYW5kZXNpZ25lci5jb20iLCJwb3J0IjoiODQ0MyIsImlkIjoiNjA0NDE1NDgtYjY4ZS00M2IyLTgxOTEtZTNiODg0YmU0YjNjIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJ2MnJheTEuZG96YXBwLnh5eiIsInBhdGgiOiIvbE1uc1pVTjQvIiwidGxzIjoidGxzIiwic25pIjoidjJyYXkxLmRvemFwcC54eXoifQ#%20clc-main
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@185.123.101.64:2376#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B9%F0%9F%87%B7-Istanbul-1279ms-Iksir%20Internet%20Hizmetleri%20A.S.%20clc-main
+vmess://eyJ2IjoiMiIsInBzIjoiaHR0cHM6Ly90Lm1lL0ZvcmNlUnVuVlBOLfCfh7rwn4e4LVNhbnRhQ2xhcmEtMjM2Nm1zLUdUSG9zdCIsImFkZCI6IjIxNi4xMDYuMTg1LjE0MSIsInBvcnQiOiIyMjMyNCIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyJ9#%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@92.112.126.90:443#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Amsterdam-3065ms-Matteo%20Martelloni%20trading%20as%20DELUXHOST%20clc-main
+vmess://eyJ2IjoiMiIsInBzIjoiaHR0cHM6Ly90Lm1lL0ZvcmNlUnVuVlBOLfCfh7rwn4e4LVN0TG91aXMtMzg2Nm1zLUNvbnRhYm8gSW5jLiIsImFkZCI6ImNoYXRncHQuY29tIiwicG9ydCI6Ijg0NDMiLCJpZCI6IjYwNDQxNTQ4LWI2OGUtNDNiMi04MTkxLWUzYjg4NGJlNGIzYyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xNbnNaVU40LyIsInRscyI6InRscyIsInNuaSI6InYycmF5MS5kb3phcHAueHl6In0#%20clc-main

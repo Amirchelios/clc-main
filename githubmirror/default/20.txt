@@ -1,10 +1,17 @@
-#profile-title: 20-20/26 @Amirchelios
+#profile-title: 20-20/25 @Amirchelios
 #profile-update-interval: 48
 #support-url: https://github.com/Amirchelios/clc-main
 #announce: Amirchelios
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
-hysteria2://0e3ec08f-840e-46f8-b11e-3a5decbb97b6@vkmks.hysteria.ltd:5443?insecure=0&sni=vkmks.hysteria.ltd#RU-Moscow-1562182-cnwh%20clc-main
-hysteria2://91uokb9ud7raz0fk@qg.easyiran.org:56845?Telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&insecure=0&obfs=salamander&obfs-password=ngljeqgna3hmfr2s&security=tls#@GozargahAzad|🇩🇪%20clc-main
-hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?sni=hy2.123266.xyz#4🟢@oneclickvpnkeys%20clc-main
+hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@202.61.205.86:4433?insecure=1#202.61.205.86%3A4433%20clc-main
+hysteria2://35415e5e-3666-4454-8c45-903af0fcddf4@85.120.228.208:47257?allowInsecure=1&insecure=1&security=tls&sni=www.bing.com#%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A+V2CROSS.COM%20clc-main
+hysteria2://7c7ff1be-a6e9-4a6f-853c-052ed3f3f21b@45.202.248.138:55000?insecure=1&sni=www.bing.com#_HK_%E4%B8%AD%E5%9B%BD%E9%A6%99%E6%B8%AF_1%202%20clc-main
+hysteria2://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@argg2.auragg.org:443?sni=argg2.auragg.org#%F0%9F%87%AC%F0%9F%87%A7%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E8%8B%B1%E5%9B%BD%2002%20clc-main
+hysteria2://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@tw.9966690.xyz:40000?insecure=1&obfs=salamander&obfs-password=YzgyOTkwNDk4ZTU2NT6iNA%3D%3D#A%20-%20%F0%9F%87%B9%F0%9F%87%BC%20TW%2001%20TG%3A%20%40nodpai%20clc-main
+hysteria2://b05346a9-4d13-41a4-8d2a-6b7b64e73ffc@argg3.auragg.org:443?sni=argg3.auragg.org#%F0%9F%87%AC%F0%9F%87%A7%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E8%8B%B1%E5%9B%BD%2003%20clc-main
+hysteria2://b05346a9-4d13-41a4-8d2a-6b7b64e73ffc@soskeynets.auragg.org:443?sni=argg2.auragg.org#%F0%9F%87%AD%F0%9F%87%B0108787%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/S...%20clc-main
+hysteria2://d5m-5bGOsVbFgRlxsEyO3pCF@8.148.4.25:55020?insecure=1&sni=8.148.4.25#%F0%9F%87%B0%F0%9F%87%B7%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E9%9F%A9%E5%9B%BD%2001%20clc-main
 hysteria2://dongtaiwang.com@208.87.243.187:22222?insecure=1&security=tls&sni=www.bing.com#%20clc-main
+hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52013?allowInsecure=0&alpn=http%2F1.1&fp=chrome&host=x4g-production-ffd1.up.railway.app&insecure=0&obfs=salamander&obfs-password=cukfjxud1ebjuuzs&security=tls&sni=x4g-production-ffd1.up.railway.app%23telegram+%40mtmvpn15&type=ws#🌐سرور%20clc-main
+hysteria2://zhangyang@130.61.50.75:6443?insecure=1#130.61.50.75%3A6443%20clc-main
