@@ -1,24 +1,20 @@
-#profile-title: 14-14/25 @Amirchelios
+#profile-title: 14-14/26 @Amirchelios
 #profile-update-interval: 48
 #support-url: https://github.com/Amirchelios/clc-main
 #announce: Amirchelios
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.190.219.163:443?insecure=1&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#美国/哥伦布/United States/Columbus%20clc-main
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@switcher-nick-croquet.freesocks.work:443#荷兰/阿姆斯特丹/The Netherlands/Amsterdam%20clc-main
+trojan://b26e31e5-eac1-45b0-9069-83830bd69521@20.187.85.198:443?security=tls&sni=hkt.iamnotagoodman.com#美国/San Francisco/United States/San Francisco%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2Wmhyb1ZhMFVqUlNVbDA2@23.100.50.48:443#爱尔兰/都柏林/Ireland/Dublin%20clc-main
 hysteria2://f7cb07a0-e6f9-4d22-a60e-c61854450c89@ff2.yuntong.click:443?insecure=1&obfs=salamander&obfs-password=eNM%2FNfxTsBqQIKcN0ezARS1z0f5mIxRd9GSwhVsyJlo%3D&sni=ff2.yuntong.click#德国/法兰克福/Germany/Frankfurt am Main%20clc-main
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2Wmhyb1ZhMFVqUlNVbDA2@20.234.98.39:443#爱尔兰/都柏林/Ireland/Dublin%20clc-main
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLcGlrVjBXY041NHVsN3l0UDBRT0dXN25qU1M5eHFxeS9KaTg1UE00S1FRPUAyLjE0NC4yMy4yMzoyMDUz#伊朗/Iran%20clc-main
-vless://0c9839aa-c64f-4791-9137-420432605987@168.138.166.89:8899?encryption=none&flow=xtls-rprx-vision&fp=ios&path=%2F&pbk=4ciiQdZe4F8wyoRKpNzW5xwmQzGyIJnlPHrK70iU6DQ&security=reality&sid=f0cce996&sni=www.lovelive-anime.jp&spx=%2F#新加坡/Singapore%20clc-main
-vless://9946f24b-0020-40f6-9d06-de8abff0e584@193.111.117.62:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Cve6RU_xmFPAsLiW2eIucli0lwEZyf7XFj6_rR8LukI&security=reality&sid=671047edbaa38eef&sni=max.ru#俄罗斯联邦/圣彼得堡/Russia/St Petersburg%20clc-main
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3U0VzdGRtTGhmLWFGS19HOWVhWUhLVF9ZcFNvdjU4Qg==@ru.moktana.app:51523#俄罗斯联邦/莫斯科/Russia/Moscow%20clc-main
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@54.255.102.19:443?insecure=1&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#新加坡/新加坡/Singapore/Singapore%20clc-main
-vmess://eyJ2IjoiMiIsInBzIjoi8J-HtfCfh60gSm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOIPCfh7Xwn4etIiwiYWRkIjoiNjEuMjQ1LjExLjYwIiwicG9ydCI6IjgwIiwiaWQiOiJhM2UzYTcxMC03OWY4LTRhZTAtYjgzYy02MDdhYWI0MGQxOTciLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsInBhdGgiOiIvdm1lc3MvIn0#%20clc-main
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSU281MlNieFc0MHI=@108.181.57.93:8388#美国/阿什本/United States/Ashburn%20clc-main
-vmess://eyJ2IjoiMiIsInBzIjoi8J-Hr_Cfh7VfSlBf5pel5pysIiwiYWRkIjoiMTYxLjMzLjEzOS4xMzgiLCJwb3J0IjoiNTg5MDUiLCJpZCI6IjE2MTBmOGRjLTA2NjEtNDAzMi1hYzZhLWE3MjUwNjAzZjYwOCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiLzE2MTBmOGRjLTA2NjEtNDAzMi1hYzZhLWE3MjUwNjAzZjYwOC12bSIsInNuaSI6IjE2MS4zMy4xMzkuMTM4In0#%20clc-main
-hysteria2://e3d48fa4-42b7-40a7-827c-5b6496a043d1@156.226.172.6:55000?insecure=1&sni=www.bing.com#香港/香港/Hong Kong/Hong Kong%20clc-main
-vless://caec0d8d-ab2f-4247-b97d-7fb1a34ab195@182.16.61.2:45647?encryption=none#香港/Hong Kong%20clc-main
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOWEwZDA5Mi02ZjBlLTQ3MDEtODFlZS00NTQ2NDNkNmQ1MDY=@namrcg001640lrm.cybervena.com:50099#台湾/南投/Taiwan/Nantou City%20clc-main
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@34.219.182.57:443?insecure=1#美国/保德曼/United States/Boardman%20clc-main
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?insecure=1&sni=https%3A%2F%2Ft.me%2Foneclickvpnkeys#台湾/台北市/Taiwan/Taipei%20clc-main
-hysteria2://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@sh02.auragg.org:443?insecure=0&sni=sh02.auragg.org#瑞典/斯德哥尔摩/Sweden/Stockholm%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3U0VzdGRtTGhmLWFGS19HOWVhWUhLVF9ZcFNvdjU4Qg@ru.moktana.app:51523#俄罗斯联邦/莫斯科/Russia/Moscow%20clc-main
+vmess://eyJ2IjoiMiIsInBzIjoi6Z-p5Zu9IDAxMCIsImFkZCI6IjE1Mi42Ny4yMTguMzgiLCJwb3J0IjoiNDQzIiwiaWQiOiJiNWU5NDgwYS1iN2FhLTQwYTQtZjlhNy01Mjk5YjVlMzYzYjQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIn0#%20clc-main
+vmess://eyJ2IjoiMiIsInBzIjoi576O5Zu9IDIwNjkiLCJhZGQiOiIxNTQuMzcuMjIzLjU2IiwicG9ydCI6IjEzNjU5IiwiaWQiOiIxMzdmY2IyNC0yNTM4LTQ5ZWYtY2UxZS0zMjllYmU1ZWRjYmUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCJ9#%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#南非/约翰内斯堡/South Africa/Johannesburg%20clc-main
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.53.53.30:8880?encryption=none&host=vms.lifetime51.workers.dev&path=%2F&type=ws#俄罗斯联邦/Russia%20clc-main
+vless://764ce064-b6e7-4279-a014-4547883eee15@190.93.246.54:8880?encryption=none&host=kourosh-asli-ncjeuv.kourosh-gnlroc.workers.dev&path=%2Fkouroshasli_panel&type=ws#CR/Uruca/CR/Uruca%20clc-main
+hysteria2://xtoRpl9CCisiSwbIawiZ@haigc.shop:443?insecure=1&sni=haigc.shop#日本/东京/Japan/Tokyo%20clc-main
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@54.254.22.28:443?insecure=1&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#新加坡/新加坡/Singapore/Singapore%20clc-main
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.190.219.163:443?insecure=1&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#美国/哥伦布/United States/Columbus%20clc-main
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@34.212.146.99:443?insecure=1&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#美国/保德曼/United States/Boardman%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#罗马尼亚/Romania%20clc-main

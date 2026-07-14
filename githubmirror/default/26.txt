@@ -1,42 +1,44 @@
-#profile-title: 26-26/25 @Amirchelios
+#profile-title: 26-26/26 @Amirchelios
 #profile-update-interval: 48
 #support-url: https://github.com/Amirchelios/clc-main
 #announce: Amirchelios
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#%f0%9f%87%ba%f0%9f%87%b8%20US%208%20clc-main
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.168:443#%f0%9f%87%ba%f0%9f%87%b8%20US%2018%20clc-main
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#%f0%9f%87%ba%f0%9f%87%b8%20US%2019%20clc-main
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.191.132.3:443#%f0%9f%87%ba%f0%9f%87%b8%20US%2021%20clc-main
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.191.147.2:443#%f0%9f%87%ba%f0%9f%87%b8%20US%2022%20clc-main
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNXA2d3c0bzY3SEI=@108.181.0.177:8388#%f0%9f%87%ba%f0%9f%87%b8%20US%2023%20clc-main
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#%f0%9f%87%ba%f0%9f%87%b8%20US%2026%20clc-main
-vless://97ead6d8-8346-422b-1031-67592a745fa6@x4g-production-3177.up.railway.app:443?alpn=http%2F1.1&encryption=none&fp=ios&host=x4g-production-3177.up.railway.app&path=%2Fws%2F97ead6d8-8346-422b-1031-67592a745fa6&security=tls&sni=x4g-production-3177.up.railway.app&type=ws#%f0%9f%87%ba%f0%9f%87%b8%20US%2029%20clc-main
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.142.134.224:443#%f0%9f%87%ba%f0%9f%87%b8%20US%2034%20clc-main
-vless://687f947d-35b5-f441-3048-c552938c2b28@vaslzone2-production-e88a.up.railway.app:443?allow_insecure=0&alpn=http%2F1.1&encryption=none&fp=chrome&host=vaslzone2-production-e88a.up.railway.app&path=%2Fws%2F687f947d-35b5-f441-3048-c552938c2b28&security=tls&sni=vaslzone2-production-e88a.up.railway.app&type=ws#%f0%9f%87%ba%f0%9f%87%b8%20US%2042%20clc-main
-vless://45e6cc1d-fc2e-4c97-8633-b33caa28e130@jazzghost.com:2089?encryption=none&fp=chrome&path=%2F&pbk=vdLIQuM7v4b6PzknfK1luaQdEWoWdRVbhNFm0a7_UFA&security=reality&serviceName=products&sid=85dc255ba7bbe54e&sni=shield.nvidia.asia&spx=%2F0a1dee23cd1a5c4&type=grpc#%f0%9f%87%a9%f0%9f%87%aa%20DE%2042%20clc-main
-vless://9acd4968-83d8-4a5e-b3b5-b67d31c15232@dahat.sarkhoni.shop:8080?encryption=none&fp=chrome&path=%2F&pbk=CN-tZKjBi97lUawhqv_x_c7R8jLoCunBGCwgIaNFQ3w&security=reality&sid=f30c13567ae4&sni=shop-eu-en.amd.com&spx=%2FZKlhY7SYmtak545#%f0%9f%87%a9%f0%9f%87%aa%20DE%2044%20clc-main
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?encryption=none&path=%2F#%f0%9f%87%ae%f0%9f%87%b9%20IT%201%20clc-main
-vless://d7955f3f-dfa3-45a0-a3ef-9693df439a0f@swser2.foot8all.ir:50567?encryption=none&flow=xtls-rprx-vision&fp=firefox&path=%2F&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&security=reality&sid=c077229044b68285&sni=play.google.com#%f0%9f%87%b8%f0%9f%87%aa%20SE%208%20clc-main
-vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?encryption=none&path=%2F#%f0%9f%87%b8%f0%9f%87%aa%20SE%209%20clc-main
-vmess://eyJ2IjoiMiIsInBzIjoi8J-HrfCfh7AgSEsgNSIsImFkZCI6Im4xNzQ3NjI0MjYwLjR1OW1hLmljdSIsInBvcnQiOiI0NDMiLCJpZCI6ImVlZThjYjcyLTdlYWItNDAzNC1hMzA4LWVkMDZjYjA3ZTAwMyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInRscyI6InRscyJ9#%20clc-main
-vless://9e76cfb8-b7a6-40f6-c2aa-9905aa19f31b@47.83.153.19:59750?encryption=none&flow=xtls-rprx-vision&fp=chrome&path=%2F&pbk=W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg&security=reality&sni=www.amd.com#%f0%9f%87%ad%f0%9f%87%b0%20HK%208%20clc-main
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.180.199.237:443#%f0%9f%87%ab%f0%9f%87%b7%20FR%2010%20clc-main
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@36.224.169.242:50099#%f0%9f%87%b9%f0%9f%87%bc%20TW%202%20clc-main
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.20.171:443#%f0%9f%87%b3%f0%9f%87%b1%20NL%203%20clc-main
-vless://4bf5a71c-d726-4585-b095-7396675706d5@cdn.netraidly.ru:40443?encryption=none&flow=xtls-rprx-vision&fp=qq&path=%2F&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&security=reality&sid=c84f&sni=deepl.com#%f0%9f%87%b3%f0%9f%87%b1%20NL%2033%20clc-main
-vless://d7955f3f-dfa3-45a0-a3ef-9693df439a0f@ea95db12c995f60e.neshatinjafood.ir:56625?encryption=none&fp=ios&path=%2F&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&security=reality&sid=2716d84d89b5eadc&sni=icloud.com&type=grpc#%f0%9f%87%b3%f0%9f%87%b1%20NL%2039%20clc-main
-vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@185.66.68.72:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&path=%2F&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&security=reality&sni=www.wikihow.com#%f0%9f%87%a7%f0%9f%87%be%20BY%201%20clc-main
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKNWpvdG9iUjdqSkNfcDhRNDFkZFk3elQ=@bot.sobhanpor.ir:1080#%f0%9f%87%ab%f0%9f%87%ae%20FI%201%20clc-main
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@it.fifapes.monster:29148?encryption=none&headerType=http&path=%2F#%f0%9f%87%ab%f0%9f%87%ae%20FI%204%20clc-main
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A=@140.174.184.5:8388#%f0%9f%87%aa%f0%9f%87%b8%20ES%201%20clc-main
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY=@108.181.121.226:8388#%f0%9f%87%aa%f0%9f%87%b8%20ES%202%20clc-main
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.192.184.199:443#%f0%9f%87%af%f0%9f%87%b5%20JP%206%20clc-main
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#%f0%9f%87%ac%f0%9f%87%a7%20GB%202%20clc-main
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyS0F1OWVNbUd3U2hXVFdjdXl5bm1MRTgxUFZrb0tEdlEzZmIyOWRQU2NjMWJNVVc1eTZocHByWHFWV3FTcWpUaTIzNGhGR2REZjNBckN1V3RCdzVGQTZ6VjV3QmdXVFA=@185.5.38.89:57327#%f0%9f%87%ac%f0%9f%87%a7%20GB%204%20clc-main
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyS0F1OWVNbUd3U2hXVFdjdXl5bm1MRTgxUFZrb0tEdlEzZmIyOWRQU2NjMWJNVVc1eTZocHByWHFWV3FTcWpUaTIzNGhGR2REZjNBckN1V3RCdzVGQTZ6VjV3QmdXVFA=@mail2.thirdpaull.monster:57327#%f0%9f%87%ac%f0%9f%87%a7%20GB%205%20clc-main
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@103.106.231.82:5600#%f0%9f%87%a6%f0%9f%87%ba%20AU%206%20clc-main
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@92.118.205.211:5600#%f0%9f%87%b5%f0%9f%87%b1%20PL%202%20clc-main
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@185.196.61.82:8080#%f0%9f%87%a8%f0%9f%87%a6%20CA%201%20clc-main
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@38.244.132.14:5499#%f0%9f%87%a7%f0%9f%87%ac%20BG%201%20clc-main
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#%f0%9f%87%b7%f0%9f%87%b4%20RO%201%20clc-main
+hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@hy2.123266.xyz:33333?insecure=1&sni=hy2.123266.xyz#🇺🇸US  ROSE—04%20clc-main
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@52.221.230.24:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬SG  ROSE—07%20clc-main
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@52.221.230.24:443?insecure=1#🇸🇬SG  ROSE—10%20clc-main
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.251.212.188:443?insecure=1#🇸🇬SG  ROSE—11%20clc-main
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@54.254.22.28:443?insecure=1&sni=https%3A%2F%2Ft.me%2FWangCai2#🇸🇬SG  ROSE—14%20clc-main
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@34.212.146.99:443?insecure=1&sni=https%3A%2F%2Ft.me%2FWangCai2#🇺🇸US  ROSE—15%20clc-main
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.141.232.182:443?insecure=1&sni=https%3A%2F%2Ft.me%2FWangCai2#🇸🇬SG  ROSE—16%20clc-main
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.141.232.182:443?insecure=1#🇸🇬SG  ROSE—19%20clc-main
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@34.212.146.99:443?insecure=1#🇺🇸US  ROSE—21%20clc-main
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@54.254.22.28:443?insecure=1#🇸🇬SG  ROSE—25%20clc-main
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@154.223.16.41:4444#🇨🇴CO  ROSE—37%20clc-main
+ss://YWVzLTI1Ni1jZmI6d2ZMQzJ5N3J6WnlDbXV5dA@217.30.10.70:9093#🇵🇱PL  ROSE—64%20clc-main
+ss://YWVzLTI1Ni1jZmI6Y3A4cFJTVUF5TGhUZlZXSA@217.30.10.70:9064#🇵🇱PL  ROSE—65%20clc-main
+ss://YWVzLTI1Ni1jZmI6cVlFTjVIWDRKS2VWQ2RFQw@195.238.126.84:9039#🇱🇹LT  ROSE—78%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyS0F1OWVNbUd3U2hXVFdjdXl5bm1MRTgxUFZrb0tEdlEzZmIyOWRQU2NjMWJNVVc1eTZocHByWHFWV3FTcWpUaTIzNGhGR2REZjNBckN1V3RCdzVGQTZ6VjV3QmdXVFA@mail2.thirdpaull.monster:57327#🇬🇧GB  ROSE—82%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFQkRSbzlUSHg0Q3FpRlU3aDVnZm92NzZvTnd6WlVSQWgwWndiV2pCS2RkdFVodno@103.120.178.193:31348#🇮🇳IN  ROSE—83%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnZ0lBWFdEQkcxaURKelBjM01JNlp6@5.253.59.156:32140#🇳🇱NL  ROSE—87%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3U0VzdGRtTGhmLWFGS19HOWVhWUhLVF9ZcFNvdjU4Qg@45.10.41.129:51523#🇷🇺RU  ROSE—89%20clc-main
+ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg@217.30.10.70:9031#🇵🇱PL  ROSE—98%20clc-main
+ss://YWVzLTI1Ni1jZmI6RVhOM1MzZVFwakU3RUp1OA@217.30.10.70:9027#🇵🇱PL  ROSE—99%20clc-main
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@3.142.134.224:443#🇺🇸US  ROSE—101%20clc-main
+ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ@217.30.10.70:9019#🇵🇱PL  ROSE—104%20clc-main
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@3.147.78.9:443#🇺🇸US  ROSE—105%20clc-main
+ss://YWVzLTI1Ni1jZmI6Z1lDWVhma1VRRXMyVGFKUQ@217.30.10.70:9038#🇵🇱PL  ROSE—108%20clc-main
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@35.180.255.4:443#🇫🇷FR  ROSE—113%20clc-main
+ss://YWVzLTI1Ni1jZmI6UVdERHZWRTlucE51clFmQQ@217.30.10.70:9026#🇵🇱PL  ROSE—117%20clc-main
+ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg@217.30.10.70:9041#🇵🇱PL  ROSE—118%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXTU5GRmpRcWRGTlg0b0RvMWIyTFZP@5.253.59.156:32140#🇳🇱NL  ROSE—122%20clc-main
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@15.236.43.191:443#🇫🇷FR  ROSE—123%20clc-main
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@103.106.231.82:5600#🇦🇺AU  ROSE—124%20clc-main
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.58.60.229:443#🇺🇸US  ROSE—126%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#🇸🇬SG  ROSE—128%20clc-main
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@18.183.135.29:443#🇯🇵JP  ROSE—129%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIN2RqTnZVTF85UVNOQjV2dm1mb2h0eWtYNUJ2Z3R1Tg@bot.sobhanpor.ir:1080#🇮🇷IR  ROSE—131%20clc-main
+ss://YWVzLTI1Ni1jZmI6WnBORERLUnU5TWFnTnZhZg@217.30.10.70:9015#🇵🇱PL  ROSE—134%20clc-main
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@35.180.199.237:443#🇫🇷FR  ROSE—138%20clc-main
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@3.16.130.237:443#🇺🇸US  ROSE—139%20clc-main
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@51.44.170.232:443#🇫🇷FR  ROSE—140%20clc-main
