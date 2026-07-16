@@ -1,15 +1,11 @@
-#profile-title: 18-18/26 @Amirchelios
+#profile-title: 18-18/25 @Amirchelios
 #profile-update-interval: 48
 #support-url: https://github.com/Amirchelios/clc-main
 #announce: Amirchelios
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
-trojan://Sp3eDVp@185.212.200.75:443?security=tls#美国/San Francisco/United States/San Francisco%20clc-main
-vless://4feb7818-dc02-46cd-b985-abf3fdd0cdc5@164.38.155.13:443?allowInsecure=1&encryption=none&host=edge-4cb23bf6.pages.dev&insecure=1&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&sni=edge-4cb23bf6.pages.dev&type=ws#意大利/Italy%20clc-main
-hysteria2://C3MhlAEI3P3DmuzlQgK8PSJWWFzU@149.104.29.83:443?obfs=salamander&obfs-password=obfs-hk-rusti2026&sni=proxy.rusti.cc#美国/United States%20clc-main
-vless://fcf4db22-3134-452f-a5d2-107f04afc89c@gr113.allenshop66248.ir:2053?encryption=none&fp=firefox&mode=gun&pbk=GS0dfvzX-bVKBDl2brVxsrE6T2WyXXkfgP3x-mQC7BY&security=reality&serviceName=api.v1.data&sid=524efc1f88592266&sni=play.google.com&type=grpc#法国/France%20clc-main
-vmess://eyJ2IjoiMiIsInBzIjoiVVMg8J-HuvCfh7ggfCBAUmF5ZGlrYWx4IHwgMzI2MCIsImFkZCI6IjQ1LjIwNS4zMS4xNzUiLCJwb3J0IjoiODQ0NCIsImlkIjoiZjFmYjU0NmEtZWFhZi00YzEwLTk4ZjEtODcxYjQ4OTMxMDc3IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInBhdGgiOiIvd2FycCIsInRscyI6InRscyIsInNuaSI6InZwbi5jeWVkdS54eXoiLCJmcCI6ImNocm9tZSJ9#%20clc-main
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3U0VzdGRtTGhmLWFGS19HOWVhWUhLVF9ZcFNvdjU4Qg==@ru.moktana.app:51523#俄罗斯联邦/莫斯科/Russia/Moscow%20clc-main
-vless://ea535933-6fe2-45ae-b737-5b2d47e04bb4@lfvps.top:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SUfGUYeyXhvcomjjiVWlkEK1wSL6Q0wCRNVAzrxaI3Q&security=tls&sid=62a71a3bc82af165&sni=www.cloudflare.com#新加坡/新加坡/Singapore/Singapore%20clc-main
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozSzdaSXREazlDbzJlT2V3@168.63.58.89:443?outline=1&prefix=POST#爱尔兰/都柏林/Ireland/Dublin%20clc-main
-vless://82d38cf6-8f06-4fce-b8e5-0a105f25280d@us1.xuanmiao.xyz:8443?encryption=none&fp=chrome&host=us1.xuanmiao.xyz&path=%2F&security=tls&sni=us1.xuanmiao.xyz&type=ws#美国/凤凰城/United States/Phoenix%20clc-main
+vless://b08562b0-dbc0-47d1-860d-9435133b25c9@cf10.466688.xyz:443?encryption=none&host=cfoo-146.pages.dev&path=%2FQiangLieTuiJian%3Fed%3D2560fp%3Dchrome&security=tls&sni=cfoo-146.pages.dev&type=ws#美国/San Francisco/United States/San Francisco%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZVVdYNkNPTFpZbWFIbFVHaUt3RGFO@45.79.238.129:443#意大利/Italy%20clc-main
+ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvd1pqWTJOV1E1WWkwNVpXUTNMVFJqWkRBdFlUWm1NUzFsTmpBME5EYzVNelkxTVRn@free.2apzhfa.xyz:31411#瑞典/Sweden%20clc-main
+vless://19773cc6-89a3-47c6-bc10-885460cd2b7b@89.167.17.75:443?encryption=none&headerType=http&host=speedtest.net#荷兰/哈勒姆/The Netherlands/Haarlem%20clc-main
+hysteria2://c0aa0cee-e855-4bcc-9afc-46241cb17990@fast88.screw.page:443?insecure=1&sni=fast88.screw.page#俄罗斯联邦/圣彼得堡/Russia/St Petersburg%20clc-main
