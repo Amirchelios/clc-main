@@ -1,4 +1,4 @@
-#profile-title: 23-23/26 @Amirchelios
+#profile-title: 23-23/25 @Amirchelios
 #profile-update-interval: 48
 #support-url: https://github.com/Amirchelios/clc-main
 #announce: Amirchelios
@@ -14,6 +14,8 @@ hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@54.254.22.28:443?insecure=1&sni=https%3A%2F
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@34.212.146.99:443?insecure=1&sni=https%3A%2F%2Ft.me%2FWangCai2#🇺🇸US  ROSE—15%20clc-main
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.141.232.182:443?insecure=1&sni=https%3A%2F%2Ft.me%2FWangCai2#🇸🇬SG  ROSE—16%20clc-main
 hysteria2://Dd8FfJSif0@91.107.152.188:40460?insecure=1&obfs=salamander&obfs-password=t-me-V2RayyNGvpn&sni=www.amd.com#🇩🇪DE  ROSE—17%20clc-main
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.141.232.182:443?insecure=1&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#🇸🇬SG  ROSE—18%20clc-main
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.141.232.182:443?insecure=1#🇸🇬SG  ROSE—19%20clc-main
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@54.254.22.28:443?insecure=1&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#🇸🇬SG  ROSE—24%20clc-main
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@54.254.22.28:443?insecure=1#🇸🇬SG  ROSE—25%20clc-main
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@54.149.34.181:443?insecure=1#🇺🇸US  ROSE—26%20clc-main
@@ -21,7 +23,6 @@ ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@154.223.16.41:4444#🇨🇴CO  ROSE—
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3U0VzdGRtTGhmLWFGS19HOWVhWUhLVF9ZcFNvdjU4Qg@ru.moktana.app:51523#🇷🇺RU  ROSE—45%20clc-main
 ss://YWVzLTI1Ni1jZmI6d2ZMQzJ5N3J6WnlDbXV5dA@217.30.10.70:9093#🇵🇱PL  ROSE—64%20clc-main
 ss://YWVzLTI1Ni1jZmI6Y3A4cFJTVUF5TGhUZlZXSA@217.30.10.70:9064#🇵🇱PL  ROSE—65%20clc-main
-ss://YWVzLTI1Ni1jZmI6cVlFTjVIWDRKS2VWQ2RFQw@195.238.126.84:9039#🇱🇹LT  ROSE—78%20clc-main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyS0F1OWVNbUd3U2hXVFdjdXl5bm1MRTgxUFZrb0tEdlEzZmIyOWRQU2NjMWJNVVc1eTZocHByWHFWV3FTcWpUaTIzNGhGR2REZjNBckN1V3RCdzVGQTZ6VjV3QmdXVFA@mail2.thirdpaull.monster:57327#🇬🇧GB  ROSE—82%20clc-main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnZ0lBWFdEQkcxaURKelBjM01JNlp6@5.253.59.156:32140#🇳🇱NL  ROSE—87%20clc-main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3U0VzdGRtTGhmLWFGS19HOWVhWUhLVF9ZcFNvdjU4Qg@45.10.41.129:51523#🇷🇺RU  ROSE—89%20clc-main
