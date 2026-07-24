@@ -4,19 +4,25 @@
 #announce: Amirchelios
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
-vless://9501f3d6-483f-45c1-ab2c-33266520cd5c@81.85.78.193:2200?encryption=none&host=rzd.ru&path=%2Fv1&type=ws#Notorgames_0%20clc-main
-vless://d4aad26f-70b6-4411-8517-17f7b4281886@130.17.2.28:2200?encryption=none&host=rzd.ru&path=%2Fv1&sni=tn.tmn141246.ru&type=ws#%E6%9C%AA%E7%9F%A5%20VLESS-667%20%7C%20free-nodes%20clc-main
-vless://9501f3d6-483f-45c1-ab2c-33266520cd5c@130.17.2.28:2200?encryption=none&host=rzd.ru&path=%2Fv1&type=ws#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪%20clc-main
-vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@89.127.197.71:2200?encryption=none&host=rzd.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-30690%20clc-main
-vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@217.177.74.196:2200?encryption=none&host=rzd.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-30670%20clc-main
-vless://155e8dd4-a559-407a-9ea8-13a5e829f066@89.127.217.210:4100?encryption=none&host=live.ok.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-30621%20clc-main
-vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@89.127.217.210:4100?encryption=none&host=live.ok.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-30758%20clc-main
 vless://155e8dd4-a559-407a-9ea8-13a5e829f066@89.127.217.210:4100?encryption=none&host=live.ok.ru&path=%2Fv1&sni=tn.tmn141246.ru&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-30701%20clc-main
-vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@77.222.46.162:2200?encryption=none&host=rzd.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-30658%20clc-main
-vless://155e8dd4-a559-407a-9ea8-13a5e829f066@87.228.122.101:2200?encryption=none&path=%2Fv1&sni=rzd.ru&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-30540%20clc-main
-vless://9501f3d6-483f-45c1-ab2c-33266520cd5c@89.127.217.210:2200?encryption=none&host=rzd.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-30440%20clc-main
+vless://d4aad26f-70b6-4411-8517-17f7b4281886@89.127.217.210:2200?encryption=none&host=rzd.ru&path=%2Fv1&sni=tn.tmn141246.ru&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-30474%20clc-main
+vless://155e8dd4-a559-407a-9ea8-13a5e829f066@89.127.217.210:4100?encryption=none&host=live.ok.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-30621%20clc-main
+vless://155e8dd4-a559-407a-9ea8-13a5e829f066@217.177.74.111:4100?encryption=none&host=live.ok.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-30894%20clc-main
 vless://e7299042-7d8f-440f-8368-2516b0e69341@89.127.217.210:2200?encryption=none&fp=chrome&host=rzd.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-30634%20clc-main
-vless://d4aad26f-70b6-4411-8517-17f7b4281886@89.127.217.210:2200?encryption=none&host=rzd.ru&path=%2Fv1&sni=tn.tmn141246.ru&type=ws#🇩🇪[openproxylist.com] vless-DE%20clc-main
-vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@195.133.25.181:4100?encryption=none&fp=firefox&host=live.ok.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-30674%20clc-main
-vless://d4aad26f-70b6-4411-8517-17f7b4281886@168.222.140.233:2200?encryption=none&host=rzd.ru&path=%2Fv1&sni=tn.tmn141246.ru&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-30323%20clc-main
-vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@168.222.140.233:4100?encryption=none&host=live.ok.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-30605%20clc-main
+vless://155e8dd4-a559-407a-9ea8-13a5e829f066@31.172.67.215:4100?encryption=none&host=live.ok.ru&path=%2Fv1&sni=tn.tmn141246.ru&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-30700%20clc-main
+vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@217.177.74.196:2200?encryption=none&host=rzd.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-30670%20clc-main
+vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@31.172.67.215:2200?encryption=none&host=rzd.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-30892%20clc-main
+vless://6b504c50-8535-44cf-8e4e-f8ee674a922e@cf8.466688.xyz:8880?encryption=none&host=old-moon-16d0.156-a25.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&type=ws#%E6%9C%AA%E7%9F%A5_0724104349%20clc-main
+vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@217.177.74.196:4100?encryption=none&host=live.ok.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-30883%20clc-main
+vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@195.133.25.181:4100?encryption=none&fp=firefox&host=live.ok.ru&path=%2Fv1&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B7%F0%9F%87%BA%20clc-main
+vless://d4aad26f-70b6-4411-8517-17f7b4281886@130.17.2.27:2200?encryption=none&host=rzd.ru&path=%2Fv1&sni=tn.tmn141246.ru&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B7%F0%9F%87%BA%20clc-main
+vless://155e8dd4-a559-407a-9ea8-13a5e829f066@130.17.2.27:4100?encryption=none&host=live.ok.ru&path=%2Fv1&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B7%F0%9F%87%BA%20clc-main
+vless://9501f3d6-483f-45c1-ab2c-33266520cd5c@81.85.78.78:2200?encryption=none&host=rzd.ru&path=%2Fv1&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B7%F0%9F%87%BA%20clc-main
+vless://d4aad26f-70b6-4411-8517-17f7b4281886@81.85.78.78:2200?encryption=none&host=rzd.ru&path=%2Fv1&sni=tn.tmn141246.ru&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-30543%20clc-main
+vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@tn2.tmn141246.ru:4100?encryption=none&host=live.ok.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20Dynamic-30590%20clc-main
+vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@tn2.tmn141246.ru:4100?encryption=none&host=live.ok.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20Dynamic-30570%20clc-main
+vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@tn2.tmn141246.ru:2200?encryption=none&host=rzd.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20Dynamic-30589%20clc-main
+vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@tn2.tmn141246.ru:2200?encryption=none&host=rzd.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20Dynamic-30571%20clc-main
+vless://155e8dd4-a559-407a-9ea8-13a5e829f066@81.85.78.78:4100?encryption=none&host=live.ok.ru&path=%2Fv1&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B7%F0%9F%87%BA%20clc-main
+vless://9501f3d6-483f-45c1-ab2c-33266520cd5c@31.172.67.215:2200?encryption=none&host=rzd.ru&path=%2Fv1&type=ws#t.me%2Ffreekesha21 - 41 %F0%9F%87%A9%F0%9F%87%AA%20clc-main
+vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@147.45.253.97:4100?encryption=none&host=live.ok.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-30600%20clc-main

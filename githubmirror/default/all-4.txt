@@ -4,4 +4,5 @@
 #announce: Amirchelios
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
+vless://19cb2ba5-d074-42d6-8400-6d9183514f48@148.135.195.143:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&host=www.google.com&path=%2F&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&security=reality&sid=6ba85179e30d4fc2&sni=www.google.com#%F0%9F%87%B3%F0%9F%87%B4%20Norway%20(FREE%20EOFVPN)%20Vless%20clc-main
 vless://19cb2ba5-d074-42d6-8400-6d9183514f48@151.245.195.159:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&host=www.google.com&path=%2F&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&security=reality&sid=6ba85179e30d4fc2&sni=www.google.com#%F0%9F%87%AB%F0%9F%87%B7%20France%20(FREE%20EOFVPN)%20Vless%20clc-main
