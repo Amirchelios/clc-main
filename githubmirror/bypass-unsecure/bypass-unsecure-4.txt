@@ -4,19 +4,6 @@
 #announce: Amirchelios
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
-vless://ee39fb11-56a3-4ee7-9e7c-35a4235bd30e@107.181.151.241:443?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg&security=reality&sid=b27ba098687b&sni=www.tradingview.com# By EbraSha 🐉%20clc-main
-vless://4d017db2-7655-4276-9557-e2ec25b04ee7@107.181.151.39:443?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=J-dv-HrWfQ_IOoyutv0Kg-rO8QwoRwc02dS1dS_tblk&security=reality&sid=ee1716767f9b&sni=www.tradingview.com# By EbraSha%20clc-main
-vless://155e8dd4-a559-407a-9ea8-13a5e829f066@89.127.217.210:4100?encryption=none&host=live.ok.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-30621%20clc-main
-vless://e7299042-7d8f-440f-8368-2516b0e69341@89.127.217.210:2200?encryption=none&fp=chrome&host=rzd.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-30634%20clc-main
-vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@147.45.253.97:4100?encryption=none&host=live.ok.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-30600%20clc-main
-vless://d4aad26f-70b6-4411-8517-17f7b4281886@89.127.217.210:2200?encryption=none&host=rzd.ru&path=%2Fv1&sni=tn.tmn141246.ru&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-30474%20clc-main
-vless://9501f3d6-483f-45c1-ab2c-33266520cd5c@89.127.217.210:2200?encryption=none&host=rzd.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-30440%20clc-main
-vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@194.87.161.60:4100?encryption=none&host=live.ok.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-30654%20clc-main
-vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@tn2.tmn141246.ru:4100?encryption=none&host=live.ok.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20Dynamic-30570%20clc-main
-vless://155e8dd4-a559-407a-9ea8-13a5e829f066@130.17.2.27:4100?encryption=none&host=live.ok.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-21663%20clc-main
-vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@tn2.tmn141246.ru:2200?encryption=none&host=rzd.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20Dynamic-30571%20clc-main
-vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@tn2.tmn141246.ru:2200?encryption=none&host=rzd.ru&path=%2Fv1&type=ws#UN%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9169%20clc-main
-vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@tn2.tmn141246.ru:4100?encryption=none&host=live.ok.ru&path=%2Fv1&type=ws#[🇷🇺] [vl-no-ws] [260718-015939.775]%20clc-main
-vless://9501f3d6-483f-45c1-ab2c-33266520cd5c@130.17.2.66:2200?encryption=none&host=rzd.ru&path=%2Fv1&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%5B%2ACIDR%5D%20clc-main
-vless://d4aad26f-70b6-4411-8517-17f7b4281886@130.17.2.27:2200?encryption=none&host=rzd.ru&path=%2Fv1&sni=tn.tmn141246.ru&type=ws# By EbraSha%20clc-main
-vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@5.129.194.34:4100?encryption=none&host=live.ok.ru&path=%2Fv1&provider_id=zieng_vless_universal&source_name=zieng_vless_universal&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-30656%20clc-main
+vless://155e8dd4-a559-407a-9ea8-13a5e829f066@81.85.78.78:4100?encryption=none&host=live.ok.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-30544%20clc-main
+vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@tn2.tmn141246.ru:2200?encryption=none&host=rzd.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20Dynamic-30589%20clc-main
+vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@tn2.tmn141246.ru:4100?encryption=none&host=live.ok.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20Dynamic-30590%20clc-main
