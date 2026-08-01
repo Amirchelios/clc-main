@@ -1,28 +1,21 @@
-#profile-title: 13-13/26 @Amirchelios
+#profile-title: 13-13/25 @Amirchelios
 #profile-update-interval: 48
 #support-url: https://github.com/Amirchelios/clc-main
 #announce: Amirchelios
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
-vless://c49a0981-6d37-4ec0-9a01-1b63ccc07e4f@peekconfig.hamrahfree1.workers.dev:2096?allowInsecure=0&alpn=http%2F1.1&encryption=none&fp=chrome&host=peekconfig.hamrahfree1.workers.dev&insecure=0&path=%2FeyJqdW5rIjoiZHlCcVpqeEYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iLCJbMjYwMjpmYzU5OjExOjY0OjpdIiwiWzI2MDI6ZmM1OTpiMDo2NDo6XSJdfQ&security=tls&sni=pEeKcOnFig.haMRaHfREe1.wOrKerS.DEv&type=ws#美国/San Francisco/United States/San Francisco%20clc-main
-vless://7c74b0e4-f132-5583-4692-622a7d6b71a4@88.218.44.4:8443?encryption=none&fp=chrome&pbk=Rt2wltCWOxIroFggNWMudZDBJXls8DsF4icaWqxKDk8&security=tls&serviceName=TunService&sni=dl.google.com&type=grpc#塞舌尔/Seychelles%20clc-main
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@38.244.132.14:5499#保加利亚/Bulgaria%20clc-main
-vless://080fad7c-ff4b-499f-ab5d-52d69ea5745a@185.207.197.12:80?encryption=none&host=calm-tree-22b0.215-d2a.workers.dev&path=%2Fpyip%3DTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&type=ws#马绍尔群岛/Marshall Islands%20clc-main
-hysteria2://Uq5DgLZRU6hpn7ydRcePOeOk4i1c2tJIEk3rMZMUobo@144.31.107.101:25447?sni=devideo.h2corp.org#美国/United States%20clc-main
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg00129437x.cybervena.com:50099#台湾/新北/Taiwan/New Taipei City%20clc-main
-vmess://eyJ2IjoiMiIsInBzIjoi8J-HsPCfh7dLUi0xNTAuMTA5LjI0MC4xNzktNjA1NSIsImFkZCI6IjE1MC4xMDkuMjQwLjE3OSIsInBvcnQiOiI4NDQzIiwiaWQiOiJmOWRjYjMwMy0zZTczLTQwZWItOTMyNy0xYWM4OGY5YTJiNzIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL3dzcHJveHkiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ3d3cuYmluZy5jb20ifQ#%20clc-main
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@88.216.69.30:8880?encryption=none&host=vms.lifetime06.workers.dev&type=ws#立陶宛/Lithuania%20clc-main
-vless://f82944fe-9863-494a-9a2d-0f3120a774c6@82.22.53.30:448?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=0B7XMJC-mBqvUkf_on0wPZeW1iVmZIbEPVyvz-V_jRI&security=reality&sid=60d7a9bbacadc0fb&sni=www.googletagmanager.com#冰岛/凯夫拉维克/Iceland/Keflavik%20clc-main
-vless://35abc17e-82b8-4bb1-baa0-299dc2f8ea12@ipv4-address.iranvatanam.com:8443?allowInsecure=1&encryption=none&insecure=1&path=%2F%3Fed&security=tls&sni=email-page6.iranvatanam.com&type=ws#新加坡/新加坡/Singapore/Singapore%20clc-main
+hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@107.181.134.90:443?sni=wopa7.api3-max.ru#英国/United Kingdom%20clc-main
+vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@mypanel.unixzone.us:12068?encryption=none&host=mypanel.unixzone.us&path=%2F&sni=mypanel.unixzone.us&type=ws#荷兰/哈勒姆/The Netherlands/Haarlem%20clc-main
+hysteria2://Uq5DgLZRU6hpn7ydRcePOeOk4i1c2tJIEk3rMZMUobo@144.31.107.101:25447?sni=devideo.h2corp.org#俄罗斯联邦/莫斯科/Russia/Moscow%20clc-main
+hysteria2://71cada65-d23e-418c-88e4-a06188d14689@2.26.85.26:443?sni=fi-one.quiet-rogue.site#芬兰/赫尔辛基/Finland/Helsinki%20clc-main
+hysteria2://68b4b16e-2759-47a4-8a69-33118edf5ce6@150.241.124.145:443?sni=ger.leontunel.ru#德国/法兰克福/Germany/Frankfurt am Main%20clc-main
+hysteria2://68b4b16e-2759-47a4-8a69-33118edf5ce6@5.180.97.78:443?sni=nederland.gamestocke.ru#荷兰/阿姆斯特丹/The Netherlands/Amsterdam%20clc-main
+vmess://eyJ2IjoiMiIsInBzIjoiSlAg8J-Hr_Cfh7UgfCBAUmF5ZGlrYWx4IHwgQUE1QzE3IiwiYWRkIjoiMTcyLjExMS4xNDYuNjQiLCJwb3J0IjoiODAiLCJpZCI6IjA1YjhjNzgzLTdmNTktNDdmOS05OTIzLTA2YTQ2NTY3OWY2YSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzLyJ9#%20clc-main
+vless://78e6619e-e82a-cd8d-b482-0973d8498305@94.140.0.100:8880?encryption=none&host=silent-pine-a674.jfadwkglaugul.workers.dev&packetEncoding=xudp&path=%2Fsync&type=ws#阿联酋/United Arab Emirates%20clc-main
+hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@93.114.194.117:8443?sni=grape-zet-ro-turbo.bumbleshrimp.com#罗马尼亚/Romania%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A=@140.174.184.5:8388#西班牙/巴塞罗那/Spain/Barcelona%20clc-main
 hysteria2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443?insecure=1&sni=5.255.102.165#荷兰/The Netherlands%20clc-main
-vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&security=reality&sni=www.cloudflare.com#美国/北伯根/United States/North Bergen%20clc-main
-vmess://eyJ2IjoiMiIsInBzIjoiVVMg8J-HuvCfh7ggfCBAUmF5ZGlrYWx4IHwgNDREQ0Y0IiwiYWRkIjoiMzguOTEuMTA3LjQ5IiwicG9ydCI6IjE4MDAwIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCJ9#%20clc-main
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@43.255.156.59:40118?encryption=none&flow=xtls-rprx-vision&fp=chrome&host=www.lamer.com.sg&path=%2F&pbk=x1nqrSzJzU5Hq7fr36PEmtBfOf98A2XiFuRzIsdcz20&security=reality&sid=5895914d&sni=www.lamer.com.sg#香港/Hong Kong%20clc-main
-hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@76.164.202.213:8443?sni=mercedes-grape.yyuyy.com#罗马尼亚/Romania%20clc-main
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFQkRSbzlUSHg0Q3FpRlU3aDVnZm92NzZvTnd6WlVSQWgwWndiV2pCS2RkdFVodno@103.120.178.193:31348#印度/India%20clc-main
-ss://YWVzLTI1Ni1nY206ZmJhZjMzYmNmZmU1M2NmOQ@195.58.48.19:20111#南非/约翰内斯堡/South Africa/Johannesburg%20clc-main
-hysteria2://76dff95d-a720-4909-8ca6-3d848e786a9c@159.65.178.189:443?insecure=1&sni=www.bing.com#美国/克利夫頓/United States/Clifton%20clc-main
-hysteria2://7_Bz834J98n238cNbx7cjLAw_Nux28c_kIO1Hq86Vr@151.247.219.191:8443?sni=hopp-queen.roxa.org#英国/伦敦/United Kingdom/London%20clc-main
-hysteria2://28d38ce6-7c79-4e9d-9175-2186da5be395@159.65.79.184:443?insecure=1&sni=addons.mozilla.org#美国/圣克拉拉/United States/Santa Clara%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSU281MlNieFc0MHI=@108.181.57.93:8388#美国/阿什本/United States/Ashburn%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyWWZpNGNRM3o3enRzN0JPNC1ZOV9B@188.41.249.20:1080#土耳其/Türkiye%20clc-main
+hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@167.104.219.217:443?sni=taga5.api3-max.ru#土耳其/伊斯坦布尔/Türkiye/Istanbul%20clc-main
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?insecure=1&sni=https%3A%2F%2Ft.me%2Foneclickvpnkeys#台湾/台北市/Taiwan/Taipei%20clc-main
-hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@185.90.61.28:8443?security=tls&sni=hopp-legend-se.roxa.org#挪威/奥斯陆/Norway/Oslo%20clc-main
