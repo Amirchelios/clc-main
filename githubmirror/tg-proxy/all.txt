@@ -1,211 +1,277 @@
-https://t.me/proxy?server=lazeyka-6.getvelora.space&port=443&secret=ee46da8bea792f6be81e42e3afff691a006f7a6f6e2e7275
+https://t.me/proxy?server=ad5.arixo.shop&port=443&secret=ee995469d4d5a3221f69a1cc24d1cafa506164322e617269786f2e73686f70
 
-https://t.me/proxy?server=logs.jinxandjack.co.uk.&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169
+https://t.me/proxy?server=ftp.jinxandjack.co.uk.&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169
 
-https://t.me/proxy?server=79.137.196.223&port=10443&secret=ee63fccdeb9951e5f99d66d274148278b97777772e636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=zilch.chunkycorp.shop&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
 
-https://t.me/proxy?server=cross-over.lamari.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
+https://t.me/proxy?server=petrichor.slarkfat.icu&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
 
-https://t.me/proxy?server=ftp.jinxandjack.co.uk&port=443&secret=7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ==
+https://t.me/proxy?server=webhook.vingardium.co.uk&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169
 
-https://t.me/proxy?server=portal.malevich7.top&port=443&secret=ee581fe7a67822287a191d54675fa00956706f7274616c2e6d616c6576696368372e746f70
-
-https://t.me/proxy?server=ad4.arixo.shop&port=443&secret=eec699329f2f8c2d33cd1e1a9f10e5d32d6164312e617269786f2e73686f70
-
-https://t.me/proxy?server=a.red-eyes.co.uk&port=443&secret=ee3d452ace1dc3eba3f6064fe8291dfd59612e7265642d657965732e636f2e756b
-
-https://t.me/proxy?server=ad6.fluxvpnguard.ru&port=443&secret=eeb471ae1aa2e8a185ed77a4d024dd3b7f6164362e666c757876706e67756172642e7275
-
-https://t.me/proxy?server=s03.neo-trading.org&port=443&secret=eeaf794bcc20f70b1436b6b92b01b207e26d61676e69742e7275
-
-https://t.me/proxy?server=ad1.arixo.shop&port=443&secret=eee09f46368021f91b92ad3dea14c7ac896164312e617269786f2e73686f70
-
-https://t.me/proxy?server=skein.chunkycorp.shop&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
-
-https://t.me/proxy?server=media2.happtg.org&port=443&secret=ee95aa916bd319beb312cc6ba9b2c5aef8766b2e7275
-
-https://t.me/proxy?server=bezan-roo.connectina.co.uk.&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169
-
-https://t.me/proxy?server=83.166.254.255&port=443&secret=dd6b3fb02424dbac55fef2da67c8c949
+https://t.me/proxy?server=iran-download.goaphrodite.co.uk.&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169
 
 https://t.me/proxy?server=138.124.113.201&port=443&secret=ee3aff3c6ac00f9a9b6bfe90449249953f636c6f7564666c6172652e636f6d
 
-https://t.me/proxy?server=webhook.vingardium.co.uk.&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169
+https://t.me/proxy?server=79.137.196.223&port=14443&secret=ee9e28cf588967add684c5e759fea036d47777772e636c6f7564666c6172652e636f6d
 
-https://t.me/proxy?server=best-proxy.ink&port=443&secret=ee041a76d99194e7dda929e9379d686cd2626573742d70726f78792e696e6b
+https://t.me/proxy?server=79.137.196.223&port=10443&secret=ee63fccdeb9951e5f99d66d274148278b97777772e636c6f7564666c6172652e636f6d
+
+https://t.me/proxy?server=79.137.196.223&port=15443&secret=ee5d739d0cab70b86961816e3a9c27d4c17777772e636c6f7564666c6172652e636f6d
+
+https://t.me/proxy?server=webhook.what-ever.co.uk.&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169
+
+https://t.me/proxy?server=ftp.jinxandjack.co.uk&port=443&secret=7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ==
+
+https://t.me/proxy?server=gate.veltura.digital&port=443&secret=ee2b6ff159a6a5c04594a65f07f2915ceb676174652e76656c747572612e6469676974616c
+
+https://t.me/proxy?server=webhook.what-ever.co.uk&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169
+
+https://t.me/proxy?server=download.lv426.co.uk&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169
+
+https://t.me/proxy?server=ad4.arixo.shop&port=443&secret=eec699329f2f8c2d33cd1e1a9f10e5d32d6164312e617269786f2e73686f70
+
+https://t.me/proxy?server=ad2.arixo.shop&port=443&secret=eed09b88cbbd4e744865b890e5a0bd26876164322e617269786f2e73686f70
+
+https://t.me/proxy?server=cross-over.lamari.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
+
+https://t.me/proxy?server=lazeyka-6.getvelora.space&port=443&secret=ee46da8bea792f6be81e42e3afff691a006f7a6f6e2e7275
+
+https://t.me/proxy?server=adieu.shmelproxy.top&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
 
 https://t.me/proxy?server=proxy.garden-troll.life&port=443&secret=ee44e44615787238844c492fb9e94eebc370726f78792e67617264656e2d74726f6c6c2e6c696665
 
-https://t.me/proxy?server=storm.gorbushkin.click&port=443&secret=eeaa87b45b1b713023db2c57c90ac9e1d173746f726d2e676f72627573686b696e2e636c69636b
+https://t.me/proxy?server=164.90.162.103&port=443&secret=eeb4dd220363231daa02b2e5c56de2c3b7636c6f7564666c6172652e636f6d
 
-https://t.me/proxy?server=app.what-ever.co.uk.&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169
+https://t.me/proxy?server=sync.savelyev.click&port=443&secret=ee6b56378bbf49f5bd8552fa1e9d63bab773796e632e736176656c7965762e636c69636b
 
-https://t.me/proxy?server=media3.happtg.org&port=443&secret=ee8fc9c7632b344b1b76639c501ae7cfb5766b2e7275
+https://t.me/proxy?server=fleethop.online&port=443&secret=eed82e9162b09c2ddfdbe3ddfe7d28d87a666c656574686f702e6f6e6c696e65
+
+https://t.me/proxy?server=wave.savelyev.click&port=443&secret=eeba2e1341a08483c2cede6818498348ff776176652e736176656c7965762e636c69636b
+
+https://t.me/proxy?server=cdn.kvakzon.top&port=443&secret=ee8c9511c54296c007462dfa294a6130b363646e2e6b76616b7a6f6e2e746f70
+
+https://t.me/proxy?server=iran-download.shentaichiacademy.co.uk.&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169
+
+https://t.me/proxy?server=view.fleethop.online&port=443&secret=ee05a819f41fd784d0a3ad0f67013fb7a9766965772e666c656574686f702e6f6e6c696e65
+
+https://t.me/proxy?server=logs.jinxandjack.co.uk&port=443&secret=7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ==
+
+https://t.me/proxy?server=media1.happtg.org&port=443&secret=ee73e7d7fe41b49d9091f78c8c92c22de4766b2e7275
+
+https://t.me/proxy?server=medblock.ink&port=443&secret=ee48995b34487bfb1cb562552a585da0ea6d6564626c6f636b2e696e6b
+
+https://t.me/proxy?server=media2.happtg.org&port=443&secret=ee95aa916bd319beb312cc6ba9b2c5aef8766b2e7275
+
+https://t.me/proxy?server=relay2.best-proxy.ink&port=443&secret=eee751f2db32edcfc86330057749a3ab9472656c6179322e626573742d70726f78792e696e6b
+
+https://t.me/proxy?server=abo-ali-sina.basalam.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
+
+https://t.me/proxy?server=link.mishkalapy.life&port=443&secret=ee943031c5687da2dc848bf7582bf801496c696e6b2e6d6973686b616c6170792e6c696665
+
+https://t.me/proxy?server=sync.utkanos.life&port=443&secret=eef79990aed856d00b3f7f71bc53e19c8a73796e632e75746b616e6f732e6c696665
+
+https://t.me/proxy?server=proxy.lodkirmm.ru&port=8443&secret=ee16309abd572d284b309ef26bd7a3f685d0b7d0ba70726f78792e6c6f646b69726d6d2e7275
 
 https://t.me/socks?server=69.55.49.177&port=38182
 
-https://t.me/socks?server=147.45.60.139&port=1082
+https://t.me/socks?server=147.45.60.246&port=1082
 
-https://t.me/socks?server=47.254.24.39&port=80
+https://t.me/socks?server=178.130.47.50&port=1082
 
-https://t.me/socks?server=193.176.244.151&port=4885
+https://t.me/socks?server=45.61.188.134&port=44499
+
+https://t.me/socks?server=216.106.179.216&port=49572
+
+https://t.me/socks?server=178.173.254.77&port=1080
+
+https://t.me/socks?server=109.172.55.210&port=1082
+
+https://t.me/socks?server=109.172.55.227&port=1082
+
+https://t.me/socks?server=147.45.187.195&port=1080
 
 https://t.me/socks?server=5.255.117.127&port=1080
 
+https://t.me/socks?server=91.239.211.83&port=8443
+
+https://t.me/socks?server=31.220.40.59&port=5080
+
 https://t.me/socks?server=213.136.92.91&port=1080
 
-https://t.me/socks?server=147.45.221.111&port=1082
-
-https://t.me/socks?server=23.94.76.170&port=1080
-
-https://t.me/socks?server=77.110.102.252&port=1080
-
-https://t.me/socks?server=144.91.111.48&port=1088
-
-https://t.me/socks?server=54.193.63.238&port=9080
-
-https://t.me/socks?server=89.19.214.171&port=1080
-
-https://t.me/socks?server=185.185.80.58&port=1088
-
-https://t.me/socks?server=109.123.251.109&port=1080
-
-https://t.me/socks?server=212.77.75.25&port=1088
-
-https://t.me/socks?server=45.133.210.241&port=1080
-
-https://t.me/socks?server=149.62.186.244&port=1080
-
-https://t.me/socks?server=176.65.140.216&port=1081
-
-https://t.me/socks?server=176.65.140.216&port=1085
-
-https://t.me/socks?server=46.37.123.166&port=1081
-
-https://t.me/socks?server=51.178.49.241&port=1088
-
-https://t.me/socks?server=31.76.80.215&port=1080
-
-https://t.me/socks?server=101.36.104.239&port=10808
-
-https://t.me/socks?server=186.26.95.249&port=61445
-
-https://t.me/socks?server=193.233.218.213&port=1080
-
-https://t.me/socks?server=213.199.47.140&port=1080
-
-https://t.me/socks?server=168.138.192.184&port=2345
-
-https://t.me/socks?server=144.24.111.128&port=1088
-
-https://t.me/socks?server=185.209.29.226&port=1080
-
-https://t.me/socks?server=45.95.233.128&port=1082
-
-https://t.me/socks?server=47.75.116.41&port=10800
-
-https://t.me/socks?server=121.169.46.116&port=1090
-
-https://t.me/socks?server=123.58.219.171&port=10808
-
-https://t.me/socks?server=190.89.4.185&port=1080
-
-https://t.me/socks?server=94.230.127.180&port=1080
-
-https://t.me/socks?server=144.91.121.61&port=1088
-
-https://t.me/socks?server=45.43.63.37&port=10808
-
-https://t.me/socks?server=8.215.25.3&port=2080
-
-https://t.me/socks?server=124.156.185.140&port=1080
-
-https://t.me/socks?server=213.226.122.5&port=7788
-
-https://t.me/socks?server=144.24.47.42&port=1080
-
-https://t.me/socks?server=43.138.214.122&port=9981
-
-https://t.me/socks?server=43.164.136.189&port=1080
-
-https://t.me/socks?server=23.148.84.135&port=50022
-
-https://t.me/socks?server=5.253.228.221&port=1080
-
-https://t.me/socks?server=107.149.143.169&port=7890
-
-https://t.me/socks?server=212.58.132.5&port=1080
-
-https://t.me/socks?server=101.36.104.46&port=10808
-
-https://t.me/socks?server=93.90.232.32&port=1080
-
-https://t.me/socks?server=23.27.143.117&port=3080
+https://t.me/socks?server=147.93.52.252&port=1081
 
 https://t.me/socks?server=5.255.103.55&port=1080
 
-https://t.me/socks?server=144.22.165.206&port=1088
+https://t.me/socks?server=146.190.238.107&port=40001
 
-https://t.me/socks?server=43.164.3.124&port=1080
+https://t.me/socks?server=77.110.102.252&port=1080
 
-https://t.me/socks?server=223.25.110.37&port=8199
+https://t.me/socks?server=176.65.140.212&port=1085
 
-https://t.me/socks?server=43.160.250.124&port=1080
+https://t.me/socks?server=176.65.140.216&port=1085
 
-https://t.me/socks?server=202.40.190.74&port=1080
+https://t.me/socks?server=144.124.232.204&port=1080
 
-https://t.me/socks?server=202.62.42.167&port=1080
+https://t.me/socks?server=176.65.140.216&port=1081
 
-https://t.me/socks?server=13.140.164.179&port=3678
+https://t.me/socks?server=77.110.103.146&port=1080
 
-https://t.me/socks?server=202.62.52.120&port=1080
+https://t.me/socks?server=176.65.140.215&port=1085
 
-https://t.me/socks?server=66.163.119.55&port=10006
+https://t.me/socks?server=212.77.75.25&port=1088
 
-https://t.me/socks?server=91.142.75.202&port=1080
+https://t.me/socks?server=178.150.77.204&port=10801
 
-https://t.me/socks?server=163.192.14.135&port=50161
+https://t.me/socks?server=147.45.66.115&port=1082
 
-https://t.me/socks?server=134.175.238.113&port=1080
+https://t.me/socks?server=109.123.251.109&port=1080
 
-https://t.me/socks?server=194.163.174.78&port=1080
+https://t.me/socks?server=82.193.116.160&port=21003
 
-https://t.me/socks?server=101.33.251.78&port=5000
+https://t.me/socks?server=57.183.28.232&port=1080
 
-https://t.me/socks?server=177.52.25.34&port=1080
+https://t.me/socks?server=101.36.104.46&port=10808
 
-https://t.me/socks?server=90.150.187.82&port=1080
+https://t.me/socks?server=167.86.79.35&port=1080
 
-https://t.me/socks?server=94.131.230.127&port=1080
+https://t.me/socks?server=101.36.104.239&port=10808
 
-https://t.me/socks?server=195.19.50.120&port=1080
+https://t.me/socks?server=144.91.121.61&port=1088
+
+https://t.me/socks?server=123.58.219.171&port=10808
+
+https://t.me/socks?server=121.169.46.116&port=1090
+
+https://t.me/socks?server=47.75.116.41&port=10800
+
+https://t.me/socks?server=193.239.26.142&port=9000
+
+https://t.me/socks?server=144.24.111.128&port=1088
 
 https://t.me/socks?server=218.52.249.121&port=1080
 
-https://t.me/socks?server=140.245.53.190&port=1088
+https://t.me/socks?server=193.25.215.182&port=22222
 
-https://t.me/socks?server=13.140.164.179&port=3529
+https://t.me/socks?server=45.32.117.22&port=1080
 
-https://t.me/socks?server=91.204.178.195&port=1080
+https://t.me/socks?server=144.22.165.206&port=1088
 
-https://t.me/socks?server=45.61.129.165&port=9050
+https://t.me/socks?server=66.163.119.55&port=10006
 
-https://t.me/socks?server=13.140.164.179&port=3710
+https://t.me/socks?server=37.18.73.60&port=5566
 
-https://t.me/socks?server=92.118.234.124&port=1080
+https://t.me/socks?server=94.131.230.127&port=1080
 
-https://t.me/socks?server=116.105.22.7&port=1080
+https://t.me/socks?server=158.101.8.92&port=1080
 
-https://t.me/socks?server=45.137.43.0&port=1081
+https://t.me/socks?server=59.38.113.185&port=20000
 
-https://t.me/socks?server=163.53.204.178&port=9813
+https://t.me/socks?server=36.138.206.172&port=1080
 
-https://t.me/socks?server=123.136.24.161&port=1080
+https://t.me/socks?server=103.75.118.84&port=1080
 
-https://t.me/socks?server=95.31.220.59&port=8080
+https://t.me/socks?server=47.239.213.123&port=7080
+
+https://t.me/socks?server=47.236.177.236&port=1080
+
+https://t.me/socks?server=180.173.164.82&port=1088
+
+https://t.me/socks?server=5.253.228.221&port=1080
+
+https://t.me/socks?server=204.152.192.13&port=1080
+
+https://t.me/socks?server=45.95.233.128&port=1082
+
+https://t.me/socks?server=93.90.232.32&port=1080
+
+https://t.me/socks?server=144.24.171.189&port=555
+
+https://t.me/socks?server=188.113.182.218&port=1080
+
+https://t.me/socks?server=103.151.74.29&port=2025
+
+https://t.me/socks?server=124.41.225.101&port=1080
+
+https://t.me/socks?server=43.230.192.242&port=1080
+
+https://t.me/socks?server=79.137.196.250&port=1080
+
+https://t.me/socks?server=178.216.223.147&port=1080
+
+https://t.me/socks?server=147.45.66.117&port=1082
+
+https://t.me/socks?server=175.27.250.85&port=44158
+
+https://t.me/socks?server=147.45.66.116&port=1082
+
+https://t.me/socks?server=160.22.17.4&port=9988
+
+https://t.me/socks?server=188.131.155.235&port=1088
+
+https://t.me/socks?server=5.101.118.69&port=10123
+
+https://t.me/socks?server=5.79.163.26&port=1080
+
+https://t.me/socks?server=195.19.50.120&port=1080
+
+https://t.me/socks?server=177.10.66.14&port=1080
+
+https://t.me/socks?server=47.82.112.38&port=1080
+
+https://t.me/socks?server=213.27.29.153&port=51000
+
+https://t.me/socks?server=216.22.13.244&port=1083
+
+https://t.me/socks?server=46.241.57.29&port=1080
+
+https://t.me/socks?server=45.43.63.37&port=10808
+
+https://t.me/socks?server=85.198.81.83&port=1080
+
+https://t.me/socks?server=195.19.50.130&port=1080
+
+https://t.me/socks?server=212.46.245.189&port=1080
+
+https://t.me/socks?server=85.198.91.145&port=1081
+
+https://t.me/socks?server=66.181.39.197&port=1080
+
+https://t.me/socks?server=212.58.132.5&port=1080
+
+https://t.me/socks?server=177.52.25.34&port=1080
+
+https://t.me/socks?server=103.243.82.38&port=8008
+
+https://t.me/socks?server=43.160.250.124&port=1080
+
+https://t.me/socks?server=195.19.52.147&port=1080
+
+https://t.me/socks?server=109.200.111.171&port=1080
+
+https://t.me/socks?server=119.148.20.109&port=22122
+
+https://t.me/socks?server=45.11.56.70&port=2080
+
+https://t.me/socks?server=118.70.151.55&port=1080
 
 https://t.me/socks?server=51.222.104.72&port=1080
 
-https://t.me/socks?server=103.189.63.149&port=53053
+https://t.me/socks?server=103.150.206.77&port=1080
 
-https://t.me/socks?server=195.19.50.130&port=1080
+https://t.me/socks?server=51.178.49.241&port=1088
+
+https://t.me/socks?server=43.164.3.124&port=1080
+
+https://t.me/socks?server=5.53.119.134&port=1080
+
+https://t.me/socks?server=176.192.41.172&port=4444
+
+https://t.me/socks?server=45.128.188.33&port=35860
+
+https://t.me/socks?server=5.42.105.100&port=10808
+
+https://t.me/socks?server=47.82.65.128&port=1011
+
+https://t.me/socks?server=124.156.185.140&port=1080
+
+https://t.me/socks?server=43.164.136.189&port=1080
