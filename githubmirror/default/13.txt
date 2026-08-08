@@ -1,4 +1,4 @@
-#profile-title: 13-13/26 @Amirchelios
+#profile-title: 13-13/25 @Amirchelios
 #profile-update-interval: 48
 #support-url: https://github.com/Amirchelios/clc-main
 #announce: Amirchelios
@@ -43,7 +43,6 @@ trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@185.133.35.160:443?security=tls&sn
 vless://c50680f6-8dc9-44cc-a8fe-72cab1f7f51b@87.252.237.219:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=VE6aUAkSRew5ySZw80myEtL1LOWwDo7BuYyuIKaYPUI&security=reality&sni=tradingview.com#%F0%9F%87%A7%F0%9F%87%BEBY%28AzadNet.t.me%29%20clc-main
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.95.183:443#%F0%9F%87%A8%F0%9F%87%A6CA%28AzadNet.t.me%29%20clc-main
 ss://YWVzLTI1Ni1nY206MjgwMzM2MWQ2YzE5NmFmOA@50.114.177.235:20111#%F0%9F%87%A8%F0%9F%87%A6CA%28AzadNet.t.me%29%20%282%29%20clc-main
-vmess://eyJ2IjoiMiIsInBzIjoi8J-HqPCfh6ZDQShBemFkTmV0LnQubWUpICgzKSIsImFkZCI6IjIzLjE2Mi4yMDAuMTk4IiwicG9ydCI6IjE4MDAwIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCJ9#%20clc-main
 vmess://eyJ2IjoiMiIsInBzIjoi8J-HqPCfh6ZDQShBemFkTmV0LnQubWUpICg0KSIsImFkZCI6IjEzNC4xOTUuMTk2LjIxMSIsInBvcnQiOiIxODAwMCIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AifQ#%20clc-main
 trojan://b17fa17d-13a0-4e8a-a398-8e549ea8b208@23.227.38.11:443?allowInsecure=1&security=tls&sni=syndication-statutes-wanted-logo.trycloudflare.com#%F0%9F%87%A8%F0%9F%87%A6CA%28AzadNet.t.me%29%20%285%29%20clc-main
 trojan://acfef609-b3c7-4e52-b292-8921d5fca90d@159.203.22.227:443?allowInsecure=1&fp=chrome&security=tls&sni=ca-full.privateip.net#%F0%9F%87%A8%F0%9F%87%A6CA%28AzadNet.t.me%29%20%286%29%20clc-main
@@ -104,8 +103,8 @@ vless://c8b5f6c9-83ff-4ca1-be9c-f997a5b2f692@5.253.66.63:443?encryption=none&flo
 vless://1f6531a1-a6eb-4274-9f51-4a0899456fcf@195.254.165.243:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zSjG6wndmLAzE8ykCBXpAm2eh0viWVSy3gt2juXF4EE&security=reality&sid=eaa8&sni=play.google.com#%F0%9F%87%A9%F0%9F%87%AADE%28AzadNet.t.me%29%20%2839%29%20clc-main
 vless://fcf4db22-3134-452f-a5d2-107f04afc89c@gr113.allenshop66248.ir:2053?encryption=none&fp=chrome&pbk=GS0dfvzX-bVKBDl2brVxsrE6T2WyXXkfgP3x-mQC7BY&security=reality&serviceName=api.v1.data&sid=524efc1f88592266&sni=play.google.com&type=grpc#%F0%9F%87%A9%F0%9F%87%AADE%28AzadNet.t.me%29%20%2843%29%20clc-main
 vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.46.178:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=P5ceHLOW8Gmz45z-ozbm9T6xsdSsIGLB71-jMfSjCBQ&security=reality&sid=04bc695105689674&sni=4.oncloudnineservicestreang.com#%F0%9F%87%A9%F0%9F%87%B0DK%28AzadNet.t.me%29%20clc-main
-vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.27.99:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=EuExqpNB141gtIjbCmU0yyurbBqiLtGjDg-n95JIuig&security=reality&sid=28415a7918168947&sni=1.oncloudnineservicestreang.com#%F0%9F%87%A9%F0%9F%87%B0DK%28AzadNet.t.me%29%20%282%29%20clc-main
 vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.45.129:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=dp-ncBuRHgZl5O80eHBYhSKo1i9qbt-J7MJ1alyWXmM&security=reality&sid=1991780b928b292d&sni=3.oncloudnineservicestreang.com#%F0%9F%87%A9%F0%9F%87%B0DK%28AzadNet.t.me%29%20%284%29%20clc-main
+vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.44.159:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=RurLbpOTStqCjS3lhwB0d3MEZ3629j3atv_r1dT5zjM&security=reality&sid=273940fba6ad8250&sni=5.oncloudnineservicestreang.com#%F0%9F%87%A9%F0%9F%87%B0DK%28AzadNet.t.me%29%20%285%29%20clc-main
 trojan://bpb-trojan@45.80.110.224:443?security=tls&sni=bpb.my79801.com#%F0%9F%87%AA%F0%9F%87%AAEE%28AzadNet.t.me%29%20clc-main
 vless://ef9d2063-0140-472b-8b17-ba02ba4b4435@45.80.108.236:443?encryption=none&fp=chrome&host=lively-resonance-4e12.electrocellco-cf-059.workers.dev&path=%2Fproxyip%3D167.71.48.187&security=tls&sni=lively-resonance-4e12.electrocellco-cf-059.workers.dev&type=ws#%F0%9F%87%AA%F0%9F%87%AAEE%28AzadNet.t.me%29%20%281%29%20clc-main
 trojan://8r%3C%5B9%27l6hAO%238ZQi@141.105.143.132:2053?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%AA%F0%9F%87%AAEE%28AzadNet.t.me%29%20%282%29%20clc-main
@@ -149,7 +148,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@194.187.249.21
 vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@57.131.32.191:80?encryption=none&path=%2Fvless%2F&type=ws#%F0%9F%87%AB%F0%9F%87%B7FR%28AzadNet.t.me%29%20%2831%29%20clc-main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@194.187.249.220:1080#%F0%9F%87%AB%F0%9F%87%B7FR%28AzadNet.t.me%29%20%2832%29%20clc-main
 vless://8bba3194-4856-46d1-8319-075817d87eb1@fr1.cyphervpn.pro:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=USffNprEM08MHiuVy5bj6-kvxugxycuZcgQDFJyz2Wc&security=reality&sid=8f9d033ad6d2cebf&sni=fr1.cyphervpn.pro#%F0%9F%87%AB%F0%9F%87%B7FR%28AzadNet.t.me%29%20%2833%29%20clc-main
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@217.138.207.106:1080#%F0%9F%87%AB%F0%9F%87%B7FR%28AzadNet.t.me%29%20%2839%29%20clc-main
 vless://12cb0a24-0438-4980-8617-9c93205895fa@185.193.30.94:443?encryption=none&fp=chrome&host=kakoolnews.whattodowhatnottodo.workers.dev&path=%2F&security=tls&sni=kakoolnews.whattodowhatnottodo.workers.dev&type=ws#%F0%9F%87%AC%F0%9F%87%A7GB%28AzadNet.t.me%29%20clc-main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.3:8080#%F0%9F%87%AC%F0%9F%87%A7GB%28AzadNet.t.me%29%20%283%29%20clc-main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.211:8080#%F0%9F%87%AC%F0%9F%87%A7GB%28AzadNet.t.me%29%20%284%29%20clc-main
@@ -168,14 +166,11 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.203:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#%F0%9F%87%AC%F0%9F%87%A7GB%28AzadNet.t.me%29%20%2820%29%20clc-main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080#%F0%9F%87%AC%F0%9F%87%A7GB%28AzadNet.t.me%29%20%2821%29%20clc-main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080#%F0%9F%87%AC%F0%9F%87%A7GB%28AzadNet.t.me%29%20%2822%29%20clc-main
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8080#%F0%9F%87%AC%F0%9F%87%A7GB%28AzadNet.t.me%29%20%2823%29%20clc-main
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#%F0%9F%87%AC%F0%9F%87%A7GB%28AzadNet.t.me%29%20%2824%29%20clc-main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.195:8080#%F0%9F%87%AC%F0%9F%87%A7GB%28AzadNet.t.me%29%20%2825%29%20clc-main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.212:8080#%F0%9F%87%AC%F0%9F%87%A7GB%28AzadNet.t.me%29%20%2826%29%20clc-main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.194:8080#%F0%9F%87%AC%F0%9F%87%A7GB%28AzadNet.t.me%29%20%2828%29%20clc-main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8080#%F0%9F%87%AC%F0%9F%87%A7GB%28AzadNet.t.me%29%20%2829%29%20clc-main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.219:8080#%F0%9F%87%AC%F0%9F%87%A7GB%28AzadNet.t.me%29%20%2830%29%20clc-main
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.192:8080#%F0%9F%87%AC%F0%9F%87%A7GB%28AzadNet.t.me%29%20%2833%29%20clc-main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.207:8080#%F0%9F%87%AC%F0%9F%87%A7GB%28AzadNet.t.me%29%20%2834%29%20clc-main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080#%F0%9F%87%AC%F0%9F%87%A7GB%28AzadNet.t.me%29%20%2835%29%20clc-main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.186:8080#%F0%9F%87%AC%F0%9F%87%A7GB%28AzadNet.t.me%29%20%2836%29%20clc-main
@@ -195,7 +190,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:44
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.13:8080#%F0%9F%87%AC%F0%9F%87%A7GB%28AzadNet.t.me%29%20%2855%29%20clc-main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.17:8080#%F0%9F%87%AC%F0%9F%87%A7GB%28AzadNet.t.me%29%20%2856%29%20clc-main
 vless://16ad976d-b5df-4b4e-87b6-87cc64ac0a8b@31.77.201.85:443?encryption=none&flow=xtls-rprx-vision&pbk=yLDI5Qjzn4AHlXVDEXNVcLKAdr_dFeJ3p4eAScGkQjA&security=reality&sid=0b0aa9caed9d011e&sni=ag-03.rita-cloud.com#%F0%9F%87%AC%F0%9F%87%A7GB%28AzadNet.t.me%29%20%2857%29%20clc-main
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#%F0%9F%87%AC%F0%9F%87%A7GB%28AzadNet.t.me%29%20%2858%29%20clc-main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.181:8080#%F0%9F%87%AC%F0%9F%87%A7GB%28AzadNet.t.me%29%20%2859%29%20clc-main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.193:8080#%F0%9F%87%AC%F0%9F%87%A7GB%28AzadNet.t.me%29%20%2861%29%20clc-main
 trojan://3763495894587285504@51.24.15.245:443?allowInsecure=1&security=tls&sni=settling-terrier.goat627.mom#%F0%9F%87%AC%F0%9F%87%A7GB%28AzadNet.t.me%29%20%2862%29%20clc-main
@@ -345,7 +339,6 @@ ss://bm9uZTpSU3pFSWtrMkVzSEVBVmoxNU41RS9BPT0@dkstatics-public.digikala.com:443#%
 trojan://dTaXAtuoQF@185.143.235.200:443?security=tls&sni=nginx-4561f180e2-anssdsfsdf.apps.ir-northwest1.arvancaas.ir#%F0%9F%87%AE%F0%9F%87%B7IR%28AzadNet.t.me%29%20%288%29%20clc-main
 trojan://biS(YrwB,3L$@185.143.235.5:443?security=tls&sni=mydigipay.com#%F0%9F%87%AE%F0%9F%87%B7IR%28AzadNet.t.me%29%20%289%29%20clc-main
 trojan://$Iu_sL4k*u,9@185.143.235.201:2096?security=tls&sni=anten.ir#%F0%9F%87%AE%F0%9F%87%B7IR%28AzadNet.t.me%29%20%2810%29%20clc-main
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?encryption=none#%F0%9F%87%AE%F0%9F%87%B9IT%28AzadNet.t.me%29%20clc-main
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@185.213.20.110:7001#%F0%9F%87%AE%F0%9F%87%B9IT%28AzadNet.t.me%29%20%281%29%20clc-main
 trojan://bpb-trojan@62.72.166.140:443?allowInsecure=1&security=tls&sni=bpb.my79801.com#%F0%9F%87%AF%F0%9F%87%B4JO%28AzadNet.t.me%29%20clc-main
 trojan://PI36027154@52.194.192.245:443?fp=chrome&security=tls&sni=exciting-grizzly.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP%28AzadNet.t.me%29%20clc-main
@@ -404,6 +397,7 @@ trojan://CF68213490@darling-mongrel.rooster465.autos:443?fp=chrome&security=tls&
 trojan://CF68213490@real-cardinal.rooster465.autos:443?fp=chrome&security=tls&sni=real-cardinal.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP%28AzadNet.t.me%29%20%2853%29%20clc-main
 trojan://CF68213490@concrete-aardvark.rooster465.autos:443?fp=chrome&security=tls&sni=concrete-aardvark.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP%28AzadNet.t.me%29%20%2854%29%20clc-main
 trojan://CF68213490@alert-fish.rooster465.autos:443?fp=chrome&security=tls&sni=alert-fish.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP%28AzadNet.t.me%29%20%2855%29%20clc-main
+vmess://eyJ2IjoiMiIsInBzIjoi8J-Hr_Cfh7VKUChBemFkTmV0LnQubWUpICg1NikiLCJhZGQiOiI0NS43Ni4yMDIuNDUiLCJwb3J0IjoiNDAxMCIsImlkIjoiMDcxYThhNzEtYzY1Ni00ZmI2LWE5MDgtNGU0MmViNzIyNDNkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlrc3V6Y3AifQ#%20clc-main
 trojan://CF68213490@43.207.117.135:443?security=tls&sni=eminent-panther.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP%28AzadNet.t.me%29%20%2857%29%20clc-main
 vmess://eyJ2IjoiMiIsInBzIjoi8J-Hr_Cfh7VKUChBemFkTmV0LnQubWUpICg1OCkiLCJhZGQiOiIxNjguMTM4LjQzLjc1IiwicG9ydCI6IjgwIiwiaWQiOiIxMWMzNjI3Zi0zMWU4LTQ2OTUtZGZiZC0zNDA3NmUyZjFmNWQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii9jY3R2MTMubTN1OCJ9#%20clc-main
 trojan://CF68213490@35.72.9.75:443?security=tls&sni=caring-wallaby.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP%28AzadNet.t.me%29%20%2859%29%20clc-main
@@ -536,7 +530,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.58.239:8388#%F0%9F%
 trojan://XG59623478@renewed-chigger.rooster465.autos:443?allowInsecure=1&security=tls#%F0%9F%87%B3%F0%9F%87%B1NL%28AzadNet.t.me%29%20%283%29%20clc-main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.126.122:8388#%F0%9F%87%B3%F0%9F%87%B1NL%28AzadNet.t.me%29%20%285%29%20clc-main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#%F0%9F%87%B3%F0%9F%87%B1NL%28AzadNet.t.me%29%20%286%29%20clc-main
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.151:8080#%F0%9F%87%B3%F0%9F%87%B1NL%28AzadNet.t.me%29%20%287%29%20clc-main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.204:8080#%F0%9F%87%B3%F0%9F%87%B1NL%28AzadNet.t.me%29%20%288%29%20clc-main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YVBVOWNDbmc3RkZuWXdQRjk4ckxJakRvM1pCemxxcw@bot.sobhanpor.ir:1080#%F0%9F%87%B3%F0%9F%87%B1NL%28AzadNet.t.me%29%20%289%29%20clc-main
 vless://af1e0692-6c91-4d61-bc6b-108f2e897c37@193.233.174.195:27331?encryption=none#%F0%9F%87%B3%F0%9F%87%B1NL%28AzadNet.t.me%29%20%2810%29%20clc-main
@@ -587,7 +580,6 @@ vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@45.130.125.207:443?encryption=none&
 vless://4880f729-cd7c-4158-8fe7-860ec4e01482@46.8.69.162:443?encryption=none&fp=chrome&pbk=0xPKGAAK5GSdktEfUgCdtMdeo9wuZFLvr-GVD35m2VU&security=reality&sid=17&sni=www.yahoo.com#%F0%9F%87%B3%F0%9F%87%B1NL%28AzadNet.t.me%29%20%2859%29%20clc-main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptZHA2NWc2bGZ3cGh6Mnc2@46.8.231.216:1010#%F0%9F%87%B3%F0%9F%87%B1NL%28AzadNet.t.me%29%20%2860%29%20clc-main
 vless://bbae962a-b6e9-46e6-990c-6abf13e6b075@no.cache-4d8a.com:443?encryption=none&flow=xtls-rprx-vision&pbk=7wLv5M4GZGhqMAGVj9zdHyW-RrSRdrYAu1Aaqa8N1nY&security=reality&sid=9d84de9d9f7b85e9&sni=no.cache-4d8a.com#%F0%9F%87%B3%F0%9F%87%B4NO%28AzadNet.t.me%29%20clc-main
-trojan://humanity@202.37.33.80:443?host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#%F0%9F%87%B3%F0%9F%87%BFNZ%28AzadNet.t.me%29%20clc-main
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@202.37.33.80:443?security=tls&sni=icecream.955850.xyz#%F0%9F%87%B3%F0%9F%87%BFNZ%28AzadNet.t.me%29%20%281%29%20clc-main
 trojan://8r%3C%5B9%27l6hAO%238ZQi@213.170.157.1:443?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B3%F0%9F%87%BFNZ%28AzadNet.t.me%29%20%282%29%20clc-main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyX05SZS0rV1JxMnpWcU1wQ25KdFRFU2xUOFd5ZmZIeUZ5@38.54.80.160:16292#%F0%9F%87%B5%F0%9F%87%ADPH%28AzadNet.t.me%29%20clc-main
@@ -700,7 +692,6 @@ ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.113.194:8119#%F0%9F%87%B9%F0%9F
 vmess://eyJ2IjoiMiIsInBzIjoi8J-HufCfh7dUUihBemFkTmV0LnQubWUpICgxKSIsImFkZCI6Ijk0LjEzMS4xMDguMzYiLCJwb3J0IjoiNDQzIiwiaWQiOiI5ODU1ZjFmMC1hODAwLTQwZDQtOGIzOC1jN2QzZWI3OTMwMmQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii8ifQ#%20clc-main
 trojan://ac8ae2c29cd149eb85cae990572f0d59@195.162.69.238:9443?allowInsecure=1&alpn=http%2F1.1&fp=chrome&security=tls&sni=apple.com#%F0%9F%87%B9%F0%9F%87%B7TR%28AzadNet.t.me%29%20%282%29%20clc-main
 trojan://8r%3C%5B9%27l6hAO%238ZQi@141.98.115.65:8443?allowInsecure=1&security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B9%F0%9F%87%B7TR%28AzadNet.t.me%29%20%283%29%20clc-main
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg001287h3p.cybervena.com:50099#%F0%9F%87%B9%F0%9F%87%BCTW%28AzadNet.t.me%29%20%281%29%20clc-main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@36.224.162.159:50099#%F0%9F%87%B9%F0%9F%87%BCTW%28AzadNet.t.me%29%20%283%29%20clc-main
 trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@60.250.152.208:3462?security=tls&sni=45.32.28.232#%F0%9F%87%B9%F0%9F%87%BCTW%28AzadNet.t.me%29%20%284%29%20clc-main
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@60.250.152.209:8443?allowInsecure=1&fp=chrome&security=tls&sni=official.taipeicitygovernment.net.ua#%F0%9F%87%B9%F0%9F%87%BCTW%28AzadNet.t.me%29%20%285%29%20clc-main
@@ -724,12 +715,15 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@91.221.190.80:443?allowInsecure=1&security=tls
 vless://71cada65-d23e-418c-88e4-a06188d14689@de-one.quiet-rogue.site:443?encryption=none&flow=xtls-rprx-vision&pbk=quSgGKXdwtlVQYTJypimp3Er-PoMI4SP4EXPdOKLQwk&security=reality&sni=de-one.quiet-rogue.site#%F0%9F%87%BA%F0%9F%87%A6UA%28AzadNet.t.me%29%20%283%29%20clc-main
 vless://ecad47b0-249e-0014-adff-e3c8f02b1897@185.93.33.7:443?alpn=http%2F1.1&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&security=reality&sid=43dcff53849b81e6&sni=auto.quattro-tech.ru#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20clc-main
 vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@144.31.129.77:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=CxMPFpwhcR9Ocp-Xy_1J08mo-atdHKUf58WLOy_XlgM&security=reality&sid=5e3ab3ab228625&sni=coinjoin-video-stri.ru#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20%281%29%20clc-main
+vless://f6a2cd4a-b755-4b9f-b854-40101e28e217@144.31.113.56:58427?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=NCqZzVFlyDITdXB28eEHBgHVqlqpllm1BoJ4wImYHl4&security=reality&sid=6a58&sni=ymail.com#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20%282%29%20clc-main
+vless://e2cbcf20-e57d-44ab-bd8e-8834c83314b8@144.31.113.56:28663?encryption=none&fp=random&pbk=9KQZrX1kgUPGV-ChDKJLYQarHB1rMX-9fxe7-eG4P1U&security=reality&sid=91be886b71a6e4&sni=ymail.com&type=grpc#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20%283%29%20clc-main
 ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI@69.84.182.16:443#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20%288%29%20clc-main
 vless://bc6e7cf0-9526-4fea-b2e3-5bcf992c565e@blog.webex.com:443?encryption=none&fp=chrome&host=blog.webex.com.yxls.eu.cc&path=%2Fmy-kc&security=tls&sni=blog.webex.com.yxls.eu.cc&type=ws#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20%289%29%20clc-main
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@172.245.235.84:2375#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20%2810%29%20clc-main
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.168:443#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20%2815%29%20clc-main
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@64.186.248.160:443?encryption=none&host=t1s1.rittbo.kdns.fr&path=%2Ffp%3Dchrome&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20%2818%29%20clc-main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSU281MlNieFc0MHI@108.181.57.93:8388#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20%2819%29%20clc-main
+vmess://eyJ2IjoiMiIsInBzIjoi8J-HuvCfh7hVUyhBemFkTmV0LnQubWUpICgyMCkiLCJhZGQiOiIzOC45MS4xMDcuNDkiLCJwb3J0IjoiMTgwMDAiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIn0#%20clc-main
 vmess://eyJ2IjoiMiIsInBzIjoi8J-HuvCfh7hVUyhBemFkTmV0LnQubWUpICgyMSkiLCJhZGQiOiI2Ny4yMjAuODUuNDYiLCJwb3J0IjoiMTgwMDAiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImFpZCI6IjAiLCJzY3kiOiJhZXMtMTI4LWdjbSIsIm5ldCI6InRjcCJ9#%20clc-main
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@37.19.198.244:443#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20%2823%29%20clc-main
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@37.19.198.160:443#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20%2824%29%20clc-main
@@ -739,6 +733,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMWlLNVIxcXE4TUdHVXlOOVAyMGF1@147.90.234.133
 vmess://eyJ2IjoiMiIsInBzIjoi8J-HuvCfh7hVUyhBemFkTmV0LnQubWUpICgyOCkiLCJhZGQiOiIzOC4xMTAuMS4yNDYiLCJwb3J0IjoiMTgwMDAiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIn0#%20clc-main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYkVmR293WnRWMUJFRlhaT3RnQVhp@tinkered-pennies-puppies.freesocks.work:443#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20%2829%29%20clc-main
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@37.19.198.236:443#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20%2830%29%20clc-main
+vmess://eyJ2IjoiMiIsInBzIjoi8J-HuvCfh7hVUyhBemFkTmV0LnQubWUpICgzMikiLCJhZGQiOiIxMDcuMTcyLjc1LjE0MSIsInBvcnQiOiIxMDA4NiIsImlkIjoiZTAyYzY3YTgtZDc2OS00ZDczLTgzM2EtYWI2YWNkYjg2ZTZlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AifQ#%20clc-main
 trojan://KV63147582@together-insect.rooster465.autos:443?fp=chrome&security=tls&sni=together-insect.rooster465.autos#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20%2833%29%20clc-main
 vmess://eyJ2IjoiMiIsInBzIjoi8J-HuvCfh7hVUyhBemFkTmV0LnQubWUpICgzNCkiLCJhZGQiOiIxNjEuMzMuMTM5LjEzOCIsInBvcnQiOiI1ODkwNSIsImlkIjoiMTYxMGY4ZGMtMDY2MS00MDMyLWFjNmEtYTcyNTA2MDNmNjA4IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiIxNjEuMzMuMTM5LjEzOCIsInBhdGgiOiIvMTYxMGY4ZGMtMDY2MS00MDMyLWFjNmEtYTcyNTA2MDNmNjA4LXZtIn0#%20clc-main
 ss://YWVzLTI1Ni1nY206YTMzOEE5@56.10.43.137:8888#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20%2835%29%20clc-main
@@ -763,7 +758,6 @@ trojan://922b45c8-1ec8-4a65-9b32-137716a0e55f@69.84.182.108:8443?security=tls&sn
 trojan://922b45c8-1ec8-4a65-9b32-137716a0e55f@69.84.182.18:8443?security=tls&sni=cdn-node-oss-99.paofu.de#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20%2860%29%20clc-main
 trojan://tune7jerky7HAYRICK@72.14.185.43:443?allowInsecure=1&security=tls&sni=ap-northeast-1.openssl3.com#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20%2861%29%20clc-main
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.216:23576?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20%2862%29%20clc-main
-vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&security=reality&sni=aws.amazon.com#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20%2863%29%20clc-main
 trojan://2ee85121-31de-4581-a492-eb00f606e392@51.81.203.233:443?allowInsecure=1&fp=chrome&security=tls&sni=rs4.freeguard.org#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20%2864%29%20clc-main
 trojan://5c777277-17f2-4272-ae65-7bd00fa4fbaa@18.65.190.65:443?allowInsecure=1&fp=chrome&security=tls&sni=wel-jp.optage.moe#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20%2865%29%20clc-main
 trojan://47258c2d-6b4c-444c-9085-5131bf0aff64@103.224.182.208:443?allowInsecure=1&fp=chrome&security=tls&sni=18-140-66-207.nhost.00cdn.com#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20%2866%29%20clc-main
@@ -902,7 +896,6 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@165.232.54.102:8443?security=tls&sni=Koma-YT.P
 trojan://8r%3C%5B9%27l6hAO%238ZQi@159.112.235.253:443?allowInsecure=1&security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20%28200%29%20clc-main
 trojan://63872b0d-87dd-4474-b690-92773af2922e@157.254.38.210:20031?allowInsecure=1&security=tls&sni=hk.catxstar.com#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20%28201%29%20clc-main
 vless://e3c56988-5261-400f-b21b-6af5fa6efae1@130.49.185.196:443?encryption=none&flow=xtls-rprx-vision&pbk=4ndg8TcyXMWmnEvthjh9mIWJ9mc85jzy_G9D4D5xGxM&security=reality&sid=808a7e8a2e32c697&sni=site.rumedia-cdn.com#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20%28202%29%20clc-main
-vmess://eyJ2IjoiMiIsInBzIjoi8J-HuvCfh7hVUyhBemFkTmV0LnQubWUpICgyMDQpIiwiYWRkIjoiODQuMTcuNDEuMiIsInBvcnQiOiIxODAwMCIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AifQ#%20clc-main
 trojan://OD90375861@together-insect.rooster465.autos:443?fp=chrome&security=tls&sni=together-insect.rooster465.autos#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20%28207%29%20clc-main
 vless://526d2855-c7d1-ecf3-e4f8-5a75f77d5bb3@140.235.168.9:993?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=oE7ZEghzkaOUiw1q3PqBtpllP1NlPHLY8ydJRuICtko&security=reality&sni=speed.cloudflare.com#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20%28211%29%20clc-main
 vless://c280cb0f-a115-403d-8b80-0e979032eb5f@38.107.237.50:33146?encryption=none&fp=random&pbk=Y9QFFxxFgbnKAplJdZK9vgyGTqzeOI_f_A9NzluxU0g&security=reality&sid=a796eb22ff924c&sni=yahoo.com#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20%28212%29%20clc-main
@@ -947,6 +940,7 @@ vless://663cf772-829c-4bc6-893d-b7d021d42f5b@staticdelivery.nexusmods.com:443?en
 vless://4a1441b0-7bc8-4906-85cf-6b59c256b480@162.159.18.122:443?encryption=none&fp=chrome&host=edt2.yfqh08811.ccwu.cc&path=%2Ffp%3Dchrome&security=tls&sni=edt2.yfqh08811.ccwu.cc&type=ws#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%2819%29%20clc-main
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.40.49:443?encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%2820%29%20clc-main
 vless://b08562b0-dbc0-47d1-860d-9435133b25c9@cf10.466688.xyz:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=cfoo-146.pages.dev&path=%2FQiangLieTuiJian&security=tls&sni=cfoo-146.pages.dev&type=ws#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%2821%29%20clc-main
+vless://d6bbaa54-2fa9-46b9-8f6d-42ccdfc9122b@162.159.39.2:2096?encryption=none&fp=chrome&host=icy-cloud-71e3.misnaargh.workers.dev&path=%2F&security=tls&sni=icy-cloud-71e3.misnaargh.workers.dev&type=ws#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%2822%29%20clc-main
 ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg@store.ubi.com:443#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%2823%29%20clc-main
 vless://4feb7818-dc02-46cd-b985-abf3fdd0cdc5@cfd7.466688.xyz:443?encryption=none&fp=chrome&host=edge-4cb23bf6.pages.dev&path=%2F%40https%3A%2F%2Ft.me%2FQiangLieTuiJian&security=tls&sni=edge-4cb23bf6.pages.dev&type=ws#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%2824%29%20clc-main
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@mfa.gov.ua:443?encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%2825%29%20clc-main
@@ -956,9 +950,12 @@ vless://eeb6823c-b926-4ea2-866a-5542edd26e59@www.ntu.edu.sg:443?encryption=none&
 vless://4a1441b0-7bc8-4906-85cf-6b59c256b480@xn--b6gac.eu.org:443?encryption=none&fp=chrome&host=edt2.yfqh08811.ccwu.cc&path=%2F&security=tls&sni=edt2.yfqh08811.ccwu.cc&type=ws#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%2830%29%20clc-main
 vless://073d1d50-8478-47bf-a828-7a1b381931d5@108.162.192.75:443?encryption=none&fp=chrome&host=octopusss.net&path=%2Fodiyfws&security=tls&sni=octopusss.net&type=ws#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%2831%29%20clc-main
 trojan://humanity@188.114.96.3:443?fp=chrome&host=www.multiplydose.com&path=%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%2834%29%20clc-main
+trojan://humanity@172.67.180.92:443?fp=chrome&host=www.multiplydose.com&path=%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%2835%29%20clc-main
 vless://073d1d50-8478-47bf-a828-7a1b381931d5@104.17.148.22:443?encryption=none&fp=chrome&host=octopusss.net&path=%2Fodiyfws&security=tls&sni=octopusss.net&type=ws#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%2836%29%20clc-main
 vless://073d1d50-8478-47bf-a828-7a1b381931d5@104.17.147.22:443?encryption=none&fp=chrome&host=octopusss.net&path=%2Fodiyfws&security=tls&sni=octopusss.net&type=ws#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%2837%29%20clc-main
+vless://7074b9d7-2183-8919-fc11-ca5e00000000@104.21.200.243:2053?encryption=none&fp=chrome&host=netlivpn2584.vjvdgbc.workers.dev&path=%2FNetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN&security=tls&sni=netlivpn2584.vjvdgbc.workers.dev&type=ws#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%2838%29%20clc-main
 trojan://humanity@172.64.147.227:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%2840%29%20clc-main
+vless://75e19908-ecd0-4c71-99d2-4f343a52a4d9@www.baipiao.eu.org:8880?encryption=none&host=delicate-hall-3f93.239-23c.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&type=ws#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%2841%29%20clc-main
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@104.16.72.139:443?encryption=none&host=vangoghhh.info&path=%2Frdfgtws&security=tls&sni=vangoghhh.info&type=ws#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%2842%29%20clc-main
 trojan://humanity@188.114.98.0:443?host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%2843%29%20clc-main
 vmess://eyJ2IjoiMiIsInBzIjoi8J-HvfCfh71YWChBemFkTmV0LnQubWUpICg0NCkiLCJhZGQiOiJqcDAxLnNjcG5iLnRvcCIsInBvcnQiOiI0NDMiLCJpZCI6IjUzN2EwMzZmLWE0YWQtNDA1MS04MGM0LTAxMWE0NmM2MmJiMCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoianAwMS5zY3BuYi50b3AiLCJwYXRoIjoiLzUzN2EwMzZmLWE0YWQtNDA1MS04MGM0LTAxMWE0NmM2MmJiMC12bSIsInRscyI6InRscyIsInNuaSI6ImpwMDEuc2NwbmIudG9wIn0#%20clc-main
@@ -969,8 +966,8 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J-HvfCfh71YWChBemFkTmV0LnQubWUpICg0OSkiLCJhZGQiOiI4
 vmess://eyJ2IjoiMiIsInBzIjoi8J-HvfCfh71YWChBemFkTmV0LnQubWUpICg1MCkiLCJhZGQiOiI0Y2RuLm5qa3JwbC5jb20iLCJwb3J0IjoiNDQzIiwiaWQiOiJhMDQ0OWIzMy1kN2Y2LTQyYTUtOGJkYy0zYjVlNzI3ZWM5ZjgiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6IjRjZG4ubmprcnBsLmNvbSIsInBhdGgiOiIvIiwidGxzIjoidGxzIiwic25pIjoiNGNkbi5uamtycGwuY29tIn0#%20clc-main
 vmess://eyJ2IjoiMiIsInBzIjoi8J-HvfCfh71YWChBemFkTmV0LnQubWUpICg1MSkiLCJhZGQiOiIyY2RuLm5qa3JwbC5jb20iLCJwb3J0IjoiNDQzIiwiaWQiOiJhMDQ0OWIzMy1kN2Y2LTQyYTUtOGJkYy0zYjVlNzI3ZWM5ZjgiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidGxzIjoidGxzIiwic25pIjoiMmNkbi5uamtycGwuY29tIn0#%20clc-main
 vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@love.ns.cloudflare.com:443?encryption=none&fp=chrome&host=gioub.moonleafbox-kilo.info&path=%2Fsea&security=tls&sni=gioub.moonleafbox-kilo.info&type=ws#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%2852%29%20clc-main
+vless://e9d9f06f-d5dd-460a-998f-52efc4732636@download.yunzhongzhuan.com:8880?encryption=none&host=bitter-meadow-1d60.313-0f9.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&type=ws#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%2854%29%20clc-main
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.135:443?security=tls#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%2858%29%20clc-main
-trojan://humanity@104.18.12.149:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%2859%29%20clc-main
 vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@104.27.7.125:443?encryption=none&fp=chrome&host=amooaliii.net&path=%2Fjdhfyws&security=tls&sni=amooaliii.net&type=ws#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%2860%29%20clc-main
 vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@104.21.74.63:443?encryption=none&fp=chrome&host=amooaliii.net&path=%2Fjdhfyws&security=tls&sni=amooaliii.net&type=ws#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%2861%29%20clc-main
 vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@104.19.134.235:443?encryption=none&fp=chrome&host=amooaliii.net&path=%2Fjdhfyws&security=tls&sni=amooaliii.net&type=ws#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%2862%29%20clc-main
@@ -998,7 +995,6 @@ trojan://blue2024@104.16.211.107:443?allowInsecure=1&security=tls&sni=hb.lii2010
 trojan://bpb-trojan@104.18.146.214:443?security=tls&sni=bpb.my79801.com#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%2885%29%20clc-main
 trojan://bpb-trojan@162.159.153.229:443?security=tls&sni=cf.090227.xyz#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%2886%29%20clc-main
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.152.241:443?encryption=none&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%2888%29%20clc-main
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.138:443?security=tls#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%2889%29%20clc-main
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.40.152:443?encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%2890%29%20clc-main
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.67.70.92:443?encryption=none&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%2891%29%20clc-main
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@173.245.58.75:443?encryption=none&host=vangoghhh.info&path=%2Frdfgtws&security=tls&sni=vangoghhh.info&type=ws#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%2892%29%20clc-main
@@ -1352,6 +1348,7 @@ vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.26.14.137:443?encryption=none&f
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.149:443?security=tls#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28446%29%20clc-main
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.140:443?security=tls#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28447%29%20clc-main
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.151:443?security=tls#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28448%29%20clc-main
+trojan://humanity@104.16.72.2:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28451%29%20clc-main
 trojan://humanity@104.16.72.41:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28453%29%20clc-main
 trojan://humanity@www.ignitelimit.com:443?path=%2Fassignment&security=tls&type=ws#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28454%29%20clc-main
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.38.119:8443?encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2560&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28455%29%20clc-main
