@@ -4,5 +4,5 @@
 #announce: Amirchelios
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
-vless://a9f07ec1-bd8a-4c95-a281-3de7f0b76853@185.247.16.4:4100?encryption=none&host=live.ok.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-32284%20clc-main
-vless://155e8dd4-a559-407a-9ea8-13a5e829f066@185.247.16.3:2200?encryption=none&host=rzd.ru&path=%2Fv1&type=ws#4Jadi-6d8ac22d0c%20clc-main
+vless://155e8dd4-a559-407a-9ea8-13a5e829f066@tn.tmn141246.ru:4100?encryption=none&host=live.ok.ru&path=%2Fv1&type=ws#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20%28241%29%20clc-main
+vless://099c6e3f-e8d3-41d4-95f2-ef2eafb51cdc@194.26.229.219:4100?encryption=none&host=live.ok.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-32251%20clc-main
