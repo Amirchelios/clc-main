@@ -1,17 +1,26 @@
-#profile-title: 1-1/25 @Amirchelios
+#profile-title: 1-1/26 @Amirchelios
 #profile-update-interval: 48
 #support-url: https://github.com/Amirchelios/clc-main
 #announce: Amirchelios
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
-vless://711c018e-2692-4aa8-93f3-544d83fcd16c@jdwadgw.cvewfjg.shop:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&packetEncoding=xudp&pbk=HyVSZ2OyySwXT-xRhTAqoiuYflIaj_b0Jxm7S1Iq9hs&security=reality&sid=7a76f3c4b9dd&sni=www.cloudflare.com#%E7%BE%8E%E5%9B%BD+V2CROSS.COM%20clc-main
-hysteria2://71cada65-d23e-418c-88e4-a06188d14689@de-two.quiet-rogue.site:443?security=tls&sni=de-two.quiet-rogue.site#%E7%BE%8E%E5%9B%BD+V2CROSS.COM%20clc-main
-hysteria2://9d3356a0-c07e-43cc-b30e-450bd50521b8@db1.mangshe.xyz:2056?insecure=1&security=tls&sni=db1.mangshe.xyz#%E8%8B%B1%E5%9B%BD+V2CROSS.COM%20clc-main
-vless://d0298536-d670-4045-bbb1-ddd5ea68683e@time.is:443?alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&fp=chrome&host=azadnet-826.pages.Dev&packetEncoding=xudp&path=%2F&security=tls&sni=azadnet-826.pages.Dev&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9%20clc-main
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.197.75.40:8880?encryption=none&host=vms.lifetime37.workers.dev&packetEncoding=xudp&path=%2F%3Fed%3D2560&type=ws#%E5%8D%97%E9%9D%9E+V2CROSS.COM%20clc-main
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.12.30.30:8880?encryption=none&host=vms.lifetime28.workers.dev&packetEncoding=xudp&path=%2F&type=ws#%E6%AC%A7%E7%9B%9F+V2CROSS.COM%20clc-main
-trojan://S.ibYdZshHTF-ne.M+.Fznp_-hyFFnCSix@149.104.104.58:443?security=tls#%E7%BE%8E%E5%9B%BD+V2CROSS.COM%20clc-main
-vless://f04c31f7-cfab-4824-d167-4137d836ea82@i3.cloud--vpn.site:443?allowinsecure=0&alpn=h2&encryption=none&fp=chrome&host=c12.com&path=%2F&security=tls&sni=ssl.fastly.com&type=ws#%E7%BE%8E%E5%9B%BD+%E4%B9%94%E6%B2%BB%E4%BA%9A%E6%B4%B2%E4%BA%9A%E7%89%B9%E5%85%B0%E5%A4%A7Fastly%E8%8A%82%E7%82%B9%20clc-main
-trojan://humanity@104.19.64.105:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9%20clc-main
-vless://424fa201-3f94-479e-b533-d5257cf9a207@89.117.112.4:80?encryption=none&host=floral-thunder-10d3.82-67d.workers.dev&packetEncoding=xudp&path=%2Fpyip%3DTelegram%F0%9F%87%A8%F0%9F%87%B3+%40VPNine1&type=ws#%E7%AB%8B%E9%99%B6%E5%AE%9B+V2CROSS.COM%20clc-main
-vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@45.192.200.66:8443?allowInsecure=0&encryption=none&fp=chrome&host=rubifen.adaspoloandco.com&insecure=0&path=%2FGOrbEh&security=tls&sni=rubifen.adaspoloandco.com&type=ws#%E5%8D%97%E9%9D%9E+V2CROSS.COM%20clc-main
+vless://1043634e-8d9d-4736-83fa-f14ddc9d464c@188.114.97.6:443?allowInsecure=0&encryption=none&host=dfsuporte.garena.com.ex33r.eu.cc&insecure=0&path=%2Fid-amz&security=tls&sni=dfsuporte.garena.com.ex33r.eu.cc&type=ws#%E5%B7%B4%E8%A5%BF%E5%9C%A3%E4%BF%9D%E7%BD%97+CloudFlare%E8%8A%82%E7%82%B9%20clc-main
+trojan://humanity@104.19.229.21:443?allowInsecure=0&host=www.ignitelimit.com&insecure=0&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9%20clc-main
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.149.50:8880?encryption=none&host=vms.lifetime39.workers.dev&path=%2F&type=ws#%E7%BE%8E%E5%9B%BD+V2CROSS.COM%20clc-main
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@198.71.232.30:8880?encryption=none&host=vms.lifetime07.workers.dev&packetEncoding=xudp&path=%2F&type=ws#%E7%BE%8E%E5%9B%BD+%E4%BA%9A%E5%88%A9%E6%A1%91%E9%82%A3%E5%B7%9E%E6%96%AF%E7%A7%91%E8%8C%A8%E4%BB%A3%E5%B0%94%E5%B8%82Go+Daddy%E9%9B%86%E5%9B%A2%E5%85%AC%E5%8F%B8%20clc-main
+trojan://humanity@ip.myip2.qzz.io:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9%20clc-main
+vless://59eefc04-b831-45cf-8d68-63ca23381171@kzbkjum.cvewfjg.shop:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&packetEncoding=xudp&pbk=4-qE0E0B5ShfnAe0KFM0qRkXJ33rRF39AlHK7MpBzAE&security=reality&sid=4c5a76834671&sni=www.cloudflare.com#%E5%BE%B7%E5%9B%BD+V2CROSS.COM%20clc-main
+trojan://humanity@104.16.174.44:443?Telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&allowInsecure=0&host=www.ignitelimit.com&insecure=0&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9%20clc-main
+vless://72c2b7cc-fcd9-494f-8a2e-21dcd062ff11@45.40.150.4:80?encryption=none&host=holy-breeze-0bac.47-dec.workers.dev&path=%2Fpyip%3DTelegram%F0%9F%87%A8%F0%9F%87%B3&type=ws#%E7%BE%8E%E5%9B%BD+V2CROSS.COM%20clc-main
+trojan://humanity@104.18.152.246:443?allowInsecure=0&host=www.ignitelimit.com&insecure=0&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9%20clc-main
+trojan://humanity@104.18.152.144:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9%20clc-main
+trojan://humanity@104.18.152.97:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9%20clc-main
+trojan://humanity@198.41.223.96:443?alpn=http%2F1.1%2Ch2%2Ch3&fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9%20clc-main
+hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@185.225.19.39:443?security=tls&sni=ro.h2corp.org#%E6%91%A9%E5%B0%94%E5%A4%9A%E7%93%A6+V2CROSS.COM%20clc-main
+trojan://humanity@104.17.111.8:443?allowInsecure=0&fp=chrome&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9%20clc-main
+trojan://humanity@104.18.152.208:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9%20clc-main
+trojan://humanity@104.18.152.133:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9%20clc-main
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@josni.hoyes.cloudns.ch:2053?encryption=none&host=josni.hoyes.cloudns.ch&path=%2F&security=tls&sni=josni.hoyes.cloudns.ch&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9%20clc-main
+vless://63ae5b68-f6f8-432e-b440-d975053cfbc2@www.true.th:80?encryption=none&host=d16l6nb4do0zu4.cloudfront.net&path=%2Fthan&type=ws#%E7%BE%8E%E5%9B%BD+V2CROSS.COM%20clc-main
+vless://711c018e-2692-4aa8-93f3-544d83fcd16c@jdwabxe.cvewfjg.shop:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&packetEncoding=xudp&pbk=HyVSZ2OyySwXT-xRhTAqoiuYflIaj_b0Jxm7S1Iq9hs&security=reality&sid=7a76f3c4b9dd&sni=www.cloudflare.com#%E7%BE%8E%E5%9B%BD+V2CROSS.COM%20clc-main
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.197.75.50:8880?encryption=none&host=vms.lifetime37.workers.dev&packetEncoding=xudp&path=%2F%3Fed%3D2560&type=ws#%E5%8D%97%E9%9D%9E+V2CROSS.COM%20clc-main

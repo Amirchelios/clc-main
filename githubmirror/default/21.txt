@@ -1,4 +1,4 @@
-#profile-title: 21-21/25 @Amirchelios
+#profile-title: 21-21/26 @Amirchelios
 #profile-update-interval: 48
 #support-url: https://github.com/Amirchelios/clc-main
 #announce: Amirchelios
@@ -12,6 +12,7 @@ hysteria2://57ad54a0-59ca-4553-bdad-35aab6bd3aa5@104.36.86.93:9992?insecure=1#�
 hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@77.74.123.133:8443?sni=grape-zet-turbo-nl.yyuyy.com#🇳🇱NL Dìa—16%20clc-main
 hysteria2://68b4b16e-2759-47a4-8a69-33118edf5ce6@150.241.124.145:443?sni=ger.leontunel.ru#🇩🇪DE Dìa—17%20clc-main
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@107.181.155.125:443?sni=taga9.api3-max.ru#🇹🇷TR Dìa—18%20clc-main
+hysteria2://Uq5DgLZRU6hpn7ydRcePOeOk4i1c2tJIEk3rMZMUobo@144.31.107.101:25447?sni=devideo.h2corp.org#🇷🇺RU Dìa—20%20clc-main
 hysteria2://9dada88d-f8f8-459d-8a4f-4df2c973fe43@216.57.111.222:8443?sni=h2.ecliptic-it.ru#🇳🇱NL Dìa—31%20clc-main
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wwopa2.api3-max.ru:443?sni=wwopa2.api3-max.ru#🇷🇺RU Dìa—34%20clc-main
 hysteria2://0puq3lmwv7qtp76t@assets.gateway-stream.com:52034?insecure=1&sni=assets.gateway-stream.com#🇫🇮FI Dìa—35%20clc-main
@@ -25,7 +26,9 @@ hysteria2://p0IbtS8wCZ@91.107.174.32:25810?insecure=1&sni=www.amd.com#🇩🇪DE
 hysteria2://Apt1923_N9x234gn_Nal5Nx3j_s@92.118.205.238:8443?insecure=1&sni=grape-power-pl.ddnsguru.com#🇵🇱PL Dìa—47%20clc-main
 hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@178.215.238.30:443?sni=germany1.noesissite.ru#🇩🇪DE Dìa—48%20clc-main
 hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@150.241.102.127:443?sni=usp.noesissite.ru#🇺🇸US Dìa—49%20clc-main
+hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga3.api3-max.ru:443?sni=taga3.api3-max.ru#🇷🇺RU Dìa—50%20clc-main
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga5.api3-max.ru:443?sni=taga5.api3-max.ru#🇷🇺RU Dìa—51%20clc-main
+hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa5.api3-max.ru:443?sni=wopa5.api3-max.ru#🇷🇺RU Dìa—52%20clc-main
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa6.api3-max.ru:443?sni=wopa6.api3-max.ru#🇷🇺RU Dìa—53%20clc-main
 hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@germany1.noesissite.ru:443?sni=germany1.noesissite.ru#🇷🇺RU Dìa—55%20clc-main
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@76.164.202.214:8443?sni=mercedes-grape.yyuyy.com#🇩🇪DE Dìa—56%20clc-main
@@ -45,6 +48,7 @@ ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@3.91.76.154:443#🇺🇸US Dìa—97%20clc-
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@16.171.242.243:443#🇸🇪SE Dìa—98%20clc-main
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.61.5.244:443#🇸🇪SE Dìa—99%20clc-main
 ss://YWVzLTI1Ni1nY206ZDk5YzQyMjE5OWU2MmI2Yg@176.32.34.152:10910#🇷🇺RU Dìa—118%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6ejBkSGpEZm9hU2FadVJGTEdILWhOZkJBTFNFSlVZRA@194.164.92.198:1234#🇬🇧GB Dìa—135%20clc-main
 ss://YWVzLTI1Ni1nY206WkdNNVpXWXlNakF6TlRka1pHWTFOV1JtTVRaaFltVTFZalEyWWpCag@37.32.27.224:9147#🇮🇷IR Dìa—143%20clc-main
 ss://2022-blake3-chacha20-poly1305:iFxltqscJVLJdHunZXPCmb4ToHN7LhkoeYwpQcU%2FPbo=@193.151.128.97:443#🇮🇷IR Dìa—144%20clc-main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoN2JXY0N0VFZYdVptZ2RLTGRLSjJ4ZmRVUldDNHc5Tg@coco1.farajet.net:1010#🇮🇷IR Dìa—145%20clc-main
@@ -79,6 +83,7 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@149.202.82.172:3306#🇫🇷FR Dìa—1
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@141.94.143.221:443#🇫🇷FR Dìa—197%20clc-main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@bl1.levikogjgfdd.ir:1080#🇮🇷IR Dìa—200%20clc-main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtdGVsZWdyYW0taWJhaGFk@193.124.46.134:8444#🇹🇷TR Dìa—202%20clc-main
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.24.73:443#🇬🇧GB Dìa—207%20clc-main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@2.59.163.104:2222#🇵🇱PL Dìa—209%20clc-main
 ss://YWVzLTI1Ni1nY206TXpSbFl6QTBaR1kwTmpjMlpqUTJZVFJpTVRnMllUa3pOak00T0dJMQ@kyiv02.npvnot.com:443#🇺🇦UA Dìa—210%20clc-main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOUZVbkdKSDdiOGU1akZiRmNsZlgy@185.39.204.161:33563#🇹🇷TR Dìa—211%20clc-main
@@ -101,6 +106,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZU3ROQ0tSaU9pcTQ@213.167.242.23:443#🇱🇺
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWxfZWU@ee-1.stunnel.cc:8444#🇪🇪EE Dìa—229%20clc-main
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@146.59.110.240:443#🇵🇱PL Dìa—230%20clc-main
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@162.19.19.210:443#🇫🇷FR Dìa—231%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphQmxxZGZEdjFhVGIya2xy@4.210.66.171:443#🇮🇪IE Dìa—234%20clc-main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowUnNyY0ZKMXZPc1dFcWczUDU1aHZhYWNLZnVTaFQwY2MxaDB0OEFEME5BOHUxdVI@92.38.171.215:31348#🇪🇸ES Dìa—235%20clc-main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@91.218.49.99:1080#🇺🇦UA Dìa—236%20clc-main
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@162.19.171.97:443#🇩🇪DE Dìa—237%20clc-main
@@ -122,6 +128,7 @@ ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@162.19.59.160:443#🇫🇷FR Dìa—263
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@18.168.102.174:443#🇬🇧GB Dìa—268%20clc-main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990#🇪🇸ES Dìa—269%20clc-main
 ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU@45.43.88.13:2053#🇩🇪DE Dìa—270%20clc-main
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@193.108.117.75:443#🇩🇪DE Dìa—271%20clc-main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@154.70.207.97:990#🇲🇦MA Dìa—272%20clc-main
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@162.19.59.161:443#🇫🇷FR Dìa—273%20clc-main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@185.106.94.132:1080#🇫🇮FI Dìa—274%20clc-main
@@ -146,9 +153,7 @@ ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@134.195.198.211:443#🇨🇦CA Dìa—
 ss://YWVzLTI1Ni1nY206ODFhMjA0MjkxNjVkZjg3ZQ@195.133.23.200:10190#🇷🇺RU Dìa—300%20clc-main
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@167.88.63.59:443#🇺🇸US Dìa—302%20clc-main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNbVU0Tg@45.10.164.157:8388#🇺🇸US Dìa—303%20clc-main
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@167.88.63.44:443#🇺🇸US Dìa—304%20clc-main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@38.113.188.118:1080#🇨🇦CA Dìa—305%20clc-main
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@167.88.62.68:443#🇺🇸US Dìa—307%20clc-main
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@142.202.48.52:8080#🇺🇸US Dìa—308%20clc-main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNanUzWlNhYTRRVms0NW1j@74.50.98.185:8080#🇺🇸US Dìa—309%20clc-main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@68.168.116.6:1080#🇨🇦CA Dìa—310%20clc-main
@@ -156,8 +161,8 @@ ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@167.88.62.68:8080#🇺🇸US Dìa—
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@134.195.101.117:2377/?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3D%28Telegram%F0%9F%87%A8%F0%9F%87%B3+%40VPNine1%29fa03bb5%3A137563#🇺🇸US Dìa—312%20clc-main
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@107.151.182.253:8080#🇺🇸US Dìa—313%20clc-main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@134.195.101.118:2377/?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3D%28Telegram%F0%9F%87%A8%F0%9F%87%B3+%40VPNine1%299f6b1e7%3A141612#🇺🇸US Dìa—314%20clc-main
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.68.135.123:443#🇺🇸US Dìa—317%20clc-main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@72.10.173.91:1080#🇨🇦CA Dìa—318%20clc-main
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@154.223.16.96:6697#🇨🇴CO Dìa—320%20clc-main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@104.192.226.106:990#🇺🇸US Dìa—321%20clc-main
 ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8766#🇺🇸US Dìa—322%20clc-main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWwtdXM@us-4.stunnel.cc:8444#🇺🇸US Dìa—323%20clc-main
@@ -167,6 +172,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@38.132.118.30:
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@134.195.196.51:3389#🇨🇦CA Dìa—331%20clc-main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@147.78.0.182:990#🇦🇪AE Dìa—333%20clc-main
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@23.251.121.242:8080#🇺🇸US Dìa—336%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0SHViMmY5SnloRUN5QXEyT3BtME5T@51.79.161.232:443#🇸🇬SG Dìa—340%20clc-main
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@107.155.57.51:8080#🇺🇸US Dìa—342%20clc-main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJVnV4VW1XSHRXa3V6bjZqN3BxRUt3@174.138.17.254:52252#🇸🇬SG Dìa—343%20clc-main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@ca1.levikogjgfdd.ir:1080#🇮🇷IR Dìa—344%20clc-main
@@ -245,6 +251,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@95.173.193.201
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwNzhuYUNmMkVmT2xSU0xUWDB3RlZ4@71.19.148.143:443#🇺🇸US Dìa—471%20clc-main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@212.83.51.81:1080#🇩🇪DE Dìa—474%20clc-main
 ss://2022-blake3-aes-256-gcm:fnvo82p9y4AKykZXyIFtnodFy6fQmWnVlI2SvGleOB0=@167.150.100.115:27755#🇸🇬SG Dìa—475%20clc-main
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.181:443#🇬🇧GB Dìa—476%20clc-main
 ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg@cf.877774.xyz:443#🇺🇸US Dìa—480%20clc-main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@195.154.29.29:1080#🇫🇷FR Dìa—486%20clc-main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@146.70.203.254:1080#🇭🇺HU Dìa—489%20clc-main
