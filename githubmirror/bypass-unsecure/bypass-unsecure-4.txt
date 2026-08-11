@@ -4,90 +4,48 @@
 #announce: Amirchelios
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.6.30:8880?encryption=none&host=vms.lifetime61.workers.dev&path=%2F&type=ws#%E8%8D%B7%E5%85%B0_081009933%20clc-main
-vless://fb5058f5-a9ed-424e-9ed7-33d455438286@104.27.82.154:8880?encryption=none&host=old-violet-a5ce.29-440.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&type=ws#CF%E4%B8%AD%E8%BD%AC_08100914865%20clc-main
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.7.30:8880?encryption=none&host=vms.lifetime02.workers.dev&type=ws#%E8%8D%B7%E5%85%B0_081009192%20clc-main
-vless://e51453d3-7972-44d7-a657-ed89520f48b6@188.114.97.6:80?encryption=none&host=web.whatsapp.com.r3xxe.eu.cc&path=%2Fau-do&type=ws#CF%E4%B8%AD%E8%BD%AC_0810094863%20clc-main
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.158.133.40:8880?encryption=none&host=vms.lifetime58.workers.dev&path=%2F%3Fed%3D2560&type=ws#%E9%98%BF%E8%81%94%E9%85%8B_081009021%20clc-main
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.83.2.50:8880?encryption=none&host=vms.lifetime28.workers.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2Fyoutube%40ZYFXS%F0%9F%87%A8%F0%9F%87%B3&type=ws#%E8%8F%B2%E5%BE%8B%E5%AE%BE_081009012%20clc-main
-vless://5659b42c-636f-4563-ac41-87d565d0dd1e@cf7.466688.xyz:8880?encryption=none&host=autumn-base-0eb9.116-d25.workers.dev&path=%2Fpyip%3DProxyIP.JP.autumniussss.net&type=ws#%E6%9C%AA%E7%9F%A5_0810093007%20clc-main
-vless://e89f9d3c-d924-4684-ad0e-a1e9d8c780e7@188.114.97.6:80?encryption=none&host=unnes.ac.id.r3xxe.eu.cc&path=%2Fsg-amz&type=ws#CF%E4%B8%AD%E8%BD%AC_08100913955%20clc-main
-vless://abc2f94e-af29-4f59-a0a0-6e3299d51f64@104.21.19.226:8880?encryption=none&host=cold-bush-a762.lidrezvpn.workers.dev&path=%2FeyJqdW5rIjoiQXZDMHBUakpZIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OjExOjY0OjpdIl19%3Fed%3D2560&type=ws#CF%E4%B8%AD%E8%BD%AC_08100916758%20clc-main
-vless://35a11533-6fce-4459-b06c-77d0442c2021@188.114.97.6:80?encryption=none&host=s.blibli.com.r3xxe.eu.cc&path=%2Fnl-tw&type=ws#CF%E4%B8%AD%E8%BD%AC_08100915827%20clc-main
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.162.230.30:8880?encryption=none&host=vms.lifetime02.workers.dev&path=%2F%3Fed%3D2560&type=ws#%E4%BA%9A%E7%BE%8E%E5%B0%BC%E4%BA%9A_081009012%20clc-main
-vless://abc2f94e-af29-4f59-a0a0-6e3299d51f64@cold-bush-a762.lidrezvpn.workers.dev:8880?encryption=none&host=cold-bush-a762.lidrezvpn.workers.dev&path=%2FeyJqdW5rIjoiQXZDMHBUakpZIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OjExOjY0OjpdIl19%3Fed%3D2560&type=ws#%E6%9C%AA%E7%9F%A5_0810093665%20clc-main
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.130.125.50:8880?encryption=none&host=vms.lifetime58.workers.dev&path=%2F%3Fed%3D2560&type=ws#%E5%A1%9E%E8%88%8C%E5%B0%94_081009092%20clc-main
-vless://df301b32-1152-4526-9a63-beedd93d3156@104.16.38.185:80?encryption=none&host=vl.dalazhi.cloudns.biz&path=%2F%3Fed%3D2048&type=ws#CF%E4%B8%AD%E8%BD%AC_08100914569%20clc-main
-vless://9be3bb59-c281-4fee-ae3d-7cf6c4b47eb4@cf2.466688.xyz:8880?encryption=none&host=late-mountain-6801.355.workers.dev&packetEncoding=xudp&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net%40https%3A%2F%2Ft.me%2FQiangLieTuiJian&type=ws#%E6%9C%AA%E7%9F%A5_0810094068%20clc-main
-vless://6b504c50-8535-44cf-8e4e-f8ee674a922e@cf4.466688.xyz:8880?encryption=none&host=old-moon-16d0.156-a25.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&type=ws#%E6%9C%AA%E7%9F%A5_0810094193%20clc-main
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.41.190:2095?encryption=none&host=cnmfangbinxing.cnmfangbinxing-f.workers.dev&type=ws#CF%E4%B8%AD%E8%BD%AC_0810096156%20clc-main
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.218.15.50:8880?encryption=none&host=vms.lifetime47.workers.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2Fyoutube%40ZYFXS%F0%9F%87%A8%F0%9F%87%B3&type=ws#%E9%A6%99%E6%B8%AF_081009245%20clc-main
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.12.30.40:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=vms.lifetime28.workers.dev&path=%2F&type=ws#%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A_081009070%20clc-main
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.232.140.30:8880?encryption=none&host=vms.lifetime61.workers.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2Fyoutube%40ZYFXS%F0%9F%87%A8%F0%9F%87%B3&type=ws#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_081009250%20clc-main
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.161.50:8880?encryption=none&host=vms.lifetime08.workers.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2Fyoutube%40ZYFXS%F0%9F%87%A8%F0%9F%87%B3&type=ws#%E7%AB%8B%E9%99%B6%E5%AE%9B_081009142%20clc-main
-vless://f6fc0eed-ec8c-4f6a-883d-421706ca6886@185.247.16.117:4100?encryption=none&host=live.ok.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-32646%20clc-main
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.18.250.30:8880?encryption=none&host=vms.lifetime47.workers.dev&type=ws#%E7%91%9E%E5%A3%AB_081009031%20clc-main
-vless://d5d72f0a-42b0-4f43-b568-9cf7fbff073d@104.171.137.141:2200?encryption=none&host=rzd.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-32669%20clc-main
-vless://d5d72f0a-42b0-4f43-b568-9cf7fbff073d@104.171.137.141:4100?encryption=none&host=live.ok.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-32670%20clc-main
-vless://e7c3374c-f8b8-490c-aee8-11e3bdab67bc@109.73.193.169:4100?encryption=none&host=live.ok.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-32668%20clc-main
-vless://55009b9b-7b9c-4830-86c6-cb058a7a2e2f@185.247.16.4:2200?encryption=none&host=rzd.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-32043%20clc-main
 vless://47947923-49ac-49f8-86ed-2912bcbf2d18@104.171.134.67:4100?encryption=none&host=live.ok.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-32223%20clc-main
-vless://6c0ced37-dd9c-43f2-b474-6dafe036c44b@104.171.132.128:2200?encryption=none&host=rzd.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-32397%20clc-main
-vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@5.129.194.34:4100?encryption=none&path=%2Fv1%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&sni=live.ok.ru&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-31679%20clc-main
-vless://a484645e-59df-4980-b649-92b71250ec60@185.247.16.4:4100?encryption=none&host=live.ok.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-32519%20clc-main
+vless://b79c54f3-68e9-4e9d-8b57-22cbbe978730@77.222.37.89:4100?encryption=none&host=live.ok.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-32081%20clc-main
+vless://5502312d-b5cf-4652-8c59-4d670dd047be@104.171.137.109:2200?encryption=none&host=rzd.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-32210%20clc-main
+vless://d4aad26f-70b6-4411-8517-17f7b4281886@tn.tmn141246.ru:2200?encryption=none&host=rzd.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20Dynamic-159%20clc-main
+vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@tn2.tmn141246.ru:2200?encryption=none&host=rzd.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20Dynamic-30571%20clc-main
+vless://af325624-e28d-44fd-a8a7-058a439d128f@194.26.229.218:2200?encryption=none&path=%2Fv1&sni=rzd.ru&type=ws#4Nika-d92314d7c3%20clc-main
+vless://aef0e934-09d7-4b8f-b3bc-de78d2eec928@104.171.133.53:2200?encryption=none&host=rzd.ru&path=%2Fv1&type=ws#🇺🇸 V2RayyNGvpn 🇺🇸%20clc-main
+vless://bceda826-c83c-45d0-891e-15c4bfec76bc@104.171.134.235:4100?encryption=none&host=live.ok.ru&path=%2Fv1&type=ws#🇷🇺 480 - RU - VLESS/WS - 4100%20clc-main
+vless://bee21918-0933-430c-904b-c941b92256ba@104.171.133.53:2200?encryption=none&host=rzd.ru&path=%2Fv1&type=ws#%40FREE2CONFIG%20-%20101%20clc-main
+vless://59525c39-e731-4c27-bc9e-6d8cef67572c@72.56.247.70:2200?encryption=none&host=rzd.ru&path=%2Fv1&type=ws#@erfanandroid%20clc-main
+vless://59525c39-e731-4c27-bc9e-6d8cef67572c@201.24.120.68:4100?encryption=none&host=live.ok.ru&path=%2Fv1&type=ws#[🇷🇺] [vl-no-ws] [260811-014813.145]%20clc-main
+vless://ea535a23-447f-4501-918c-de8a8b376bec@45.90.32.30:2200?encryption=none&host=rzd.ru&path=%2Fv1&type=ws#[🇷🇺] [vl-no-ws] [260811-015548.098]%20clc-main
+vless://eb135f2b-4b9e-4abb-9a89-78242613da61@5.129.252.140:4100?encryption=none&path=%2Fv1&sni=live.ok.ru&type=ws#UN%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9145%20clc-main
+vless://87f3bc47-ee10-4418-9260-7a4e43f28e00@176.98.178.17:4100?encryption=none&host=live.ok.ru&path=%2Fv1&type=ws#[🇷🇺] [vl-no-ws] [260811-015037.955]%20clc-main
+vless://5d0fbb28-3be3-4044-bc5b-e4b7ca1916c7@5.129.241.247:4100?encryption=none&host=live.ok.ru&path=%2Fv1&type=ws#[🇷🇺] [vl-no-ws] [260811-014824.711]%20clc-main
+vless://a08968c9-6301-459c-b047-ac7c7be57c40@83.217.192.58:4100?encryption=none&host=live.ok.ru&path=%2Fv1&type=ws#[🇷🇺] [vl-no-ws] [260811-015217.182]%20clc-main
+vless://b79c54f3-68e9-4e9d-8b57-22cbbe978730@77.222.37.89:2200?encryption=none&host=rzd.ru&path=%2Fv1&type=ws#[🇷🇺] [vl-no-ws] [260811-015318.376]%20clc-main
+vless://89537879-e550-45e9-ab1c-5e1a11c168f1@45.151.101.67:4100?encryption=none&path=%2Fv1&sni=live.ok.ru&type=ws#UN%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9147%20clc-main
+vless://4cbdaf4f-ca34-4a00-9a96-49eaa6564b42@31.177.83.201:4100?encryption=none&host=live.ok.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-32728%20clc-main
+vless://a08968c9-6301-459c-b047-ac7c7be57c40@83.217.192.58:2200?encryption=none&host=rzd.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-32453%20clc-main
+vless://55009b9b-7b9c-4830-86c6-cb058a7a2e2f@104.171.133.53:4100?encryption=none&host=live.ok.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-32044%20clc-main
+vless://2001e98b-e06e-4244-910f-7ff640746eda@104.171.132.102:2200?encryption=none&host=rzd.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-32152%20clc-main
+vless://87f3bc47-ee10-4418-9260-7a4e43f28e00@194.26.229.212:2200?encryption=none&host=rzd.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-32507%20clc-main
+vless://106b0505-da24-4ae4-b22c-302ab814f6f4@104.171.136.172:4100?encryption=none&host=live.ok.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-32722%20clc-main
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.62:443?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&security=reality&sid=c6ef72e4635d15a5&sni=storage.yandex.net#%40FREE2CONFIG%20-%2023%20clc-main
 vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@77.222.46.162:2200?encryption=none&host=rzd.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-30658%20clc-main
 vless://31c2a8e8-0ab2-4f3f-8767-11f3a35d4228@72.56.7.195:2200?encryption=none&host=rzd.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-32306%20clc-main
-vless://a08968c9-6301-459c-b047-ac7c7be57c40@185.247.16.4:4100?encryption=none&host=live.ok.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-32583%20clc-main
-vless://5ab425b0-d54d-45ed-a7ae-0a5788112258@83.217.200.217:4100?encryption=none&host=live.ok.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-32602%20clc-main
 vless://55009b9b-7b9c-4830-86c6-cb058a7a2e2f@168.222.202.187:4100?encryption=none&host=live.ok.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-32042%20clc-main
-vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@195.133.25.181:4100?encryption=none&fp=firefox&host=live.ok.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-30674%20clc-main
-vless://af325624-e28d-44fd-a8a7-058a439d128f@5.129.194.34:4100?encryption=none&host=live.ok.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-32521%20clc-main
-vless://87f3bc47-ee10-4418-9260-7a4e43f28e00@194.26.229.212:2200?encryption=none&host=rzd.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-32507%20clc-main
-vless://e58a0802-443e-4ba3-992b-73687bb5b9f0@194.26.229.217:2200?encryption=none&host=rzd.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-32224%20clc-main
-vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@5.129.194.34:4100?encryption=none&host=live.ok.ru&path=%2Fv1&provider_id=zieng_vless_universal&source_name=zieng_vless_universal&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-30656%20clc-main
-vless://e1e26ef7-3291-45ac-b821-a11dcdbfdb4d@168.222.140.55:2200?encryption=none&host=rzd.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-32157%20clc-main
-vless://2a88091e-e3f8-4478-9751-6ce0557a7f2e@186.246.6.234:2200?encryption=none&host=rzd.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-32531%20clc-main
-vless://43874ef1-1f74-4b8b-bc84-1d13caabd71b@104.171.137.176:2200?encryption=none&host=rzd.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-32571%20clc-main
-vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.80:443?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&security=reality&sid=c6ef72e4635d15a5&sni=storage.yandex.net#4Sarina-c20934382c%20clc-main
-vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@est.vrsvpn.com:443?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&fp=chrome&insecure=1&pbk=SJkDT_L0eziQR2afDGrkN7-uRxjYu6bZxIGXlKeCvX4&security=reality&sid=15aa18f971da1f81&sni=web.max.ru#🔥Join+Telegram:@Farah_VPN🟣%20clc-main
-vless://6c0ced37-dd9c-43f2-b474-6dafe036c44b@104.171.132.128:4100?encryption=none&host=live.ok.ru&path=%2Fv1&type=ws#%40FREE2CONFIG%20-%2025%20clc-main
-vless://f6fc0eed-ec8c-4f6a-883d-421706ca6886@194.26.229.212:2200?encryption=none&host=rzd.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-32301%20clc-main
-vless://5502312d-b5cf-4652-8c59-4d670dd047be@104.171.137.109:2200?encryption=none&host=rzd.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-32210%20clc-main
-vless://55009b9b-7b9c-4830-86c6-cb058a7a2e2f@147.45.235.14:2200?encryption=none&host=rzd.ru&path=%2Fv1&type=ws#🔥Join+Telegram:@Farah_VPN🟣%20clc-main
+vless://aef0e934-09d7-4b8f-b3bc-de78d2eec928@194.26.229.220:4100?encryption=none&host=live.ok.ru&path=%2Fv1&type=ws#[🇷🇺] [vl-no-ws] [260811-015253.783]%20clc-main
+vless://112912a9-cedf-485d-b8ed-d8f8d4774437@104.171.132.185:4100?encryption=none&host=live.ok.ru&path=%2Fv1&type=ws#[🇷🇺] [vl-no-ws] [260811-014431.150]%20clc-main
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.33:443?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&fp=firefox&host=storage.yandex.net&insecure=1&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&security=reality&sid=c6ef72e4635d15a5&sni=storage.yandex.net#@meliproxyy%20clc-main
+vless://a484645e-59df-4980-b649-92b71250ec60@72.56.246.91:4100?encryption=none&host=live.ok.ru&path=%2Fv1&type=ws#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D%20clc-main
+vless://106b0505-da24-4ae4-b22c-302ab814f6f4@79.137.192.188:2200?encryption=none&host=rzd.ru&path=%2Fv1&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B7%F0%9F%87%BA%20%5B%2ACIDR%5D%20clc-main
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.57:443?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&security=reality&sid=c6ef72e4635d15a5&sni=storage.yandex.net#%40FREE2CONFIG%20-%2031%20clc-main
+vless://e7c3374c-f8b8-490c-aee8-11e3bdab67bc@109.73.193.169:4100?encryption=none&host=live.ok.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-32668%20clc-main
 vless://e7299042-7d8f-440f-8368-2516b0e69341@147.45.235.14:2200?encryption=none&host=rzd.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-32322%20clc-main
-vless://099c6e3f-e8d3-41d4-95f2-ef2eafb51cdc@185.247.16.4:4100?encryption=none&host=live.ok.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-32581%20clc-main
-vless://099c6e3f-e8d3-41d4-95f2-ef2eafb51cdc@194.26.229.219:4100?encryption=none&path=%2Fv1&sni=live.ok.ru&type=ws#4Kian-5f3498988a%20clc-main
-vless://b79c54f3-68e9-4e9d-8b57-22cbbe978730@185.247.16.117:2200?encryption=none&host=rzd.ru&path=%2Fv1&type=ws#🇷🇺 457 - RU - VLESS/WS - 2200%20clc-main
-vless://af325624-e28d-44fd-a8a7-058a439d128f@194.26.229.218:2200?encryption=none&path=%2Fv1&sni=rzd.ru&type=ws#4Nika-d92314d7c3%20clc-main
-vless://a9f07ec1-bd8a-4c95-a281-3de7f0b76853@185.247.16.4:4100?encryption=none&host=live.ok.ru&path=%2Fv1&type=ws#🇷🇺 434 - RU - VLESS/WS - 4100%20clc-main
-vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@152.53.173.92:443?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&fp=random&pbk=HAuFt4Q6WDEwNYO1BOTpekM2HXwTaZxXYVReYyP3NVI&security=reality&sni=fastsync.xyz#🇩🇪 485 - DE - VLESS/REALITY/PBK/VISION/UTLS - 443%20clc-main
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@141.148.224.221:62145?encryption=none&path=%2F#%E8%8D%B7%E5%85%B0_081009014%20clc-main
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.190.70:62145?encryption=none&path=%2F#%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A_081009001%20clc-main
-vless://112912a9-cedf-485d-b8ed-d8f8d4774437@104.171.132.185:4100?encryption=none&host=live.ok.ru&path=%2Fv1&type=ws#[🇷🇺] [vl-no-ws] [260810-013631.300]%20clc-main
-vless://2c66d559-9889-45c5-a712-d8b7a31fa04d@104.171.135.186:4100?encryption=none&host=live.ok.ru&path=%2Fv1&type=ws#[🇷🇺] [vl-no-ws] [260810-013752.265]%20clc-main
-vless://59525c39-e731-4c27-bc9e-6d8cef67572c@201.24.120.68:4100?encryption=none&host=live.ok.ru&path=%2Fv1&type=ws#[🇷🇺] [vl-no-ws] [260810-014041.393]%20clc-main
-vless://2001e98b-e06e-4244-910f-7ff640746eda@168.222.202.15:4100?encryption=none&host=live.ok.ru&path=%2Fv1&type=ws#🇷🇺 55 - RU - VLESS/WS - 4100%20clc-main
-vless://e58a0802-443e-4ba3-992b-73687bb5b9f0@194.26.229.217:4100?encryption=none&host=live.ok.ru&path=%2Fv1&type=ws#[🇷🇺] [vl-no-ws] [260810-014909.946]%20clc-main
-vless://5d0fbb28-3be3-4044-bc5b-e4b7ca1916c7@5.129.241.247:4100?encryption=none&host=live.ok.ru&path=%2Fv1&type=ws#[🇷🇺] [vl-no-ws] [260810-014054.091]%20clc-main
-vless://47947923-49ac-49f8-86ed-2912bcbf2d18@194.26.229.220:2200?encryption=none&host=rzd.ru&path=%2Fv1&type=ws#[🇷🇺] [vl-no-ws] [260810-013929.981]%20clc-main
-vless://eb135f2b-4b9e-4abb-9a89-78242613da61@5.129.252.140:4100?encryption=none&host=live.ok.ru&path=%2Fv1&type=ws#[🇷🇺] [vl-no-ws] [260810-014927.288]%20clc-main
-vless://bceda826-c83c-45d0-891e-15c4bfec76bc@168.222.141.146:2200?encryption=none&host=rzd.ru&path=%2Fv1&type=ws#[🇷🇺] [vl-no-ws] [260810-014659.522]%20clc-main
-vless://eb135f2b-4b9e-4abb-9a89-78242613da61@201.51.2.6:2200?encryption=none&host=rzd.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-32343%20clc-main
-vless://894c0b5f-5ea8-41ca-96ad-1892766b74c3@185.247.16.4:4100?encryption=none&host=live.ok.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-32529%20clc-main
-vless://2c66d559-9889-45c5-a712-d8b7a31fa04d@185.247.16.4:2200?encryption=none&host=rzd.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-32582%20clc-main
-vless://2c66d559-9889-45c5-a712-d8b7a31fa04d@185.247.16.4:4100?encryption=none&host=live.ok.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-32615%20clc-main
-vless://a9f07ec1-bd8a-4c95-a281-3de7f0b76853@194.26.229.214:4100?encryption=none&host=live.ok.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-32091%20clc-main
-vless://eb135f2b-4b9e-4abb-9a89-78242613da61@185.247.16.4:2200?encryption=none&host=rzd.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-32520%20clc-main
-vless://5502312d-b5cf-4652-8c59-4d670dd047be@45.146.131.97:4100?encryption=none&host=live.ok.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-32412%20clc-main
-vless://a08968c9-6301-459c-b047-ac7c7be57c40@83.217.192.58:2200?encryption=none&host=rzd.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-32453%20clc-main
-vless://155e8dd4-a559-407a-9ea8-13a5e829f066@185.247.16.3:2200?encryption=none&host=rzd.ru&path=%2Fv1&type=ws#俄罗斯联邦/圣彼得堡/Russia/St Petersburg%20clc-main
-vless://a08968c9-6301-459c-b047-ac7c7be57c40@83.217.192.58:4100?encryption=none&host=live.ok.ru&path=%2Fv1&type=ws#[🇷🇺] [vl-no-ws] [260810-014526.429]%20clc-main
-vless://a9f07ec1-bd8a-4c95-a281-3de7f0b76853@194.26.229.214:2200?encryption=none&host=rzd.ru&path=%2Fv1&type=ws#[🇷🇺] [vl-no-ws] [260810-014555.996]%20clc-main
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.225.218:62145?encryption=none&path=%2F#%E7%BE%8E%E5%9B%BD_081009067%20clc-main
-vless://e5c5c336-8ca7-44bc-82d6-0473a55ad1ae@164.90.176.31:443?allowInsecure=1&encryption=none&fp=chrome&host=pingoneorg.hydrash.workers.dev&insecure=1&path=%2Fmovies%2Fhttp%3D45.15.167.19%3A8443&security=tls&sni=pingoneorg.hydrash.workers.dev&type=ws#%E5%BE%B7%E5%9B%BD_081009341%20clc-main
-vless://894c0b5f-5ea8-41ca-96ad-1892766b74c3@194.26.229.209:2200?encryption=none&host=rzd.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-32410%20clc-main
+vless://55009b9b-7b9c-4830-86c6-cb058a7a2e2f@147.45.235.14:2200?encryption=none&host=rzd.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-32041%20clc-main
+vless://47947923-49ac-49f8-86ed-2912bcbf2d18@194.26.229.220:2200?encryption=none&host=rzd.ru&path=%2Fv1&type=ws#[🇷🇺] [vl-no-ws] [260811-014710.262]%20clc-main
+vless://f6fc0eed-ec8c-4f6a-883d-421706ca6886@72.56.247.70:4100?encryption=none&host=live.ok.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-32541%20clc-main
 vless://894c0b5f-5ea8-41ca-96ad-1892766b74c3@194.26.229.220:4100?encryption=none&host=live.ok.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-32554%20clc-main
-vless://aef0e934-09d7-4b8f-b3bc-de78d2eec928@194.26.229.220:4100?encryption=none&host=live.ok.ru&path=%2Fv1&type=ws#[🇷🇺] [vl-no-ws] [260810-014611.036]%20clc-main
-vless://d3984ebd-b876-4a38-be7d-90299feafc81@212.193.26.170:4100?encryption=none&host=live.ok.ru&path=%2Fv1&type=ws#[🇷🇺] [vl-no-ws] [260810-014812.350]%20clc-main
-vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@tn2.tmn141246.ru:4100?encryption=none&host=live.ok.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20Dynamic-30590%20clc-main
-vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@tn2.tmn141246.ru:2200?encryption=none&host=rzd.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20Dynamic-30589%20clc-main
+vless://e7c3374c-f8b8-490c-aee8-11e3bdab67bc@109.73.193.169:2200?encryption=none&host=rzd.ru&path=%2Fv1&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B7%F0%9F%87%BA%20%5B%2ACIDR%5D%20clc-main
+vless://a9f07ec1-bd8a-4c95-a281-3de7f0b76853@194.26.229.214:4100?encryption=none&host=live.ok.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-32091%20clc-main
+vless://a9f07ec1-bd8a-4c95-a281-3de7f0b76853@194.26.229.214:2200?encryption=none&host=rzd.ru&path=%2Fv1&type=ws#[🇷🇺] [vl-no-ws] [260811-015242.668]%20clc-main
+vless://31c2a8e8-0ab2-4f3f-8767-11f3a35d4228@45.90.32.132:4100?encryption=none&host=live.ok.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-32116%20clc-main
+vless://a2aa7759-ddac-4d02-bf9d-de62cbff9481@104.171.132.232:4100?encryption=none&host=live.ok.ru&path=%2Fv1&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-32320%20clc-main
