@@ -1,35 +1,102 @@
-#profile-title: 25-25/25 @Amirchelios
+#profile-title: 25-25/26 @Amirchelios
 #profile-update-interval: 48
 #support-url: https://github.com/Amirchelios/clc-main
 #announce: Amirchelios
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
-vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?allowInsecure=1&encryption=none&packetEncoding=xudp&security=tls&sni=186.190.211.188#%40FREE2CONFIG%20-%201%20clc-main
-vless://ea535a23-447f-4501-918c-de8a8b376bec@62.113.103.10:4100?encryption=none&host=live.ok.ru&path=%2Fv1&type=ws#%40FREE2CONFIG%20-%202%20clc-main
-vless://814bd064-544d-4255-a070-5705c03f6da9@67.220.73.204:16016?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&security=reality&sid=48050fab&sni=www.apple.com#%40FREE2CONFIG%20-%203%20clc-main
-vless://5efabea4-f6d4-91fd-b8f0-17e004c89c60@38.58.180.136:3116?encryption=none&host=node67.lunes.host&path=%2F%40s5gydl&type=ws#%40FREE2CONFIG%20-%204%20clc-main
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.232:443?encryption=none&flow=xtls-rprx-vision&fp=ios&packetEncoding=xudp&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&security=reality&sid=c39cc7310a&sni=yahoo.com#%40FREE2CONFIG%20-%2010%20clc-main
-vless://a1ac8747-4fd7-486b-b099-19fbb45610be@154.19.184.40:52535?encryption=none#%40FREE2CONFIG%20-%2012%20clc-main
-vless://814bd064-544d-4255-a070-5705c03f6da9@67.220.73.204:18662?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&security=reality&sid=48050fab&sni=www.apple.com#%40FREE2CONFIG%20-%2015%20clc-main
-vless://218fd696-e3a2-4c33-b397-a5f13a82969e@95.85.247.7:443?encryption=none&fp=firefox&pbk=4-bYlfzBxbmfxZa5uFAobphk74V83FF5Y1lbo9l8RWQ&security=reality&sid=50c30ab7&sni=cats.abvphelp.cc#%40FREE2CONFIG%20-%2016%20clc-main
-vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.62:443?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&security=reality&sid=c6ef72e4635d15a5&sni=storage.yandex.net#%40FREE2CONFIG%20-%2023%20clc-main
-vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.57:443?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&security=reality&sid=c6ef72e4635d15a5&sni=storage.yandex.net#%40FREE2CONFIG%20-%2031%20clc-main
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.121:443?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&fp=ios&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&security=reality&sid=c39cc7310a&sni=yahoo.com#%40FREE2CONFIG%20-%2043%20clc-main
-vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@5.175.178.35:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=ym3hAtR8IhSWN-uRGGRcjHm7tvaPfeVcBDW6DM8w_Ec&security=reality&sni=spry-jolt.cdn.cachefleet.com#%40FREE2CONFIG%20-%2047%20clc-main
-vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@5.175.178.35:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=ym3hAtR8IhSWN-uRGGRcjHm7tvaPfeVcBDW6DM8w_Ec&security=reality&sni=keen-siren.cdn.cachefleet.com#%40FREE2CONFIG%20-%2050%20clc-main
-vless://00790c59-b1ef-402f-8305-20b938bfb7ca@2.26.135.190:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=09O8bAlIWm9AGnNyxBtHwpYNQxlXPSQeQeKzS3ZMwGE&security=reality&sid=a1f9c0e21d7b6485&sni=smorodina.mycdn-me.ru#%40FREE2CONFIG%20-%2051%20clc-main
-vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@130.78.216.197:443?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=X44VAj_y9MabQeF7ZgssR57zaf2Rx5bX--BJ-U9wQ2o&security=reality&sni=luminous-jolt.cdn.cachefleet.com#%40FREE2CONFIG%20-%2060%20clc-main
-vless://e5dfd386-9de6-4b2c-a652-e31f4084d787@45.84.222.181:2053?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=klqenfvPoePfiVDDeWb7GwcIB25cWF1bjuNVjVDc8BA&security=reality&sid=a1b2c3d4&sni=www.gitlab.com#%40FREE2CONFIG%20-%2061%20clc-main
-vless://641baa2f-6f74-4ecf-b948-032d19ba0142@217.144.185.24:40443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=EbXSjwJKAI1cmU2TK3af62qS2k58x8Rnct1525c0m1I&security=reality&sid=b2c3d4e5f6071829&sni=www.booking.com#%40FREE2CONFIG%20-%2062%20clc-main
-vless://bfa91d79-049c-41e1-be94-029397377150@87.242.85.201:35412?encryption=none#%40FREE2CONFIG%20-%2076%20clc-main
-vless://e5dfd386-9de6-4b2c-a652-e31f4084d787@95.181.173.106:2053?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=IsmDt0eBYMCVAMqR-iAIh2FjXn1fYm9nVzQetdMty3A&security=reality&sid=a1b2c3d4&sni=www.apple.com#%40FREE2CONFIG%20-%2083%20clc-main
-vless://02e2d68f-9982-4467-ad47-00cbeeae30e6@168.222.251.122:711?encryption=none&fp=firefox&pbk=ADsaY9WkhwRaspXqF1JUt4Wg_Aw15h8h679K7Kt9GUU&security=reality&sni=who.int&type=grpc#%40FREE2CONFIG%20-%2090%20clc-main
-vless://eb135f2b-4b9e-4abb-9a89-78242613da61@201.51.2.6:2200?encryption=none&host=rzd.ru&path=%2Fv1&type=ws#%40FREE2CONFIG%20-%2098%20clc-main
-vless://bee21918-0933-430c-904b-c941b92256ba@104.171.133.53:2200?encryption=none&host=rzd.ru&path=%2Fv1&type=ws#%40FREE2CONFIG%20-%20101%20clc-main
-vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@109.69.218.216:443?encryption=none&flow=xtls-rprx-vision&fp=randomized&pbk=8hse7wRRL-F66rQ-aAeetKTw0MSeJC7Rr6EaDeLzdCU&security=reality&sni=kind-wolf.cdn.cachefleet.com#%40FREE2CONFIG%20-%20117%20clc-main
-vless://cbc5c74f-95f8-4c52-835c-c6e3429cb9f4@45.65.112.228:20513?encryption=none&fp=qq&pbk=CTfSuRE6fUPYVBJGsmOYnP3UketmmTJSQP45OcoGI2k&security=reality&sid=285db1978fd0d8c1&sni=updates.cdn-apple.com#%40FREE2CONFIG%20-%20126%20clc-main
-vless://f62a37f3-f7df-4673-a7c8-06a9fc72c6ea@45.89.60.76:1337?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=0OajRGdqF2S2JJgKYcsq6nIF3K_ypFYCTUzCjR8Wh1o&security=reality&sid=c692a719&sni=yt.alba.xanka.best#%40FREE2CONFIG%20-%20139%20clc-main
-vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@152.53.82.202:443?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=qW8UIkS9M8F1BjbAa6Ih1kNL5hkTRDp_DZ5TEpyyIFs&security=reality&sni=gleaming-glyph.cdn.cachefleet.com#%40FREE2CONFIG%20-%20142%20clc-main
-vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@152.53.82.202:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=qW8UIkS9M8F1BjbAa6Ih1kNL5hkTRDp_DZ5TEpyyIFs&security=reality&sni=shy-tiger.cdn.cachefleet.com#%40FREE2CONFIG%20-%20143%20clc-main
-vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@152.53.82.202:443?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=qW8UIkS9M8F1BjbAa6Ih1kNL5hkTRDp_DZ5TEpyyIFs&security=reality&sni=nifty-mantis.cdn.cachefleet.com#%40FREE2CONFIG%20-%20144%20clc-main
-vless://9ffabf5d-d8d6-4d0e-acab-3cbdd3457fc0@144.31.128.160:2083?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=a3_DLO6p_ZfPf7I0JFTVl&security=reality&sni=www.booking.com#%40FREE2CONFIG%20-%20149%20clc-main
+ss://8033102198@159.195.40.19:443?security=tls&alpn=http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=de7.fast-connect-service.site#🇩🇪140584 | ⚡️Telegram = t.me/SOSkeyNET%20clc-main
+ss://8033102198@95.85.246.104:443?security=tls&alpn=http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pl7.fast-connect-service.site#🇸🇪140536 | ⚡️Telegram = t.me/SOSkeyNET%20clc-main
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SG56SU4xQ0xHR0VoK21EL3V6YmJ2VFFjL0FscStoa21yQzdQbzNENGs0RT0=@46.38.143.236:60633?note=@FreeOnlineVPN#🇬🇧 - GB - @FreeOnlineVPN%20clc-main
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206NC81blNmYzMyVmR1MEZuTFZ1V1g1bWYvU0l6U3lacEJCU2xxUHZKUGp6ND06MlE0blNwT0JWSG5VbE5rWE5IWkJxN3JMZDhud0dsV2I0WGQ1WEYvSm9iND0@65.109.208.236:11957#@v2rayNG_Matsuri%20clc-main
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206UWJRamwzclRML2t0ckoyVVZGTDhaQkYzQlAxdElReU5jdC9yNEFDWUt5RT06OTQ2OVgxRmY0Y1RwalpNMGMxS0lpMlRTd2k2WDB4UGRNalpBVXNxS2FLdz0@138.124.90.40:54052?#🇦🇹139725 | ⚡️Telegram = t.me/SOSkeyNET%20clc-main
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206UXkwc2JrRWxINTRuKzdDekxZSzJreG1ZelhobFc1dWU1cEwvRWJpbkpycz06Nmtjcm8ySldSdllCb20xM0JKV25iODlSWVRyUXRHNzBLQmhFM2FyYjlUND0@65.109.208.236:21871#none%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2eGtHQ1lrcm01UXhWZ0JW@68.219.96.61:443#@ghand_sheken%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YzMxYTY3YjQxYjE4YzI2@89.223.88.33:11201?note=@FreeOnlineVPN#🇲🇽 - MX - @FreeOnlineVPN%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.178:8080#🩵+@Azarakhsh_Proxy+🩷%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.199:8080#🩵+@Azarakhsh_Proxy+🩷%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@13.115.71.60:2377?plugin=obfs-local;obfs=tls;obfs-host=(Telegram🇨🇳 @VPNine1)b089101:52170#🇯🇵JP-🚀@VPNine1%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@13.231.100.94:2377?plugin=obfs-local;obfs=tls;obfs-host=(Telegram🇨🇳 @VPNine1)c68b799:50307#🇯🇵JP-🚀@VPNine1%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@13.231.123.117:2377?plugin=obfs-local;obfs=tls;obfs-host=(Telegram🇨🇳 @VPNine1)dbe6d6b:62672#🇯🇵JP-🚀@VPNine1%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@13.231.154.142:2377?plugin=obfs-local;obfs=tls;obfs-host=(Telegram🇨🇳 @VPNine1)3c626ae:42411#🇯🇵JP-🚀@VPNine1%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@18.139.160.226:2377?plugin=obfs-local;obfs=tls;obfs-host=(Telegram🇨🇳 @VPNine1)d4cbbb2:42774#🇸🇬SG-🚀@VPNine1%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@18.176.55.211:2377?plugin=obfs-local;obfs=tls;obfs-host=(Telegram🇨🇳 @VPNine1)2fed698:63225#🇯🇵JP-🚀@VPNine1%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@18.183.124.58:2377?plugin=obfs-local;obfs=tls;obfs-host=(Telegram🇨🇳 @VPNine1)d4cbbb2:42774#🇯🇵JP-🚀@VPNine1%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@3.1.195.22:2377?plugin=obfs-local;obfs=tls;obfs-host=(Telegram🇨🇳 @VPNine1)9c5b8dc:55476#🇸🇬SG-🚀@VPNine1%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@3.112.199.47:2377?plugin=obfs-local;obfs=tls;obfs-host=(Telegram🇨🇳 @VPNine1)49bda1d:58996#🇯🇵JP-🚀@VPNine1%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@3.112.240.74:2377?plugin=obfs-local;obfs=tls;obfs-host=(Telegram🇨🇳 @VPNine1)aa1c23d:49858#🇯🇵JP-🚀@VPNine1%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@43.206.229.103:2377?plugin=obfs-local;obfs=tls;obfs-host=(Telegram🇨🇳 @VPNine1)c68b799:50307#🇯🇵JP-🚀@VPNine1%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@43.206.95.245:2377?plugin=obfs-local;obfs=tls;obfs-host=(Telegram🇨🇳 @VPNine1)b089101:52170#🇯🇵JP-🚀@VPNine1%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@43.207.202.98:2377?plugin=obfs-local;obfs=tls;obfs-host=(Telegram🇨🇳 @VPNine1)5318442:54080#🇯🇵JP-🚀@VPNine1%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@43.207.207.206:2377?plugin=obfs-local;obfs=tls;obfs-host=(Telegram🇨🇳 @VPNine1)28492a5:57003#🇯🇵JP-🚀@VPNine1%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@47.128.254.170:2377?plugin=obfs-local;obfs=tls;obfs-host=(Telegram🇨🇳 @VPNine1)874b20d:48331#🇸🇬SG-🚀@VPNine1%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@47.129.228.114:2377?plugin=obfs-local;obfs=tls;obfs-host=(Telegram🇨🇳 @VPNine1)aa1c23d:49858#🇸🇬SG-🚀@VPNine1%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@54.168.190.90:2377?plugin=obfs-local;obfs=tls;obfs-host=(Telegram🇨🇳 @VPNine1)b263ae1:47541#🇯🇵JP-🚀@VPNine1%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@54.250.165.160:2377?plugin=obfs-local;obfs=tls;obfs-host=(Telegram🇨🇳 @VPNine1)c68b799:50307#🇯🇵JP-🚀@VPNine1%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@54.95.13.147:2377?plugin=obfs-local;obfs=tls;obfs-host=(Telegram🇨🇳 @VPNine1)f478f13:54448#🇯🇵JP-🚀@VPNine1%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5VEVYV0I2WEJIeXY5U2ZRSnpDU1JXQ25SWXV0RmRVWGcxd2JjYnV0eFB3WkU2VXhjdXJrYTNHa29hdGdFZFg0ODNYWlNIZUpwM2pYY1RTaExDUk04clBnTUYzdllOZlM=@217.28.129.81:42982#@Alpha_v2rayIP%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGWHBEZjdXVjZsZkQ2bjlocHo3SEYy@157.22.240.141:57925#🇦🇱 Join+Telegram:@Farah_VPN 🇦🇱%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJbFNZK0QrdHR4cDhPTTh0WENDc1duS2gzRWg2S2w0ckFBdjNuRTBYMDhRPQ@e3.cover20.ir:56985#🇮🇷139797 | ⚡️Telegram = t.me/SOSkeyNET%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNR1U0WmpWa01HTmhZMlkzWXpNME5tSXhNRGd5TkRRNU9HVmpaalkyWTJZPQ@144.24.226.223:61312#🇬🇧139861 | ⚡️Telegram = t.me/SOSkeyNET%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUbVhTcGNSQmJodkhEZzY2Ym8ydzg5YlRveFFzYk1vYQ==@31.76.30.79:10808#@confiig_hub%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXUjVIbzh2VnFuRGFINDlXTGg5OE5j@130.49.189.158:10792#🇦🇱 Join+Telegram:@Farah_VPN 🇦🇱%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZNUVKWm9qVk1FTnZrRFZGWWxpRXFF@62.133.63.169:37096#TEL;Father_vpn%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZaTVrMUo1S1ZiZlR1UDV2SHplTE84K1VEUHlBQzByU0ljWlVCaG5kK2lnPQ@e1.cover20.ir:51570#🇮🇷139798 | ⚡️Telegram = t.me/SOSkeyNET%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYzI3YTMwMTJkODFhNDRj@213.156.137.142:43660#@v2rayngzendegimamad🕊️%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkN3poMmxNclhOSDUrOCs4cEt6bHhpQ1U5Tk4wMjJpaCt1QXl4ajVkNHFvPQ@102.129.229.85:31700#🇹🇭 Join+Telegram:@Farah_VPN 🇹🇭%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnMFVnZnNkWE9objhNY3BkSHBXY21v@94.131.123.86:35361#IR-@V2rayAlpha-3%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJRQDgyLjM4LjMxLjE3Njo4MDgw#TM+(@AZARBAYJAB1)%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJRQDgyLjM4LjMxLjE5OTo4MDgw#[002490] - 🌍 Unknown | @freenettir%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08=@57.129.140.88:8388#[002491] - 🇬🇧 United Kingdom | @freenettir%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprTkFzc3FmTlI4aGh2bTlyU1NKdmhx@151.236.11.221:8443#[002492] - 🇦🇹 Austria | @freenettir%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprUXBhREpkRlBubHRZY2JCWUY0S3RL@40.113.153.173:45160#[002493] - 🇳🇱 Netherlands | @freenettir%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprVGpsTHhybmNLeDRpMkhJanhmQTNN@51.142.171.150:49499#[002494] - 🇬🇧 United Kingdom | @freenettir%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@20.108.15.110:443#@v2rayngzendegimamad🕊️%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprc2pmdXchc29wIw@23.150.248.191:9098#[002496] - 🇺🇸 United States | @freenettir%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprc2pmdXchc29wIw@69.50.95.251:9098#[002497] - 🇺🇸 United States | @freenettir%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsV2FHUFZGam1uYWc=@205.134.180.139:443#[002500] - 🇺🇸 United States | @freenettir%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWVE4SndFbGRZbjRLVDJnZlo2ZU5s@89.23.103.21:51584#🩵+@Azarakhsh_Proxy+🩷%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwTEdDUG5qMldnenhYMUllZFc4eWQ3dHJ3UmxYcWpMYQ@109.122.251.86:20700#🇮🇷@tanhant%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxRENTd0ppS20xZ1l0N0F1@20.223.136.145:443#@ghand_sheken%20clc-main
+ss://YWVzLTEyOC1nY206bHZ4dWoxMXg4c2ZndDlndDZtamY=@86.106.84.196:13263#❤️‍🔥 کانال تلگرام HiByeVPNN@%20clc-main
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#🇯🇵 Join+Telegram:@Farah_VPN 🇯🇵%20clc-main
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.162:443#🩵+@Azarakhsh_Proxy+🩷%20clc-main
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.198:443#🩵+@Azarakhsh_Proxy+🩷%20clc-main
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@100.31.139.112:443#美国%20clc-main
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.50.4.72:443#日本%20clc-main
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@3.85.61.177:443#美国%20clc-main
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.226.105.188:443#US 2%20clc-main
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@98.89.48.191:443#美国%20clc-main
+ss://YWVzLTI1Ni1nY206S0lZSnJCRy84VU92bXExUm0wVXczYkg1Y3p5Y25ZcURYUG91MDZWVWZ5OD0=@62.60.184.65:2025#🇮🇷140535 | ⚡️Telegram = t.me/SOSkeyNET%20clc-main
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.120:8000#🩵+@Azarakhsh_Proxy+🩷%20clc-main
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.120:8080#🩵+@Azarakhsh_Proxy+🩷%20clc-main
+ss://YWVzLTI1Ni1nY206T0dVeE5qVTFNRE00WVRZell6TmxOV1l4TUdZMVlqUXlaamsxWW1Saw@95.38.187.71:9147#@ghand_sheken%20clc-main
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.120:8008#🩵+@Azarakhsh_Proxy+🩷%20clc-main
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.120:8009#🩵+@Azarakhsh_Proxy+🩷%20clc-main
+ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA@194.87.47.152:10901#意大利%20clc-main
+ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA@62.76.234.75:10901#@ghand_sheken%20clc-main
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.157.88.61:2376#🩵+@Azarakhsh_Proxy+🩷%20clc-main
+ss://YWVzLTI1Ni1nY206dGw2eW5TdHZpZkxE@103.115.18.71:8388#日本 Japan%20clc-main
+ss://chacha20-ietf-poly1305:XF0klw7870vXn3uQIxe19Q@146.70.222.126:1080#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn%20clc-main
+ss://chacha20-ietf-poly1305:oZIoA69Q8yhcQV8ka3Pa3A@82.38.31.42:8080#kurdconfig%20clc-main
+ss://eyJ2IjogIjIiLCAiYWRkIjogIjEwNC4xOS40Ny4yMzgiLCAicG9ydCI6IDgwODAsICJpZCI6ICJiNTUxYWEyMi0yMmFmLTExZWUtYjhkOC1mMjNjOTMyZWI2OGQiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJob3N0IjogIm9paWN0dy55eWRzaWkuY29tIiwgInBhdGgiOiAiLz9lZD0yMDQ4JlRlbGVncmFt8J+HqPCfh7MgQFdhbmdDYWkyIiwgInRscyI6ICIiLCAicHMiOiAi8J+HqPCfh6YxNDA2NjQgfCDimqHvuI9UZWxlZ3JhbSA9IHQubWUvU09Ta2V5TkVUIn0=#🌍140671 | ⚡️Telegram = t.me/SOSkeyNET%20clc-main
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:8443?allowInsecure=0&encryption=none&host=sni.111000.dynv6.net&insecure=0&path=%2F%3FTelegram+%40v2rayngzendegimamad&security=tls&sni=sni.111000.dynv6.net&type=ws#@v2rayngzendegimamad🕊️%20clc-main
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.149.54:8443?encryption=none&host=sni.111000.dynv6.net&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=sni.111000.dynv6.net&type=ws#%20clc-main
+vless://EarnMoneyarz @earnmoneyarz-zorovpn-earnmoney-arz-zorovpn-earnmoneyarz-zorovpn.thv.opik.net:12981?encryption=none&fp=chrome&pbk=XgxSAzH0RjD8oPEKeR1kg3wnbNLfA6KZez83hhGEnTI&security=reality&sid=4351ff712d153d06&sni=www.yahoo.com&spx=%2FLykVdJvx8bjxIG8#🔰 @EarnMoney_arz - پرسرعت کانال تلگرام%20clc-main
+vless://Telegram @135.125.136.238:46989?encryption=none#Telegram : free_conf_iran 🇩🇪%20clc-main
+vless://Telegramjoin@176.65.151.73:2091?encryption=none&headerType=http&host=play.google.com&path=%2F#چنل‌تلگرام‌حتما‌جوین‌بشید@VEGAASVPN🇳🇱⚡%20clc-main
+vless://Telegramjoin@65.109.207.254:2091?encryption=none&headerType=http&host=cdn-apple.com&path=%2F#VEGAAS_VPN🇫🇮%20clc-main
+vless://Telegram🇨🇳 @WangCai2@WangCai2@50.62.88.2:443?allowInsecure=0&encryption=none&host=support.zoom.us.yxls.eu.cc&insecure=0&path=%2Fsg-amz&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#%FREE_VPN02%20clc-main
+vless://c843ed62-34da-44be-87b8-8b4ad34f6deb@f1.springpaatogh8.store:8443?encryption=none&host=takken.sorza.ir&path=%2F%3Fed%3D2560+PuLaFreeBOT+PuLaVPN+PuLaVPN+PuLaVPN&security=tls&sni=digikala.sorza.ir&type=ws#کانال تلگرام : Free_VPN_CH@%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBMzNwV1JJWm5vSjZnYVNLNlk1eXJjNWtCTktrdG9YYmxJbS9udUhOaHJVPQ@e1.cover20.ir:51570?type=tcp#%3E%3E%40V2rayNG3%3A%3AXX%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@azure-sto.edgeservers.org:48172/?POST%20#Ainita%20Server%20azure-sto.edgeservers.org%20clc-main
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7GB-146.70.61.37-0317%20clc-main
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#%F0%9F%87%BA%F0%9F%87%B8US-156.146.38.170-0132%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.141.221.124:8388#%F0%9F%87%AD%F0%9F%87%B0HK-103.141.221.124-0299%20clc-main
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.181:443#%F0%9F%87%AC%F0%9F%87%A7GB-141.98.101.181-0191%20clc-main
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@221.139.79.57:13979#%F0%9F%87%B0%F0%9F%87%B7KR-221.139.79.57-0302%20clc-main
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@100.31.139.112:443#%F0%9F%87%BA%F0%9F%87%B8US-100.31.139.112-0121%20clc-main
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.85.61.177:443#%F0%9F%87%BA%F0%9F%87%B8US-3.85.61.177-0120%20clc-main
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.114.114.19:8091#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.19-0108%20clc-main
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.86.135.27:9102#%F0%9F%87%BA%F0%9F%87%B8US-38.86.135.27-0107%20clc-main
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.114.114.19:8008#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.19-0105%20clc-main
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.86.135.27:5004#%F0%9F%87%BA%F0%9F%87%B8US-38.86.135.27-0102%20clc-main
