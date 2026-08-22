@@ -4,8 +4,12 @@
 #announce: Amirchelios
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpabU0wWg@83.171.225.55:8388#🇫🇷 Join+Telegram:@Farah_VPN 🇫🇷%20clc-main
-ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA==@194.87.47.204:10901#@v2rayng3%20clc-main
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@azure-sto.edgeservers.org:48172/?POST%20#Ainita%20Server%20azure-sto.edgeservers.org%20clc-main
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNXA2d3c0bzY3SEI=@108.181.118.10:8388#%F0%9F%87%A8%F0%9F%87%A6CA-108.181.118.10-0088%20clc-main
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaGhycXJva2ozYWc=@209.46.102.22:8388#%F0%9F%87%A9%F0%9F%87%AADE-209.46.102.22-0234%20clc-main
+vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?allowInsecure=1&encryption=none&packetEncoding=xudp&security=tls&sni=186.190.211.188#%40FREE2CONFIG%20-%201%20clc-main
+vless://055dce30-0ee3-44c3-b680-be1c95b8d6e7@107.151.250.68:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=g5UW6bf2soPSDNx7j0wanW_uLAtvTgQ8_lfztTJaP0k&security=reality&sid=7025c954ff913b4c&sni=www.bing.com#%40FREE2CONFIG%20-%2011%20clc-main
+vless://c396fa08-e07a-459b-b894-389456fd6a82@23.251.55.216:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=m89wjPa2LxODyi8U5pRVI4E1fwVawIaftC3fLY0ZLw4&security=reality&sid=9ea177c3c147119b&sni=www.amazon.com#%40FREE2CONFIG%20-%2012%20clc-main
+vless://4caaaae0-516b-4026-b2b2-69fea69df19a@107.151.250.183:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=LDpWYUJjGRJomvaN-gfgY96EJOF2DDHiFcNPEBLtoW0&security=reality&sid=9019bbea8ff8781e&sni=www.bing.com#%40FREE2CONFIG%20-%2014%20clc-main
+vless://d31aefb3-775b-4e87-a093-a4677addf10a@84.21.189.193:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=3EwukQs0ows0H4l2atTgz_Mo5SV-v5p14D4zfA41tU4&security=reality&sid=c010293d0bafac&sni=stackoverflow.com#%40FREE2CONFIG%20-%2099%20clc-main
+vless://9e90d9f8-0c41-43a8-9f15-012076c5defd@45.128.235.158:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=sNm6sBc5dEEHxUJK_juWLBfOzoK0UTEefwJaaE_BlCY&security=reality&sid=9aa967421bbfced3&sni=www.deepl.com#%40FREE2CONFIG%20-%20141%20clc-main
+vless://57d437b6-d25d-4956-a297-07f066174d62@151.242.168.181:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=urD2miGxEfHylELSqqggBKCYIMSNXNTbdPijru7-eAQ&security=reality&sid=46babe29a750b634&sni=kibi-institut.de#%40FREE2CONFIG%20-%20148%20clc-main
+vless://b2963d78-6a98-4a9e-a20b-fa74dff5fde1@151.242.168.181:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=urD2miGxEfHylELSqqggBKCYIMSNXNTbdPijru7-eAQ&security=reality&sid=46babe29a750b634&sni=kibi-institut.de#%40FREE2CONFIG%20-%20155%20clc-main
+vless://be3960db-f339-0065-be7b-c1a130601141@213.193.255.206:443?encryption=none&flow=xtls-rprx-vision&fp=firef&sni=gb.cdn.cachefleet.com#%40FREE2CONFIG%20-%20159%20clc-main
