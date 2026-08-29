@@ -4,19 +4,19 @@
 #announce: Amirchelios
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@34.245.185.129:443#6%E5%85%83%E9%AB%98%E9%80%9F%E6%9C%BA%E5%9C%BA%EF%BC%9Acczzuu.top%20clc-main
-vmess://eyJ2IjoiMiIsInBzIjoi8J-HrfCfh7Ag6aaZ5rivfEBzdGFpcm5vZGUiLCJhZGQiOiJ2OS5oZWR1aWFuLmxpbmsiLCJwb3J0IjoiMzA4MDkiLCJpZCI6ImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsImFpZCI6Ilx1MDAwMiIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJiYWlkdS5jb20iLCJwYXRoIjoiL29vb28ifQ#%20clc-main
-ss://YWVzLTI1Ni1nY206Y2NmNDI2ZjFmZTc4@103.103.245.158:443/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Btls%3Bmux%3D4%3Bhost%3Dnewroot2v1.dsjsapp.com%3Bpath%3D%2Fzksuapgx%3Bmux%3Dmux%3D4%3B%3B#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF2%7C%40stairnode%20clc-main
-vmess://eyJ2IjoiMiIsInBzIjoi8J-HrfCfh7Ag6aaZ5rivM3xAc3RhaXJub2RlIiwiYWRkIjoiMTAzLjIyNC44MC42NyIsInBvcnQiOiIzMDQ4NSIsImlkIjoiYTliYTkwNGUtMmQ4Yi00MDFlLTkyMjYtYjUxMTRjMDQ5ZjA1IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJob3N0IjoiYmFpZHUuY29tIiwicGF0aCI6Ii96a3N1YXBneCJ9#%20clc-main
-trojan://253bc477d4e43c209f2d427272968280@221.128.195.221:4419?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF4%7C%40stairnode%20clc-main
-trojan://253bc477d4e43c209f2d427272968280@126.47.92.160:443?allowInsecure=1&sni=fe2.update.microsoft.com#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF6%7C%40stairnode%20clc-main
-vmess://eyJ2IjoiMiIsInBzIjoi8J-Hr_Cfh7Ug5pel5pysfEBzdGFpcm5vZGUiLCJhZGQiOiJ2Ni5oZWR1aWFuLmxpbmsiLCJwb3J0IjoiMzA4MDYiLCJpZCI6ImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsImFpZCI6Ilx1MDAwMiIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJvY2JjLmNvbSIsInBhdGgiOiIvb29vbyJ9#%20clc-main
-trojan://253bc477d4e43c209f2d427272968280@36.156.102.84:1806?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40stairnode%20clc-main
-trojan://253bc477d4e43c209f2d427272968280@36.156.102.84:3160?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40stairnode%20clc-main
-trojan://253bc477d4e43c209f2d427272968280@36.156.102.84:2173?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40stairnode%20clc-main
-trojan://253bc477d4e43c209f2d427272968280@36.156.102.84:5321?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40stairnode%20clc-main
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@5.44.249.43:2377/?plugin=simple-obfs%3Bobfs%3Dtls%3Bobfs-host%3D%28TG%20%40stairnode%2932cf132%3A178330#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40stairnode%20clc-main
-trojan://253bc477d4e43c209f2d427272968280@36.156.102.84:24673?allowInsecure=1&sni=fe2.update.microsoft.com#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%7C%40stairnode%20clc-main
-trojan://253bc477d4e43c209f2d427272968280@36.156.102.84:2381?allowInsecure=1&sni=fe2.update.microsoft.com#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40stairnode%20clc-main
-trojan://wb6368@92.243.75.49:2087?allowInsecure=0&sni=hsdgbuys.pages.dev#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD3%7C%40stairnode%20clc-main
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.136:38388#%F0%9F%87%BB%F0%9F%87%B3%20%E8%B6%8A%E5%8D%97%7C%40stairnode%20clc-main
+vless://17d29827-7cf1-4115-b40d-548e10ec355d@186.246.21.156:40443?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&fp=qq&packetEncoding=xudp&pbk=bjOGTQ4xsiFbyCPM_WzoK53L130rW5vZJtuYDJx_pkM&security=reality&sid=aa3c&sni=deepl.com#%40FREE2CONFIG%20-%209%20clc-main
+vless://519291ac-4496-4c5d-9ac2-7a4bdf2bd925@[2602:f92a:100:c900::b]:34599?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=b6ibX3Jw17uhAgMheY8QqufJSHOJSoe0_bZ1w07LNk8&security=reality&sni=www.iij.ad.jp#%40FREE2CONFIG%20-%2011%20clc-main
+vless://93dac4b8-3879-4179-abdb-9666a9e2ca8d@87.120.84.32:8443?encryption=none&type=ws#%40FREE2CONFIG%20-%2018%20clc-main
+vless://86930779-64ec-46a5-97d9-55e3107f3ce3@ha0o-6njhon.uniora.top:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=E6TSsyOKiYD_V3m3-4BTZVJBbHDgn2dEDg6cCDpASxU&security=reality&sid=dde3c2dca27ae6e7&sni=www.apple.com#%40FREE2CONFIG%20-%2023%20clc-main
+vless://bd5186bb-8223-46b7-bb55-4345988ec205@194.110.207.70:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&security=reality&sid=fd55b698ee8c3629&sni=frantax.my3cx.de#%40FREE2CONFIG%20-%2024%20clc-main
+vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@usejh2.neobo-tooth.ru:2053?encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=dRLd_E_GYCkCcwxLN5EcRQYsREKqisb26_ZSehxUpWY&security=reality&sid=1eb8ea8dae937ae0&sni=vk.ru#%40FREE2CONFIG%20-%2026%20clc-main
+vless://16c50a3f-b9bd-45f5-9bcd-76bf878876f6@45.13.226.42:34156?encryption=none&fp=chrome&pbk=BsCp88E9PdpEDjC5bxLMP2tiJYK6afCPQT_CoxCVgAI&security=reality&sid=d6cdfdd9a21f8d23&sni=yahoo.com#%40FREE2CONFIG%20-%2027%20clc-main
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@88.218.94.6:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=YQTixaXzPVImuRc4TUbrFAekjIiaYV-t5S-HTKlH0AU&security=reality&sid=2186a755ed67b034&sni=nordic.cendora.ru#%40FREE2CONFIG%20-%2032%20clc-main
+vless://8ad85ca5-7572-4ee7-8a42-a2e5c9a0e479@albania-sgood.wopd.butnorwa.butter.silicore.ir:10000?encryption=none&fp=chrome&pbk=Du5pk4KuMNA1sRcSpmuoLuC0HmxDBmFljFNfUzqxKiM&security=reality&sid=cd0a1986719e44c8&sni=amp-api-edge.apps.apple.com#%40FREE2CONFIG%20-%2034%20clc-main
+vless://8ad85ca5-7572-4ee7-8a42-a2e5c9a0e479@85.155.228.197:10000?encryption=none&fp=firefox&pbk=Du5pk4KuMNA1sRcSpmuoLuC0HmxDBmFljFNfUzqxKiM&security=reality&sid=cd0a1986719e44c8&sni=amp-api-edge.apps.apple.com#%40FREE2CONFIG%20-%2035%20clc-main
+vless://255386a8-aec5-4425-bfe7-ca49b7448deb@unesaa2.surup.shop:46142?encryption=none&fp=chrome&packetEncoding=xudp&pbk=l-OE7EwER1Z_jAifGE_UZ3FqHDMGzaR0jQHFYj5RNAk&security=reality&sid=39feeba3085c&sni=www.yahoo.com#%40FREE2CONFIG%20-%2040%20clc-main
+vless://255386a8-aec5-4425-bfe7-ca49b7448deb@108.186.202.51:46142?encryption=none&fp=edge&pbk=l-OE7EwER1Z_jAifGE_UZ3FqHDMGzaR0jQHFYj5RNAk&security=reality&sid=39feeba3085c&sni=www.yahoo.com#%40FREE2CONFIG%20-%2042%20clc-main
+vless://4caaaae0-516b-4026-b2b2-69fea69df19a@5r86-tuq187.operix.top:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=LDpWYUJjGRJomvaN-gfgY96EJOF2DDHiFcNPEBLtoW0&security=reality&sid=9019bbea8ff8781e&sni=www.bing.com#%40FREE2CONFIG%20-%2045%20clc-main
+vless://85223e1a-f55d-4d0d-b27d-39e8be49d220@83.147.246.153:2200?encryption=none&host=rzd.ru&path=%2Fv1&type=ws#%40FREE2CONFIG%20-%2054%20clc-main
+vless://32349ee8-8551-45fa-a265-8704cec72936@neth.lckdwn.ru:443?encryption=none&type=ws#%40FREE2CONFIG%20-%2057%20clc-main
+vless://aa7d939b-feaa-4ad3-9615-74216f490807@201.24.49.240:4100?encryption=none&host=live.ok.ru&path=%2Fv1&type=ws#%40FREE2CONFIG%20-%2058%20clc-main
