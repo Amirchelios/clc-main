@@ -1,4 +1,4 @@
-#profile-title: 26-26/25 @Amirchelios
+#profile-title: 26-26/26 @Amirchelios
 #profile-update-interval: 48
 #support-url: https://github.com/Amirchelios/clc-main
 #announce: Amirchelios
@@ -6,17 +6,11 @@
 
 vless://17d29827-7cf1-4115-b40d-548e10ec355d@186.246.21.156:40443?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&fp=qq&packetEncoding=xudp&pbk=bjOGTQ4xsiFbyCPM_WzoK53L130rW5vZJtuYDJx_pkM&security=reality&sid=aa3c&sni=deepl.com#%40FREE2CONFIG%20-%209%20clc-main
 vless://519291ac-4496-4c5d-9ac2-7a4bdf2bd925@[2602:f92a:100:c900::b]:34599?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=b6ibX3Jw17uhAgMheY8QqufJSHOJSoe0_bZ1w07LNk8&security=reality&sni=www.iij.ad.jp#%40FREE2CONFIG%20-%2011%20clc-main
-vless://93dac4b8-3879-4179-abdb-9666a9e2ca8d@87.120.84.32:8443?encryption=none&type=ws#%40FREE2CONFIG%20-%2018%20clc-main
-vless://86930779-64ec-46a5-97d9-55e3107f3ce3@ha0o-6njhon.uniora.top:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=E6TSsyOKiYD_V3m3-4BTZVJBbHDgn2dEDg6cCDpASxU&security=reality&sid=dde3c2dca27ae6e7&sni=www.apple.com#%40FREE2CONFIG%20-%2023%20clc-main
-vless://bd5186bb-8223-46b7-bb55-4345988ec205@194.110.207.70:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&security=reality&sid=fd55b698ee8c3629&sni=frantax.my3cx.de#%40FREE2CONFIG%20-%2024%20clc-main
-vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@usejh2.neobo-tooth.ru:2053?encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=dRLd_E_GYCkCcwxLN5EcRQYsREKqisb26_ZSehxUpWY&security=reality&sid=1eb8ea8dae937ae0&sni=vk.ru#%40FREE2CONFIG%20-%2026%20clc-main
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.208.204:22224?encryption=none&packetEncoding=xudp#%40FREE2CONFIG%20-%2015%20clc-main
 vless://16c50a3f-b9bd-45f5-9bcd-76bf878876f6@45.13.226.42:34156?encryption=none&fp=chrome&pbk=BsCp88E9PdpEDjC5bxLMP2tiJYK6afCPQT_CoxCVgAI&security=reality&sid=d6cdfdd9a21f8d23&sni=yahoo.com#%40FREE2CONFIG%20-%2027%20clc-main
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@88.218.94.6:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=YQTixaXzPVImuRc4TUbrFAekjIiaYV-t5S-HTKlH0AU&security=reality&sid=2186a755ed67b034&sni=nordic.cendora.ru#%40FREE2CONFIG%20-%2032%20clc-main
-vless://8ad85ca5-7572-4ee7-8a42-a2e5c9a0e479@albania-sgood.wopd.butnorwa.butter.silicore.ir:10000?encryption=none&fp=chrome&pbk=Du5pk4KuMNA1sRcSpmuoLuC0HmxDBmFljFNfUzqxKiM&security=reality&sid=cd0a1986719e44c8&sni=amp-api-edge.apps.apple.com#%40FREE2CONFIG%20-%2034%20clc-main
-vless://8ad85ca5-7572-4ee7-8a42-a2e5c9a0e479@85.155.228.197:10000?encryption=none&fp=firefox&pbk=Du5pk4KuMNA1sRcSpmuoLuC0HmxDBmFljFNfUzqxKiM&security=reality&sid=cd0a1986719e44c8&sni=amp-api-edge.apps.apple.com#%40FREE2CONFIG%20-%2035%20clc-main
-vless://255386a8-aec5-4425-bfe7-ca49b7448deb@unesaa2.surup.shop:46142?encryption=none&fp=chrome&packetEncoding=xudp&pbk=l-OE7EwER1Z_jAifGE_UZ3FqHDMGzaR0jQHFYj5RNAk&security=reality&sid=39feeba3085c&sni=www.yahoo.com#%40FREE2CONFIG%20-%2040%20clc-main
-vless://255386a8-aec5-4425-bfe7-ca49b7448deb@108.186.202.51:46142?encryption=none&fp=edge&pbk=l-OE7EwER1Z_jAifGE_UZ3FqHDMGzaR0jQHFYj5RNAk&security=reality&sid=39feeba3085c&sni=www.yahoo.com#%40FREE2CONFIG%20-%2042%20clc-main
-vless://4caaaae0-516b-4026-b2b2-69fea69df19a@5r86-tuq187.operix.top:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=LDpWYUJjGRJomvaN-gfgY96EJOF2DDHiFcNPEBLtoW0&security=reality&sid=9019bbea8ff8781e&sni=www.bing.com#%40FREE2CONFIG%20-%2045%20clc-main
-vless://85223e1a-f55d-4d0d-b27d-39e8be49d220@83.147.246.153:2200?encryption=none&host=rzd.ru&path=%2Fv1&type=ws#%40FREE2CONFIG%20-%2054%20clc-main
-vless://32349ee8-8551-45fa-a265-8704cec72936@neth.lckdwn.ru:443?encryption=none&type=ws#%40FREE2CONFIG%20-%2057%20clc-main
-vless://aa7d939b-feaa-4ad3-9615-74216f490807@201.24.49.240:4100?encryption=none&host=live.ok.ru&path=%2Fv1&type=ws#%40FREE2CONFIG%20-%2058%20clc-main
+vless://255386a8-aec5-4425-bfe7-ca49b7448deb@108.186.202.51:46142?encryption=none&fp=chrome&packetEncoding=xudp&pbk=l-OE7EwER1Z_jAifGE_UZ3FqHDMGzaR0jQHFYj5RNAk&security=reality&sid=39feeba3085c&sni=www.yahoo.com#%40FREE2CONFIG%20-%2040%20clc-main
+vless://32349ee8-8551-45fa-a265-8704cec72936@193.23.194.167:443?encryption=none&type=ws#%40FREE2CONFIG%20-%2057%20clc-main
+vless://523486c6-c0b5-4e5b-8896-4af2375b41cc@195.123.212.30:443?encryption=none&fp=qq&path=%2Fwebsocket%3Fed%3D2560&security=tls&sni=195.123.212.30.blanesik.space&type=ws#%40FREE2CONFIG%20-%2059%20clc-main
+vless://2d212f81-7ea2-4d0b-884c-a6497ab41143@[2606:4700::6812:b76]:8880?encryption=none&host=hidden-union-a4b2.436.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&type=ws#%40FREE2CONFIG%20-%2062%20clc-main
+vless://d593c88a-496b-4889-968c-6af644021467@[2a06:98c1:3120::]:8880?encryption=none&host=white-disk-79ed.476.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&type=ws#%40FREE2CONFIG%20-%2063%20clc-main
