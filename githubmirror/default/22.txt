@@ -4,45 +4,23 @@
 #announce: Amirchelios
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
-hysteria2://%41%73%74%72%6f%56%50%4e%5f%6f%66%66%69%63%69%61%6c@ptserv.accuratenetworkchecker.ir:36896?allowinsecure=0&fm=%7B%22udp%22%3A%5B%7B%22settings%22%3A%7B%22password%22%3A%22pr317jpnr2arr09j%22%7D%2C%22type%22%3A%22salamander%22%7D%5D%7D&security=tls&sni=lms22.gelzaro.ir#%40orangevpns_bot%20%D8%AA%D8%B3%D8%AA%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20clc-main
-hysteria2://19f72087-4591-4d72-930b-2697078ec2be@sg1.xiaoliyu.cyou:1933?insecure=1&sni=sg1.xiaoliyu.cyou#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C4.4MB/s%20clc-main
-hysteria2://1w61o8j0slf0q9yj@giftcard.gateway-stream.com:52000?alpn=h3&insecure=0&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&sni=giftcard.gateway-stream.com#%F0%9F%87%AB%F0%9F%87%AE156811%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/S...%20clc-main
-hysteria2://1w61o8j0slf0q9yj@giftcard.gateway-stream.com:52016?alpn=h3&insecure=0&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&sni=giftcard.gateway-stream.com#%F0%9F%87%AB%F0%9F%87%AE156804%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/S...%20clc-main
-hysteria2://1w61o8j0slf0q9yj@giftcard.gateway-stream.com:52032?alpn=h3&insecure=0&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&sni=giftcard.gateway-stream.com#%F0%9F%87%AB%F0%9F%87%AE156790%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/S...%20clc-main
-hysteria2://1w61o8j0slf0q9yj@giftcard.gateway-stream.com:52064?alpn=h3&insecure=0&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&sni=giftcard.gateway-stream.com#%F0%9F%87%AB%F0%9F%87%AE156812%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/S...%20clc-main
-hysteria2://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@usa0003rlbhy01.tcp-reset-club.net:443?sni=usa0003rlbhy01.tcp-reset-club.net#@OutlineReleasedKey%20clc-main
-hysteria2://95e8532b-cc69-42d4-9553-e3c23292b15b@81.168.62.17:8443?insecure=1&sni=iq5ny.pleiades.codes#@OutlineReleasedKey%20clc-main
-hysteria2://C0DD7bgChaltqnh%2FT2az6ijM@140.238.31.111:20000?insecure=0&obfs=salamander&obfs-password=C0DD7bgChaltqnh%2FT2az6ijM&security=tls&sni=rmgyvpn.rest#%40V2ray_Alpha%F0%9F%8F%89%206%20clc-main
-hysteria2://C91FbOXGY9XRymrcEebtax9R1Nj62UizoT8S6kCb7xwey8IE@31.76.30.97:443?insecure=1&sni=fast.wwwinternetvideo.click#%20clc-main
-hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@hy2-new.aspidnet.xyz:443?obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&sni=hy2-new.aspidnet.xyz#hamedvpns%3A%3A%F0%9F%87%A9%F0%9F%87%AA%20clc-main
-hysteria2://T%24me%24V2RayyNGvpn@70.34.205.15:443?allowInsecure=1&insecure=1&obfs=salamander&obfs-password=T.me%24V2RayyNGvpn&sni=www.wordreference.com#%20clc-main
-hysteria2://Telegram@vpnjey@vpnjey@31.76.27.23:37009?alpn=h3&insecure=1&obfs=salamander&obfs-password=Telegram%40vpnjey&sni=de.vpnjey.store#%20clc-main
-hysteria2://Telegram@vpnjey@vpnjey@77.110.96.201:36264?alpn=h3&insecure=1&obfs=salamander&obfs-password=Telegram%40vpnjey&sni=se.vpnjey2.dpdns.org#%20clc-main
-hysteria2://TelegramVPNJey@1.1.1.1:37003?alpn=h3&ech=AF%2F+DQBbAAAgACDPt1H4KFpH0EfzJU8tpkWdkeeaN+1oiXNSe0ksstovYQAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAAxkZS5qZXkuY2MuY2QAAA%3D%3D&fm=%7B#%20clc-main
-hysteria2://TelegramVPNjey@179.61.251.253:37003?alpn=h3&ech=AF%2F+DQBbAAAgACDPt1H4KFpH0EfzJU8tpkWdkeeaN+1oiXNSe0ksstovYQAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAAxkZS5qZXkuY2MuY2QAAA%3D%3D&fm=%7B#%20clc-main
-hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@144.31.49.47:443?insecure=1&sni=admin.wwwinternetvideo.click#%20clc-main
-hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@144.31.93.126:443?insecure=1&sni=admin.wwwinternetvideo.click#%20clc-main
-hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@45.192.12.93:443?insecure=1#%20clc-main
-hysteria2://c4ed8ab1-4e2b-45e8-8ba9-d64a75b7f0f4@208.87.242.163:50000?insecure=1&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8US_28%7C1.7MB/s%20clc-main
-hysteria2://cd74c0a406664a5bc0bac098220a2468@ee2.sferavpn.pro:443?obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&seq=you_are_beautiful4036&sni=ee2.sferavpn.pro#%20clc-main
-hysteria2://cd74c0a406664a5bc0bac098220a2468@ru1.sferavpn.pro:443?obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&sni=ru1.sferavpn.pro#hamedvpns%3A%3A%F0%9F%87%B7%F0%9F%87%BA%20clc-main
-hysteria2://dongtaiwang.com@208.87.243.187:22222?insecure=1&security=tls&sni=www.bing.com#%20clc-main
-hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@nas.aizhzo.com:5010?obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&sni=nas.aizhzo.com#hamedvpns%3A%3A%F0%9F%87%AD%F0%9F%87%B0%20clc-main
-hysteria2://eb0e3aec-f67f-4fa2-8577-b0bff0484e77@194.238.40.185:443?insecure=1&sni=kaz0001hy01.packet-drop-society.net#%20clc-main
-hysteria2://eb0e3aec-f67f-4fa2-8577-b0bff0484e77@kaz0001hy01.packet-drop-society.net:443?insecure=1&sni=kaz0001hy01.packet-drop-society.net#%F0%9F%90%B296@oneclickvpnkeys%20clc-main
-hysteria2://g2d0ooqq3ykzsacc@giftcard.gateway-stream.com:52003?insecure=0&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&security=tls&sni=giftcard.gateway-stream.com#EPODONIOS%20clc-main
-hysteria2://g2d0ooqq3ykzsacc@giftcard.gateway-stream.com:52004?insecure=0&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&security=tls&sni=giftcard.gateway-stream.com#EPODONIOS%20clc-main
-hysteria2://g2d0ooqq3ykzsacc@giftcard.gateway-stream.com:52040?insecure=0&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&security=tls&sni=giftcard.gateway-stream.com#EPODONIOS%20clc-main
-hysteria2://gf1%3Agfhysteria2024@185.156.44.99:443?_t=227da4f0&allowInsecure=1&downmbps=50&insecure=1&nonce=e98RZ2Wn&sni=css.rbxcdn.com&upmbps=10#%20clc-main
-hysteria2://gf1@173.212.201.85:443?insecure=1&sni=www.docker.com#_FR_%E6%B3%95%E5%9B%BD_1%202%20clc-main
-hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@222.167.212.81:8080?insecure=1&sni=hopp-legend-se.roxa.org#%E8%8B%B1%E5%9B%BD%20%234%20clc-main
-hysteria2://oCYFcbOo8s@hys22.wba-pn.ru:443?sni=hys22.wba-pn.ru#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1%20clc-main
-hysteria2://rjj39jg8iphgd06h@pro2.riziro.ir:44100?alpn=h3&fm=%7B#%20clc-main
-hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.138:8443?sni=grape-turbo-fr.roxa.org#%20clc-main
-hysteria2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@217.60.182.79:443?insecure=1&sni=cabinet.wwwinternetvideo.click#%20clc-main
-hysteria2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@31.76.71.63:443?insecure=1&sni=cabinet.wwwinternetvideo.click#%20clc-main
-hysteria2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@cabinet.wwwinternetvideo.click:443?insecure=1&sni=cabinet.wwwinternetvideo.click#@OutlineReleasedKey%20clc-main
-hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@ro.h2corp.org:443?security=tls#%20clc-main
-hysteria2://umnDU7jgFYUjpVjVM2sW9HL0rRYLJNgzVwRu2HzWEhyZKkRx@144.31.93.173:443?insecure=1&sni=germany1.h2corp.local#%20clc-main
-hysteria2://umnDU7jgFYUjpVjVM2sW9HL0rRYLJNgzVwRu2HzWEhyZKkRx@hold.wwwinternetvideo.click:443?insecure=1&sni=germany1.h2corp.local%234%F0%9F%90%B2%40oneclickvpnkeys#🌐سرور%20clc-main
-hysteria2://wrSuBorIlf@72.56.116.57:443?insecure=1#%20clc-main
+ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@109.201.152.181:443#🇳🇱 Rose—01%20clc-main
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-fr-002.fastervpn.world:443?insecure=1&sni=vpn-fr-002.fastervpn.world#🇫🇷 Rose—04%20clc-main
+hysteria2://41f0d6d3-4a45-4635-8225-2abd2284189b@mlxy.mangshe.xyz:2060?insecure=1&sni=mlxy.mangshe.xyz#🇺🇸 Rose—05%20clc-main
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.38.82.167:443?insecure=1&sni=vpn-fr-001.fastervpn.world#🇫🇷 Rose—23%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6UlpOQnN6WXlXbzU@51.77.225.200:8388#🇬🇧 Rose—42%20clc-main
+ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.233:65443#🇨🇳 Rose—59%20clc-main
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@3.250.223.202:443#🇮🇪 Rose—60%20clc-main
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@34.241.245.82:443#🇮🇪 Rose—73%20clc-main
+ss://2022-blake3-aes-256-gcm:Zjc0N2QyYTkyNzc2NGRiZDhjY2NjYTU5Mzk2N2NkOTk=%3AYmNhN2UyNzdlNTg3NGFkMjkxNGY4ZjEzYWM2MzQ2NGQ=@84.32.131.61:18610#🇺🇸 Rose—74%20clc-main
+ss://2022-blake3-chacha20-poly1305:viIh4ZhymCsvjIfhXYuFGQkeJEWkCHrqf3oNjsT0z00=@164.152.62.150:59319#🇧🇷 Rose—85%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.175:443#🇳🇱 Rose—90%20clc-main
+ss://2022-blake3-chacha20-poly1305:MKzw1HxJdrY1+Pm12sIuiKt277hbryrPFKlSVTBWyMY=@134.98.147.129:45819#🇳🇱 Rose—91%20clc-main
+ss://2022-blake3-aes-256-gcm:rrR97O6JIRzSRG8uHimVCgLEssjipthiC4Hlieq%2F4%2Fw=%3AB+gmrP1txQliTTw0NNVoHZ+wjNAL3nKHZopLtqlEAnI=@65.109.215.50:13049#🇫🇮 Rose—92%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.180:8080#🇳🇱 Rose—101%20clc-main
+ss://2022-blake3-chacha20-poly1305:FWlUCAS9IBNg+5FoZ+U0kRs3dcz+oQnQkjGI%2FiKZMR0=@146.235.25.6:59319#🇧🇷 Rose—110%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.16:8080#🇳🇱 Rose—111%20clc-main
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@34.244.150.119:443#🇮🇪 Rose—113%20clc-main
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@18.132.203.206:443#🇬🇧 Rose—114%20clc-main
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@35.182.250.193:443#🇨🇦 Rose—115%20clc-main
+ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ@5.188.181.201:9011#🇪🇸 Rose—123%20clc-main
