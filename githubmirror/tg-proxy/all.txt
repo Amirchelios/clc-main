@@ -1,199 +1,189 @@
-https://t.me/proxy?server=83.166.254.255&port=443&secret=dd6b3fb02424dbac55fef2da67c8c949
+https://t.me/proxy?server=iran-download.shentaichiacademy.co.uk.&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff6d656469612e737465616d706f77657265642e636f6d
 
-https://t.me/proxy?server=app.what-ever.co.uk&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff6d656469612e737465616d706f77657265642e636f6d
+https://t.me/proxy?server=194.59.221.90&port=8444&secret=ee7577a125c7ad9c1d711adb2ebd0f6efc6465636174686c6f6e2e636f6d
 
-https://t.me/proxy?server=setion-two.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b7765622e62616c652e6169
-
-https://t.me/proxy?server=udymau.server-space52.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
-
-https://t.me/proxy?server=176.109.105.129&port=443&secret=ee248c43b7aee97c6fe887311452a323026164732e78352e7275
-
-https://t.me/proxy?server=iran.mr-moo.co.uk.&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169
-
-https://t.me/proxy?server=vasl-sho.mohearn.co.uk.&port=443&secret=7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ==
+https://t.me/proxy?server=194.59.221.90&port=8443&secret=eef4b79908a669cfe8f293941da4e388916465636174686c6f6e2e636f6d
 
 https://t.me/proxy?server=cdn6.cdnwave.org&port=443&secret=ee7391242569590e01416101927d38b565646e732d73686f702e7275
 
-https://t.me/proxy?server=media2.happtg.org&port=443&secret=ee95aa916bd319beb312cc6ba9b2c5aef8766b2e7275
+https://t.me/proxy?server=download.lv426.co.uk.&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff6d656469612e737465616d706f77657265642e636f6d
 
-https://t.me/socks?server=144.202.16.214&port=1088
+https://t.me/proxy?server=benz.mohearn.co.uk.&port=443&secret=7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ==
 
-https://t.me/socks?server=67.207.92.87&port=1088
-
-https://t.me/socks?server=147.45.60.136&port=1082
-
-https://t.me/socks?server=147.45.60.124&port=1082
+https://t.me/socks?server=3.84.72.152&port=5555
 
 https://t.me/socks?server=193.233.130.212&port=1080
 
-https://t.me/socks?server=45.40.136.39&port=45741
+https://t.me/socks?server=45.32.160.61&port=1088
 
-https://t.me/socks?server=144.126.197.184&port=1088
+https://t.me/socks?server=107.173.230.93&port=40000
+
+https://t.me/socks?server=107.167.18.122&port=443
+
+https://t.me/socks?server=43.135.176.121&port=1080
+
+https://t.me/socks?server=81.168.119.85&port=443
+
+https://t.me/socks?server=31.207.45.69&port=1080
 
 https://t.me/socks?server=79.137.79.217&port=2080
 
 https://t.me/socks?server=5.255.117.127&port=1080
 
-https://t.me/socks?server=5.255.113.177&port=1080
-
 https://t.me/socks?server=5.255.99.75&port=1080
 
-https://t.me/socks?server=109.172.55.227&port=1082
+https://t.me/socks?server=51.178.49.241&port=1088
 
-https://t.me/socks?server=152.89.104.11&port=1080
+https://t.me/socks?server=128.199.37.92&port=1080
 
-https://t.me/socks?server=5.253.59.150&port=1082
+https://t.me/socks?server=51.158.67.151&port=10801
 
-https://t.me/socks?server=132.243.120.54&port=10809
+https://t.me/socks?server=51.89.253.203&port=10801
 
-https://t.me/socks?server=31.207.45.69&port=1080
+https://t.me/socks?server=185.185.80.58&port=1088
 
-https://t.me/socks?server=154.12.242.0&port=1080
-
-https://t.me/socks?server=72.56.76.200&port=1080
-
-https://t.me/socks?server=93.123.118.15&port=1080
-
-https://t.me/socks?server=185.222.138.237&port=1080
-
-https://t.me/socks?server=43.135.176.121&port=1080
-
-https://t.me/socks?server=49.13.22.249&port=10811
-
-https://t.me/socks?server=193.233.218.121&port=1080
-
-https://t.me/socks?server=185.128.104.152&port=8443
-
-https://t.me/socks?server=51.159.149.245&port=80
-
-https://t.me/socks?server=93.87.38.20&port=1090
-
-https://t.me/socks?server=158.160.140.235&port=1080
-
-https://t.me/socks?server=45.61.188.134&port=44499
-
-https://t.me/socks?server=161.35.90.93&port=1081
-
-https://t.me/socks?server=101.36.104.239&port=10808
-
-https://t.me/socks?server=91.103.120.49&port=443
+https://t.me/socks?server=49.13.22.249&port=10801
 
 https://t.me/socks?server=5.75.133.113&port=10801
 
-https://t.me/socks?server=121.169.46.116&port=1090
+https://t.me/socks?server=93.123.118.15&port=1080
 
-https://t.me/socks?server=101.36.104.46&port=10808
+https://t.me/socks?server=93.87.38.20&port=1090
 
-https://t.me/socks?server=147.45.60.139&port=1082
+https://t.me/socks?server=45.93.170.251&port=888
 
-https://t.me/socks?server=65.21.252.66&port=10811
+https://t.me/socks?server=154.12.242.0&port=1080
 
-https://t.me/socks?server=45.144.54.40&port=1080
+https://t.me/socks?server=185.222.138.237&port=1080
 
-https://t.me/socks?server=43.133.54.152&port=7890
+https://t.me/socks?server=185.128.104.152&port=8443
 
-https://t.me/socks?server=157.245.159.157&port=1080
+https://t.me/socks?server=213.199.47.140&port=1080
 
-https://t.me/socks?server=159.223.76.52&port=1080
+https://t.me/socks?server=5.45.119.70&port=1080
 
-https://t.me/socks?server=159.223.86.111&port=1080
+https://t.me/socks?server=101.36.104.239&port=10808
 
-https://t.me/socks?server=143.198.205.96&port=1080
+https://t.me/socks?server=161.35.90.93&port=1083
 
-https://t.me/socks?server=159.223.88.58&port=1080
+https://t.me/socks?server=193.233.218.121&port=1080
 
-https://t.me/socks?server=165.22.243.171&port=1080
-
-https://t.me/socks?server=144.24.111.128&port=1088
-
-https://t.me/socks?server=84.54.217.219&port=1080
-
-https://t.me/socks?server=188.166.217.100&port=1080
-
-https://t.me/socks?server=78.109.137.53&port=1080
-
-https://t.me/socks?server=45.194.33.12&port=30002
-
-https://t.me/socks?server=43.164.3.124&port=1080
-
-https://t.me/socks?server=83.222.24.37&port=1080
-
-https://t.me/socks?server=65.109.196.122&port=2091
-
-https://t.me/socks?server=47.250.211.53&port=1080
-
-https://t.me/socks?server=111.119.162.248&port=10913
-
-https://t.me/socks?server=116.241.240.176&port=11080
-
-https://t.me/socks?server=78.29.53.117&port=1080
-
-https://t.me/socks?server=160.22.17.4&port=9988
-
-https://t.me/socks?server=78.159.131.108&port=1082
-
-https://t.me/socks?server=113.249.111.67&port=1080
-
-https://t.me/socks?server=110.235.240.223&port=1080
-
-https://t.me/socks?server=193.168.198.240&port=1080
-
-https://t.me/socks?server=85.209.156.148&port=1080
-
-https://t.me/socks?server=212.237.125.216&port=6969
-
-https://t.me/socks?server=161.35.90.93&port=1082
-
-https://t.me/socks?server=37.49.224.243&port=1080
-
-https://t.me/socks?server=81.0.49.104&port=18500
-
-https://t.me/socks?server=103.242.105.199&port=8199
-
-https://t.me/socks?server=5.75.133.113&port=10811
-
-https://t.me/socks?server=111.206.4.163&port=18888
-
-https://t.me/socks?server=149.28.222.169&port=1088
-
-https://t.me/socks?server=123.58.219.171&port=10808
-
-https://t.me/socks?server=62.60.210.173&port=1080
-
-https://t.me/socks?server=5.255.103.55&port=1080
-
-https://t.me/socks?server=81.163.20.187&port=1080
-
-https://t.me/socks?server=115.127.112.178&port=1080
-
-https://t.me/socks?server=147.45.60.246&port=1082
-
-https://t.me/socks?server=171.25.158.95&port=1080
-
-https://t.me/socks?server=103.89.2.102&port=1080
-
-https://t.me/socks?server=178.130.47.21&port=1082
-
-https://t.me/socks?server=103.197.241.209&port=1080
-
-https://t.me/socks?server=193.221.203.14&port=1080
-
-https://t.me/socks?server=66.151.32.105&port=1080
-
-https://t.me/socks?server=45.95.233.88&port=1082
+https://t.me/socks?server=49.13.22.249&port=10811
 
 https://t.me/socks?server=43.164.136.189&port=1080
 
-https://t.me/socks?server=77.239.106.24&port=1080
+https://t.me/socks?server=45.192.242.201&port=8888&user=hanbaocloud&pass=hanbaocloud
 
-https://t.me/socks?server=79.76.52.220&port=1080
+https://t.me/socks?server=169.58.97.115&port=1080
 
-https://t.me/socks?server=202.62.50.52&port=1080
+https://t.me/socks?server=121.169.46.116&port=1090
 
-https://t.me/socks?server=188.242.163.28&port=21
+https://t.me/socks?server=109.195.215.208&port=1080
 
-https://t.me/socks?server=212.46.245.189&port=1080
+https://t.me/socks?server=116.241.240.176&port=11080
 
-https://t.me/socks?server=160.22.200.60&port=69
+https://t.me/socks?server=144.24.111.128&port=1088
 
-https://t.me/socks?server=154.29.153.164&port=35554
+https://t.me/socks?server=144.91.121.61&port=1088
+
+https://t.me/socks?server=101.36.104.46&port=10808
+
+https://t.me/socks?server=5.75.133.113&port=10811
+
+https://t.me/socks?server=147.45.60.110&port=1082
+
+https://t.me/socks?server=147.45.60.139&port=1082
+
+https://t.me/socks?server=34.84.162.206&port=38081
+
+https://t.me/socks?server=167.172.87.244&port=1080
+
+https://t.me/socks?server=167.172.64.222&port=1080
+
+https://t.me/socks?server=165.22.63.133&port=1080
+
+https://t.me/socks?server=167.172.67.35&port=1080
+
+https://t.me/socks?server=159.223.86.111&port=1080
+
+https://t.me/socks?server=188.166.217.100&port=1080
+
+https://t.me/socks?server=159.223.88.58&port=1080
+
+https://t.me/socks?server=146.190.90.120&port=1080
+
+https://t.me/socks?server=165.22.243.171&port=1080
+
+https://t.me/socks?server=167.172.79.22&port=1080
+
+https://t.me/socks?server=47.250.211.53&port=1080
+
+https://t.me/socks?server=31.3.209.75&port=1080
+
+https://t.me/socks?server=161.35.90.93&port=1081
+
+https://t.me/socks?server=204.152.192.13&port=1080
+
+https://t.me/socks?server=160.22.17.4&port=9988
+
+https://t.me/socks?server=85.209.156.148&port=1080
+
+https://t.me/socks?server=65.21.252.66&port=10808
+
+https://t.me/socks?server=31.76.31.241&port=1080
+
+https://t.me/socks?server=8.215.25.3&port=2080
+
+https://t.me/socks?server=195.19.50.114&port=1080
+
+https://t.me/socks?server=65.109.196.122&port=2091
+
+https://t.me/socks?server=5.255.117.250&port=1080
+
+https://t.me/socks?server=195.135.255.98&port=1080
+
+https://t.me/socks?server=5.206.102.54&port=1080
+
+https://t.me/socks?server=152.53.183.107&port=8081
+
+https://t.me/socks?server=43.106.60.21&port=1080
+
+https://t.me/socks?server=111.119.162.248&port=10902
+
+https://t.me/socks?server=5.255.103.55&port=1080
+
+https://t.me/socks?server=111.119.162.248&port=10906
+
+https://t.me/socks?server=102.69.146.59&port=7080
+
+https://t.me/socks?server=202.43.165.140&port=10802
+
+https://t.me/socks?server=45.61.129.165&port=9050
+
+https://t.me/socks?server=130.255.94.32&port=5080
+
+https://t.me/socks?server=59.152.97.233&port=1080
+
+https://t.me/socks?server=103.36.11.18&port=8199
+
+https://t.me/socks?server=137.131.12.103&port=1080
+
+https://t.me/socks?server=147.45.221.112&port=1082
+
+https://t.me/socks?server=45.95.233.88&port=1082
+
+https://t.me/socks?server=147.45.221.111&port=1082
+
+https://t.me/socks?server=49.13.22.249&port=10808
+
+https://t.me/socks?server=111.206.4.163&port=18888
+
+https://t.me/socks?server=119.135.230.59&port=1090
+
+https://t.me/socks?server=31.76.50.159&port=1080
+
+https://t.me/socks?server=213.165.43.73&port=46650
+
+https://t.me/socks?server=103.142.255.32&port=1080
+
+https://t.me/socks?server=45.179.145.12&port=6080
