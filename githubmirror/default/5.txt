@@ -1,4 +1,4 @@
-#profile-title: 5-5/26 @Amirchelios
+#profile-title: 5-5/25 @Amirchelios
 #profile-update-interval: 48
 #support-url: https://github.com/Amirchelios/clc-main
 #announce: Amirchelios
@@ -72,7 +72,6 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.170:443?#306.%F0%9F%87%BA%F0%9F%
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg001286ek2.cybervena.com:50099?#521.%F0%9F%8C%90%D0%9D%D0%B5%D0%B8%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%BD%D0%BE%20%7C%20%40LimeVPNFREE%20clc-main
 vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&security=reality&sni=www.cloudflare.com#526.%F0%9F%8C%90%D0%9D%D0%B5%D0%B8%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%BD%D0%BE%20%7C%20%40LimeVPNFREE%20clc-main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@185.213.23.63:990?#552.%F0%9F%87%B3%F0%9F%87%B4%D0%9D%D0%BE%D1%80%D0%B2%D0%B5%D0%B3%D0%B8%D1%8F%20%7C%20%40LimeVPNFREE%20clc-main
-vmess://eyJ2IjoiMiIsInBzIjoiU2VydmVyIDEwNSDwn4e58J-HvCIsImFkZCI6IjE2NS4xNTQuMTk1LjM4IiwicG9ydCI6IjM1MDM0IiwiaWQiOiI5NTlhOGNhZi00Y2VhLTQzZDAtYTU0OC0zNjI4ZTdkZGZhZmMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJ2bWVzcyJ9#%20clc-main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUV0c3SjFLUjVLc1BhVjVxWkkrcmlldWVLeHhhZlpTcENI@45.77.232.213:15675?#Server%20133%20%F0%9F%87%A6%F0%9F%87%BA%20clc-main
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.182:443?#Server%2017%20%F0%9F%87%AC%F0%9F%87%A7%20clc-main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443?#Server%2038%20%F0%9F%87%BA%F0%9F%87%B8%20clc-main
