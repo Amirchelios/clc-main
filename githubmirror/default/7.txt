@@ -1,59 +1,144 @@
-#profile-title: 7-7/25 @Amirchelios
+#profile-title: 7-7/26 @Amirchelios
 #profile-update-interval: 48
 #support-url: https://github.com/Amirchelios/clc-main
 #announce: Amirchelios
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
-vmess://eyJ2IjoiMiIsInBzIjoi8J-Hs_Cfh7Fbb3BlbnByb3h5bGlzdC5jb21dIHZtZXNzLU5MIiwiYWRkIjoid2ViLXByb2R1Y3Rpb24tMDM5MmUudXAucmFpbHdheS5hcHAiLCJwb3J0IjoiNDQzIiwiaWQiOiJlNGVhNzRkZC0yNjYzLTQzYTEtYjg0My0xNDQ0M2NmNzBkZGIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJ3ZWItcHJvZHVjdGlvbi0wMzkyZS51cC5yYWlsd2F5LmFwcCIsInBhdGgiOiIvdm0td3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ3ZWItcHJvZHVjdGlvbi0wMzkyZS51cC5yYWlsd2F5LmFwcCIsImFscG4iOiJodHRwLzEuMSJ9#%20clc-main
-trojan://i99Cef@209.248.32.116:28101?security=tls#🇹🇼[openproxylist.com] trojan-TW%20clc-main
-ss://YWVzLTI1Ni1nY206cXBTZXZLYVVYWVFLdlNqcA@139.180.220.175:8388#🇸🇬[openproxylist.com] ss-SG%20clc-main
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.82:8080#🇳🇱[openproxylist.com] ss-NL%20clc-main
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6d3RyVU1WYlNSU2k0TWx6QVRyK0ZqdnFGQ2N6WldGeEczaFo3K0lXVzF5MD0@134.65.57.72:61312#🇬🇧[openproxylist.com] ss-GB%20clc-main
-vmess://eyJ2IjoiMiIsInBzIjoi8J-HuvCfh7hbb3BlbnByb3h5bGlzdC5jb21dIHZtZXNzLVVTIiwiYWRkIjoibmV3cmVsYXgucmVsYXhlZGJveS5vbmxpbmUiLCJwb3J0IjoiMTEwIiwiaWQiOiI4ZTk2ODdmYy1hM2E3LTQxNGEtODY3Ni04ZTIxMzY3OTdjZmUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCJ9#%20clc-main
-vmess://eyJ2IjoiMiIsInBzIjoi8J-HuvCfh7hbb3BlbnByb3h5bGlzdC5jb21dIHZtZXNzLVVTIiwiYWRkIjoiNjYuMTEyLjIwOS4yMTMiLCJwb3J0IjoiMTcwNDUiLCJpZCI6Ijg1MTcxNTk3LTRiZWYtNDZhMC05YmVlLTMyZTljOTI5ZjgzZiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIn0#%20clc-main
-vless://91d0fa43-e557-43e7-a731-f0c3d1fb306a@89.105.208.121:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&packetEncoding=xudp&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&security=reality&sid=6d6f13013d3e1d0c&sni=n1.cloudgaming.one#🇬🇪[openproxylist.com] vless-GE%20clc-main
-vmess://eyJ2IjoiMiIsInBzIjoi8J-Hr_Cfh7Vbb3BlbnByb3h5bGlzdC5jb21dIHZtZXNzLUpQIiwiYWRkIjoib2MuaW1mdW4uZnVuIiwicG9ydCI6IjE4MTEyIiwiaWQiOiJhZDQ1ZjhmNi0wZjBhLTRjYzQtYjkwNy1jNDU4MjQwN2RjOTQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCJ9#%20clc-main
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozaFNyQnJtS21yZ05Hc0Q5N1JTR09TNXArWElGcUVWazZabzRBSGJzUmhnPQ@85.209.157.209:29367#🇺🇸[openproxylist.com] ss-US%20clc-main
-vmess://eyJ2IjoiMiIsInBzIjoi8J-HrfCfh7Bbb3BlbnByb3h5bGlzdC5jb21dIHZtZXNzLUhLIiwiYWRkIjoiMTU2LjIyNi4xODMuMTgxIiwicG9ydCI6IjU0MzIxIiwiaWQiOiJkM2JjYzFmMS02Mjk0LTRmNjgtYmNmMy1jM2JjYjIwMDE1MjAiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInBhdGgiOiIvIn0#%20clc-main
-vmess://eyJ2IjoiMiIsInBzIjoi8J-Hr_Cfh7Vbb3BlbnByb3h5bGlzdC5jb21dIHZtZXNzLUpQIiwiYWRkIjoiNDUuMzIuNTcuMTE4IiwicG9ydCI6IjQ0MzMiLCJpZCI6IjM1Yjg5ODMyLTBhN2MtNDhkZC04ZDFjLWEyODkxYjUyMjE5NSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIn0#%20clc-main
-vless://50414e45-4c5f-5a45-5553-4d64f1370eeb@188.114.97.6:8080?encryption=none&fm=%7B%22tcp%22%3A+%5B%7B%22type%22%3A+%22fragment%22%2C+%22settings%22%3A+%7B%22packets%22%3A+%221-1%22%2C+%22lengths%22%3A+%5B%221%22%5D%2C+%22delays%22%3A+%5B%224%22%5D%2C+%22maxSplit%22%3A+%22355%22%7D%7D%5D%7D&host=r5zenrelur2s.pqzdileiu8es.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2F4d64f1370eeb%2Floc-0&type=ws#🇩🇪[openproxylist.com] vless-DE%20clc-main
-vless://78eb4455-0d07-28a0-93e3-7c8654f11d74@80.66.65.51:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sid=1ed136481e0ede74&sni=cdn.geodema.network#🇨🇭[openproxylist.com] vless-CH%20clc-main
-vless://78eb4455-0d07-24b8-93e3-7c8654f11d74@45.151.182.234:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sid=1ed136481e0ede74&sni=cdn.geodema.network#🇲🇩[openproxylist.com] vless-MD%20clc-main
-vless://78eb4455-0d07-23f0-93e3-7c8654f11d74@45.151.182.234:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sid=1ed136481e0ede74&sni=cdn.geodema.network#🇱🇻[openproxylist.com] vless-LV%20clc-main
-vless://78eb4455-0d07-1644-93e3-7c8654f11d74@45.151.182.234:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sid=1ed136481e0ede74&sni=cdn.geodema.network#🇶🇦[openproxylist.com] vless-QA%20clc-main
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@51.222.200.165:5000#🇨🇦[openproxylist.com] ss-CA%20clc-main
-trojan://tripitropa994825@45.85.88.194:2234?security=tls&sni=vps.tropicalhosting.net#🇬🇧[openproxylist.com] trojan-GB%20clc-main
-trojan://humanity@188.42.145.180:443?alpn=http%2F1.1&fp=chrome&host=www.volumeroot.com&path=%2Fassignment&security=tls&sni=www.volumeroot.com&type=ws#🇳🇱[openproxylist.com] trojan-NL%20clc-main
-vmess://eyJ2IjoiMiIsInBzIjoi8J-HrfCfh7Bbb3BlbnByb3h5bGlzdC5jb21dIHZtZXNzLUhLIiwiYWRkIjoiZG9nLWhrLmt1bmx1bjAxZG5zLmNvbSIsInBvcnQiOiIyMTAyMCIsImlkIjoiOTQ2NGNhNDAtZGQ3NS0zNzQyLWE2MjgtZDkzMWE5ZjQxM2IyIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AifQ#%20clc-main
-vmess://eyJ2IjoiMiIsInBzIjoi8J-Hv_Cfh6Zbb3BlbnByb3h5bGlzdC5jb21dIHZtZXNzLVpBIiwiYWRkIjoiemEtYS16enkuZ2xueWhsZ2MuY29tIiwicG9ydCI6IjQ0MyIsImlkIjoiNTU4M2FmNTAtZjQ2NC00ZGY2LWUyZWYtMzQ1OTIzMTFlNWM2IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJob3N0IjoiemEtYS16enkuZ2xueWhsZ2MuY29tIiwicGF0aCI6Ii9hYm91dC83Njc4IiwidGxzIjoidGxzIn0#%20clc-main
-trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@104.21.70.21:443?allowInsecure=0&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%225%22%2C%2294%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22109%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%22355%22%7D%7D%5D%7D&fp=unsafe&host=id1.nathaya.web.id&insecure=0&path=%2Ftrojan&security=tls&sni=id1.nathaya.web.id&type=ws#🇮🇩[openproxylist.com] trojan-ID%20clc-main
-vmess://eyJ2IjoiMiIsInBzIjoi8J-HqfCfh6pbb3BlbnByb3h5bGlzdC5jb21dIHZtZXNzLURFIiwiYWRkIjoiZGVhcHAuamlzdXl1bi50b3AiLCJwb3J0IjoiMjA1MyIsImlkIjoiOWExYTA1ZDktNjliZS00NWQzLWUzMjYtYzY2MjFlZGY3YjMxIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJkZWFwcC5qaXN1eXVuLnRvcCIsInBhdGgiOiIvZGV2bSIsInRscyI6InRscyIsInNuaSI6ImRlYXBwLmppc3V5dW4udG9wIn0#%20clc-main
-vmess://eyJ2IjoiMiIsInBzIjoi8J-HrfCfh7Bbb3BlbnByb3h5bGlzdC5jb21dIHZtZXNzLUhLIiwiYWRkIjoiemZkLWhrdjIua3VubHVuMDFkbnMuY29tIiwicG9ydCI6IjE2MTE2IiwiaWQiOiIwODAyYWMwMy03OTczLTM5ZWYtYTAxOS1iYTAyZGU2YzAxZTEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCJ9#%20clc-main
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@15.204.247.244:4444#🇺🇸[openproxylist.com] ss-US%20clc-main
-vmess://eyJ2IjoiMiIsInBzIjoi8J-HrfCfh7Bbb3BlbnByb3h5bGlzdC5jb21dIHZtZXNzLUhLIiwiYWRkIjoiemZkLWhrdjEua3VubHVuMDFkbnMuY29tIiwicG9ydCI6IjE2MTEzIiwiaWQiOiIwODAyYWMwMy03OTczLTM5ZWYtYTAxOS1iYTAyZGU2YzAxZTEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCJ9#%20clc-main
-vmess://eyJ2IjoiMiIsInBzIjoi8J-HrfCfh7Bbb3BlbnByb3h5bGlzdC5jb21dIHZtZXNzLUhLIiwiYWRkIjoiemZkLWhrdjEua3VubHVuMDFkbnMuY29tIiwicG9ydCI6IjE2MTE0IiwiaWQiOiIwODAyYWMwMy03OTczLTM5ZWYtYTAxOS1iYTAyZGU2YzAxZTEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCJ9#%20clc-main
-vmess://eyJ2IjoiMiIsInBzIjoi8J-HqPCfh7Nbb3BlbnByb3h5bGlzdC5jb21dIHZtZXNzLUNOIiwiYWRkIjoiMTUwLjI0Mi4yNDQuMTE2IiwicG9ydCI6IjI2NDgiLCJpZCI6IjVkNzQ2ZjFlLTcwMjgtNDU1Zi1iYjAwLTE4MDYyNDlhNTk0MSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIn0#%20clc-main
-vmess://eyJ2IjoiMiIsInBzIjoi8J-HrfCfh7Bbb3BlbnByb3h5bGlzdC5jb21dIHZtZXNzLUhLIiwiYWRkIjoiemZkLWhrdjIua3VubHVuMDFkbnMuY29tIiwicG9ydCI6IjE2MTEyIiwiaWQiOiIwODAyYWMwMy03OTczLTM5ZWYtYTAxOS1iYTAyZGU2YzAxZTEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCJ9#%20clc-main
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4QzV2YWxoT2Q4dmZ3YVRYVVNaNlp5YjBJcDM0bFJSNXo3UDhheg@103.160.63.199:31348#🇮🇩[openproxylist.com] ss-ID%20clc-main
-vless://15836880-212b-4690-b29c-1889a749bf72@43.207.162.145:32913?encryption=none&flow=xtls-rprx-vision&fp=chrome&path=%2F&pbk=iJhoNzfiPiua04PL88iAAyZz2u39su4ChSCiGVoekRQ&security=reality&sid=a8f0a95931a52732&sni=www.intel.com#🇯🇵[openproxylist.com] vless-JP%20clc-main
-vmess://eyJ2IjoiMiIsInBzIjoi8J-HrfCfh7Bbb3BlbnByb3h5bGlzdC5jb21dIHZtZXNzLUhLIiwiYWRkIjoiZG9nLWhrLmt1bmx1bjAxZG5zLmNvbSIsInBvcnQiOiIyMTA0MSIsImlkIjoiOTQ2NGNhNDAtZGQ3NS0zNzQyLWE2MjgtZDkzMWE5ZjQxM2IyIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AifQ#%20clc-main
-vless://758f49d3-5f5f-47e7-bfa4-4ce96faf800d@144.31.106.40:8443?alpn=http%2F1.1&encryption=none&fp=firefox&pbk=NI5Rkfn6zO_gF-UC1nuvJwu4SDakCXh3ygJOKU1EITU&security=reality&sid=f747a7a5793b5714&sni=cdn.shopify.com&type=grpc#🇩🇪[openproxylist.com] vless-DE%20clc-main
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMWFlMGZjZS05MzQwLTRmMmUtODgyZC1mZGIyMjE4ZTJlMmI@36.224.152.189:50099#🇹🇼[openproxylist.com] ss-TW%20clc-main
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@15.204.246.111:5498#🇺🇸[openproxylist.com] ss-US%20clc-main
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@15.204.246.108:8881#🇺🇸[openproxylist.com] ss-US%20clc-main
-vmess://eyJ2IjoiMiIsInBzIjoi8J-Hr_Cfh7Vbb3BlbnByb3h5bGlzdC5jb21dIHZtZXNzLUpQIiwiYWRkIjoiMTU1LjI0OC4xNzYuNDQiLCJwb3J0IjoiNTUyMTYiLCJpZCI6IjE1NGRiYzM5LTA5MjEtY2YxMS0yOWJkLTE1NmM1MDAwZDc2MyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIn0#%20clc-main
-vmess://eyJ2IjoiMiIsInBzIjoi8J-HqfCfh6pbb3BlbnByb3h5bGlzdC5jb21dIHZtZXNzLURFIiwiYWRkIjoicmVuZGVyZXItc3RyZWFtLTItNjIubWlycmEubm93IiwicG9ydCI6IjQ0MyIsImlkIjoiZGI1MGEyMGUtN2ZmNS00ZTcwLTk0OGYtMTdjYzljYTdjMTU0IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXBpL3YxL2dwdS1zdHJlYW0vc29ja2V0IiwidGxzIjoidGxzIn0#%20clc-main
-ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@57.131.48.45:8388#🇮🇹[openproxylist.com] ss-IT%20clc-main
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.165:8080#🇳🇱[openproxylist.com] ss-NL%20clc-main
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMWFlMGZjZS05MzQwLTRmMmUtODgyZC1mZGIyMjE4ZTJlMmI=@r3mrcg00129437x.cybervena.com:50099#🇹🇼[openproxylist.com] ss-TW%20clc-main
-trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?security=tls&sni=moltbot.doctoroyy.net#🇲🇾[openproxylist.com] trojan-MY%20clc-main
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.238:8080#🇳🇱[openproxylist.com] ss-NL%20clc-main
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVEFPYndnNE9XV1hrWkpRczBaZGdD@31.76.82.131:34260#🇵🇱[openproxylist.com] ss-PL%20clc-main
-ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@51.83.192.80:8388#🇵🇱[openproxylist.com] ss-PL%20clc-main
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKMUludVU2UVJUNUpPaDFtUWZralUy@144.31.243.2:16015#🇱🇹[openproxylist.com] ss-LT%20clc-main
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.144.49.140:57456#🇯🇵[openproxylist.com] ss-JP%20clc-main
-vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@188.114.97.6:443?amp%3BallowInsecure=0&amp%3Bech=ip.gs%2Budp%3A%2F%2F8.8.8.8&amp%3Bhost=a.cwvps.eu.org&amp%3Binsecure=0&amp%3Bsecurity=tls&amp%3Bsni=a.cwvps.eu.org&amp%3Btype=ws&encryption=none&path=%2Fws#🇺🇸[openproxylist.com] vless-US%20clc-main
-trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:46292?security=tls&sni=www.microsoft.com#🇺🇸[openproxylist.com] trojan-US%20clc-main
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.222.155.113:5601#🇨🇦[openproxylist.com] ss-CA%20clc-main
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@51.222.155.32:5003#🇨🇦[openproxylist.com] ss-CA%20clc-main
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@15.204.247.175:8008#🇺🇸[openproxylist.com] ss-US%20clc-main
+trojan://MiTiVPN@151.101.56.7:443?allowInsecure=0&alpn=http%2F1.1&fp=chrome&host=mitivpn-mitivpn-mitivpn--mitivpn-mitivpn--mitivpn.global.ssl.fastly.net&insecure=0&path=%2F---TOOTFFARANGI&security=tls&sni=ssl.fastly.com&type=ws#EPODONIOS%20clc-main
+trojan://M%69T%69VPN@151.101.56.7:443?allowInsecure=0&alpn=http%2F1.1&fp=firefox&host=mitivpn-mitivpn-mitivpn--mitivpn-mitivpn--mitivpn.global.ssl.fastly.net&insecure=0&path=%40mehrosaboran&security=tls&sni=ssl.fastly.com&type=ws#EPODONIOS%20clc-main
+trojan://M%69TiVPN@199.232.78.160:443?allowInsecure=0&alpn=http%2F1.1&fp=chrome&host=mitivpn-ss-mitivpn-----mitivpn.global.ssl.fastly.net&insecure=0&path=%2F&security=tls&sni=ssl.fastly.com&type=ws#EPODONIOS%20clc-main
+trojan://0000@masterserver1-masterserver1-masterserver1-masterserver1.cowebag581.workers.dev:2087?fp=chrome&host=masterserver1-masterserver1-masterserver1-masterserver1.cowebag581.workers.dev&path=%2F%3Fed%3D2560&security=tls&sni=masterserver1-masterserver1-masterserver1-masterserver1.cowebag581.workers.dev&type=ws#EPODONIOS%20clc-main
+trojan://0000@masterserver1-masterserver1-masterserver1-masterserver1.liciba7155.workers.dev:443?fp=chrome&host=masterserver1-masterserver1-masterserver1-masterserver1.liciba7155.workers.dev&path=%2F%3Fed%3D2560&security=tls&sni=masterserver1-masterserver1-masterserver1-masterserver1.liciba7155.workers.dev&type=ws#EPODONIOS%20clc-main
+trojan://0000@masterserver1-masterserver1-masterserver1-masterserver1.oyomohx.workers.dev:2053?fp=chrome&host=masterserver1-masterserver1-masterserver1-masterserver1.oyomohx.workers.dev&path=%2F%3Fed%3D2560&security=tls&sni=masterserver1-masterserver1-masterserver1-masterserver1.oyomohx.workers.dev&type=ws#EPODONIOS%20clc-main
+trojan://0000@masterserver1-masterserver1-masterserver1-masterserver1.wrdzl.workers.dev:8443?fp=chrome&host=masterserver1-masterserver1-masterserver1-masterserver1.wrdzl.workers.dev&path=%2F%3Fed%3D2560&security=tls&sni=masterserver1-masterserver1-masterserver1-masterserver1.wrdzl.workers.dev&type=ws#EPODONIOS%20clc-main
+trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@107.150.105.84:54657?fp=chrome&security=tls&sni=us01.duotg.top#EPODONIOS%20clc-main
+trojan://20ba0c60-0133-11f1-95ef-1239d0255272@172.64.152.23:443?allowInsecure=1&host=uk1.test3.net&insecure=1&path=%2Fhowdy&security=tls&sni=uk1.test3.net&type=ws#EPODONIOS%20clc-main
+trojan://34420a42-f094-4ed8-8695-5caa4b518f62@bestcdn2.868863.xyz:2083?host=17882643858478.206352.xyz&path=%2Fagraeabtegrrh&security=tls&sni=206352.xyz&type=ws#EPODONIOS%20clc-main
+trojan://34420a42-f094-4ed8-8695-5caa4b518f62@bestcdn2.868863.xyz:2087?host=17882643855452.206353.xyz&path=%2Fagrbniuh&security=tls&sni=206353.xyz&type=ws#EPODONIOS%20clc-main
+trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43074?allowInsecure=1&insecure=1&note=%40FreeOnlineVPN&security=tls&sni=iepl.jpz2.cat.bilibili.com#EPODONIOS%20clc-main
+trojan://50414e45-4c5f-5a45-5553-7c0e5b2f7cd7@c6zorwebux8s.mosinp777.workers.dev:443?allowinsecure=0&fp=unsafe&host=c6zorwebux8s.mosinp777.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2F7c0e5b2f7cd7&security=tls&sni=c6zorwebux8s.mosinp777.workers.dev&type=ws#EPODONIOS%20clc-main
+trojan://521314@millionaire.levikogjgfdd.ir:443?allowInsecure=0&host=tjplay.lxdxo.kdns.fr&insecure=0&path=%2FLeviko_v2ray&security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws#EPODONIOS%20clc-main
+trojan://5e19b3c8-c1dc-4163-95e2-895319c15d6c@ru.techdatacloud.org:8443?pbk=jaZRUO7x7awSXNBlvKp3nXdm2gBEsEgmNbbYs7RRQlw&security=reality&sid=8c3785d47c2017ec&sni=cloud.mail.ru#EPODONIOS%20clc-main
+trojan://5e5340e6-433d-b5f7-0062-d793046eb281@94.140.0.100:8443?allowInsecure=0&fp=chrome&host=blue-queen-d517.aaj1388324.workers.dev&insecure=0&path=%2FeyJqdW5rIjoiMWphS1ZyYzRTbGsiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W10sInJlbGF5SWR4IjoyM30%3D&security=tls&sni=blue-queen-d517.aaj1388324.workers.dev&type=ws#EPODONIOS%20clc-main
+trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?host=bangladeshipatri.com&path=%2F6b777a91&security=tls&sni=bangladeshipatri.com&type=ws#EPODONIOS%20clc-main
+trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.101:443?allowInsecure=0&host=space.byu.id.yxls.eu.cc&insecure=0&path=%2Fus-gllc%40soskeynets&security=tls&sni=space.byu.id.yxls.eu.cc&type=ws#EPODONIOS%20clc-main
+trojan://6ec301428255a78a1d826988d86cc87e@95.40.110.184:50887?allowInsecure=0&insecure=0&security=tls&sni=www.nintendogames.net#EPODONIOS%20clc-main
+trojan://6ec301428255a78a1d826988d86cc87e@95.40.43.135:50887?allowInsecure=0&fp=chrome&insecure=0&security=tls&sni=www.nintendogames.net#EPODONIOS%20clc-main
+trojan://7fb5f16d-4a73-42e6-b6c2-4f76f35af6f4@bestcdn2.868863.xyz:2087?host=17878361433987.206353.xyz&path=%2Fagrbniuh&security=tls&sni=206353.xyz&type=ws#EPODONIOS%20clc-main
+trojan://8bS8vVC5CQ2GsckhMh8IT1jv@193.124.46.65:443?allowInsecure=0&fp=chrome&insecure=0&security=tls&sni=193.124.46.65#EPODONIOS%20clc-main
+trojan://BxceQaOe@119.246.1.143:443?security=tls&sni=t.me%2Fripaojiedian#EPODONIOS%20clc-main
+trojan://BxceQaOe@16.163.102.116:52951?allowInsecure=1&note=%40FreeOnlineVPN&security=tls#EPODONIOS%20clc-main
+trojan://BxceQaOe@43.198.13.210:41973?allowInsecure=1&note=%40FreeOnlineVPN&sni=t.me%2Fripaojiedian#EPODONIOS%20clc-main
+trojan://I1vtf6pjYsAu-nFnraWAMjKTy90AHitdAz@91.233.8.25:443?allowInsecure=0&fp=chrome&insecure=0&security=tls&sni=fra34.tracker-ws.click#EPODONIOS%20clc-main
+trojan://Ldbgt4IUYv0S+5cFrG4vcWEbvdf8RgPGmoIXhnnOEh4=@65.109.215.50:54673#EPODONIOS%20clc-main
+trojan://Masir_Sefid@37.156.46.29:2053?fp=chrome&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&security=reality&sid=20b301df70&sni=store.steampowered.com&spx=%2FW8svbYrFok2DfFx#EPODONIOS%20clc-main
+trojan://Masir_Sefid@83.228.225.220:1040?fp=chrome&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&security=reality&sid=84e87fdcdf2ea9e8&sni=store.steampowered.com&spx=%2FaRBYGa427aKKE16#EPODONIOS%20clc-main
+trojan://Masir_Sefid@84.234.31.249:443?fp=chrome&security=reality&sni=store.steampowered.com#EPODONIOS%20clc-main
+trojan://MiTiVPN@140.248.185.253:443?allowInsecure=0&alpn=http%2F1.1&fp=chrome&host=4-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&insecure=0&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fs-w%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&sni=ssl.fastly.com&type=ws#EPODONIOS%20clc-main
+trojan://MiTiVPN@151.101.56.230:443?allowInsecure=0&alpn=http%2F1.1&fp=chrome&host=mitivpn-mitivpn-mitivpn---mitivpn--mitivpn.global.ssl.fastly.net&insecure=0&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FD-e2%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&sni=ssl.fastly.com&type=ws#EPODONIOS%20clc-main
+trojan://MiTiVPN@151.101.56.7:443?allowInsecure=0&alpn=http%2F1.1&fp=chrome&host=mitivpn-mitivpn-mitivpn---mitivpn--mitivpn.global.ssl.fastly.net&insecure=0&path=%2F--&security=tls&sni=ssl.fastly.com&type=ws#EPODONIOS%20clc-main
+trojan://MiTiVPN@151.101.56.7:443?alpn=http%2F1.1&host=mitivpn-mitivpn-mitivpn--mitivpn-mitivpn--mitivpn.global.ss&insecure=0&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FD-e2%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls#EPODONIOS%20clc-main
+trojan://MiTiVPN@151.101.56.7:443?allowInsecure=0&alpn=http%2F1.1&fp=chrome&host=mitivpn-mitivpn-mitivpn---mitivpn--mitivpn.global.ssl.fastly.net&insecure=0&path=%2F---TOOTFFARANGI---TOOTFFARANGI---TOOTFFARANGI---TOOTFFARANGI---TOOTFFARANGI&security=tls&sni=ssl.fastly.com&type=ws#EPODONIOS%20clc-main
+trojan://MiTiVPN@151.101.56.7:443?allowInsecure=0&alpn=http%2F1.1&fp=chrome&host=mitivpn-mitivpn-mitivpn---mitivpn--mitivpn.global.ssl.fastly.net&insecure=0&path=%2F---TOOTFFARANGI---TOOTFFARANGI---TOOTFFARANGI---TOOTFFARANGI---TOOTFFARANGI---TOOTFFARANGI---TOOTFFARANGI&security=tls&sni=ssl.fastly.com&type=ws#EPODONIOS%20clc-main
+trojan://MiTiVPN@151.101.56.7:443?allowInsecure=0&alpn=http%2F1.1&fp=chrome&host=mitivpn-mitivpn-mitivpn--mitivpn-mitivpn--mitivpn.global.ssl.fastly.net&insecure=0&path=%40TEHRANARGO&security=tls&sni=ssl.fastly.com&type=ws#EPODONIOS%20clc-main
+trojan://MiTiVPN@151.101.56.7:443?alpn=http%2F1.1&fp=chrome&host=mitivpn-mitivpn-mitivpn--mitivpn-mitivpn--mitivpn.global.ssl.fastly.net&path=%40bored_vpn&security=tls&sni=ssl.fastly.com&type=ws#EPODONIOS%20clc-main
+trojan://MiTiVPN@151.101.56.7:443?alpn=http%2F1.1&fp=chrome&host=mitivpn-mitivpn-mitivpn---mitivpn--mitivpn.global.ssl.fastly.net&path=Telegram%3A%40v2rayng3---Telegram%3A%40v2rayng3---Telegram%3A%40v2rayng3---Telegram%3A%40v2rayng3&security=tls&sni=ssl.fastly.com&type=ws#EPODONIOS%20clc-main
+trojan://MiTiVPN@188.114.96.3:443?allowInsecure=0&alpn=http%2F1.1&fp=chrome&host=nlls-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.mitiVpN.lIfeStyLe&insecure=0&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNL---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&sni=Nl1-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.mitiVpN.lIfeStyLe&type=ws#EPODONIOS%20clc-main
+trojan://MiTiVPN@188.114.97.6:443?allowInsecure=0&alpn=http%2F1.1&fp=chrome&host=nlls-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.mitiVpN.lIfeStyLe&insecure=0&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fdde---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&sni=Nl1-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.mitiVpN.lIfeStyLe&type=ws#EPODONIOS%20clc-main
+trojan://MiTiVPN@199.232.78.160:443?allowInsecure=0&alpn=http%2F1.1&fp=chrome&host=.global.ssl.fastly.net&insecure=0&security=tls&sni=ssl.fastly.com&type=ws#EPODONIOS%20clc-main
+trojan://MiTiVPN@199.232.78.160:443?allowInsecure=0&alpn=http%2F1.1&fp=chrome&host=mitivpn-mitivpn-mitivpn---mitivpn--mitivpn.global.ssl.fastly.net&insecure=0&path=%2F---TOOTFFARANGI---TOOTFFARANGI---TOOTFFARANGI---TOOTFFARANGI---TOOTFFARANGI---TOOTFFARANGI---TOOTFFARANGI&security=tls&sni=ssl.fastly.com&type=ws#EPODONIOS%20clc-main
+trojan://MiTiVPN@199.232.78.160:443?allowInsecure=0&alpn=http%2F1.1&fp=chrome&host=mitivpn-mitivpn-mitivpn---mitivpn--mitivpn.global.ssl.fastly.net&insecure=0&path=%2F---kasibam1---kasibam1---kasibam1---kasibam1---kasibam1---kasibam1---kasibam1&security=tls&sni=ssl.fastly.com&type=ws#EPODONIOS%20clc-main
+trojan://Mitivpn@151.101.0.0:80?host=%40SylphNet&path=%40SylphNet&type=ws#EPODONIOS%20clc-main
+trojan://PQ05174892@13.192.168.51:443?fp=chrome&security=tls&sni=learning-leopard.rooster465.autos#EPODONIOS%20clc-main
+trojan://Telegram-Config0plus@104.17.108.189:443?allowInsecure=0&host=go.appsflyer.com.r3xxe.eu.cc&insecure=0&path=%2Fca-cl&security=tls&sni=go.appsflyer.com.r3xxe.eu.cc&type=ws#EPODONIOS%20clc-main
+trojan://Telegram_healer_config@104.21.64.165:443?allowInsecure=0&alpn=http%2F1.1&fp=chrome&host=3w2hk6zj92orjcjedmi77hzc.ny49nuz6g33rykowazqunl-b9gun5t.workers.dev&insecure=0&path=%2Ftr%2Fowxywx7VjYMLyGu2JOQYjHwV67l%3Fed%3D2560&security=tls&sni=3w2hk6Zj92orJcJedMI77HzC.Ny49NuZ6g33rYkoWaZQUNl-B9GuN5T.wOrkERs.DEv&type=ws#EPODONIOS%20clc-main
+trojan://Telegram_healer_config@104.21.76.194:443?alpn=http%2F1.1&fp=chrome&host=x8xus4x7utzmdozv2.bzuh25lzinnetwtocxyicx.workers.dev&path=%2Ftr%2FnDuppKYyUqsEcG0rcQEg5sghG0%3Fed&security=tls&sni=X8xus4X7UTZMDozv2.bZuH25LZINNeTwTOcXYIcx.WORkERs.deV&type=ws#EPODONIOS%20clc-main
+trojan://Telegram_healer_config@172.67.152.243:443?allowInsecure=0&alpn=http%2F1.1&fp=chrome&host=3w2hk6zj92orjcjedmi77hzc.ny49nuz6g33rykowazqunl-b9gun5t.workers.dev&insecure=0&path=%2Ftr%2Fe2X4F8y1t8YGOWfIV2ImzqxmdmGEpf%3Fed%3D2560&security=tls&sni=3W2hk6ZJ92orjcjEdmI77hzC.Ny49nUZ6G33RYkoWAZquNl-b9GuN5T.WoRKERs.dEv&type=ws#EPODONIOS%20clc-main
+trojan://TgTrWOUNeU@66.33.22.242:30797?fp=chrome&pbk=RJ0RY863D8N8ntZJhZ_79rNb8BrKxZ2Tn-pr1W9iBEQ&security=reality&sid=16&sni=is1-ssl.mzstatic.com&spx=%2F#EPODONIOS%20clc-main
+trojan://auto@129.146.254.39:443?alpn=http%2F1.1&fp=chrome&host=tg.cmliussss.us.kg&path=%2F%40Azarakhsh_Proxy%3Fed%3D2560&security=tls&sni=tg.cmliussss.us.kg&type=ws#EPODONIOS%20clc-main
+trojan://auto@iranserver.com:8443?alpn=http%2F1.1&fp=chrome&host=tg.cmliussss.us.kg&path=%2F%40Azarakhsh_Proxy%3Fed%3D2560&security=tls&sni=tg.cmliussss.us.kg&type=ws#EPODONIOS%20clc-main
+trojan://auto@zula.ir:443?alpn=http%2F1.1&fp=chrome&host=tg.cmliussss.us.kg&path=%2F%40Azarakhsh_Proxy%3Fed%3D2560&security=tls&sni=tg.cmliussss.us.kg&type=ws#EPODONIOS%20clc-main
+trojan://bX_lNHWoW6ywq82mI=KUr+8i__VSp0Hs_E@172.235.63.252:443?allowInsecure=0&fp=chrome&insecure=0&security=tls#EPODONIOS%20clc-main
+trojan://bpb-trojan@190.93.244.202:443?host=fcspring.ggff.net&path=%2Ftr%3Fed&security=tls&sni=fcspring.ggff.net&type=ws#EPODONIOS%20clc-main
+trojan://bptHV5U91mWneB61rRKhCQ8f@87.121.218.169:443?allowInsecure=0&fp=chrome&insecure=0&security=tls&sni=87.121.218.169#EPODONIOS%20clc-main
+trojan://bptHV5U91mWneB61rRKhCQ8f@87.121.218.169:443?allowInsecure=0&insecure=0&security=tls#EPODONIOS%20clc-main
+trojan://de4dbc41-fe13-4498-b5b4-083e451270f6@89.116.46.68:443?allowInsecure=0&host=zaintest.vuclip.com.cyylr.eu.cc&insecure=0&path=%2Fmy-wbv&security=tls&sni=zaintest.vuclip.com.cyylr.eu.cc&type=ws#EPODONIOS%20clc-main
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.138:443?allowInsecure=0&insecure=0&security=tls#EPODONIOS%20clc-main
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.145:443?allowInsecure=0&insecure=0&security=tls#EPODONIOS%20clc-main
+trojan://humanity@104.18.32.47:443?allowInsecure=0&fp=chrome&insecure=0&note=%40FreeOnlineVPN&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#EPODONIOS%20clc-main
+trojan://humanity@104.18.9.83:443?allowInsecure=0&host=www.calmlunch.com&insecure=0&path=%2Fassignment&security=tls&type=ws#EPODONIOS%20clc-main
+trojan://humanity@104.19.229.21:443?allowInsecure=0&insecure=0&path=assignment&security=tls&sni=www.ignitelimit.com&type=ws#EPODONIOS%20clc-main
+trojan://humanity@162.159.38.119:443?host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#EPODONIOS%20clc-main
+trojan://humanity@165.215.250.14:443?allowInsecure=0&host=www.calmlunch.com&insecure=0&path=%2F%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#EPODONIOS%20clc-main
+trojan://humanity@165.215.250.14:443?allowInsecure=1&fp=chrome&host=www.calmlunch.com&insecure=1&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#EPODONIOS%20clc-main
+trojan://humanity@172.64.152.23:443?allowInsecure=0&host=www.calmlunch.com&insecure=0&note=%40FreeOnlineVPN&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#EPODONIOS%20clc-main
+trojan://humanity@185.220.100.168:443?allowInsecure=0&host=www.calmlunch.com&insecure=0&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#EPODONIOS%20clc-main
+trojan://humanity@185.75.243.102:443?allowInsecure=0&alpn=h3%2C+h2%2C+http%2F1.1&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delay%22%3A%220-1%22%2C%22length%22%3A%223%22%2C%22packets%22%3A%22tlshello%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D&fp=chrome&host=www.ignitelimit.com&insecure=0&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#EPODONIOS%20clc-main
+trojan://humanity@188.114.97.6:443?allowInsecure=1&alpn=http%2F1.1&host=www.calmloud.com&insecure=1&path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#EPODONIOS%20clc-main
+trojan://humanity@198.202.211.1:443?allowInsecure=0&fp=chrome&host=www.creationlong.org&insecure=0&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#EPODONIOS%20clc-main
+trojan://humanity@198.62.62.23:443?allowInsecure=0&host=www.calmlunch.com&insecure=0&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#EPODONIOS%20clc-main
+trojan://humanity@202.37.33.80:443?allowInsecure=0&host=www.creationlong.org&insecure=0&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#EPODONIOS%20clc-main
+trojan://humanity@212.183.88.136:443?allowInsecure=0&host=www.calmlunch.com&insecure=0&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#EPODONIOS%20clc-main
+trojan://humanity@212.227.144.37:8443?allowInsecure=0&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&host=www.calmlunch.com&insecure=0&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#EPODONIOS%20clc-main
+trojan://humanity@216.24.57.7:443?alpn=http%2F1.1&security=tls&sni=www.ignitelimit.com#EPODONIOS%20clc-main
+trojan://humanity@45.130.125.112:443?allowInsecure=0&fp=chrome&insecure=0&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#EPODONIOS%20clc-main
+trojan://humanity@45.205.0.6:443?alpn=http%2F1.1&fp=chrome&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#EPODONIOS%20clc-main
+trojan://humanity@88.198.82.150:443?allowInsecure=0&ech=ip.gs+udp%3A%2F%2F8.8.8.8&host=www.ignitelimit.com&insecure=0&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#EPODONIOS%20clc-main
+trojan://humanity@srv1.khatibirepair.ir:443?allowInsecure=0&fp=chrome&insecure=0&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#EPODONIOS%20clc-main
+trojan://humanity@www.calmlunch.com:443?allowInsecure=0&host=www.calmlunch.com&insecure=0&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#EPODONIOS%20clc-main
+trojan://humanity@www.gossipglove.com:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#EPODONIOS%20clc-main
+trojan://humanity@www.multiplydose.com:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#EPODONIOS%20clc-main
+trojan://l6R5znJSPJ@179.237.75.190:16350?allowInsecure=1&fp=chrome&headerType=http&host=rd.autos.yahoo.com%3A41636&insecure=1&path=%2F5747463414152474635353366347474334&pbk=o3oWckXNBDaHDXgqRVLPje6P1r9DRSeCuYtStxCiXz8&security=reality&sni=rd.autos.yahoo.com%3A40069&spx=%2F#EPODONIOS%20clc-main
+trojan://l6R5znJSPJ@6r6e6e6ryrfyfyydur6r6f6r6r6r6d6d6e6s6d6s6d7d7d7e6s.poki-pakipon.ir:16350?allowInsecure=1&fp=chrome&headerType=http&host=rd.autos.yahoo.com%3A41636&insecure=1&path=%2F5747463414152474635353366347474334&pbk=o3oWckXNBDaHDXgqRVLPje6P1r9DRSeCuYtStxCiXz8&security=reality&sni=rd.autos.yahoo.com%3A40069&spx=%2F#EPODONIOS%20clc-main
+trojan://mitivpn@104.16.72.70:443?allowInsecure=0&alpn=http%2F1.1&fp=chrome&host=gamingdll.ir&insecure=0&path=%2Findex.php%2Fed%3Dmitivpn&security=tls&sni=gamingdll.ir&type=ws#EPODONIOS%20clc-main
+trojan://mitivpn@188.114.97.6:443?allowInsecure=0&alpn=http%2F1.1&fp=chrome&host=s2.mitivpn.nl.ssl.global.fastly.ir.iranpoems.ir&insecure=0&path=%2F%3Fmitivpn&security=tls&sni=s2.mitivpn.nl.ssl.global.fastly.dev.iranpoems.ir&type=ws#EPODONIOS%20clc-main
+trojan://mitivpn@188.114.97.6:443?allowInsecure=0&alpn=http%2F1.1&fp=chrome&host=sdasdfgv.global.ssl.fastly.net.mitivpn-a.site&insecure=0&path=%2F%3Fmitivpn&security=tls&sni=global.fastly.com.mitivpn-a.site&type=ws#EPODONIOS%20clc-main
+trojan://mitivpn@188.114.97.6:443?alpn=http%2F1.1&fp=chrome&host=sdasdfgv.global.ssl.fastly.top.mitivpn-a.site&path=%2Fed%3Dmitivpn&security=tls&sni=global.fastly.com.mitivpn-a.site&type=ws#EPODONIOS%20clc-main
+trojan://mitivpn@188.114.97.6:443?allowInsecure=0&alpn=http%2F1.1&fp=chrome&host=eee.we.wwww.swsl.glowbal.diwgi.mwy.mitivpn.xyz&insecure=0&path=%2Fed%3Dmitivpn&security=tls&sni=www.ssl.global.digi.my.mitivpn.xyz&type=ws#EPODONIOS%20clc-main
+trojan://mitivpn@188.114.97.6:443?allowInsecure=0&alpn=http%2F1.1&fp=chrome&host=s1.mitivpn.de.ssl.global.fastly.com.iranpoems.ir&insecure=0&path=%2Fed%3Dmitivpn&security=tls&sni=s1.mitivpn.de.ssl.global.fastly.co.iranpoems.ir&type=ws#EPODONIOS%20clc-main
+trojan://mitivpn@188.114.97.6:443?allowInsecure=0&alpn=http%2F1.1&fp=chrome&insecure=0&path=https%3A%2F%2Fchatgpt.com&security=tls&sni=mitivpn.sddde.ssddl.globddal.fassdtdly.cow.mitivpn.site&type=ws#EPODONIOS%20clc-main
+trojan://mitivpn@188.114.97.6:443?allowInsecure=0&alpn=http%2F1.1&fp=chrome&insecure=0&path=https%3A%2F%2Fchatgpt.com&security=tls&sni=mitivpn.sdde.ssdl.globdal.fastdly.net.mitivpn.site&type=ws#EPODONIOS%20clc-main
+trojan://mitivpn@188.114.97.6:443?allowInsecure=1&alpn=http%2F1.1&fp=chrome&host=s-mitivpn.global.ssl.b5r.ir&insecure=1&path=https%3A%2F%2Fchatgpt.com&security=tls&sni=sadszdx.global.ssl.fastly.net.b5r.ir&type=ws#EPODONIOS%20clc-main
+trojan://mitivpn@27.50.48.49:443?allowInsecure=0&alpn=http%2F1.1&fp=chrome&host=gamingdll.ir&insecure=0&path=%2Findex.html%2Fed%3Dmitivpn&security=tls&sni=gamingdll.ir&type=ws#EPODONIOS%20clc-main
+trojan://oRKpDRDR4Y@193.233.133.152:28390?fp=chrome&pbk=e6ZMkoAwow_JXOTxMZcdNH-rNxsSR5NFCblRc8HaCTA&security=reality&sid=f304442cc982&sni=www.sony.com&spx=%2F#EPODONIOS%20clc-main
+trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?allowInsecure=1&sni=russiapower.accesscam.org#EPODONIOS%20clc-main
+trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@172.238.120.124:443?allowInsecure=0&fp=chrome&insecure=0&security=tls#EPODONIOS%20clc-main
+trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?allowInsecure=0&fp=chrome&insecure=0&security=tls&sni=172.236.220.10#EPODONIOS%20clc-main
+trojan://tripitropa444@45.85.88.194:2174?allowInsecure=1&fp=chrome#EPODONIOS%20clc-main
+trojan://uRkZYGid1r@179.237.75.190:41464?fp=chrome&headerType=http&host=rd.autos.yahoo.com%3A41636&path=%2F5747463414152474635353366347474334%3Fed%3D2048%3F%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn&pbk=o3oWckXNBDaHDXgqRVLPje6P1r9DRSeCuYtStxCiXz8&security=reality&sni=rd.autos.yahoo.com%3A40069&spx=%2F#EPODONIOS%20clc-main
+trojan://uRkZYGid1r@6r6e6e6ryrfyfyydur6r6f6r6r6r6d6d6e6s6d6s6d7d7d7e6s.poki-pakipon.ir:41464?fp=chrome&headerType=http&host=rd.autos.yahoo.com%3A41636&path=%2F5747463414152474635353366347474334%3Fed%3D2048%3F%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn&pbk=o3oWckXNBDaHDXgqRVLPje6P1r9DRSeCuYtStxCiXz8&security=reality&sni=rd.autos.yahoo.com%3A40069&spx=%2F#EPODONIOS%20clc-main
+trojan://ukMzuFSmIXDvgW0h@cd.rutracker-cn.com:443?allowInsecure=1&sni=cd.rutracker-cn.com#EPODONIOS%20clc-main
+trojan://v2whz6ahmyy2f84j@subtu.charsoulink3.ir:2087?fp=chrome&security=tls&sni=pus.mmdaqaorg2.ir#EPODONIOS%20clc-main
+trojan://ysbdg3l5iqbvo26u@185.204.170.130:2097?allowInsecure=0&alpn=h2%2Chttp%2F1.1&ech=AGL+DQBeAAAgACBZEpiqm31M3f2zo8BSjByHKqiX8Kh7CZlhEdvtFL+9TwAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAA8xODUuMjA0LjE3MC4xMzAAAA%3D%3D&fp=chrome&host=185.204.170.130&insecure=0&path=%2F&security=tls&sni=185.204.170.130&type=ws#EPODONIOS%20clc-main
+trojan://ysbdg3l5iqbvo26u@185.204.170.130:8443#EPODONIOS%20clc-main
+trojan://Aimer@167.68.4.199:2053?ed=2560&eh=Sec-WebSocket-Protocol&host=epge.muarua.filegear-sg.me&path=%2F%3Fproxyip%3Dts.hpc.tw&sni=epge.muarua.filegear-sg.me&type=ws#EPODONIOS%20clc-main
+trojan://LcICDcp%21jD9TFV%24NbH@dl2uf-ivdezilz3e86rk18.hhvt37tjm2xbosql5hxogn-y.workers.dev:443?allowInsecure=0&alpn=http%2F1.1&fp=chrome&host=dl2uf-ivdezilz3e86rk18.hhvt37tjm2xbosql5hxogn-y.workers.dev&insecure=0&path=%2Ftr%2Fpg4wM48V9O859nmqsJg22EOFKN4S570y%3Fed%3D2560&security=tls&sni=dl2uF-iVdeZILZ3E86rK18.Hhvt37tjm2XBOsQL5HXogN-Y.woRKERS.dEv&type=ws#EPODONIOS%20clc-main
+trojan://eabf1999fefbb7d2@waysi.waysi6688.workers.dev:2087?alpn=http%2F1.1&ed=2560&eh=Sec-WebSocket-Protocol&fp=ios&host=waysi.waysi6688.workers.dev&path=%2Ftr%2FsMpzOZ0eWEt6jbZ1jjN3BaM7LLoQ&sni=WaYSi.wAYsI6688.WOrkeRS.deV&type=ws#EPODONIOS%20clc-main
+trojan://humanity@104.19.229.21:443?allowInsecure=0&host=www.calmlunch.com&insecure=0&path=%2F%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#EPODONIOS%20clc-main
+trojan://NQ26071394@guided-pelican.rooster465.autos:443?security=tls#EPODONIOS%20clc-main
+trojan://b3845d95-c82e-47f8-b626-0f27d861e8f7@los.ydnode.us:443?security=tls#EPODONIOS%20clc-main
+trojan://AE62539071@tough-hermit.rooster465.autos:443?security=tls#EPODONIOS%20clc-main
+trojan://ffcd5d19-d085-4ff1-b724-af203eaeea04@210.0.158.220:28443?security=tls&sni=download.windowsupdate1.com#EPODONIOS%20clc-main
+trojan://ffcd5d19-d085-4ff1-b724-af203eaeea04@85.90.246.11:28443?security=tls&sni=download.windowsupdate1.com#EPODONIOS%20clc-main
+trojan://ffcd5d19-d085-4ff1-b724-af203eaeea04@194.233.171.25:443?security=tls&sni=download.windowsupdate1.com#EPODONIOS%20clc-main
+trojan://ffcd5d19-d085-4ff1-b724-af203eaeea04@5.181.4.104:28443?security=tls&sni=download.windowsupdate1.com#EPODONIOS%20clc-main
+trojan://ffcd5d19-d085-4ff1-b724-af203eaeea04@144.24.77.154:28443?security=tls&sni=glckr.hruqoaw.cn#EPODONIOS%20clc-main
+trojan://ffcd5d19-d085-4ff1-b724-af203eaeea04@144.24.90.94:28443?security=tls&sni=glckr.hruqoaw.cn#EPODONIOS%20clc-main
+trojan://ffcd5d19-d085-4ff1-b724-af203eaeea04@144.24.87.99:28443?security=tls&sni=glckr.hruqoaw.cn#EPODONIOS%20clc-main
+trojan://ffcd5d19-d085-4ff1-b724-af203eaeea04@155.248.172.87:28443?security=tls&sni=download.windowsupdate1.com#EPODONIOS%20clc-main
+trojan://ffcd5d19-d085-4ff1-b724-af203eaeea04@103.195.236.24:28443?security=tls&sni=download.windowsupdate1.com#EPODONIOS%20clc-main
+trojan://ffcd5d19-d085-4ff1-b724-af203eaeea04@103.173.255.21:28443?security=tls&sni=glcvn150.hruqoaw.cn#EPODONIOS%20clc-main
+trojan://ffcd5d19-d085-4ff1-b724-af203eaeea04@103.173.255.127:28443?security=tls&sni=glcvn150.hruqoaw.cn#EPODONIOS%20clc-main
+trojan://ffcd5d19-d085-4ff1-b724-af203eaeea04@202.8.9.27:28443?security=tls&sni=download.windowsupdate1.com#EPODONIOS%20clc-main
+trojan://ffcd5d19-d085-4ff1-b724-af203eaeea04@20.24.44.110:28443?security=tls&sni=download.windowsupdate1.com#EPODONIOS%20clc-main
+trojan://ffcd5d19-d085-4ff1-b724-af203eaeea04@45.88.148.234:28443?security=tls&sni=download.windowsupdate1.com#EPODONIOS%20clc-main
+trojan://ffcd5d19-d085-4ff1-b724-af203eaeea04@103.173.255.234:28443?security=tls&sni=glcvn150.hruqoaw.cn#EPODONIOS%20clc-main
+trojan://ffcd5d19-d085-4ff1-b724-af203eaeea04@144.24.69.60:28443?security=tls&sni=glckr.hruqoaw.cn#EPODONIOS%20clc-main
+trojan://ffcd5d19-d085-4ff1-b724-af203eaeea04@91.243.81.42:28443?security=tls&sni=download.windowsupdate1.com#EPODONIOS%20clc-main
+trojan://ffcd5d19-d085-4ff1-b724-af203eaeea04@80.78.132.177:28443?security=tls&sni=download.windowsupdate1.com#EPODONIOS%20clc-main
+trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?security=tls&sni=64.94.95.118#EPODONIOS%20clc-main
+trojan://CF68213490@harmless-lab.rooster465.autos:443?security=tls#EPODONIOS%20clc-main
+trojan://owefv0_92Z540k2F_nx83245_J9130oS_tY@5.180.21.146:4443?security=tls&sni=borat-hopp.bumbleshrimp.com#EPODONIOS%20clc-main
+trojan://a2dc172b-cd95-45a5-a999-3f7e8d1a1eab@tr03.kaochangonline.online:443?security=tls#EPODONIOS%20clc-main
+trojan://NQ26071394@magical-prawn.rooster465.autos:443?security=tls#EPODONIOS%20clc-main
+trojan://NQ26071394@quiet-condor.rooster465.autos:443?security=tls#EPODONIOS%20clc-main
