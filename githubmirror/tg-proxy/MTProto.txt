@@ -1,9 +1,13 @@
+https://t.me/proxy?server=vasl-sho.mohearn.co.uk.&port=443&secret=7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ==
+
+https://t.me/proxy?server=79.137.196.223&port=12443&secret=eebc63866dd7a052dbd741a691486a82127777772e636c6f7564666c6172652e636f6d
+
 https://t.me/proxy?server=176.109.105.129&port=443&secret=ee248c43b7aee97c6fe887311452a323026164732e78352e7275
 
-https://t.me/proxy?server=hetzner.fourie.co.uk&port=443&secret=ee0738e9c1cb3563ccf676a23ad8dcf63e636f6e736f6c652e6865747a6e65722e636f6d
+https://t.me/proxy?server=Suodbo.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
+
+https://t.me/proxy?server=proxy.mtcomrade.website&port=443&secret=ee1603010200010001fc030386e24c3add7765622e62616c652e6169
 
 https://t.me/proxy?server=god-mode-on.peachsoft.co.uk.&port=443&secret=eeddff05e65a69a6a7fd1a28a28a121fff7765622e62616c652e6169
 
-https://t.me/proxy?server=x.shmelproxy.top&port=443&secret=eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275
-
-https://t.me/proxy?server=Golden.Peachsoft.co.uk.&port=443&secret=eeddff05e65a69a6a7fd1a28a28a121fff7765622e62616c652e6169
+https://t.me/proxy?server=s2.assetflux.org&port=443&secret=ee95aa916bd319beb312cc6ba9b2c5aef8766b2e7275
