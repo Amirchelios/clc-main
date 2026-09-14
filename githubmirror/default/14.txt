@@ -4,5 +4,13 @@
 #announce: Amirchelios
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
-hysteria2://c2356e22-b026-4f12-8508-cf61f0b0c867@107.174.255.14:4356?insecure=1#United States/Santa Clara [GH:Surfboardv2ra]%20clc-main
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNXA2d3c0bzY3SEI=@108.181.0.177:8388#United States/Los Angeles [GH:Mahdi0024/Pro]%20clc-main
+vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.53.194:443?encryption=none&fp=chrome&host=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&packet-encoding=xudp&path=%2F&security=tls&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&type=ws#United States/San Francisco [TG]%20clc-main
+vless://04cb9c0f-363c-4bf8-a195-2cb8bd43b02a@o.server5peekconfig.workers.dev:443?allowInsecure=0&alpn=http%2F1.1&encryption=none&host=O.seRVer5peEKCOnFIG.WOrKers.dEV&insecure=0&path=%2FeyJqdW5rIjoiSU9LdXp3R1p6IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19&security=tls&sni=O.seRVer5peEKCOnFIG.WOrKers.dEV&type=ws#United States/San Francisco [TG] #2%20clc-main
+vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@104.16.151.21:443?encryption=none&fp=chrome&host=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&packet-encoding=xudp&path=%2F&security=tls&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&type=ws#United States/San Francisco [TG] #3%20clc-main
+vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.52.175:8443?encryption=none&fp=chrome&host=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&path=%2F&security=tls&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&type=ws#United States/San Francisco [TG] #4%20clc-main
+vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.52.97:2053?encryption=none&fp=chrome&host=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&path=%2F&security=tls&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&type=ws#United States/San Francisco [TG] #5%20clc-main
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@172.64.229.2:2052?encryption=none&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=%2F%3Fed%3D2560security%3Dtls&sni=8nj2r.2k8t.f88.hh.vavava.kdns.fr&type=ws#United States/San Francisco [TG] #7%20clc-main
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.105.210:2083?encryption=none&mode=gun&serviceName=vless&type=grpc#United Kingdom/London [TG] #2%20clc-main
+vless://c8f3f81a-5276-48e9-af6b-c537fb4c7856@188.114.97.2:80?Telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&encryption=none&host=r7yhmg1zxnt120wmkag.mf1h0myptv4lougs7341bmttcz8.workers.dev&path=%2Fvl%2F4KOMdYfoTP6nJZT9n1suVNFQ8TKigm%3Fed%3D2560&type=ws#United States/San Francisco [TG] #8%20clc-main
+vless://c8f3f81a-5276-48e9-af6b-c537fb4c7856@188.114.96.2:80?Telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&encryption=none&host=r7yhmg1zxnt120wmkag.mf1h0myptv4lougs7341bmttcz8.workers.dev&path=%2Fvl%2FFYeGIgHzzGG2q2IeXH44BJdGg0YVywc%3Fed%3D2560&type=ws#United States/San Francisco [TG] #9%20clc-main
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@162.159.0.169:2086?encryption=none&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=%2F%3Fed%3D2560security%3Dtls&type=ws#United States/San Francisco [TG] #10%20clc-main
