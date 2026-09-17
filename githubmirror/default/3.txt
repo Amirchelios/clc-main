@@ -4,10 +4,10 @@
 #announce: Amirchelios
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
-trojan://humanity@104.18.152.210:443?Host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9%20clc-main
-trojan://humanity@198.41.223.96:443?alpn=http%2F1.1%2Ch2%2Ch3&fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9%20clc-main
-trojan://humanity@104.18.22.63:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9%20clc-main
-vless://91d28760-ecf1-450b-9170-d310111a0e6d@104.20.30.10:443?alpn=http%2F1.1&encryption=none&fp=chrome&host=us9.69lover.my&path=%2Fapi%2Fv2%2F63e9687fa53e441c%2Fstream&security=tls&sni=us9.69lover.my&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9%20clc-main
-trojan://humanity@104.18.152.233:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9%20clc-main
-vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@104.18.39.218:2086?encryption=none&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&packetEncoding=xudp&path=%2F%3Fed%3D2560security%3Dtls&sni=8nj2r.2k8t.f88.hh.vavava.kdns.fr&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9%20clc-main
-trojan://humanity@104.16.174.22:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9%20clc-main
+vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.92.252.15:440?encryption=none&headerType=http&host=store.steampowered.com&packetEncoding=xudp&path=%2F#%E7%BE%8E%E5%9B%BD+V2CROSS.COM%20clc-main
+hysteria2://19f72087-4591-4d72-930b-2697078ec2be@us2.xiaoliyu.cyou:4433?insecure=1&security=tls&sni=us2.xiaoliyu.cyou#%E7%BE%8E%E5%9B%BD+V2CROSS.COM%20clc-main
+hysteria2://b8949dae-cb53-4b5a-ad9c-50f58c4656fb@jp1.xiaoliyu.us:27102?insecure=1&security=tls&sni=jp1.xiaoliyu.us#%E4%BA%9A%E5%A4%AA%E5%9C%B0%E5%8C%BA+V2CROSS.COM%20clc-main
+vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@46.101.105.34:440?encryption=none&headerType=http&host=store.steampowered.com&packetEncoding=xudp&path=%2F#%E5%BE%B7%E5%9B%BD+%E9%BB%91%E6%A3%AE%E5%B7%9E%E6%B3%95%E5%85%B0%E5%85%8B%E7%A6%8FDigitalOcean%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%20clc-main
+vless://32721515-985b-4773-9e70-5d2e1b88a060@212.16.92.112:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=jobinvest.ru#%E4%BC%8A%E6%9C%97+V2CROSS.COM%20clc-main
+vless://4f54572a-b852-4da3-8823-0ddccc60b5d8@172.67.184.37:8880?encryption=none&host=icy-snowflake-1f56.147-1ea.workers.dev&packetEncoding=xudp&path=%2F&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9%20clc-main
+vless://90f0ae37-5a8f-4649-98ad-ac5323840f93@172.67.207.26:8880?encryption=none&host=silent-king-06b6.297-842.workers.dev&packetEncoding=xudp&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9%20clc-main
