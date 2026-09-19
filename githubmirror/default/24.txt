@@ -1,17 +1,44 @@
-#profile-title: 24-24/26 @Amirchelios
+#profile-title: 24-24/25 @Amirchelios
 #profile-update-interval: 48
 #support-url: https://github.com/Amirchelios/clc-main
 #announce: Amirchelios
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
-vless://e4887910-bcfc-48f8-8cd4-abb592e181af@95.179.169.44:53224?encryption=none&path=%2F#%f0%9f%87%a9%f0%9f%87%aa%20DE%201%20clc-main
-vmess://eyJ2IjoiMiIsInBzIjoi8J-HrfCfh7AgSEsgMiIsImFkZCI6Im55Y3FnMTl6a3dhY3BtMWIudi4zZG5zLnZpcCIsInBvcnQiOiI0NDMiLCJpZCI6ImYyM2JiNDI3YzFmOTQzNzM4NzZjMmY0M2U5Zjc5MGYzIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJOWWNRZzE5emt3YUNQTTFCLnYuM2Rucy52aXAiLCJwYXRoIjoiL3dzLXZtZXNzIiwidGxzIjoidGxzIiwic25pIjoiTlljUWcxOXprd2FDUE0xQi52LjNkbnMudmlwIn0#%20clc-main
-vmess://eyJ2IjoiMiIsInBzIjoi8J-HrfCfh7AgSEsgMyIsImFkZCI6InF0a2RyOGp4ZTN3ZWZ4am0udi4zZG5zLnZpcCIsInBvcnQiOiI0NDMiLCJpZCI6ImYyM2JiNDI3YzFmOTQzNzM4NzZjMmY0M2U5Zjc5MGYzIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJxVEtEUjhqWEUzd0VGeEpNLnYuM2Rucy52aXAiLCJwYXRoIjoiL3dzLXZtZXNzIiwidGxzIjoidGxzIn0#%20clc-main
-vmess://eyJ2IjoiMiIsInBzIjoi8J-HrfCfh7AgSEsgNCIsImFkZCI6Im55Y3FnMTl6a3dhY3BtMWIudi4zZG5zLnZpcCIsInBvcnQiOiI0NDMiLCJpZCI6ImYyM2JiNDI3LWMxZjktNDM3My04NzZjLTJmNDNlOWY3OTBmMyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiTlljUWcxOXprd2FDUE0xQi52LjNkbnMudmlwIiwicGF0aCI6Ii93cy12bWVzcyIsInRscyI6InRscyJ9#%20clc-main
-vmess://eyJ2IjoiMiIsInBzIjoi8J-HrfCfh7AgSEsgNSIsImFkZCI6ImV4MW9ndDczbnpwcWthYzIudi4zZG5zLnZpcCIsInBvcnQiOiI0NDMiLCJpZCI6ImYyM2JiNDI3YzFmOTQzNzM4NzZjMmY0M2U5Zjc5MGYzIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJFWDFvR3Q3M056UFFLQWMyLnYuM2Rucy52aXAiLCJwYXRoIjoiL3dzLXZtZXNzIiwidGxzIjoidGxzIiwic25pIjoiRVgxb0d0NzNOelBRS0FjMi52LjNkbnMudmlwIn0#%20clc-main
-vmess://eyJ2IjoiMiIsInBzIjoi8J-HrfCfh7AgSEsgOCIsImFkZCI6InYzNi5oZGFjZC5jb20iLCJwb3J0IjoiMzA4MzYiLCJpZCI6ImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsImFpZCI6IjIiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwicGF0aCI6Ii8ifQ#%20clc-main
-vmess://eyJ2IjoiMiIsInBzIjoi8J-HrfCfh7AgSEsgOSIsImFkZCI6InYzMy5oZGFjZC5jb20iLCJwb3J0IjoiMzA4MzMiLCJpZCI6ImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsImFpZCI6IjIiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwicGF0aCI6Ii8ifQ#%20clc-main
-vmess://eyJ2IjoiMiIsInBzIjoi8J-HrfCfh7AgSEsgMTAiLCJhZGQiOiJ2MzUuaGRhY2QuY29tIiwicG9ydCI6IjMwODM1IiwiaWQiOiJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCJhaWQiOiIyIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInBhdGgiOiIvIn0#%20clc-main
-vmess://eyJ2IjoiMiIsInBzIjoi8J-HrfCfh7AgSEsgMTEiLCJhZGQiOiJ2NC5oZGFjZC5jb20iLCJwb3J0IjoiMzA4MDQiLCJpZCI6ImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsImFpZCI6IjIiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwicGF0aCI6Ii8ifQ#%20clc-main
-vless://db320947-adfb-400d-b60b-383b8324bffe@46.29.238.88:40443?encryption=none&fp=qq&path=%2F&pbk=aZOpodpnifoxDqTzWgxJRffgsiGnG9-h-EZd4SvOImc&security=reality&sid=f7b2&sni=deepl.com#%f0%9f%87%b3%f0%9f%87%b4%20NO%202%20clc-main
-vless://878fb7f7-fc65-465e-a352-17c7216c6f3d@185.47.254.251:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&path=%2F&pbk=6-_ZidygR8PRt4gtHlGCAW-PPmjEIm7Wn7MZqJU1z1Q&security=reality&sid=6c059ecfddf9b179&sni=gateway.icloud.com#%f0%9f%87%ac%f0%9f%87%b9%20GT%201%20clc-main
+ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@109.201.152.181:443#🇳🇱 Rose—01%20clc-main
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-fr-002.fastervpn.world:443?insecure=1&sni=vpn-fr-002.fastervpn.world#🇫🇷 Rose—04%20clc-main
+hysteria2://41f0d6d3-4a45-4635-8225-2abd2284189b@mlxy.mangshe.xyz:2060?insecure=1&sni=mlxy.mangshe.xyz#🇺🇸 Rose—05%20clc-main
+hysteria2://GSPOBvG-ZwYcBFMr0ekFGO_Zga3wK6v_@193.41.5.243:8443?insecure=1&sni=hy2-germany.unlimited-access.ru#🇩🇪 Rose—11%20clc-main
+hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@103.246.248.231:8080?sni=hopp-legend-se.roxa.org#🇵🇱 Rose—14%20clc-main
+hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.124.111:8443?insecure=1&sni=hopp-germany-new.ddnsguru.com#🇮🇪 Rose—21%20clc-main
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.38.82.167:443?insecure=1&sni=vpn-fr-001.fastervpn.world#🇫🇷 Rose—23%20clc-main
+hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.124.109:8443?insecure=1&sni=hopp-germany-new.ddnsguru.com#🇮🇪 Rose—27%20clc-main
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.93.74:443?insecure=1&sni=vpn-kr-003.fastervpn.world#🇰🇷 Rose—32%20clc-main
+hysteria2://84a506ca5aca505696a454d828420b3f@140.238.213.114:50160?insecure=1&sni=www.bing.com#🇨🇭 Rose—33%20clc-main
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@51.44.162.6:443?insecure=1&sni=vpn-fr-001.fastervpn.world#🇫🇷 Rose—34%20clc-main
+hysteria2://Krab9Hyst2_Rk7pQ2xL@95.164.123.231:36723?insecure=1&sni=www.cloudflare.com#🇩🇪 Rose—35%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:443#🇳🇱 Rose—53%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.18:8080#🇳🇱 Rose—56%20clc-main
+ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@103.169.67.34:65443#🇹🇭 Rose—58%20clc-main
+ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.233:65443#🇨🇳 Rose—59%20clc-main
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@3.250.223.202:443#🇮🇪 Rose—60%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.42:443#🇳🇱 Rose—66%20clc-main
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@34.241.245.82:443#🇮🇪 Rose—73%20clc-main
+ss://2022-blake3-aes-256-gcm:Zjc0N2QyYTkyNzc2NGRiZDhjY2NjYTU5Mzk2N2NkOTk=%3AYmNhN2UyNzdlNTg3NGFkMjkxNGY4ZjEzYWM2MzQ2NGQ=@84.32.131.61:18610#🇺🇸 Rose—74%20clc-main
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@15.204.247.175:8008#🇺🇸 Rose—75%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.18:443#🇳🇱 Rose—77%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.175:8080#🇳🇱 Rose—78%20clc-main
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:443#🇯🇵 Rose—83%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpURkVsRzJGVnF5cUc@176.97.64.144:8388#🇸🇬 Rose—84%20clc-main
+ss://2022-blake3-chacha20-poly1305:viIh4ZhymCsvjIfhXYuFGQkeJEWkCHrqf3oNjsT0z00=@164.152.62.150:59319#🇧🇷 Rose—85%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.175:443#🇳🇱 Rose—90%20clc-main
+ss://2022-blake3-chacha20-poly1305:MKzw1HxJdrY1+Pm12sIuiKt277hbryrPFKlSVTBWyMY=@134.98.147.129:45819#🇳🇱 Rose—91%20clc-main
+ss://2022-blake3-aes-256-gcm:rrR97O6JIRzSRG8uHimVCgLEssjipthiC4Hlieq%2F4%2Fw=%3AB+gmrP1txQliTTw0NNVoHZ+wjNAL3nKHZopLtqlEAnI=@65.109.215.50:13049#🇫🇮 Rose—92%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@95.40.120.162:8316#🇭🇰 Rose—100%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplUXZLa3lrQkViQ2t5NXA0QlZnaE8w@144.31.168.176:45640#🇩🇪 Rose—102%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@95.40.120.162:8319#🇭🇰 Rose—108%20clc-main
+ss://2022-blake3-chacha20-poly1305:FWlUCAS9IBNg+5FoZ+U0kRs3dcz+oQnQkjGI%2FiKZMR0=@146.235.25.6:59319#🇧🇷 Rose—110%20clc-main
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@34.244.150.119:443#🇮🇪 Rose—113%20clc-main
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@18.132.203.206:443#🇬🇧 Rose—114%20clc-main
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@35.182.250.193:443#🇨🇦 Rose—115%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.223:8080#🇳🇱 Rose—117%20clc-main
+ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ@5.188.181.201:9011#🇪🇸 Rose—123%20clc-main
