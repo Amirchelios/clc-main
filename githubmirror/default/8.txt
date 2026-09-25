@@ -335,6 +335,7 @@ vless://f71e29f8-0608-4705-99b9-33e0e128ca6d@5.180.20.28:8765?encryption=none&fl
 trojan://8r%3C%5B9%27l6hAO%238ZQi@31.133.0.49:2053?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B5%F0%9F%87%B1PL%28AzadNet.t.me%29%20clc-main
 trojan://8r%3C%5B9%27l6hAO%238ZQi@31.133.0.159:2053?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B5%F0%9F%87%B1PL%28AzadNet.t.me%29%20%281%29%20clc-main
 trojan://af6a3685-c423-4579-bfea-784c453d5e23@146.59.3.14:443?allowInsecure=1&security=tls#%F0%9F%87%B5%F0%9F%87%B1PL%28AzadNet.t.me%29%20%282%29%20clc-main
+vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?encryption=none&fp=chrome&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&security=reality&sid=2f49bccf11150ef2&sni=ads.x5.ru#%F0%9F%87%B5%F0%9F%87%B1PL%28AzadNet.t.me%29%20%283%29%20clc-main
 trojan://8r%3C%5B9%27l6hAO%238ZQi@74.50.11.24:443?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B5%F0%9F%87%B7PR%28AzadNet.t.me%29%20clc-main
 ss://bm9uZTpodHRwcw@90.156.211.232:8443#%F0%9F%87%B7%F0%9F%87%BARU%28AzadNet.t.me%29%20clc-main
 trojan://bpb-trojan@5.182.85.176:443?allowInsecure=1&security=tls&sni=bpb.my79801.com#%F0%9F%87%B7%F0%9F%87%BARU%28AzadNet.t.me%29%20%281%29%20clc-main
@@ -722,8 +723,8 @@ vless://073d1d50-8478-47bf-a828-7a1b381931d5@104.17.148.22:443?encryption=none&f
 vless://073d1d50-8478-47bf-a828-7a1b381931d5@104.17.147.22:443?encryption=none&fp=chrome&host=octopusss.net&path=%2Fodiyfws&security=tls&sni=octopusss.net&type=ws#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%2815%29%20clc-main
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@104.16.72.70:443?encryption=none&host=vangoghhh.info&path=%2Frdfgtws&security=tls&sni=vangoghhh.info&type=ws#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%2816%29%20clc-main
 trojan://humanity@104.26.6.159:443?host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%2817%29%20clc-main
-trojan://humanity@104.16.174.117:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%2818%29%20clc-main
 vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@love.ns.cloudflare.com:443?encryption=none&fp=chrome&host=gioub.moonleafbox-kilo.info&path=%2Fsea&security=tls&sni=gioub.moonleafbox-kilo.info&type=ws#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%2819%29%20clc-main
+trojan://humanity@104.18.152.77:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%2822%29%20clc-main
 vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@104.21.74.63:443?encryption=none&fp=chrome&host=amooaliii.net&path=%2Fjdhfyws&security=tls&sni=amooaliii.net&type=ws#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%2824%29%20clc-main
 vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@104.19.134.235:443?encryption=none&fp=chrome&host=amooaliii.net&path=%2Fjdhfyws&security=tls&sni=amooaliii.net&type=ws#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%2825%29%20clc-main
 vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@104.18.45.137:443?encryption=none&host=amooaliii.net&path=%2Fjdhfyws&security=tls&sni=amooaliii.net&type=ws#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%2826%29%20clc-main
