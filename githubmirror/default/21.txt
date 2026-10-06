@@ -15,10 +15,10 @@ hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.38.82.167:443?insecure=1&sni=vpn-fr-001.
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1&sni=vpn-tw-002.fastervpn.world#🇹🇼 Rose—26%20clc-main
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.124.109:8443?insecure=1&sni=hopp-germany-new.ddnsguru.com#🇮🇪 Rose—27%20clc-main
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.93.74:443?insecure=1&sni=vpn-kr-003.fastervpn.world#🇰🇷 Rose—32%20clc-main
+hysteria2://84a506ca5aca505696a454d828420b3f@140.238.213.114:50160?insecure=1&sni=www.bing.com#🇨🇭 Rose—33%20clc-main
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@51.44.162.6:443?insecure=1&sni=vpn-fr-001.fastervpn.world#🇫🇷 Rose—34%20clc-main
 hysteria2://Krab9Hyst2_Rk7pQ2xL@95.164.123.231:36723?insecure=1&sni=www.cloudflare.com#🇩🇪 Rose—35%20clc-main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:443#🇳🇱 Rose—53%20clc-main
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.18:8080#🇳🇱 Rose—56%20clc-main
 ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@103.169.67.34:65443#🇹🇭 Rose—58%20clc-main
 ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.233:65443#🇨🇳 Rose—59%20clc-main
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@3.250.223.202:443#🇮🇪 Rose—60%20clc-main
@@ -37,6 +37,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplUXZLa3lrQkViQ2t5NXA0QlZnaE8w@144.31.168.176
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.195:8080#🇳🇱 Rose—107%20clc-main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@95.40.120.162:8319#🇭🇰 Rose—108%20clc-main
 ss://2022-blake3-chacha20-poly1305:FWlUCAS9IBNg+5FoZ+U0kRs3dcz+oQnQkjGI%2FiKZMR0=@146.235.25.6:59319#🇧🇷 Rose—110%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.16:8080#🇳🇱 Rose—111%20clc-main
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@34.244.150.119:443#🇮🇪 Rose—113%20clc-main
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@18.132.203.206:443#🇬🇧 Rose—114%20clc-main
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@35.182.250.193:443#🇨🇦 Rose—115%20clc-main
