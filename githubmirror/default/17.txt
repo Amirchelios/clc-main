@@ -1,19 +1,180 @@
-#profile-title: 17-17/25 @Amirchelios
+#profile-title: 17-17/26 @Amirchelios
 #profile-update-interval: 48
 #support-url: https://github.com/Amirchelios/clc-main
 #announce: Amirchelios
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.224:443?encryption=none&flow=xtls-rprx-vision&fp=ios&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&security=reality&sid=c39cc7310a&sni=yahoo.com#Germany [GH:barry-far/V2r]%20clc-main
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.225:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&security=reality&sid=c39cc7310a&sni=yahoo.com#Germany [TG]%20clc-main
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.163:443?encryption=none&flow=xtls-rprx-vision&fp=ios&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&security=reality&sid=c39cc7310a&sni=yahoo.com#Germany [GH:barry-far/V2r] #3%20clc-main
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.182:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&security=reality&sid=c39cc7310a&sni=yahoo.com#Germany [TG] #7%20clc-main
-vless://99955907-9070-46f0-a200-9c7a0b9d74fe@23.81.34.204:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=J_p_dxR8dIKaezk1_Ins5MZ7e4dqgrr2n9690vVuQ2s&security=reality&sid=b19b017d6f453873&sni=speed.cloudflare.com&spx=%2F#United Kingdom [TG]%20clc-main
-vless://75cc7568-abb0-46a8-88be-8137d3c647d4@152.228.139.33:51671?Telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&encryption=none&fp=chrome&mode=gun&pbk=-5PowNUY37Pi01YKO9fjRTrum1m_9n6XauaPDpmOJzU&security=reality&serviceName=grpc_common3&sid=2fed44d8c59f7e71&sni=www.sony.com&type=grpc#France [TG]%20clc-main
-vless://2b8738de-1af5-4267-b101-c05707769ed4@172.67.130.187:2083?encryption=none&fp=chrome&host=fans.liverpool.qzz.io&packetEncoding=xudp&path=%2FeyJqdW5rIjoiY0Y0cENQUmxsNyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=tls&sni=fans.liverpool.qzz.io&type=ws#United States/San Francisco [TG]%20clc-main
-vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@31.77.168.192:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SPyieysl8w1lo950icthB72kn_ElyJXkpCdKqmnjGEY&security=reality&sid=494afdc75f8c2fa8&sni=d3-de1.cloud-cdn.xyz#Germany/Frankfurt am Main [TG] #2%20clc-main
-vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@chatgpt.com:443?allowInsecure=0&encryption=none&fp=chrome&host=powered-by-surena.user68f797c2f3e1b.workers.dev&insecure=0&path=%2F%3Fed&security=tls&sni=powered-by-surena.user68f797c2f3e1b.workers.dev&type=ws#United States/San Francisco [TG] #2%20clc-main
-vless://4ccf70f9-7632-4b5a-9557-10d2dd347bb2@104.17.148.22:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&fp=chrome&host=to6r63-kkchighqm2.vxz0dduq7to7su0cdqf.workers.dev&path=%2Fvl%2FG4J8aNAVZt9KdOjjcfZDFDRI1Obr5E0%3Fed%3D2560&security=tls&sni=to6r63-kkchighqm2.vxz0dduq7to7su0cdqf.workers.dev&type=ws#United States/San Francisco [TG] #3%20clc-main
-vless://cc9082e4-9c7c-4cef-a0f5-963363bed638@104.16.107.139:8880?encryption=none&host=weathered-mode-8f39.83-33c.workers.dev&packetEncoding=xudp&path=%2Fpyip%3Dproxyip.jp.cmliussss.net&type=ws#United States/San Francisco [TG] #4%20clc-main
-vless://0991a0c4-0ee5-4213-af89-7ad589f853f3@104.21.227.134:80?early_data_header_name=Sec-WebSocket-Protocol&encryption=none&host=elenaaaaaaaaaa.cloudns.pro&max_early_data=2560&packetEncoding=xudp&path=%2FELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY&type=ws#United States/San Francisco [TG] #5%20clc-main
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:443#The Netherlands [GH:Mahdi0024/Pro]%20clc-main
+trojan://2e631f0c-226a-484b-9e7c-d6c9c444ef13@51.68.164.10:443?alpn=http%2F1.1&fp=firefox&path=%2F&security=tls&sni=fmwf6gbnad0a.dop16.com#🇩🇪 1 - DE - Trojan/TLS/UTLS - 443%20clc-main
+trojan://2e631f0c-226a-484b-9e7c-d6c9c444ef13@fmwf6gbnad0a.dop16.com:443?alpn=http%2F1.1&fp=chrome&path=%2F&security=tls&sni=fmwf6gbnad0a.dop16.com#🇩🇪 2 - DE - Trojan/TLS/UTLS - 443%20clc-main
+trojan://LcICDcp!jD9TFV$NbH@dl2uf-ivdezilz3e86rk18.hhvt37tjm2xbosql5hxogn-y.workers.dev:443?allowInsecure=0&alpn=http%2F1.1&fp=chrome&host=dl2uf-ivdezilz3e86rk18.hhvt37tjm2xbosql5hxogn-y.workers.dev&insecure=0&path=%2Ftr%2Fpg4wM48V9O859nmqsJg22EOFKN4S570y%3Fed%3D2560&security=tls&sni=dl2uF-iVdeZILZ3E86rK18.Hhvt37tjm2XBOsQL5HXogN-Y.woRKERS.dEv&type=ws#🇺🇸 4 - US - Trojan/WS/TLS/UTLS - 443%20clc-main
+trojan://UX82473651@13.125.69.162:443?path=%2F&sni=engaging-toucan.rooster465.autos#🇰🇷 6 - KR - Trojan/TLS - 443%20clc-main
+trojan://UX82473651@13.212.81.3:443?path=%2F&security=tls&sni=holy-lamb.rooster465.autos#🇸🇬 7 - SG - Trojan/TLS - 443%20clc-main
+trojan://UX82473651@13.230.139.12:443?path=%2F&sni=brief-glider.rooster465.autos#🇯🇵 8 - JP - Trojan/TLS - 443%20clc-main
+trojan://UX82473651@13.230.91.226:443?fp=chrome&path=%2F&sni=musical-terrier.rooster465.autos#🇯🇵 9 - JP - Trojan/TLS/UTLS - 443%20clc-main
+trojan://UX82473651@13.231.247.130:443?fp=chrome&path=%2F&sni=concrete-aardvark.rooster465.autos#🇯🇵 10 - JP - Trojan/TLS/UTLS - 443%20clc-main
+trojan://UX82473651@176.34.5.100:443?path=%2F&sni=assuring-skink.rooster465.autos#🇯🇵 11 - JP - Trojan/TLS - 443%20clc-main
+trojan://UX82473651@18.176.61.69:443?fp=chrome&path=%2F&sni=intense-sole.rooster465.autos#🇯🇵 12 - JP - Trojan/TLS/UTLS - 443%20clc-main
+trojan://UX82473651@185.244.208.69:443?path=%2F&sni=strong-haddock.rooster465.autos#🇭🇰 13 - HK - Trojan/TLS - 443%20clc-main
+trojan://UX82473651@202.78.163.237:443?path=%2F&sni=cheerful-swan.rooster465.autos#🇵🇱 14 - PL - Trojan/TLS - 443%20clc-main
+trojan://UX82473651@3.112.245.255:443?fp=chrome&path=%2F&sni=dynamic-imp.rooster465.autos#🇯🇵 15 - JP - Trojan/TLS/UTLS - 443%20clc-main
+trojan://UX82473651@3.253.106.233:443?path=%2F&sni=loved-shark.rooster465.autos#🇮🇪 16 - IE - Trojan/TLS - 443%20clc-main
+trojan://UX82473651@3.34.131.153:443?path=%2F&sni=pretty-rat.rooster465.autos#🇰🇷 17 - KR - Trojan/TLS - 443%20clc-main
+trojan://UX82473651@3.35.168.225:443?path=%2F&sni=noted-cougar.rooster465.autos#🇰🇷 18 - KR - Trojan/TLS - 443%20clc-main
+trojan://UX82473651@3.35.207.188:443?path=%2F&sni=main-fawn.rooster465.autos#🇰🇷 19 - KR - Trojan/TLS - 443%20clc-main
+trojan://UX82473651@3.35.217.113:443?fp=chrome&path=%2F&sni=amazing-peacock.rooster465.autos#🇰🇷 20 - KR - Trojan/TLS/UTLS - 443%20clc-main
+trojan://UX82473651@3.39.225.215:443?fp=chrome&path=%2F&sni=kind-stork.rooster465.autos#🇰🇷 21 - KR - Trojan/TLS/UTLS - 443%20clc-main
+trojan://UX82473651@34.220.15.24:443?fp=chrome&path=%2F&sni=guided-ferret.rooster465.autos#🇺🇸 22 - US - Trojan/TLS/UTLS - 443%20clc-main
+trojan://UX82473651@43.201.100.203:443?fp=chrome&path=%2F&sni=optimum-snapper.rooster465.autos#🇰🇷 23 - KR - Trojan/TLS/UTLS - 443%20clc-main
+trojan://UX82473651@43.201.252.164:443?path=%2F&sni=balanced-stag.rooster465.autos#🇰🇷 24 - KR - Trojan/TLS - 443%20clc-main
+trojan://UX82473651@43.203.172.96:443?path=%2F&sni=neutral-quail.rooster465.autos#🇰🇷 25 - KR - Trojan/TLS - 443%20clc-main
+trojan://UX82473651@43.207.198.39:443?path=%2F&sni=fancy-javelin.rooster465.autos#🇯🇵 26 - JP - Trojan/TLS - 443%20clc-main
+trojan://UX82473651@43.207.89.91:443?path=%2F&sni=organic-caribou.rooster465.autos#🇯🇵 27 - JP - Trojan/TLS - 443%20clc-main
+trojan://UX82473651@44.255.123.205:443?path=%2F&sni=happy-gibbon.rooster465.autos#🇺🇸 28 - US - Trojan/TLS - 443%20clc-main
+trojan://UX82473651@52.192.217.187:443?path=%2F&sni=evolving-platypus.rooster465.autos#🇯🇵 29 - JP - Trojan/TLS - 443%20clc-main
+trojan://UX82473651@52.192.45.137:443?path=%2F&sni=promoted-rattler.rooster465.autos#🇯🇵 30 - JP - Trojan/TLS - 443%20clc-main
+trojan://UX82473651@52.221.218.179:443?path=%2F&sni=real-cardinal.rooster465.autos#🇸🇬 31 - SG - Trojan/TLS - 443%20clc-main
+trojan://UX82473651@52.221.220.227:443?fp=chrome&path=%2F&sni=pet-antelope.rooster465.autos#🇸🇬 32 - SG - Trojan/TLS/UTLS - 443%20clc-main
+trojan://UX82473651@52.78.203.191:443?path=%2F&security=tls&sni=delicate-buck.rooster465.autos#🇰🇷 33 - KR - Trojan/TLS - 443%20clc-main
+trojan://UX82473651@54.199.66.128:443?fp=chrome&path=%2F&security=tls&sni=integral-rodent.rooster465.autos#🇯🇵 34 - JP - Trojan/TLS/UTLS - 443%20clc-main
+trojan://UX82473651@54.238.153.132:443?path=%2F&sni=obliging-louse.rooster465.autos#🇯🇵 35 - JP - Trojan/TLS - 443%20clc-main
+trojan://UX82473651@54.249.36.167:443?fp=chrome&path=%2F&sni=comic-poodle.rooster465.autos#🇯🇵 36 - JP - Trojan/TLS/UTLS - 443%20clc-main
+trojan://UX82473651@54.249.55.154:443?path=%2F&sni=prime-corgi.rooster465.autos#🇯🇵 37 - JP - Trojan/TLS - 443%20clc-main
+trojan://UX82473651@54.250.237.143:443?fp=chrome&path=%2F&sni=accurate-frog.rooster465.autos#🇯🇵 38 - JP - Trojan/TLS/UTLS - 443%20clc-main
+trojan://UX82473651@54.254.59.149:443?path=%2F&sni=desired-boxer.rooster465.autos#🇸🇬 39 - SG - Trojan/TLS - 443%20clc-main
+trojan://UX82473651@54.65.177.190:443?fp=chrome&path=%2F&sni=winning-marten.rooster465.autos#🇯🇵 40 - JP - Trojan/TLS/UTLS - 443%20clc-main
+trojan://UX82473651@accurate-frog.rooster465.autos:443?fp=chrome&path=%2F&sni=accurate-frog.rooster465.autos#🇯🇵 41 - JP - Trojan/TLS/UTLS - 443%20clc-main
+trojan://UX82473651@actual-squid.rooster465.autos:443?path=%2F&sni=actual-squid.rooster465.autos#🇩🇪 42 - DE - Trojan/TLS - 443%20clc-main
+trojan://UX82473651@amazing-peacock.rooster465.autos:443?fp=chrome&path=%2F&sni=amazing-peacock.rooster465.autos#🇰🇷 43 - KR - Trojan/TLS/UTLS - 443%20clc-main
+trojan://UX82473651@assuring-skink.rooster465.autos:443?fp=chrome&path=%2F&sni=assuring-skink.rooster465.autos#🇯🇵 44 - JP - Trojan/TLS/UTLS - 443%20clc-main
+trojan://UX82473651@balanced-stag.rooster465.autos:443?fp=chrome&path=%2F&sni=balanced-stag.rooster465.autos#🇰🇷 45 - KR - Trojan/TLS/UTLS - 443%20clc-main
+trojan://UX82473651@brief-glider.rooster465.autos:443?fp=chrome&path=%2F&sni=brief-glider.rooster465.autos#🇯🇵 46 - JP - Trojan/TLS/UTLS - 443%20clc-main
+trojan://UX82473651@cheerful-swan.rooster465.autos:443?path=%2F&security=tls&sni=cheerful-swan.rooster465.autos#🇵🇱 47 - PL - Trojan/TLS - 443%20clc-main
+trojan://UX82473651@comic-poodle.rooster465.autos:443?fp=chrome&path=%2F&sni=comic-poodle.rooster465.autos#🇯🇵 48 - JP - Trojan/TLS/UTLS - 443%20clc-main
+trojan://UX82473651@concrete-aardvark.rooster465.autos:443?fp=chrome&path=%2F&sni=concrete-aardvark.rooster465.autos#🇯🇵 49 - JP - Trojan/TLS/UTLS - 443%20clc-main
+trojan://UX82473651@delicate-buck.rooster465.autos:443?fp=chrome&path=%2F&sni=delicate-buck.rooster465.autos#🇰🇷 50 - KR - Trojan/TLS/UTLS - 443%20clc-main
+trojan://UX82473651@desired-boxer.rooster465.autos:443?fp=chrome&path=%2F&sni=desired-boxer.rooster465.autos#🇸🇬 51 - SG - Trojan/TLS/UTLS - 443%20clc-main
+trojan://UX82473651@dynamic-imp.rooster465.autos:443?fp=chrome&path=%2F&sni=dynamic-imp.rooster465.autos#🇯🇵 52 - JP - Trojan/TLS/UTLS - 443%20clc-main
+trojan://UX82473651@engaging-toucan.rooster465.autos:443?fp=chrome&path=%2F&sni=engaging-toucan.rooster465.autos#🇰🇷 53 - KR - Trojan/TLS/UTLS - 443%20clc-main
+trojan://UX82473651@evolving-platypus.rooster465.autos:443?fp=chrome&path=%2F&sni=evolving-platypus.rooster465.autos#🇯🇵 54 - JP - Trojan/TLS/UTLS - 443%20clc-main
+trojan://UX82473651@fancy-javelin.rooster465.autos:443?fp=chrome&path=%2F&sni=fancy-javelin.rooster465.autos#🇯🇵 55 - JP - Trojan/TLS/UTLS - 443%20clc-main
+trojan://UX82473651@glowing-marmoset.rooster465.autos:443?fp=chrome&path=%2F&sni=glowing-marmoset.rooster465.autos#🇸🇬 56 - SG - Trojan/TLS/UTLS - 443%20clc-main
+trojan://UX82473651@guided-ferret.rooster465.autos:443?fp=chrome&path=%2F&sni=guided-ferret.rooster465.autos#🇺🇸 57 - US - Trojan/TLS/UTLS - 443%20clc-main
+trojan://UX82473651@happy-gibbon.rooster465.autos:443?fp=chrome&path=%2F&sni=happy-gibbon.rooster465.autos#🇺🇸 58 - US - Trojan/TLS/UTLS - 443%20clc-main
+trojan://UX82473651@holy-lamb.rooster465.autos:443?fp=chrome&path=%2F&sni=holy-lamb.rooster465.autos#🇸🇬 59 - SG - Trojan/TLS/UTLS - 443%20clc-main
+trojan://UX82473651@integral-rodent.rooster465.autos:443?fp=chrome&path=%2F&sni=integral-rodent.rooster465.autos#🇯🇵 60 - JP - Trojan/TLS/UTLS - 443%20clc-main
+trojan://UX82473651@intense-sole.rooster465.autos:443?fp=chrome&path=%2F&sni=intense-sole.rooster465.autos#🇯🇵 61 - JP - Trojan/TLS/UTLS - 443%20clc-main
+trojan://UX82473651@inviting-ferret.rooster465.autos:443?fp=chrome&path=%2F&sni=inviting-ferret.rooster465.autos#🇸🇬 62 - SG - Trojan/TLS/UTLS - 443%20clc-main
+trojan://UX82473651@kind-stork.rooster465.autos:443?fp=chrome&path=%2F&sni=kind-stork.rooster465.autos#🇰🇷 63 - KR - Trojan/TLS/UTLS - 443%20clc-main
+trojan://UX82473651@loved-shark.rooster465.autos:443?fp=chrome&path=%2F&sni=loved-shark.rooster465.autos#🇮🇪 64 - IE - Trojan/TLS/UTLS - 443%20clc-main
+trojan://UX82473651@main-fawn.rooster465.autos:443?fp=chrome&path=%2F&sni=main-fawn.rooster465.autos#🇰🇷 65 - KR - Trojan/TLS/UTLS - 443%20clc-main
+trojan://UX82473651@meet-goshawk.rooster465.autos:443?fp=chrome&path=%2F&sni=meet-goshawk.rooster465.autos#🇩🇪 66 - DE - Trojan/TLS/UTLS - 443%20clc-main
+trojan://UX82473651@musical-terrier.rooster465.autos:443?fp=chrome&path=%2F&sni=musical-terrier.rooster465.autos#🇯🇵 67 - JP - Trojan/TLS/UTLS - 443%20clc-main
+trojan://UX82473651@neutral-quail.rooster465.autos:443?fp=chrome&path=%2F&sni=neutral-quail.rooster465.autos#🇰🇷 68 - KR - Trojan/TLS/UTLS - 443%20clc-main
+trojan://UX82473651@noted-cougar.rooster465.autos:443?fp=chrome&path=%2F&sni=noted-cougar.rooster465.autos#🇰🇷 69 - KR - Trojan/TLS/UTLS - 443%20clc-main
+trojan://UX82473651@obliging-louse.rooster465.autos:443?fp=chrome&path=%2F&sni=obliging-louse.rooster465.autos#🇯🇵 70 - JP - Trojan/TLS/UTLS - 443%20clc-main
+trojan://UX82473651@optimum-snapper.rooster465.autos:443?fp=chrome&path=%2F&sni=optimum-snapper.rooster465.autos#🇰🇷 71 - KR - Trojan/TLS/UTLS - 443%20clc-main
+trojan://UX82473651@organic-caribou.rooster465.autos:443?fp=chrome&path=%2F&sni=organic-caribou.rooster465.autos#🇯🇵 72 - JP - Trojan/TLS/UTLS - 443%20clc-main
+trojan://UX82473651@pet-antelope.rooster465.autos:443?fp=chrome&path=%2F&sni=pet-antelope.rooster465.autos#🇸🇬 73 - SG - Trojan/TLS/UTLS - 443%20clc-main
+trojan://UX82473651@pleased-albacore.rooster465.autos:443?path=%2F&sni=pleased-albacore.rooster465.autos#🇩🇪 74 - DE - Trojan/TLS - 443%20clc-main
+trojan://UX82473651@pretty-rat.rooster465.autos:443?fp=chrome&path=%2F&sni=pretty-rat.rooster465.autos#🇰🇷 75 - KR - Trojan/TLS/UTLS - 443%20clc-main
+trojan://UX82473651@prime-corgi.rooster465.autos:443?fp=chrome&path=%2F&sni=prime-corgi.rooster465.autos#🇯🇵 76 - JP - Trojan/TLS/UTLS - 443%20clc-main
+trojan://UX82473651@promoted-rattler.rooster465.autos:443?fp=chrome&path=%2F&sni=promoted-rattler.rooster465.autos#🇯🇵 77 - JP - Trojan/TLS/UTLS - 443%20clc-main
+trojan://UX82473651@real-cardinal.rooster465.autos:443?fp=chrome&path=%2F&sni=real-cardinal.rooster465.autos#🇸🇬 78 - SG - Trojan/TLS/UTLS - 443%20clc-main
+trojan://UX82473651@sacred-anemone.rooster465.autos:443?fp=chrome&path=%2F&sni=sacred-anemone.rooster465.autos#🇮🇪 79 - IE - Trojan/TLS/UTLS - 443%20clc-main
+trojan://UX82473651@strong-haddock.rooster465.autos:443?path=%2F&sni=strong-haddock.rooster465.autos#🇭🇰 80 - HK - Trojan/TLS - 443%20clc-main
+trojan://UX82473651@ultimate-jaguar.rooster465.autos:443?fp=chrome&path=%2F&sni=ultimate-jaguar.rooster465.autos#🇺🇸 81 - US - Trojan/TLS/UTLS - 443%20clc-main
+trojan://UX82473651@winning-marten.rooster465.autos:443?fp=chrome&path=%2F&sni=winning-marten.rooster465.autos#🇯🇵 82 - JP - Trojan/TLS/UTLS - 443%20clc-main
+trojan://XuMweB2PWs@2.27.109.179:45464?fp=chrome&path=%2F&sni=2.27.109.179.sslip.io#🇭🇰 85 - HK - Trojan/TLS/UTLS - 45464%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4QzV2YWxoT2Q4dmZ3YVRYVVNaNlp5YjBJcDM0bFJSNXo3UDhheg@103.160.63.199:31348#🇮🇩 3 - ID - SS/AEAD - 31348%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWWRFNGxGT2lkNWE@51.195.126.38:8388#🇩🇪 6 - DE - SS/AEAD - 8388%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcW5xVG9paDBQYlU@51.255.13.232:8388#🇫🇷 16 - FR - SS/AEAD - 8388%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.212:8080#🇳🇱 24 - NL - SS/AEAD - 8080%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.186:8080#🇳🇱 32 - NL - SS/AEAD - 8080%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.201:8080#🇳🇱 34 - NL - SS/AEAD - 8080%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.13:8080#🇳🇱 45 - NL - SS/AEAD - 8080%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.174:8080#🇳🇱 48 - NL - SS/AEAD - 8080%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.9:8080#🇳🇱 50 - NL - SS/AEAD - 8080%20clc-main
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@15.204.246.132:7307#🇺🇸 55 - US - SS/AEAD - 7307%20clc-main
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@185.226.172.8:8008#🇩🇪 57 - DE - SS/AEAD - 8008%20clc-main
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@15.204.246.107:8888#🇺🇸 59 - US - SS/AEAD - 8888%20clc-main
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@15.204.247.124:2375#🇺🇸 63 - US - SS/AEAD - 2375%20clc-main
+ss://YWVzLTI1Ni1nY206a0tFZDByQnJkNTZGdXJqeg@2.58.81.221:80#🇩🇪 66 - DE - SS/AEAD - 80%20clc-main
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@141.164.45.187:5498#🇰🇷 69 - KR - SS/AEAD - 5498%20clc-main
+hysteria2://083417772bc618cd61f0cca23dd91680@167.179.34.31:55443?insecure=1&sni=gorbachev-new-th.kvnfreetest.uk#🇹🇭 1 - TH - Hysteria2/QUIC - 55443%20clc-main
+hysteria2://2691cbe7c20cced8b0aeb12c812d09077e5b3eec7669fb8f@144.31.148.87:443?insecure=1&sni=replay.wwwinternetvideo.click#🇩🇪 2 - DE - Hysteria2/QUIC - 443%20clc-main
+hysteria2://2691cbe7c20cced8b0aeb12c812d09077e5b3eec7669fb8f@replay.wwwinternetvideo.click:443?insecure=1&sni=replay.wwwinternetvideo.click#🇩🇪 3 - DE - Hysteria2/QUIC - 443%20clc-main
+hysteria2://2vwMMy8t5Sjl5lfK9dNF1OrU9d0K25V2RNWLbTKwJ6o@89.125.156.80:443?insecure=1&sni=pixelcast.wwwinternetvideo.click#🇩🇪 4 - DE - Hysteria2/QUIC - 443%20clc-main
+hysteria2://2vwMMy8t5Sjl5lfK9dNF1OrU9d0K25V2RNWLbTKwJ6o@pixelcast.wwwinternetvideo.click:443?insecure=1&sni=pixelcast.wwwinternetvideo.click#🇩🇪 5 - DE - Hysteria2/QUIC - 443%20clc-main
+hysteria2://4cbefb4d-328c-411d-bf76-780df1082df8@meow-berlin.nethcloud.top:443?sni=meow-berlin.nethcloud.top#🇺🇸 6 - US - Hysteria2/QUIC - 443%20clc-main
+hysteria2://6f7a8009ecf6a12e10d03f9d88493c89@167.179.34.13:55443?insecure=1&sni=gorbachev-th.kvnfreetest.uk#🇹🇭 7 - TH - Hysteria2/QUIC - 55443%20clc-main
+hysteria2://8674df07-56b3-43ea-b687-aef2b1a20137@31.76.22.210:443?insecure=1&sni=crt.ultimagamest.com#🇵🇱 8 - PL - Hysteria2/QUIC - 443%20clc-main
+hysteria2://BPvdjudCGodsF67hRP3xgBYvcKp48coTsh6ANydLhQs=@fin14qr.wwwinternetvideo.click:443?insecure=1&sni=fin14qr.wwwinternetvideo.click#🇩🇪 9 - DE - Hysteria2/QUIC - 443%20clc-main
+hysteria2://BWAFlp8g53@72.56.102.31:443?insecure=1#🇳🇱 10 - NL - Hysteria2/QUIC - 443%20clc-main
+hysteria2://BWAFlp8g53@hys28.wba-pn.ru:443?insecure=1#🇳🇱 11 - NL - Hysteria2/QUIC - 443%20clc-main
+hysteria2://C91FbOXGY9XRymrcEebtax9R1Nj62UizoT8S6kCb7xwey8IE@31.76.30.97:443?insecure=1&sni=fast.wwwinternetvideo.click#🇫🇮 12 - FI - Hysteria2/QUIC - 443%20clc-main
+hysteria2://C91FbOXGY9XRymrcEebtax9R1Nj62UizoT8S6kCb7xwey8IE@fast.wwwinternetvideo.click:443?insecure=1&sni=fast.wwwinternetvideo.click#🇫🇮 13 - FI - Hysteria2/QUIC - 443%20clc-main
+hysteria2://CnVfXXvMzh@72.56.92.120:443?insecure=1&sni=hys13.wba-pn.ru#🇳🇱 14 - NL - Hysteria2/QUIC - 443%20clc-main
+hysteria2://CnVfXXvMzh@hys13.wba-pn.ru:443?insecure=1&sni=hys13.wba-pn.ru#🇳🇱 15 - NL - Hysteria2/QUIC - 443%20clc-main
+hysteria2://EkF2Yw0Lc7@72.56.16.243:443?insecure=1&sni=hys34.wba-pn.ru#🇳🇱 16 - NL - Hysteria2/QUIC - 443%20clc-main
+hysteria2://EkF2Yw0Lc7@hys34.wba-pn.ru:443?insecure=1&sni=hys34.wba-pn.ru#🇳🇱 17 - NL - Hysteria2/QUIC - 443%20clc-main
+hysteria2://GSPOBvG-ZwYcBFMr0ekFGO_Zga3wK6v_@hy2-latvia2.unlimited-access.ru:443?sni=hy2-latvia2.unlimited-access.ru#🇱🇻 18 - LV - Hysteria2/QUIC - 443%20clc-main
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?insecure=1&sni=https%3A%2F%2Ft.me%2Foneclickvpnkeys#🇹🇼 19 - TW - Hysteria2/QUIC - 443%20clc-main
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@15.223.183.81:443?insecure=1&sni=t.me#🇨🇦 20 - CA - Hysteria2/QUIC - 443%20clc-main
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=202.146.222.29#🇭🇰 21 - HK - Hysteria2/QUIC - 443%20clc-main
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@35.181.166.40:443?insecure=1&security=tls&sni=35.181.166.40#🇫🇷 22 - FR - Hysteria2/QUIC - 443%20clc-main
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-ca-001.fastervpn.world:443?insecure=1&sni=t.me#🇨🇦 23 - CA - Hysteria2/QUIC - 443%20clc-main
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-kr-003.fastervpn.world:443?insecure=1&sni=vpn-kr-003.fastervpn.world#🇰🇷 24 - KR - Hysteria2/QUIC - 443%20clc-main
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1&sni=127.0.0.1#🇹🇼 25 - TW - Hysteria2/QUIC - 443%20clc-main
+hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.178:8080?insecure=1&sni=hopp-romania-new.roxa.org#🇩🇿 26 - DZ - Hysteria2/QUIC - 8080%20clc-main
+hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.181:8080?insecure=1&sni=hopp-romania-new.roxa.org#🇩🇿 27 - DZ - Hysteria2/QUIC - 8080%20clc-main
+hysteria2://OD6gGbGU9a@195.133.24.124:443?sni=hys26.wba-pn.ru#🇳🇱 28 - NL - Hysteria2/QUIC - 443%20clc-main
+hysteria2://OD6gGbGU9a@hys26.wba-pn.ru:443?sni=hys26.wba-pn.ru#🇳🇱 29 - NL - Hysteria2/QUIC - 443%20clc-main
+hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@205.237.109.162:8443?insecure=1&sni=hopp-netherland-new.dynuddns.net#🇮🇹 30 - IT - Hysteria2/QUIC - 8443%20clc-main
+hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@205.237.109.163:8443?insecure=1&sni=hopp-netherland-new.dynuddns.net#🇮🇹 31 - IT - Hysteria2/QUIC - 8443%20clc-main
+hysteria2://V1UQuwa-4PRIDW2paxrPe58RcxXHPGyFIGS-5QojaM8@144.31.221.57:443?insecure=1&sni=player.wwwinternetvideo.click#🇩🇪 32 - DE - Hysteria2/QUIC - 443%20clc-main
+hysteria2://V1UQuwa-4PRIDW2paxrPe58RcxXHPGyFIGS-5QojaM8@player.wwwinternetvideo.click:443?insecure=1&sni=player.wwwinternetvideo.click#🇩🇪 33 - DE - Hysteria2/QUIC - 443%20clc-main
+hysteria2://VB92_Ka9qwef143K_L23K1hz3_bF_Hz62uT_Bn1_sC@82.38.60.15:8443?insecure=1&sni=hopp-us.yyuyy.com#🇺🇸 34 - US - Hysteria2/QUIC - 8443%20clc-main
+hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@144.31.49.47:443?insecure=1&sni=admin.wwwinternetvideo.click#🇷🇺 35 - RU - Hysteria2/QUIC - 443%20clc-main
+hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@45.192.12.93:443?sni=admin.wwwinternetvideo.click#🇵🇱 36 - PL - Hysteria2/QUIC - 443%20clc-main
+hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@admin.wwwinternetvideo.click:443?insecure=1#🇵🇱 37 - PL - Hysteria2/QUIC - 443%20clc-main
+hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@go.wwwinternetvideo.click:443?insecure=1&sni=admin.wwwinternetvideo.click#🇷🇺 38 - RU - Hysteria2/QUIC - 443%20clc-main
+hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@go2.wwwinternetvideo.click:443?insecure=1&sni=admin.wwwinternetvideo.click#🇷🇺 39 - RU - Hysteria2/QUIC - 443%20clc-main
+hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?insecure=1&sni=155.248.209.237#🇺🇸 40 - US - Hysteria2/QUIC - 33333%20clc-main
+hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@hy2.123266.xyz:33333?sni=hy2.123266.xyz#🇺🇸 41 - US - Hysteria2/QUIC - 33333%20clc-main
+hysteria2://dongtaiwang.com@142.249.37.90:44356?sni=hy2.561891.xyz#🇺🇸 42 - US - Hysteria2/QUIC - 44356%20clc-main
+hysteria2://dongtaiwang.com@62.210.124.146:22000?insecure=1&sni=www.microsoft.com#🇫🇷 43 - FR - Hysteria2/QUIC - 22000%20clc-main
+hysteria2://dongtaiwang.com@hy2.561891.xyz:44356?sni=hy2.561891.xyz#🇺🇸 44 - US - Hysteria2/QUIC - 44356%20clc-main
+hysteria2://eb0e3aec-f67f-4fa2-8577-b0bff0484e77@194.238.40.185:443?insecure=1&sni=kaz0001hy01.packet-drop-society.net#🇰🇿 45 - KZ - Hysteria2/QUIC - 443%20clc-main
+hysteria2://eb0e3aec-f67f-4fa2-8577-b0bff0484e77@kaz0001hy01.packet-drop-society.net:443?insecure=1&sni=kaz0001hy01.packet-drop-society.net#🏳️ 46 - XX - Hysteria2/QUIC - 443%20clc-main
+hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@138.124.0.168:8080?insecure=1&sni=hopp-legend-se.roxa.org#🇫🇮 47 - FI - Hysteria2/QUIC - 8080%20clc-main
+hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@222.167.212.81:8443?sni=hopp-legend-se.roxa.org#🇫🇮 48 - FI - Hysteria2/QUIC - 8443%20clc-main
+hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@222.167.212.82:8443?insecure=1&sni=hopp-legend-se.roxa.org#🇫🇮 49 - FI - Hysteria2/QUIC - 8443%20clc-main
+hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@64.188.98.171:443?insecure=1&sni=germany3.h2corp.local#🇩🇪 50 - DE - Hysteria2/QUIC - 443%20clc-main
+hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@91.196.32.163:443?insecure=1&sni=germany3.h2corp.local#🇩🇪 51 - DE - Hysteria2/QUIC - 443%20clc-main
+hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@de.1.23.h2corp.org:443?insecure=1&sni=germany3.h2corp.local#🇩🇪 52 - DE - Hysteria2/QUIC - 443%20clc-main
+hysteria2://oCYFcbOo8s@201.51.24.4:443?sni=hys22.wba-pn.ru#🇳🇱 53 - NL - Hysteria2/QUIC - 443%20clc-main
+hysteria2://oCYFcbOo8s@hys22.wba-pn.ru:443?sni=hys22.wba-pn.ru#🇳🇱 54 - NL - Hysteria2/QUIC - 443%20clc-main
+hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.131:8443?sni=grape-turbo-fr.roxa.org#🇳🇱 55 - NL - Hysteria2/QUIC - 8443%20clc-main
+hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.132:8443?insecure=1&sni=grape-turbo-fr.roxa.org#🇳🇱 56 - NL - Hysteria2/QUIC - 8443%20clc-main
+hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.133:8443?sni=grape-turbo-fr.roxa.org#🇳🇱 57 - NL - Hysteria2/QUIC - 8443%20clc-main
+hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.137:8443?sni=grape-turbo-fr.roxa.org#🇳🇱 58 - NL - Hysteria2/QUIC - 8443%20clc-main
+hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.138:8443?sni=grape-turbo-fr.roxa.org#🇳🇱 59 - NL - Hysteria2/QUIC - 8443%20clc-main
+hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.139:8443?insecure=1&sni=grape-turbo-fr.roxa.org#🇳🇱 60 - NL - Hysteria2/QUIC - 8443%20clc-main
+hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.140:8443?sni=grape-turbo-fr.roxa.org#🇳🇱 61 - NL - Hysteria2/QUIC - 8443%20clc-main
+hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.142:8443?insecure=1&sni=grape-turbo-fr.roxa.org#🇳🇱 62 - NL - Hysteria2/QUIC - 8443%20clc-main
+hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.147:8443?insecure=1&sni=grape-turbo-fr.roxa.org#🇳🇱 63 - NL - Hysteria2/QUIC - 8443%20clc-main
+hysteria2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@217.60.182.79:443?insecure=1&sni=cabinet.wwwinternetvideo.click#🇺🇸 64 - US - Hysteria2/QUIC - 443%20clc-main
+hysteria2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@cabinet.wwwinternetvideo.click:443?insecure=1&sni=cabinet.wwwinternetvideo.click#🇺🇸 65 - US - Hysteria2/QUIC - 443%20clc-main
+hysteria2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@faq.wwwinternetvideo.click:443?insecure=1&sni=cabinet.wwwinternetvideo.click#🇺🇸 66 - US - Hysteria2/QUIC - 443%20clc-main
+hysteria2://suAmQS9LlInNq4Wumh-FUF4GGlpgmG_g@159.223.157.129:8443?insecure=1#🇺🇸 67 - US - Hysteria2/QUIC - 8443%20clc-main
+hysteria2://umnDU7jgFYUjpVjVM2sW9HL0rRYLJNgzVwRu2HzWEhyZKkRx@5.83.129.11:443?insecure=1&sni=germany1.h2corp.local#🇩🇪 68 - DE - Hysteria2/QUIC - 443%20clc-main
+hysteria2://umnDU7jgFYUjpVjVM2sW9HL0rRYLJNgzVwRu2HzWEhyZKkRx@de.1.22.washing.help:443?insecure=1&sni=germany1.h2corp.local#🇩🇪 69 - DE - Hysteria2/QUIC - 443%20clc-main
+hysteria2://umnDU7jgFYUjpVjVM2sW9HL0rRYLJNgzVwRu2HzWEhyZKkRx@hold.wwwinternetvideo.click:443?insecure=1&sni=germany1.h2corp.local#🇷🇺 70 - RU - Hysteria2/QUIC - 443%20clc-main
+hysteria2://wrSuBorIlf@72.56.116.57:443?insecure=1&sni=hys9.wba-pn.ru#🇳🇱 71 - NL - Hysteria2/QUIC - 443%20clc-main
+hysteria2://wrSuBorIlf@hys9.wba-pn.ru:443?insecure=1#🇳🇱 72 - NL - Hysteria2/QUIC - 443%20clc-main
+hysteria2://zhangyang@130.61.50.75:6443?insecure=1&sni=130.61.50.75#🇩🇪 73 - DE - Hysteria2/QUIC - 6443%20clc-main
+vmess://eyJ2IjoiMiIsInBzIjoi8J-HsPCfh7cgMzAgLSBLUiAtIFZNZXNzL1dTIC0gODAiLCJhZGQiOiIxMzIuMTQ1LjgwLjIzMCIsInBvcnQiOiI4MCIsImlkIjoiNTE1NTg2MGUtZDA3ZC00NmMzLTkxMjgtM2FmYmQ4NDYyNmM3IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInBhdGgiOiIvY2N0djEzLm0zdTgifQ#%20clc-main
+vmess://eyJ2IjoiMiIsInBzIjoi8J-HsPCfh7cgMzEgLSBLUiAtIFZNZXNzIC0gNDQzIiwiYWRkIjoiMTQwLjIzOC4yLjI1MCIsInBvcnQiOiI0NDMiLCJpZCI6IjQxYTcwODlhLTA0MGItNDUzOC04YjhkLTAxMDkwMjQwNWJkZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwicGF0aCI6Ii8ifQ#%20clc-main
+vmess://eyJ2IjoiMiIsInBzIjoi8J-HuPCfh6wgMzMgLSBTRyAtIFZNZXNzIC0gMTgwMDAiLCJhZGQiOiJ3dzExLmxldmlrb2dqZ2ZkZC5pciIsInBvcnQiOiIxODAwMCIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJob3N0Ijoid3cxMS5sZXZpa29namdmZGQuaXIiLCJwYXRoIjoiLyJ9#%20clc-main
+vmess://eyJ2IjoiMiIsInBzIjoi8J-HuvCfh7ggMzQgLSBVUyAtIFZNZXNzL1dTIC0gMzk0OTUiLCJhZGQiOiIxMjkuMTQ2Ljc3LjI0OCIsInBvcnQiOiIzOTQ5NSIsImlkIjoiZjgzNmM3MzYtODdmYy00ZmRlLWFhYmMtMDA4NTdlY2RmZjNlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiIxMjkuMTQ2Ljc3LjI0OCIsInBhdGgiOiIvY2N0djEzLm0zdTgifQ#%20clc-main
+vmess://eyJ2IjoiMiIsInBzIjoi8J-HuvCfh7ggMzYgLSBVUyAtIFZNZXNzIC0gNDgxMTEiLCJhZGQiOiIxMjkuMTQ2LjE0My44MCIsInBvcnQiOiI0ODExMSIsImlkIjoiZDQ2MDNjYzItZTBlZS00NjUxLTgzZjUtMWRiNWI3MTY4MTc3IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyJ9#%20clc-main
