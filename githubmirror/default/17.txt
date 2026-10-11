@@ -1,4 +1,4 @@
-#profile-title: 17-17/26 @Amirchelios
+#profile-title: 17-17/25 @Amirchelios
 #profile-update-interval: 48
 #support-url: https://github.com/Amirchelios/clc-main
 #announce: Amirchelios
@@ -661,7 +661,6 @@ vless://d4aad26f-70b6-4411-8517-17f7b4281886@168.222.140.205:2200?encryption=non
 trojan://MiTiVPN@151.101.56.9:443?alpn=http%2F1.1&fp=chrome&host=s3z-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Ff-l%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&sni=default.fastly.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20%2894%29%20clc-main
 vless://07ada3a7-b17b-42fb-bb59-267f4c24f525@144.34.170.18:50159?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=fA8KdkY7jCafUCTaenwYSg7KrrGwsg7jnq6niEj2qGs&security=reality&sid=504d5cc3bd52e49e&sni=www.cloudflare.com#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20%2895%29%20clc-main
 vless://0e87d003-3b20-41c4-bf3f-c006d0c94685@199.232.78.159:443?encryption=none&fp=chrome&host=SvnTeamChannel.global.ssl.fastly.net&path=%2F&security=tls&sni=ssl.fastly.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20%2896%29%20clc-main
-trojan://humanity@166.1.36.83:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20%2897%29%20clc-main
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.187.6:22222?encryption=none#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20%2898%29%20clc-main
 vless://3b332b98-473b-42ea-b6f0-1a4960c3efbc@135.106.142.215:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&security=reality&sid=122218f4c1f172e4&sni=ads2.yandex-dev.online#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20%2899%29%20clc-main
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.193.213.30:8880?encryption=none&host=vms.lifetime23.workers.dev&type=ws#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20%28100%29%20clc-main
@@ -907,6 +906,7 @@ trojan://f0eb8c92ce8946aaba856569cff1a16b@162.159.140.220:443?alpn=http%2F1.1&se
 trojan://9e7caa3b-ca9c-40ba-9ea0-f0c992359239@104.21.86.140:443?security=tls&sni=m2rrrty.777219.xyz#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28248%29%20clc-main
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.16.223.254:443?security=tls&sni=icecream.955850.xyz#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28249%29%20clc-main
 trojan://bpb-trojan@172.66.47.117:8443?security=tls&sni=AZaDneT-Hwt.pAGES.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28250%29%20clc-main
+trojan://1111@172.67.214.154:2096?security=tls&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jakec78925.workers.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28251%29%20clc-main
 trojan://bpb-trojan@104.18.203.219:443?allowInsecure=1&security=tls&sni=bpb.my79801.com#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28252%29%20clc-main
 trojan://3Ldo+,81m%5Bh)3Lb+@172.66.44.81:2087?security=tls&sni=aZaDnET05.pAges.DeV#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28253%29%20clc-main
 trojan://3%5DsjM!r%7CL%3BQl@172.66.46.213:2096?security=tls&sni=zs41T69imJif5VZsXvlG4GvItc80mmx5.PaGes.DeV#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28254%29%20clc-main
