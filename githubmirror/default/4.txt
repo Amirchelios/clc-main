@@ -32,7 +32,6 @@ vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.179:443?encryption=none&f
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.173:443?encryption=none&flow=xtls-rprx-vision&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&security=reality&sid=c39cc7310a&sni=yahoo.com#@Vip_Security join us - 558%20clc-main
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.16:443?encryption=none&flow=xtls-rprx-vision&fp=ios&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&security=reality&sid=c39cc7310a&sni=yahoo.com#@Vip_Security join us - 556%20clc-main
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.163:443?encryption=none&flow=xtls-rprx-vision&fp=ios&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&security=reality&sid=c39cc7310a&sni=yahoo.com#@Vip_Security join us - 554%20clc-main
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.15:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&host=yahoo.com&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&security=reality&sid=c39cc7310a&sni=yahoo.com#@Vip_Security join us - 552%20clc-main
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.104:443?encryption=none&flow=xtls-rprx-vision&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&security=reality&sid=c39cc7310a&sni=yahoo.com#@Vip_Security join us - 549%20clc-main
 vless://d56624b2-35bb-468c-9b2a-e0b0df7230c1@154.31.114.248:50159?encryption=none&flow=xtls-rprx-vision&pbk=j4QXngGuJkUGwRj4XIrfHRohYYuEfnJlX4cvCE-WklA&security=reality&sid=091e1c5db8451757&sni=www.cloudflare.com#@Vip_Security join us - 547%20clc-main
 vless://d342d11e-d224-4463-b982-532309285094@43.129.80.179:8443?allowInsecure=0&encryption=none&fp=chrome&host=ccc.010304.xyz&insecure=0&path=%2F&security=tls&sni=ccc.010304.xyz&type=ws#@Vip_Security join us - 546%20clc-main
@@ -49,7 +48,7 @@ vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@139.162.27.96:2096?allowInsecure=0&
 vless://6338c01a-310e-42c3-bf4f-2a20e161054b@213.165.56.102:443?encryption=none&flow=xtls-rprx-vision&pbk=A_bQLZE6D32TJUdAf9doQTPaTUXyJjPXLSklplG4V1g&security=reality&sid=57e7977c9011061c&sni=freede.aiage.work#@Vip_Security join us - 531%20clc-main
 vless://5b01dc2d-6892-49b8-8289-3f73a32e00e4@3696b38bsg.murphyweb.sbs:32134?encryption=none&flow=xtls-rprx-vision&fp=chrome&host=buylite.music.apple.com&pbk=OdTELUjAUKO_qr-O-uihaAZJAhA8GyIWVI6CpozVCU4&security=reality&sid=6c6c7c97&sni=buylite.music.apple.com#@Vip_Security join us - 530%20clc-main
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@154.29.149.140:16586?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=tBvlo8F8hKRXSK-EHRAfzEH-x3e4uvheGloO-9bPKx4&security=reality&sid=70ab6d813e&sni=us1p1.xn--ghq880n3na965a.com#@Vip_Security join us - 529%20clc-main
-vless://511c1563-2cb6-4064-abc6-a59ee49818a8@5.253.30.99:40443?encryption=none&flow=xtls-rprx-vision&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&security=reality&sid=88b6&sni=deepl.com#@Vip_Security join us - 527%20clc-main
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@154.21.203.106:21033?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=EG-jzQw1RyOwAM4L9rMKondSx7cyFmPyv1OP7xXkIk4&security=reality&sid=cbd39bea0805e2&sni=www.kaidee.com#@Vip_Security join us - 528%20clc-main
 vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.63:443?allowInsecure=0&encryption=none&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&fp=unsafe&host=jp3.yohototo.top&insecure=0&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#@Vip_Security join us - 526%20clc-main
 vless://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@31.76.35.27:443?encryption=none&flow=xtls-rprx-vision&fp=randomized&pbk=P-r-oVr8MTTCILgRxk8YuB9OKVojYw3MkH_ERUXzX3s&security=reality&sid=b76a6309&sni=addons.mozilla.org#@Vip_Security join us - 525%20clc-main
 vless://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@177.1.192.74:443?encryption=none&flow=xtls-rprx-vision&fp=randomized&pbk=qC0g7Y0pwyLFTGAPG2zfZNuo64Cda695wdKgLU4KkF8&security=reality&sid=770618b6&sni=addons.mozilla.org#@Vip_Security join us - 524%20clc-main
@@ -106,6 +105,7 @@ trojan://humanity@188.114.97.3:443?allowInsecure=0&fm=tlshello-0-len&fp=unsafe&h
 trojan://humanity@188.114.97.3:443?allowInsecure=0&fm=tlshello-0-len&fp=unsafe&host=www.pleadcourt.org&insecure=0&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#@Vip_Security join us - 422%20clc-main
 trojan://humanity@188.114.97.3:443?allowInsecure=0&fm=tlshello-0-len&fp=unsafe&insecure=0&path=%2Fassignment&security=tls&sni=www.volumeroot.com&type=ws#@Vip_Security join us - 421%20clc-main
 trojan://humanity@188.114.97.2:443?allowInsecure=0&fm=tlshello-0-len&fp=unsafe&host=www.volumeroot.com&insecure=0&path=%2Fassignment&security=tls&sni=www.volumeroot.com&type=ws#@Vip_Security join us - 417%20clc-main
+trojan://humanity@188.114.97.2:443?allowInsecure=0&fm=tlshello-0-len&fp=unsafe&host=www.volumerOot.coM.&insecure=0&path=%2Fassignment&security=tls&sni=wWw.Volumeroot.cOm.&type=ws#@Vip_Security join us - 416%20clc-main
 trojan://humanity@188.114.97.2:443?allowInsecure=0&fm=tlshello-0-len&fp=unsafe&host=www.pleadcourt.org&insecure=0&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#@Vip_Security join us - 415%20clc-main
 trojan://humanity@188.114.97.1:443?allowInsecure=0&fm=tlshello-0-len&fp=unsafe&host=www.volumerOot.coM.&insecure=0&path=%2Fassignment&security=tls&sni=wWw.Volumeroot.cOm.&type=ws#@Vip_Security join us - 411%20clc-main
 trojan://humanity@188.114.97.1:443?allowInsecure=0&fm=tlshello-0-len&fp=unsafe&host=www.pleadcourt.org&insecure=0&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#@Vip_Security join us - 410%20clc-main
@@ -150,17 +150,15 @@ vmess://eyJ2IjoiMiIsInBzIjoiQFZpcF9TZWN1cml0eSBqb2luIHVzIC0gMzUzIiwiYWRkIjoiMjMu
 vmess://eyJ2IjoiMiIsInBzIjoiQFZpcF9TZWN1cml0eSBqb2luIHVzIC0gMzUxIiwiYWRkIjoiMTg4LjExNC45Ni4xOSIsInBvcnQiOiI4MCIsImlkIjoiYWVkODhlNzktNTc2Mi00ZDJmLTg2ZmEtZjQzOGYzMmE3NjU0IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJob3N0IjoiZ29vZ2xlLndoYXRzYXBwLnNuYXBwLnRvcm9iLmJhc2FsYW0uaGVzYW5pZDguaXIuIiwicGF0aCI6Ii8ifQ#%20clc-main
 vmess://eyJ2IjoiMiIsInBzIjoiQFZpcF9TZWN1cml0eSBqb2luIHVzIC0gMzUwIiwiYWRkIjoiMTcyLjY3LjE5OC4xODciLCJwb3J0IjoiNDQzIiwiaWQiOiI5M2VhNDg2YS1iYWRhLTQyYTQtYWMzOC1kMDg4YjMyMGZhMWUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6InhtaXZpZGVvLmNmZCIsInBhdGgiOiIvbGlua3dzIiwidGxzIjoidGxzIiwic25pIjoieG1pdmlkZW8uY2ZkIn0#%20clc-main
 vmess://eyJ2IjoiMiIsInBzIjoiQFZpcF9TZWN1cml0eSBqb2luIHVzIC0gMzQ5IiwiYWRkIjoiMTY4LjEzOC40My43NSIsInBvcnQiOiI4MCIsImlkIjoiMTFjMzYyN2YtMzFlOC00Njk1LWRmYmQtMzQwNzZlMmYxZjVkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJob3N0IjoiMTY4LjEzOC40My43NSIsInBhdGgiOiIvY2N0djEzLm0zdTgifQ#%20clc-main
-vmess://eyJ2IjoiMiIsInBzIjoiQFZpcF9TZWN1cml0eSBqb2luIHVzIC0gMzQ4IiwiYWRkIjoiMTY1LjE1NC4xOTUuMzgiLCJwb3J0IjoiMzUwMzQiLCJpZCI6Ijk1OWE4Y2FmLTRjZWEtNDNkMC1hNTQ4LTM2MjhlN2RkZmFmYyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIn0#%20clc-main
 vmess://eyJ2IjoiMiIsInBzIjoiQFZpcF9TZWN1cml0eSBqb2luIHVzIC0gMzQ2IiwiYWRkIjoiMTU2LjI0NS4yMzIuMjM5IiwicG9ydCI6IjM1MDQzIiwiaWQiOiJiMTVlNDgxZC0xN2U0LTQxYTgtODRjMi0yM2Q0ZjA1MTRkOWEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiLyJ9#%20clc-main
-vmess://eyJ2IjoiMiIsInBzIjoiQFZpcF9TZWN1cml0eSBqb2luIHVzIC0gMzQ1IiwiYWRkIjoiMTQ1LjIzOS41NS4yMTAiLCJwb3J0IjoiODAiLCJpZCI6IjA2N2ZjZDYzLWIyMTUtNGFiZC04NTI5LWFlOTI5YTk5NzFhOSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiZ29vZ2xlLndoYXRzYXBwLnNuYXBwLnRvcm9iLmJhc2FsYW0uZm9ydHJlc3Nob3N0LmlyLiIsInBhdGgiOiIvIn0#%20clc-main
 vmess://eyJ2IjoiMiIsInBzIjoiQFZpcF9TZWN1cml0eSBqb2luIHVzIC0gMzQ0IiwiYWRkIjoiMTI5LjE0Ni43Ny4yNDgiLCJwb3J0IjoiMzk0OTUiLCJpZCI6ImY4MzZjNzM2LTg3ZmMtNGZkZS1hYWJjLTAwODU3ZWNkZmYzZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6IjEyOS4xNDYuNzcuMjQ4IiwicGF0aCI6Ii9jY3R2MTMubTN1OCJ9#%20clc-main
 vmess://eyJ2IjoiMiIsInBzIjoiQFZpcF9TZWN1cml0eSBqb2luIHVzIC0gMzQzIiwiYWRkIjoiMTA0LjE5LjMyLjAiLCJwb3J0IjoiNDQzIiwiaWQiOiI5M2VhNDg2YS1iYWRhLTQyYTQtYWMzOC1kMDg4YjMyMGZhMWUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6InhtaXZpZGVvLmNmZCIsInBhdGgiOiIvbGlua3dzIiwidGxzIjoidGxzIiwic25pIjoieG1pdmlkZW8uY2ZkIn0#%20clc-main
 vmess://eyJ2IjoiMiIsInBzIjoiQFZpcF9TZWN1cml0eSBqb2luIHVzIC0gMzQyIiwiYWRkIjoiMTA0LjE3LjEzNy4xMjciLCJwb3J0IjoiNDQzIiwiaWQiOiI0N2VhYjBkZS05N2Y5LTQ5YmUtZjJmMy0yZTRlYjE3MjY4ZTYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6ImhrLm5pc2tha293c2tpLmdnZmYubmV0IiwicGF0aCI6Ii9hYSIsInRscyI6InRscyIsInNuaSI6ImhrLm5pc2tha293c2tpLmdnZmYubmV0In0#%20clc-main
 vmess://eyJ2IjoiMiIsInBzIjoiQFZpcF9TZWN1cml0eSBqb2luIHVzIC0gMzQxIiwiYWRkIjoiNjcuMjIwLjk1LjMiLCJwb3J0IjoiMTgwMDAiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIn0#%20clc-main
 vmess://eyJ2IjoiMiIsInBzIjoiQFZpcF9TZWN1cml0eSBqb2luIHVzIC0gMzQwIiwiYWRkIjoiNTcuMTI4LjE2NC4yMSIsInBvcnQiOiI4MCIsImlkIjoiMTAwMjljMDMtNWQyZi00MTg1LWFhYjItY2JmOTFlZWY3MzYxIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJob3N0IjoiaHR0cHMuaHR0cC53d3cubmV0LmNvbS5yYW1zZXl2Mi5pci4iLCJwYXRoIjoiL2QzZDNMbWx5WVc1b2IzTjBMbU52YlE9PT9lZD0yNTYwIn0#%20clc-main
-vmess://eyJ2IjoiMiIsInBzIjoiQFZpcF9TZWN1cml0eSBqb2luIHVzIC0gMzM5IiwiYWRkIjoiNTQuMzcuMTMxLjEyNiIsInBvcnQiOiI4MCIsImlkIjoiNmRlZWY5YWQtMTM1Ny00NDNkLWY5NWMtY2IxODk1MmMyMGIzIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJnb29nbGUud2hhdHNhcHAuc25hcHAudG9yb2IuYmFzYWxhbS5oZXNhbmlkOC5pci4iLCJwYXRoIjoiLyJ9#%20clc-main
 ss://YWVzLTI1Ni1nY206enU2cVRLampyTjhxSnBmbldhN2s0Wldq@194.110.115.93:44208#@Vip_Security join us - 338%20clc-main
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2QDExOC4xMDcuMjQ0LjExMzo0NDU=#@Vip_Security join us - 337%20clc-main
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.141.125:445#@Vip_Security join us - 336%20clc-main
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@172.99.190.158:445#@Vip_Security join us - 334%20clc-main
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@149.202.82.172:6379#@Vip_Security join us - 333%20clc-main
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@134.195.196.230:6379#@Vip_Security join us - 332%20clc-main
@@ -189,8 +187,10 @@ ss://YWVzLTI1Ni1nY206c3hhakNUd3JsSzB6bCt6bUhwWDBwMGpYSWZhdG56bEx6V2xTUTk1MEwxYz0
 ss://YWVzLTI1Ni1nY206c3V1Y1NlVkxtdDZQUUtBUDc3TnRHdzl4@91.250.240.148:49339#@Vip_Security join us - 309%20clc-main
 ss://YWVzLTI1Ni1nY206c3V1Y1NlVkxtdDZQUUtBUDc3TnRHdzl4@185.212.111.59:49339#@Vip_Security join us - 308%20clc-main
 ss://YWVzLTI1Ni1nY206aGc0OSRXSDg5NDNnMw@ak1083.www.getoutline.net:18760#@Vip_Security join us - 307%20clc-main
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.79.49.116:8882#@Vip_Security join us - 306%20clc-main
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@139.162.132.116:8881#@Vip_Security join us - 305%20clc-main
 ss://YWVzLTI1Ni1nY206a0Q5dmtqbkU2ZHNVendRZnZLa1BrUUFk@185.99.3.108:37588#@Vip_Security join us - 304%20clc-main
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@51.222.155.32:5003#@Vip_Security join us - 303%20clc-main
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@194.15.196.66:5004#@Vip_Security join us - 302%20clc-main
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@172.105.244.165:5004#@Vip_Security join us - 301%20clc-main
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@172.105.244.165:5003#@Vip_Security join us - 300%20clc-main
@@ -409,7 +409,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.223
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.147:8080#@Vip_Security join us - 86%20clc-main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoZzQ5JFdIODk0M2cz@178.239.173.23:18760#@Vip_Security join us - 85%20clc-main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnVFlkZHVUVEVCQmRWWjRMY0JuVA@84.17.38.144:8389#@Vip_Security join us - 84%20clc-main
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#@Vip_Security join us - 83%20clc-main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOEtnUzhmRDB5RHFZRnBnTjRHNXBpQ090OWFGeXFBMw@132.243.175.144:8388#@Vip_Security join us - 82%20clc-main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkc0hxN0ptUkZoU2t2eHpDdU1GeQ@46.102.153.106:8389#@Vip_Security join us - 81%20clc-main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpidTRFQ0x2U2Z5ZWk@TR.PedaretVPN.XyZ:26146#@Vip_Security join us - 80%20clc-main
@@ -420,6 +419,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTNkRJYVhNRzI5cGtWYWlu@194.62.42.21:4040#@Vip
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRS3lMenA1SlVHNlhFR3kyd2JFRQ@104.223.91.146:8389#@Vip_Security join us - 75%20clc-main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.212:8080#@Vip_Security join us - 74%20clc-main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.168:8080#@Vip_Security join us - 73%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOY0FYYzBVWkk2eVFKRTFwOFFtT3Y4@57.129.113.16:8388#@Vip_Security join us - 72%20clc-main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOSzR3WmVqQ3pEZlBkV1hUSzRGVw@45.152.182.82:8389#@Vip_Security join us - 71%20clc-main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNeDZEenRRcVpiN2ozNEZkV2pFUg@37.19.218.197:8389#@Vip_Security join us - 70%20clc-main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJYVU1dXZhUlpoZno@167.86.95.192:8560#@Vip_Security join us - 69%20clc-main
