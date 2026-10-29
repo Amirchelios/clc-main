@@ -4,13 +4,16 @@
 #announce: Amirchelios
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
-vless://d342d11e-d224-4463-b982-532309285094@104.18.35.15:443?allowInsecure=0&encryption=none&fp=chrome&host=ccc.010304.xyz&insecure=0&path=%2Ffp%3Dchrome&security=tls&sni=ccc.010304.xyz&type=ws#United States/San Francisco [TG]%20clc-main
+vless://ce18d0eb-5c71-41f9-96e5-1632e22456e4@195.123.240.65:443?encryption=none&flow=xtls-rprx-vision&fp=ios&packetEncoding=xudp&pbk=StPbcmBuzpuYUfa4oZ5SI3Bq1OSF_-oU1vp2AcyvQVE&security=reality&sid=19296c9f1bf9c7b1&sni=www.cloudflare.com#United States/Los Angeles [TG]%20clc-main
+vless://40af9131-d540-448a-bc56-5bba147a1dc3@154.218.15.250:2083?encryption=none&host=proxy-1cu.pages.dev&path=%2F&security=tls&sni=proxy-1cu.pages.dev&type=ws#Seychelles [TG]%20clc-main
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.209:23576?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn#United States/Hillsboro [TG] #2%20clc-main
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.12.30.30:8880?encryption=none&host=vms.lifetime28.workers.dev&path=%2F&type=ws#Romania [TG]%20clc-main
-vless://18cf8db1-9f86-43f7-baa0-382efb7f2dfa@3h-unitedstates1.09vpn.com:80?encryption=none&host=3h-unitedstates1.09vpn.com&path=%2Fvless%2F&type=ws#United States/Dallas [TG]%20clc-main
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0%3D@45.86.51.18:19999#United States/Ashburn [GH:barry-far/V2r]%20clc-main
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@107.155.57.51:8080#United States/San Jose [GH:Mahdi0024/Pro]%20clc-main
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@107.151.182.253:8080#United States/Los Angeles [GH:Mahdi0024/Pro]%20clc-main
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@138.197.141.58:8080#Canada/Toronto [GH:Mahdi0024/Pro]%20clc-main
+vless://d342d11e-d224-4463-b982-532309285094@104.18.35.15:443?encryption=none&fp=chrome&host=ccc.010304.xyz&path=%2Ffp%3Dchrome&security=tls&sni=ccc.010304.xyz&type=ws#United States/San Francisco [TG]%20clc-main
+vless://d342d11e-d224-4463-b982-532309285094@104.21.221.158:443?allowInsecure=0&encryption=none&insecure=0&path=%2F&security=tls&sni=ccc.010304.xyz&type=ws#United States/San Francisco [GH:Surfboardv2ra]%20clc-main
+vless://d342d11e-d224-4463-b982-532309285094@chatgpt.com:443?allowInsecure=0&encryption=none&host=ccc.010304.xyz&insecure=0&path=%2F&security=tls&sni=ccc.010304.xyz&type=ws#United States/San Francisco [TG] #2%20clc-main
+vless://d342d11e-d224-4463-b982-532309285094@172.64.152.241:443?allowInsecure=0&encryption=none&fp=chrome&host=ccc.010304.xyz&insecure=0&path=%2FTelegram-MTMVPN&security=tls&sni=ccc.010304.xyz&type=ws#United States/San Francisco [TG] #3%20clc-main
+vless://d342d11e-d224-4463-b982-532309285094@cf.877774.xyz:443?encryption=none&host=ccc.010304.xyz&path=%2F&security=tls&sni=ccc.010304.xyz&type=ws#United States/San Francisco [GH:Surfboardv2ra] #2%20clc-main
+vless://0991a0c4-0ee5-4213-af89-7ad589f853f3@188.114.98.112:80?encryption=none&fp=chrome&host=elenaaaaaaaaaa.cloudns.pro.&path=%2FELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY%3Fed%3D2560&sni=elenaaaaaaaaaa.cloudns.pro.&type=ws#United States/San Francisco [TG] #5%20clc-main
+ss://aes-256-gcm:ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=@185.176.206.9:19999#United Kingdom/City of London [TG]%20clc-main
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@138.199.42.68:8080#United States/Chicago [GH:Mahdi0024/Pro]%20clc-main
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@79.110.53.169:8080#United States/Las Vegas [GH:Mahdi0024/Pro]%20clc-main
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@23.251.121.242:8080#United States/San Jose [GH:Mahdi0024/Pro] #2%20clc-main
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@138.199.43.159:8080#United States/Seattle [GH:Mahdi0024/Pro] #3%20clc-main
