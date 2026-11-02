@@ -4,14 +4,13 @@
 #announce: Amirchelios
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
-trojan://humanity@108.165.236.229:443?allowInsecure=1&fp=chrome&path=%2Fassignment&security=tls&sni=www.cordweave.com&type=ws#%E5%8A%A0%E6%8B%BF%E5%A4%A7+V2CROSS.COM%20clc-main
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.67.68.157:8080?encryption=none&host=hhlfy.twiladaphne.ndjp.net&packetEncoding=xudp&path=%2Fsg-melbi&sni=hhlfy.twiladaphne.ndjp.net&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9%20clc-main
-trojan://humanity@104.17.167.134:443?allowInsecure=1&fp=chrome&path=%2Fassignment&security=tls&sni=www.cordweave.com&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9%20clc-main
-vless://49e29dba-814a-50b0-b4a9-deffe26ae624@199.232.78.160:443?encryption=none&fp=chrome&host=Appxdn.global.ssl.fastly.net&path=%2F&security=tls&sni=ssl.fastly.com&type=ws#%E7%BE%8E%E5%9B%BD+V2CROSS.COM%20clc-main
-ss://YWVzLTI1Ni1nY206QmVhVWY5YzBBRVdINDBQdQ==@154.36.158.197:8388#%E7%BE%8E%E5%9B%BD+V2CROSS.COM%20clc-main
-trojan://humanity@108.162.194.134:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9%20clc-main
-vless://056405e8-de9f-4d0d-8145-956f13cc34da@79.182.39.37:27591?encryption=none&fp=chrome&host=www.samsung.com&path=%2F&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&security=reality&sid=6c5c7900406a1ae7&sni=www.samsung.com#%E4%BB%A5%E8%89%B2%E5%88%97+V2CROSS.COM%20clc-main
-hysteria2://69e41e64-a832-471a-b740-94577ca85520@forshynewh.duckdns.org:443?security=tls&sni=forshynewh.duckdns.org#%E4%BC%8A%E6%9C%97+V2CROSS.COM%20clc-main
-vless://6036c28a-8db2-432e-8118-ff0c16641ad0@200.169.184.168:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&host=net.formatgo.ru&path=%2F&pbk=QnaizqXrXA0e4XihP_5Nf1z1aOOf0obBoyJ8QY_03kw&security=reality&sid=9d0e1b6bf9c5eddb&sni=net.formatgo.ru#%E5%B7%B4%E8%A5%BF+%E5%9C%A3%E4%BF%9D%E7%BD%97%20clc-main
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.20.5.134:8080?encryption=none&host=hhlfy.twiladaphne.ndjp.net&packetEncoding=xudp&path=%2Fsg-melbi&sni=hhlfy.twiladaphne.ndjp.net&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9%20clc-main
-vmess://eyJ2IjoiMiIsInBzIjoi5be06KW_5Zyj5L-d572XIENsb3VkRmxhcmXoioLngrkiLCJhZGQiOiIxODguMTE0Ljk2LjMiLCJwb3J0IjoiODQ0MyIsImlkIjoiNjA0NDE1NDgtYjY4ZS00M2IyLTgxOTEtZTNiODg0YmU0YjNjIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJ2MnJheTEuZG96YXBwLnh5eiIsInBhdGgiOiIvbE1uc1pVTjQvIiwidGxzIjoidGxzIiwic25pIjoidjJyYXkxLmRvemFwcC54eXoifQ#%20clc-main
+hysteria2://https%3A%2F%2Fxship.top@starlink-ft.251313.xyz:443?insecure=1&security=tls&sni=xship.top#%E7%BE%8E%E5%9B%BD+V2CROSS.COM%20clc-main
+vless://d342d11e-d224-4463-b982-532309285094@104.21.94.161:443?encryption=none&fp=chrome&host=ccc.010304.xyz&packetEncoding=xudp&path=%2F&security=tls&sni=ccc.010304.xyz&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9%20clc-main
+vless://0afc6426-606c-48e7-bd70-3c424a416842@us22.sofast.live:58011?encryption=none#%E5%B9%BF%E4%B8%9C%E7%9C%81%E5%B9%BF%E5%B7%9E%E5%B8%82+%E5%8D%8E%E4%B8%BA%E4%BA%91%20clc-main
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.72:19999#%E6%96%B0%E8%A5%BF%E5%85%B0+V2CROSS.COM%20clc-main
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.188.143:4444?insecure=1&security=tls&sni=bl1.nexfile.net#%E7%BE%8E%E5%9B%BD+Xerox%20clc-main
+vless://2ea2719c-23e1-4cde-b192-c8652d55d9e5@cfnode-11ivy8.pages.dev:443?encryption=none&security=tls&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9%20clc-main
+vless://6036c28a-8db2-432e-8118-ff0c16641ad0@200.169.184.168:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&host=net.formatgo.ru&path=%2F&pbk=QnaizqXrXA0e4XihP_5Nf1z1aOOf0obBoyJ8QY_03kw&security=reality&sid=9d0e1b6bf9c5eddb&sni=net.formatgo.ru#%E5%B7%B4%E8%A5%BF+%E5%9C%A3%E4%BF%9D%E7%BD%97%20clc-main
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND1AMjAyLjUwLjI1My45OToxOTk5OQ==#%E6%96%B0%E8%A5%BF%E5%85%B0+V2CROSS.COM%20clc-main
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.27:19999#%E6%96%B0%E8%A5%BF%E5%85%B0+V2CROSS.COM%20clc-main

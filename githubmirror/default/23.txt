@@ -4,20 +4,12 @@
 #announce: Amirchelios
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
-hysteria2://4291c983-c520-46ac-82cc-48f14bef573f@129.213.91.185:35013?allow_insecure=1&path=%2F&sni=www.bing.com#%f0%9f%87%ba%f0%9f%87%b8%20US%202%20clc-main
-hysteria2://099830134df5ac3a04a4b21d39b8c395@163.192.14.135:50160?allow_insecure=1&path=%2F&sni=vk.com#%f0%9f%87%ba%f0%9f%87%b8%20US%205%20clc-main
-hysteria2://099830134df5ac3a04a4b21d39b8c395@163.192.14.135:50160?allow_insecure=1&path=%2F&sni=google.com#%f0%9f%87%ba%f0%9f%87%b8%20US%206%20clc-main
-hysteria2://099830134df5ac3a04a4b21d39b8c395@163.192.14.135:50160?allow_insecure=1&path=%2F&sni=vk.com%23%F0%9F%8D%8197%40oneclickvpnkeysvless%3A%2F%2Fe13cf851-b4fd-413b-8d49-146e6eb8e5d4%40166.88.35.245%3A80%3Fencryption%3Dnone#%f0%9f%87%ba%f0%9f%87%b8%20US%208%20clc-main
-hysteria2://099830134df5ac3a04a4b21d39b8c395@163.192.14.135:50160?allow_insecure=1&path=%2F&sni=www.bing.com#%f0%9f%87%ba%f0%9f%87%b8%20US%209%20clc-main
-hysteria2://099830134df5ac3a04a4b21d39b8c395@163.192.14.135:50160?allow_insecure=1&path=%2F&sni=t.me#%f0%9f%87%ba%f0%9f%87%b8%20US%2010%20clc-main
-hysteria2://099830134df5ac3a04a4b21d39b8c395@163.192.14.135:50160?allow_insecure=1&path=%2F&sni=163.192.14.135#%f0%9f%87%ba%f0%9f%87%b8%20US%2011%20clc-main
-hysteria2://099830134df5ac3a04a4b21d39b8c395@163.192.14.135:50160?allow_insecure=1&path=%2F&sni=css.rbxcdn.com#%f0%9f%87%ba%f0%9f%87%b8%20US%2012%20clc-main
-hysteria2://099830134df5ac3a04a4b21d39b8c395@163.192.14.135:50160?allow_insecure=1&path=%2F&sni=speedtest.tinkoff.ru#%f0%9f%87%ba%f0%9f%87%b8%20US%2014%20clc-main
-hysteria2://1671a252e2a97dc2bda4e515475931da@132.226.226.189:50160?allow_insecure=1&path=%2F&sni=www.bing.com#%f0%9f%87%b0%f0%9f%87%b7%20KR%202%20clc-main
-hysteria2://1beb216e3f60aea9555dae60d219a5ca@152-69-231-175.liao.kdns.fr:50160?allow_insecure=1&path=%2F&sni=152-69-231-175.liao.kdns.fr#%f0%9f%87%b0%f0%9f%87%b7%20KR%206%20clc-main
-hysteria2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?allow_insecure=1&path=%2F&sni=www.bing.com#%f0%9f%87%b0%f0%9f%87%b7%20KR%208%20clc-main
-hysteria2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?allow_insecure=1&path=%2F&sni=google.com#%f0%9f%87%b0%f0%9f%87%b7%20KR%209%20clc-main
-vmess://eyJ2IjoiMiIsInBzIjoi8J-HrfCfh7AgSEsgMSIsImFkZCI6ImkycHNtM2tub2Y1cWpqaXgudi4zZG5zLnZpcCIsInBvcnQiOiI0NDMiLCJpZCI6ImYyM2JiNDI3LWMxZjktNDM3My04NzZjLTJmNDNlOWY3OTBmMyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzLXZtZXNzIiwidGxzIjoidGxzIn0#%20clc-main
-vmess://eyJ2IjoiMiIsInBzIjoi8J-HrfCfh7AgSEsgMiIsImFkZCI6ImRvZy1oay5rdW5sdW4wMWRucy5jb20iLCJwb3J0IjoiMjEwNDEiLCJpZCI6Ijk0NjRjYTQwLWRkNzUtMzc0Mi1hNjI4LWQ5MzFhOWY0MTNiMiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwicGF0aCI6Ii8ifQ#%20clc-main
-hysteria2://184cdec28da5a09450803c8debcd2cc9@138.3.208.26:50160?allow_insecure=1&path=%2F&sni=138.3.208.26#%f0%9f%87%af%f0%9f%87%b5%20JP%202%20clc-main
-hysteria2://184cdec28da5a09450803c8debcd2cc9@138.3.208.26:50160?allow_insecure=1&path=%2F&sni=1#%f0%9f%87%af%f0%9f%87%b5%20JP%203%20clc-main
+vmess://eyJ2IjoiMiIsInBzIjoi8J-HrfCfh7AgSEsgMSIsImFkZCI6ImRvZy1qcC5rdW5sdW4wMWRucy5jb20iLCJwb3J0IjoiMjEwMTciLCJpZCI6Ijk0NjRjYTQwLWRkNzUtMzc0Mi1hNjI4LWQ5MzFhOWY0MTNiMiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwicGF0aCI6Ii8ifQ#%20clc-main
+vless://8892e34a-339b-4526-b88d-cf68c516231c@152.70.58.201:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&path=%2F&pbk=Hg_ivwbClYmR-SEHdoGgq4yEk6ltbjS5c4yiQRa4_28&security=reality&sid=52c723e0fad49689&sni=www.nvidia.com#%f0%9f%87%b3%f0%9f%87%b1%20NL%201%20clc-main
+vless://f8d52ece-fad4-478d-875d-df6eed3befa7@fr.golangwikito.cfd:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&path=%2F&pbk=isYQuhKDrgc7IQ7G0LHywFnt57wffrkZ-er18DkVsBA&security=reality&sid=e6d589857d1cec5e&sni=fr.golangwikito.cfd#%f0%9f%87%b3%f0%9f%87%b1%20NL%203%20clc-main
+vless://82544447-89fc-45a2-b014-4327804fa85d@79.141.164.81:443?encryption=none&fp=firefox&path=%2F&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&security=reality&serviceName=neurex&sid=27350908de933e09&sni=nla.kosmosapp.net&type=grpc#%f0%9f%87%b3%f0%9f%87%b1%20NL%205%20clc-main
+vless://558b26f6-061b-4079-9b84-ca13b3e90ae3@191.44.108.31:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&path=%2F&pbk=QLh2Y5Ig7pncEIvOYpZlLH2rUHZ3CRuyAo1A_emWZQU&security=reality&sid=3ba10d9ce34380c9&sni=www.google.com#%f0%9f%87%a9%f0%9f%87%aa%20DE%201%20clc-main
+vless://ad3f4a0a-a89f-498e-9869-a93c8fa185b1@germany1.xorsand.eu:10105?encryption=none&flow=xtls-rprx-vision&fp=chrome&path=%2F&pbk=PFC3JN1er1JE2vAemwRhNjewz8I4NUWP4XHf2Dza4Es&security=reality&sid=12e321badd07906e&sni=play.google.com#%f0%9f%87%a9%f0%9f%87%aa%20DE%202%20clc-main
+vless://12c53e32-e589-47d6-b857-e4132294f767@46.28.71.247:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&path=%2F&pbk=v4MuZIvFrTPT5GHMSaPryUAbIZlLstmsUTzmC1E-JTE&security=reality&sid=0dfc23fe80778c00&sni=www.cloudflare.com#%f0%9f%87%aa%f0%9f%87%b8%20ES%201%20clc-main
+vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@46.29.255.123:59539?encryption=none&flow=xtls-rprx-vision&fp=firefox&path=%2F&pbk=R6mPqCsjZMWauci4LHw7Qp1LGKmBd-sxMXplyOn9bSQ&security=reality&sni=cloudflare-dns.com#%f0%9f%87%b8%f0%9f%87%aa%20SE%201%20clc-main
+vless://91ad30e9-ab06-4b4c-9fb9-1c2aa97d8b3a@152.32.167.33:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&path=%2F&pbk=Q8QwBSGN6J-FqgDV1pYNm0VThS_xNRyQ3DPPa9YZ3j4&security=reality&sid=cff998a4&sni=www.amazon.com#%f0%9f%87%b9%f0%9f%87%bc%20TW%201%20clc-main
