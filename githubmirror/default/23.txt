@@ -27,6 +27,7 @@ vless://3bcbd7ef-e05b-4745-a1de-5ecf98dd2fb6@216.24.57.225:2083?encryption=none&
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.249.163:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=poland-new-new.failspace.top#%40FREE2CONFIG%20-%2083%20clc-main
 vless://5a519754-a673-4462-83f6-5eb25d2af141@79.182.39.35:25548?encryption=none&fp=firefox&pbk=lceynvFy326oU4ew9OPR7079m-L5ZcFELgCl0sqxU2M&security=reality&sid=bceb5b2197b76818&sni=www.cloudflare.com#%40FREE2CONFIG%20-%2084%20clc-main
 vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@45.32.117.217:443?encryption=none&fp=firefox&security=tls&sni=sg003.zestapp778.com#%40FREE2CONFIG%20-%2087%20clc-main
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@140.235.11.243:56984?encryption=none&fp=firefox&security=tls&sni=sg1.zestapp778.com#%40FREE2CONFIG%20-%2089%20clc-main
 vless://d1641bc6-3757-43db-815a-9b3f4d9b0d7e@191.44.114.154:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ndQzAcG4g-2OhvFb8EjFnZyxJ2lhawiulTLJOZrK8lY&security=reality&sni=www.wikipedia.org#%40FREE2CONFIG%20-%2090%20clc-main
 vless://d1641bc6-3757-43db-815a-9b3f4d9b0d7e@191.44.114.179:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=WEHGKyXsOD5i2kNCJ3GrjeNZQBsrzH76OrPDJ7x2YwY&security=reality&sni=www.wikipedia.org#%40FREE2CONFIG%20-%2091%20clc-main
 vless://d1641bc6-3757-43db-815a-9b3f4d9b0d7e@191.44.114.179:2096?encryption=none&fp=firefox&host=st33614.rumedia-cdn.com&path=%2Fcdn%2Fv3%2Flive&security=tls&sni=st33614.rumedia-cdn.com&type=ws#%40FREE2CONFIG%20-%2092%20clc-main
