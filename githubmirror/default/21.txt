@@ -4,14 +4,11 @@
 #announce: Amirchelios
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.179:443#🇬🇧 Rose—03%20clc-main
-hysteria2://1beb216e3f60aea9555dae60d219a5ca@152.69.231.175:50160?insecure=1&sni=152-69-231-175.liao.kdns.fr#🇰🇷 Rose—10%20clc-main
-ss://2022-blake3-aes-128-gcm:NzJlOTQ5NWYtM2ZkYi00Cg==@103.11.76.248:28679#🇦🇺 Rose—54%20clc-main
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@15.204.246.132:7307#🇺🇸 Rose—64%20clc-main
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMVk1saHZLODJUbzFGR3N5@20.166.51.228:443#🇮🇪 Rose—71%20clc-main
-ss://2022-blake3-aes-256-gcm:Q2YsIzc5YkchSFjsqUZWrQAFtsSpqf7XxYxkG4+Jbsk=%3AzT1SecPttPY%2FXPW6NwjK5Wql+%2F6zbcGSDJK21Jk8uLo=@216.9.225.189:443#🇺🇸 Rose—75%20clc-main
-ss://2022-blake3-aes-256-gcm:cOiC+3JhAXMwdGV5exnrMSorJU0Rl5qlLCbCAuDlWY4=%3A2tFqykGqZ101XW11f6iRiERnPycFAjjYq0y2zUYhKho=@51.38.71.51:2083#🇫🇷 Rose—76%20clc-main
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTY4ZTMyZi04MDE1LTRmMzctOTA4Mi03MGU4YjBiNTgwNDM@13.250.31.67:8443#🇸🇬 Rose—80%20clc-main
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHOVp1TE41REU5cXFvdVRad1lVY3ZZc0RKeDhneUwxbkN1M043eVJaRmpQbVlLaHpTaThHa3BWdWV4bVRIQXoydXZjRXJLa2V4MUsyY2VSMkdIM0w0NDRIUk5uTjFZcFA@staging.lastilhame.monster:49917#🇺🇦 Rose—82%20clc-main
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuUWVFb1hDNVlsNVBablBMdktVcEZUVTljeVFjTkc5MDJ6cGliV2t3R2JvPQ@130.49.189.158:43558#🇦🇱 Rose—85%20clc-main
-ss://2022-blake3-aes-256-gcm:cOiC+3JhAXMwdGV5exnrMSorJU0Rl5qlLCbCAuDlWY4=%3AHWFFJN19JkvbTKo%2F79AfnbRBK9uHUUaFNZJyLjEoJGs=@51.222.107.43:2083#🇨🇦 Rose—86%20clc-main
+trojan://d9064589-74af-432a-9390-5d8a9da281bf@sclass-00.catcat321.com:20123?allow_insecure=1&path=%2F&security=tls&sni=hk.catxstar.com#%f0%9f%87%ad%f0%9f%87%b0%20HK%203%20clc-main
+trojan://d9064589-74af-432a-9390-5d8a9da281bf@sclass-c1.catcat321.com:20086?path=%2F&security=tls&sni=hk.catxstar.com#%f0%9f%87%ad%f0%9f%87%b0%20HK%204%20clc-main
+vless://fb390da4-00c5-54f1-a1b4-c8e2bb6378c2@vv9bo423qfvc.cloudymedia.click:443?encryption=none&flow=xtls-rprx-vision&fp=qq&path=%2F&pbk=8RfEuI1RxxW1dqq2nbt6ssKwx7UdmgKW1nKL9OuilGs&security=reality&sid=0492eabdb9&sni=deepl.com#%f0%9f%87%ba%f0%9f%87%b8%20US%208%20clc-main
+trojan://d9064589-74af-432a-9390-5d8a9da281bf@sclass-c2.catcat321.com:20051?path=%2F&security=tls&sni=hk.catxstar.com#%f0%9f%87%ba%f0%9f%87%b8%20US%2011%20clc-main
+vless://679d0fcc-4c72-4073-8f1d-311b69ef72b5@2.31.100.78:13060?encryption=none&path=%2F#%f0%9f%87%a9%f0%9f%87%aa%20DE%203%20clc-main
+vless://12776e55-6230-48b9-b069-1bb8a04b4237@music.3apes.online:443?encryption=none&flow=xtls-rprx-vision&fp=qq&path=%2F&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&security=reality&sni=music.3apes.online#%f0%9f%87%a9%f0%9f%87%aa%20DE%204%20clc-main
+vless://f59fdac3-5842-449b-8c8d-d5ebcdbf1768@141.227.160.61:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&path=%2F&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=apple.com#%f0%9f%87%b8%f0%9f%87%aa%20SE%202%20clc-main
+vless://4201786b-d99b-4147-a5f0-20d47acddb81@196.196.149.80:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&path=%2F&pbk=ZSmetD4e9QG5CiXhniHg5HJB68L4kwbgAkJmMHtVwEE&security=reality&sid=42426c882c5fcd41&sni=7aa271t.es1.h1clayd.click#%f0%9f%87%aa%f0%9f%87%b8%20ES%201%20clc-main

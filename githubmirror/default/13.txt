@@ -4,17 +4,17 @@
 #announce: Amirchelios
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.212:443?allowInsecure=0&insecure=0&security=tls&sni=courses.healthcarejobshubenhancemedicalprofessionalskillstoday.com#United States/Atlanta [TG]%20clc-main
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.202:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&security=reality&sid=c39cc7310a&sni=yahoo.com#Germany [TG]%20clc-main
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.31:443?allowInsecure=0&insecure=0&security=tls&sni=unlockyourfuturefindyourperfectcareer.com#United States/Phoenix [TG] #2%20clc-main
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.106.186.46:443?allowInsecure=0&fp=firefox&insecure=0&security=tls&sni=cdn.findlocaljobnetworkandbuildcommunityconnections.com#United States/Seattle [TG]%20clc-main
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@172.67.74.177:443?allowInsecure=0&encryption=none&fp=chrome&host=fs.qicai99.com&insecure=0&path=%2F%3FTelegram---MTMVPN---MTMVPN---MTMVPN---MTMVPN&security=tls&sni=fs.qicai99.com&type=ws#United States/San Francisco [TG] #2%20clc-main
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@cucc.cloudflare.seeck.cn:443?allowInsecure=0&encryption=none&host=fs.qicai99.com&insecure=0&path=%2F&security=tls&sni=fs.qicai99.com&type=ws#United States/San Francisco [TG] #4%20clc-main
-vless://97e0ea78-67ae-4984-8a14-a7d1a51e58de@146.75.59.186:443?allowInsecure=1&encryption=none&host=copy_az_channel_NUFiLTER_6i.global.ssl.fastly.net.&path=%2F&security=tls&sni=cdn.akamai.steamstatic.com&type=ws#United States [GH:Surfboardv2ra]%20clc-main
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.212:443?allowInsecure=0&insecure=0&security=tls&sni=courses.healthcarejobshubenhancemedicalprofessionalskillstoday.com#United States/Atlanta [TG]%20clc-main
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.152:443?allowInsecure=0&insecure=0&security=tls&sni=learn.connectingpeoplewithgreatjobs.com#Canada/Toronto [TG] #2%20clc-main
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.168:443#United States/Dallas [TG]%20clc-main
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@172.67.74.177:443?allowInsecure=0&encryption=none&fp=chrome&host=fs.qicai99.com&insecure=0&path=%2F%3FTelegram---MTMVPN---MTMVPN---MTMVPN---MTMVPN&security=tls&sni=fs.qicai99.com&type=ws#United States/San Francisco [TG] #2%20clc-main
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@cucc.cloudflare.seeck.cn:443?allowInsecure=0&encryption=none&host=fs.qicai99.com&insecure=0&path=%2F&security=tls&sni=fs.qicai99.com&type=ws#United States/San Francisco [TG] #3%20clc-main
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@172.64.155.209:443?alpn=h3%2C+h2%2C+http%2F1.1&encryption=none&fp=chrome&headers=%7B%0A++%22Host%22%3A+%22fs.qicai99.com%22%0A%7D&host=fs.qicai99.com&path=%2Ffp%3Dchrome&security=tls&sni=fs.qicai99.com&type=ws#United States/San Francisco [TG] #4%20clc-main
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.53:443?allowInsecure=0&insecure=0&security=tls&sni=www.explorecreativejobsandenhanceyourcareerportfolio.com#United States/Detroit [TG]%20clc-main
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@185.226.172.8:8008#Germany/Frankfurt am Main [TG] #3%20clc-main
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@198.244.201.129:19999#United Kingdom/London [GH:barry-far/V2r]%20clc-main
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@38.109.228.110:19999#France/Paris [TG]%20clc-main
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0%3D@167.17.64.175:19999#France/Paris [TG] #2%20clc-main
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0%3D@193.108.119.83:19999#Germany/Frankfurt am Main [TG] #5%20clc-main
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.168:443#United States/Dallas [TG]%20clc-main
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0%3D@198.244.201.129:19999#United Kingdom/London [TG]%20clc-main
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0%3D@167.17.64.175:19999#France/Paris [TG]%20clc-main
+ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@5.188.181.201:9001#Spain/Madrid [TG]%20clc-main
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0%3D@193.108.119.83:19999#Germany/Frankfurt am Main [TG] #2%20clc-main
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0%3D@158.51.121.221:19999#Canada/Montreal [TG]%20clc-main
