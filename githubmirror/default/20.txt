@@ -4,9 +4,7 @@
 #announce: Amirchelios
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.178:443#🇬🇧 Rose—02%20clc-main
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.179:443#🇬🇧 Rose—03%20clc-main
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.215.132.9:19999#🇺🇸 Rose—04%20clc-main
 hysteria2://1beb216e3f60aea9555dae60d219a5ca@152.69.231.175:50160?insecure=1&sni=152-69-231-175.liao.kdns.fr#🇰🇷 Rose—10%20clc-main
 ss://2022-blake3-aes-128-gcm:NzJlOTQ5NWYtM2ZkYi00Cg==@103.11.76.248:28679#🇦🇺 Rose—54%20clc-main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMVk1saHZLODJUbzFGR3N5@20.166.51.228:443#🇮🇪 Rose—71%20clc-main

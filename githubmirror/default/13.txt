@@ -4,17 +4,14 @@
 #announce: Amirchelios
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.202:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&security=reality&sid=c39cc7310a&sni=yahoo.com#Germany [TG]%20clc-main
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.202:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&security=reality&sid=c39cc7310a&sni=yahoo.com#Germany [TG] #2%20clc-main
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.31:443?allowInsecure=0&insecure=0&security=tls&sni=unlockyourfuturefindyourperfectcareer.com#United States/Phoenix [TG] #2%20clc-main
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.212:443?allowInsecure=0&insecure=0&security=tls&sni=courses.healthcarejobshubenhancemedicalprofessionalskillstoday.com#United States/Atlanta [TG]%20clc-main
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.152:443?allowInsecure=0&insecure=0&security=tls&sni=learn.connectingpeoplewithgreatjobs.com#Canada/Toronto [TG] #2%20clc-main
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@172.67.74.177:443?allowInsecure=0&encryption=none&fp=chrome&host=fs.qicai99.com&insecure=0&path=%2F%3FTelegram---MTMVPN---MTMVPN---MTMVPN---MTMVPN&security=tls&sni=fs.qicai99.com&type=ws#United States/San Francisco [TG] #2%20clc-main
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@cucc.cloudflare.seeck.cn:443?allowInsecure=0&encryption=none&host=fs.qicai99.com&insecure=0&path=%2F&security=tls&sni=fs.qicai99.com&type=ws#United States/San Francisco [TG] #3%20clc-main
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@172.64.155.209:443?alpn=h3%2C+h2%2C+http%2F1.1&encryption=none&fp=chrome&headers=%7B%0A++%22Host%22%3A+%22fs.qicai99.com%22%0A%7D&host=fs.qicai99.com&path=%2Ffp%3Dchrome&security=tls&sni=fs.qicai99.com&type=ws#United States/San Francisco [TG] #4%20clc-main
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.53:443?allowInsecure=0&insecure=0&security=tls&sni=www.explorecreativejobsandenhanceyourcareerportfolio.com#United States/Detroit [TG]%20clc-main
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.168:443#United States/Dallas [TG]%20clc-main
+vless://218fd696-e3a2-4c33-b397-a5f13a82969e@216.227.161.95:7443?encryption=none&fp=firefox&mode=gun&packetEncoding=xudp&pbk=uNqGvaJEIFTFQvAxsTDhetPxkIWzJuBtxXsK0yFMYzM&security=reality&serviceName=grpc&sid=48d5cf47&sni=media3.abvphelp.cc&type=grpc#United States/Chicago [TG]%20clc-main
+vless://e14a20cc-1b84-49d9-b0f4-0b6ab95dc1ab@172.67.136.172:443?alpn=http%2F1.1&encryption=none&fp=chrome&host=log-svc-31164c-gw.sandy-harbor-9ae1.workers.dev&path=%2F7535cdef70c9d7d4%3Fed%3D2560&security=tls&sni=log-svc-31164c-gw.sandy-harbor-9ae1.workers.dev&type=ws#United States/San Francisco [TG]%20clc-main
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0%3D@193.108.119.83:19999#Germany/Frankfurt am Main [TG]%20clc-main
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0%3D@198.244.201.129:19999#United Kingdom/London [TG]%20clc-main
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0%3D@167.17.64.175:19999#France/Paris [TG]%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOWlycWswcGFha2N4MTl2@51.83.61.102:8080#France [TG]%20clc-main
 ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@5.188.181.201:9001#Spain/Madrid [TG]%20clc-main
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0%3D@193.108.119.83:19999#Germany/Frankfurt am Main [TG] #2%20clc-main
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0%3D@158.51.121.221:19999#Canada/Montreal [TG]%20clc-main
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0%3D@57.129.83.85:19999#Germany/Frankfurt am Main [TG] #2%20clc-main
