@@ -4,13 +4,8 @@
 #announce: Amirchelios
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.20:23576?encryption=none&flow=xtls-rprx-vision&fp=chrome&path=%2F&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn#The Netherlands/Haarlem [TG] #3%20clc-main
-vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@81.171.14.72:443?encryption=none&flow=xtls-rprx-vision&pbk=OH9jKzqAqEg98VDxmxReqrC_jbJWNwr-ipj2cNRgazc&security=reality&sid=2237b916&sni=zovira.me#The Netherlands [TG]%20clc-main
-vless://eb8c97f7-a154-4442-91b0-54c0d055ad0b@143.246.62.191:8443?encryption=none&fp=chrome&packetEncoding=xudp&pbk=4g6gX0ueJap7pY_iTDx23h6bzo3KIOTcFzP1Uacn0QA&security=reality&sid=4ad2e4e660550e43&sni=github.githubassets.com#United States/Los Angeles [TG]%20clc-main
-ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@5.188.181.201:9001#Spain/Madrid [TG]%20clc-main
-ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg==@5.188.181.201:9040#Spain/Madrid [GH:Mahdi0024/Pro]%20clc-main
-ss://YWVzLTI1Ni1jZmI6RVhOM1MzZVFwakU3RUp1OA==@5.188.181.201:9027#Spain/Madrid [GH:Mahdi0024/Pro] #2%20clc-main
-ss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA==@5.188.181.201:9005#Spain/Madrid [GH:Mahdi0024/Pro] #3%20clc-main
-ss://YWVzLTI1Ni1jZmI6SmRtUks5Z01FcUZnczhuUA==@5.188.181.201:9003#Spain/Madrid [GH:Mahdi0024/Pro] #4%20clc-main
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@167.88.63.99:19999#United States/Atlanta [GH:Mahdi0024/Pro]%20clc-main
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@172.111.38.72:19999#United States/Washington [GH:Mahdi0024/Pro]%20clc-main
+vless://6b4861de-7316-4a5a-bc45-0cbd8bf97eab@172.236.239.126:443?encryption=none&fp=chrome&path=%2Fws&pbk=SJAHlQal4h4gy7BFInw13ute3ZM49kXMWCkJj3F4tW0&security=reality&sid=357a37e1&sni=itunes.apple.com&type=ws#United States/Los Angeles [GH:Mahdi0024/ProxyCollector]%20clc-main
+vless://cdb7fa1d-6e7a-467c-da9c-da363c7bf779@panel.apexkey.store:2053?encryption=none&fp=chrome&packetEncoding=xudp&pbk=DEFJSLdILrvauMpwtpvFZddadpt3rNtv03Dui2EkmRk&security=reality&sid=68&sni=www.cloudflare.com#United States/San Jose [TG]%20clc-main
+trojan://f0eb8c92ce8946aaba856569cff1a16b@resources.findlocaljobnetworkandbuildcommunityconnections.com:443?security=tls&sni=resources.findlocaljobnetworkandbuildcommunityconnections.com#United States/Seattle [GH:MatinGhanbari/v2ray-conf]%20clc-main
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh4bFdGVjJwcFFNY0JhWm81WT0=@47.245.173.25:443#Germany/Frankfurt am Main [GH:Mahdi0024/ProxyCollector]%20clc-main
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh4bFdGVjJwcFFNY0JhWm81WT0@8.220.81.25:443#Germany/Frankfurt am Main [TG]%20clc-main
