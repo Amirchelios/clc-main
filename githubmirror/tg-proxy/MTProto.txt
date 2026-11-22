@@ -1,9 +1,15 @@
-https://t.me/proxy?server=dunelumen.paperteapot.com&port=443&secret=eed09fb30e9ba945e3eb272875413c8c9464756e656c756d656e2e7061706572746561706f742e636f6d
+https://t.me/proxy?server=kvas.kemerovo.online&port=8443&secret=ee888877776666555544443333222211117474322e6d79726b612e6469676974616c
 
-https://t.me/proxy?server=breeze.paperteapot.com&port=443&secret=eed09fb30e9ba945e3eb272875413c8c94627265657a652e7061706572746561706f742e636f6d
+https://t.me/proxy?server=info.sibasiba.space&port=443&secret=7rMwK4zm8Y5eXzI2Dh1wpP9pbmZvLnNpYmFzaWJhLnNwYWNl
 
-https://t.me/proxy?server=dunelumen.velvetwindow.cc&port=443&secret=eed09fb30e9ba945e3eb272875413c8c9464756e656c756d656e2e76656c76657477696e646f772e6363
+https://t.me/proxy?server=barsik.subaru-volga.com&port=443&secret=ee04daa35f7150d1d16c43f270c26831086a61726b6f2e6d79726b612e6469676974616c
 
-https://t.me/proxy?server=orchid.velvetwindow.cc&port=443&secret=eed09fb30e9ba945e3eb272875413c8c946f72636869642e76656c76657477696e646f772e6363
+https://t.me/proxy?server=109.73.192.84&port=443&secret=9f72630ed387f8b9e470e7d182be7de4
 
-https://t.me/proxy?server=valenki.kemerovo.online&port=443&secret=eed80703ad02e82988a4b6b4d437fe2c9c76616c656e6b692e6b656d65726f766f2e6f6e6c696e65
+https://t.me/proxy?server=alooo.unarc.com.tr&port=2083&secret=7hXN1Lxn0j-oiEBe3j4Z_9B3d3cuY2xvdWRmbGFyZS5jb20
+
+https://t.me/proxy?server=cdncoast.com&port=443&secret=eea0802366dd565a104bdfb2f9e390c2d4686f66662e7275
+
+https://t.me/proxy?server=cdnbarrel.org&port=443&secret=ee7e417407b715ff26d9fafff34e31a33b686f66662e7275
+
+https://t.me/proxy?server=parts.kemerovo.online&port=443&secret=ee1111222233334444555566667777888874342e6d79726b612e6469676974616c
