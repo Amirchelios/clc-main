@@ -4,6 +4,10 @@
 #announce: Amirchelios
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
-vless://4201786b-d99b-4147-a5f0-20d47acddb81@196.199.122.2:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ZSmetD4e9QG5CiXhniHg5HJB68L4kwbgAkJmMHtVwEE&security=reality&sid=42426c882c5fcd41&sni=7aa271t.es1.h1clayd.click#%E5%A1%9E%E8%88%8C%E5%B0%94+V2CROSS.COM%20clc-main
-vless://9df9ee1a-0671-4c6c-93c7-65598fb946f7@94.241.140.130:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&packetEncoding=xudp&pbk=fVYMiP7jX5yo5loyRrDdajLFBM6FNkZIfBIsezKjdm8&security=reality&sid=723ace0d14784964&sni=rucanmicro2.gangplatform.com#%E4%BC%8A%E6%9C%97+V2CROSS.COM%20clc-main
-hysteria2://ePPsH1bMFD@23.141.172.229:50541?insecure=1&security=tls&sni=is1-ssl.mzstatic.com#%E5%8C%97%E7%BE%8E%E5%9C%B0%E5%8C%BA+V2CROSS.COM%20clc-main
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.81:19999#%E6%96%B0%E8%A5%BF%E5%85%B0+V2CROSS.COM%20clc-main
+hysteria2://900c8c92-1979-4c7c-8f2f-63e87d53d8fe@uk-tube-01.stre4m.net:13337?alpn=h3&insecure=1&security=tls&sni=mother-earth.fyi#%E7%BE%8E%E5%9B%BD+V2CROSS.COM%20clc-main
+vless://4201786b-d99b-4147-a5f0-20d47acddb81@196.196.149.81:443?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ZSmetD4e9QG5CiXhniHg5HJB68L4kwbgAkJmMHtVwEE&security=reality&sid=42426c882c5fcd41&sni=7aa271t.es1.h1clayd.click#%E8%A5%BF%E7%8F%AD%E7%89%99+V2CROSS.COM%20clc-main
+vless://4201786b-d99b-4147-a5f0-20d47acddb81@196.196.149.80:443?encryption=none&fp=firefox&pbk=7efBhLzPwoTtEC1GlukCdiTllobUfa2_XuAKNSLJx30&security=reality&sid=e7cffac9f8cfb434&sni=b3cd32g.es1.h1clayd.click&type=grpc#%E8%A5%BF%E7%8F%AD%E7%89%99+V2CROSS.COM%20clc-main
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@196.196.148.85:443?encryption=none&fp=firefox&host=5d0319t.nl7.h1clayd.click&pbk=l-GzBDuNuhnjxoRlZqKvT7jAt_sbVAxhGFsAttO5kXs&security=reality&sid=361d0dd59c70516f&sni=5d0319t.nl7.h1clayd.click#%E7%88%B1%E6%B2%99%E5%B0%BC%E4%BA%9A+V2CROSS.COM%20clc-main
+vless://00000000-0000-0001-0000-000000000000@136.148.83.70:443?encryption=none&fp=qq&security=tls&sni=aszbk-ru-78dc.my-fade.cloud#%E8%8B%B1%E5%9B%BD+%E4%BC%A6%E6%95%A6%E5%8D%97%E5%B2%B8%E5%A4%A7%E5%AD%A6%20clc-main
+vless://4201786b-d99b-4147-a5f0-20d47acddb81@8a2e72t.nl20.h1clayd.shop:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&packetEncoding=xudp&pbk=VZS639V1i-35g7VXb9EoTYL-Srm7858sxcvFAunncmA&security=reality&sid=8d0d0679f42ffd98&sni=8a2e72t.nl20.h1clayd.shop#%E7%BE%8E%E5%9B%BD+V2CROSS.COM%20clc-main

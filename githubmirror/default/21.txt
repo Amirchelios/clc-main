@@ -4,6 +4,13 @@
 #announce: Amirchelios
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
-trojan://jyneij42qcfg3x9f@179.254.191.2:39105?path=%2F#%f0%9f%87%ba%f0%9f%87%b8%20US%204%20clc-main
-trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@i1tr.mateflora.com:443?path=%2F&security=tls&sni=i1tr.mateflora.com#%f0%9f%87%ae%f0%9f%87%a9%20ID%201%20clc-main
-vmess://eyJ2IjoiMiIsInBzIjoi8J-HrfCfh7AgSEsgMSIsImFkZCI6InpmZC1oa3YyLmt1bmx1bjAxZG5zLmNvbSIsInBvcnQiOiIxNjExNiIsImlkIjoiMDgwMmFjMDMtNzk3My0zOWVmLWEwMTktYmEwMmRlNmMwMWUxIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJob3N0IjoiemZkLWhrdjIua3VubHVuMDFkbnMuY29tIiwicGF0aCI6Ii8ifQ#%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.16:8080#🇳🇱 Rose—36%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.42:8080#🇳🇱 Rose—41%20clc-main
+ss://2022-blake3-aes-128-gcm:NzJlOTQ5NWYtM2ZkYi00Cg==@103.11.76.248:28679#🇦🇺 Rose—54%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMVk1saHZLODJUbzFGR3N5@20.166.51.228:443#🇮🇪 Rose—71%20clc-main
+ss://2022-blake3-aes-256-gcm:Q2YsIzc5YkchSFjsqUZWrQAFtsSpqf7XxYxkG4+Jbsk=%3AzT1SecPttPY%2FXPW6NwjK5Wql+%2F6zbcGSDJK21Jk8uLo=@216.9.225.189:443#🇺🇸 Rose—75%20clc-main
+ss://2022-blake3-aes-256-gcm:cOiC+3JhAXMwdGV5exnrMSorJU0Rl5qlLCbCAuDlWY4=%3A2tFqykGqZ101XW11f6iRiERnPycFAjjYq0y2zUYhKho=@51.38.71.51:2083#🇫🇷 Rose—76%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTY4ZTMyZi04MDE1LTRmMzctOTA4Mi03MGU4YjBiNTgwNDM@13.250.31.67:8443#🇸🇬 Rose—80%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHOVp1TE41REU5cXFvdVRad1lVY3ZZc0RKeDhneUwxbkN1M043eVJaRmpQbVlLaHpTaThHa3BWdWV4bVRIQXoydXZjRXJLa2V4MUsyY2VSMkdIM0w0NDRIUk5uTjFZcFA@staging.lastilhame.monster:49917#🇺🇦 Rose—82%20clc-main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuUWVFb1hDNVlsNVBablBMdktVcEZUVTljeVFjTkc5MDJ6cGliV2t3R2JvPQ@130.49.189.158:43558#🇦🇱 Rose—85%20clc-main
+ss://2022-blake3-aes-256-gcm:cOiC+3JhAXMwdGV5exnrMSorJU0Rl5qlLCbCAuDlWY4=%3AHWFFJN19JkvbTKo%2F79AfnbRBK9uHUUaFNZJyLjEoJGs=@51.222.107.43:2083#🇨🇦 Rose—86%20clc-main
