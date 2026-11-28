@@ -4,15 +4,16 @@
 #announce: Amirchelios
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
+vless://4d8d9640-7cc7-4c55-ba54-6ce0d1709541@141.193.213.21:8443?encryption=none&fp=firefox&host=matrix.learnpodedu.com&security=tls&sni=matrix.learnpodedu.com&type=ws#%40FREE2CONFIG%20-%2023%20clc-main
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@45.9.120.53:443?encryption=none&fp=firefox&pbk=xn7KVKS5MOnsFrYrEeRS04JssBCOxh12rxegaDFyGkA&security=reality&serviceName=7d5abcd7d8a1&sid=6d289ff0f47c0aac&sni=961ec0g.nl13.h1clayd.click&type=grpc#%40FREE2CONFIG%20-%2024%20clc-main
 vless://4d8d9640-7cc7-4c55-ba54-6ce0d1709541@141.193.213.20:8443?encryption=none&fp=firefox&host=matrix.learnpodedu.com&security=tls&sni=matrix.learnpodedu.com&type=ws#%40FREE2CONFIG%20-%2027%20clc-main
 vless://534a0469-a507-4fec-b9a1-f648864e5da0@144.31.131.73:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=QQgfv5J_fvr_v7GrfflVOb9ZRvBf66qfRzGWS8EKxQw&security=reality&sni=aura2.fastlaplegends.org#%40FREE2CONFIG%20-%2038%20clc-main
 vless://e89a2a0e-7803-447e-b050-3ba67962ed95@87.228.92.112:25135?encryption=none&fp=firefox&pbk=zJI16_ywLd4clshY0IQQPxQ_YBbIq2b0XTO_dnTJOy4&security=reality&sid=fe51f413b9646e97&sni=s-25452.nl18.h1clayd.click#%40FREE2CONFIG%20-%2042%20clc-main
 vless://4201786b-d99b-4147-a5f0-20d47acddb81@13.141.36.76:443?encryption=none&fp=firefox&pbk=7efBhLzPwoTtEC1GlukCdiTllobUfa2_XuAKNSLJx30&security=reality&sid=e7cffac9f8cfb434&sni=b3cd32g.es1.h1clayd.click&type=grpc#%40FREE2CONFIG%20-%2043%20clc-main
 vless://c74a51bc-0e10-43e5-b6a8-9395c40f3f54@52.199.42.25:46074?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Zpe4RNze71UGv-T9y55k31k9BtY7gS7uvRV5aA7eiWQ&security=reality&sid=367e3031&sni=www.apple.com#%40FREE2CONFIG%20-%2051%20clc-main
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@13.141.37.245:443?encryption=none&fp=firefox&pbk=PD8Jdlg3xB9QY--jwQjp8PFPzCS8-Oryw6-HWBcHMFU&security=reality&serviceName=204adda7e3da&sid=d3bd772514c87d28&sni=717252g.nl8.h1clayd.click&type=grpc#%40FREE2CONFIG%20-%2052%20clc-main
 vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@72.56.38.83:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ZzIetLcQtENjIXQ9XZqFo8p3J81p8Emj0wi51Uy07n8&security=reality&sni=absolute-disaster.org#%40FREE2CONFIG%20-%20132%20clc-main
 vless://1d1eda2e-0bd7-4478-877b-1c5425c6c4dd@leviko-us6922.shopingggg.ir:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=yr_opKG6DGTppNDXkk-DhGSYJZXbb9o-caexk2FZO38&security=reality&sid=8f3c6e2a1b5d4f09&sni=tradingview.com#%40FREE2CONFIG%20-%20137%20clc-main
 vless://a8e5585a-6020-4649-a364-c1ebf3a40548@176.97.210.247:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=0KDql59THS-DXg30wMR0QGgFB6rXARDhr8WoWyfVA2M&security=reality&sid=6f0091ebe3029ebb&sni=tagderdeutscheneinheit.de#%40FREE2CONFIG%20-%20138%20clc-main
+vless://920b3cd9-4f82-4669-bbd2-d4a28b9052c6@leviko-nl2962.shopingggg.ir:9543?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&security=reality&sid=123abcdf&sni=storage.yandexcloud.net#%40FREE2CONFIG%20-%20141%20clc-main
 vless://7cbd9bf9-a3b1-4257-8406-df6109cd882f@5.59.206.58:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=aLdyGbloIzzeClW7_SPWL0IZpcaUWsA7rlmbNieggWk&security=reality&sid=0894e51863b5c395&sni=nl.chick-chirik.com#%40FREE2CONFIG%20-%20143%20clc-main
 vless://04920673-035c-410d-94e4-5b1469d3fb6f@185.200.199.122:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls#%40FREE2CONFIG%20-%20144%20clc-main
